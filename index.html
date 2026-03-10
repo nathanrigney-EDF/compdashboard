@@ -360,6 +360,8 @@
     .pill.on-geoint  { background: var(--geoint-bg); border-color: var(--geoint-bd); color: var(--geoint); }
     .pill.on-new     { background: var(--new-bg); border-color: var(--new-bd); color: var(--new); }
     .pill.on-contract{ background: var(--contract-bg); border-color: var(--contract-bd); color: var(--contract); }
+    .pill.on-press_release { background: var(--pr-bg); border-color: var(--pr-bd); color: var(--pr); }
+    .pill.on-news     { background: #f1f5f9; border-color: #e2e8f0; color: #475569; }
 
     /* ── Feed header ── */
     .feed-header {
@@ -495,6 +497,42 @@
       100% { background-position: -200% 0; }
     }
 
+    /* ── Company website link ── */
+    .company-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 20px;
+      height: 20px;
+      border-radius: 4px;
+      color: var(--text-4);
+      flex-shrink: 0;
+      transition: color 0.15s, background 0.15s;
+      text-decoration: none;
+    }
+
+    .company-link:hover {
+      color: var(--text-2);
+      background: var(--border);
+    }
+
+    .company-link svg {
+      width: 12px;
+      height: 12px;
+    }
+
+    .card-company-link {
+      color: var(--text-3);
+      text-decoration: none;
+      font-weight: 400;
+      transition: color 0.15s;
+    }
+
+    .card-company-link:hover {
+      color: var(--osint);
+      text-decoration: underline;
+    }
+
     /* ── Scrollbar ── */
     .main::-webkit-scrollbar { width: 4px; }
 
@@ -612,6 +650,8 @@
       <button class="pill" onclick="setFilter('geoint', this)">GEOINT</button>
       <button class="pill" onclick="setFilter('new', this)">New (24h)</button>
       <button class="pill" onclick="setFilter('contract', this)">Contracts</button>
+      <button class="pill" onclick="setFilter('press_release', this)">Press Releases</button>
+      <button class="pill" onclick="setFilter('news', this)">News</button>
     </div>
 
     <!-- Feed header -->
@@ -710,6 +750,7 @@ function buildSidebar() {
       row.dataset.cat = cat;
       row.innerHTML = `
         <span class="company-row-name">${esc(c.name)}</span>
+        ${c.website ? `<a class="company-link" href="${esc(c.website)}" target="_blank" rel="noopener" title="Visit ${esc(c.name)}" onclick="event.stopPropagation()"><svg viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5 2H2a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1V7M7.5 1H11m0 0v3.5M11 1 5.5 6.5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></a>` : ''}
         <span class="company-row-count ${fresh ? 'fresh' : ''}" id="count-${c.id}">${count}</span>`;
       row.onclick = () => selectCompany(c.id, row);
       section.appendChild(row);
@@ -755,7 +796,7 @@ function setView(v, btn) {
 }
 
 function filterLabel() {
-  return {all:'All Companies',osint:'OSINT Platforms',satellite:'Satellite Imagery',geoint:'GEOINT',new:'New (24h)',contract:'Contract Awards'}[activeFilter] || 'All';
+  return {all:'All Companies',osint:'OSINT Platforms',satellite:'Satellite Imagery',geoint:'GEOINT',new:'New (24h)',contract:'Contract Awards',press_release:'Press Releases',news:'News Articles'}[activeFilter] || 'All';
 }
 
 function getFiltered() {
@@ -768,6 +809,8 @@ function getFiltered() {
     else if (activeFilter === 'geoint') list = list.filter(a => a.category === 'geoint');
     else if (activeFilter === 'new') list = list.filter(isNew);
     else if (activeFilter === 'contract') list = list.filter(a => a.source === 'contract');
+    else if (activeFilter === 'press_release') list = list.filter(a => a.source === 'press_release');
+    else if (activeFilter === 'news') list = list.filter(a => a.source === 'news');
   }
   if (search) {
     list = list.filter(a =>
@@ -810,11 +853,17 @@ function cardHtml(a, i) {
   const catClass  = {osint:'tag-osint',satellite:'tag-satellite',geoint:'tag-geoint'}[a.category] || 'tag-news';
   const catLabel  = {osint:'OSINT',satellite:'Satellite',geoint:'GEOINT'}[a.category] || '';
 
+  // Look up the company's website from companies data
+  const company = companies.find(c => c.id === a.companyId);
+  const companyNameHtml = company && company.website
+    ? `<a class="card-company-link" href="${esc(company.website)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(a.companyName||'')}</a>`
+    : `<span style="color:var(--text-3)">${esc(a.companyName||'')}</span>`;
+
   return `<a class="card ${fresh ? 'is-new' : ''}" href="${esc(a.url||'#')}" target="_blank" rel="noopener" style="animation-delay:${delay}s">
     <div class="card-meta">
       <span class="tag ${srcClass}">${srcLabel}</span>
       <span class="tag ${catClass}">${catLabel}</span>
-      <span class="tag tag-news" style="background:none;border:none;padding:0;color:var(--text-3);font-weight:400">${esc(a.companyName||'')}</span>
+      <span class="tag tag-news" style="background:none;border:none;padding:0;font-weight:400">${companyNameHtml}</span>
       ${fresh ? '<span class="tag tag-new">New</span>' : ''}
       <span class="card-date">${dateStr}</span>
     </div>
