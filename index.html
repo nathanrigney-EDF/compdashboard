@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Orbital Intel — Competitor Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ── Variables ── */
+    :root {
+      --bg:        #080c14;
+      --surface:   #0e1420;
+      --surface2:  #131929;
+      --border:    #1e2d44;
+      --border2:   #243352;
+      --text:      #c8d8f0;
+      --text-muted:#5a7090;
+      --text-dim:  #3a5070;
+      --accent-sat:#00e5ff;   /* satellite — cyan */
+      --accent-os: #ff6b35;   /* osint — orange */
+      --accent-contract: #a8ff3e; /* contract award — green */
+      --accent-pr: #c084fc;   /* press release — purple */
+      --red:       #ff4040;
+      --yellow:    #ffd060;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Scanlines texture overlay ── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0,0,0,0.08) 2px,
+        rgba(0,0,0,0.08) 4px
+      );
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    /* ── Grid bg ── */
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(0,229,255,0.02) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,229,255,0.02) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── Layout ── */
+    .shell {
+      position: relative;
+      z-index: 1;
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 0 24px 60px;
+    }
+
+    /* ── Topbar ── */
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 0 18px;
+      border-bottom: 1px solid var(--border);
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .topbar-left {
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+    }
+
+    .logo {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 20px;
+      letter-spacing: -0.5px;
+      color: #fff;
+    }
+
+    .logo span {
+      color: var(--accent-sat);
+    }
+
+    .tagline {
+      font-size: 10px;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+    }
+
+    .topbar-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .status-pill {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 10px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--text-muted);
+    }
+
+    .status-dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--accent-contract);
+      box-shadow: 0 0 6px var(--accent-contract);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    .last-updated {
+      font-size: 10px;
+      color: var(--text-dim);
+      letter-spacing: 0.5px;
+    }
+
+    /* ── Stats row ── */
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin: 20px 0;
+    }
+
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 14px 18px;
+      position: relative;
+      overflow: hidden;
+      animation: fadeUp 0.4s ease both;
+    }
+
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+    }
+
+    .stat-card.total::before   { background: var(--accent-sat); }
+    .stat-card.osint::before   { background: var(--accent-os); }
+    .stat-card.sat::before     { background: var(--accent-sat); }
+    .stat-card.new::before     { background: var(--accent-contract); }
+
+    .stat-label {
+      font-size: 9px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 6px;
+    }
+
+    .stat-value {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-sub {
+      font-size: 10px;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+
+    /* ── Controls ── */
+    .controls {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 18px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 200px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 8px 14px;
+      color: var(--text);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-box::placeholder { color: var(--text-dim); }
+    .search-box:focus { border-color: var(--accent-sat); }
+
+    .filter-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 8px 14px;
+      color: var(--text-muted);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .filter-btn:hover { border-color: var(--border2); color: var(--text); }
+
+    .filter-btn.active-all   { background: #1a2a3a; border-color: var(--accent-sat); color: var(--accent-sat); }
+    .filter-btn.active-osint { background: #2a1a0a; border-color: var(--accent-os);  color: var(--accent-os); }
+    .filter-btn.active-sat   { background: #0a1e28; border-color: var(--accent-sat); color: var(--accent-sat); }
+    .filter-btn.active-new   { background: #162008; border-color: var(--accent-contract); color: var(--accent-contract); }
+
+    /* ── Main grid ── */
+    .main-grid {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 16px;
+      align-items: start;
+    }
+
+    /* ── Company list ── */
+    .company-list-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+      position: sticky;
+      top: 20px;
+    }
+
+    .panel-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+      font-size: 9px;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .cat-section-label {
+      padding: 8px 16px 4px;
+      font-size: 8px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      border-top: 1px solid var(--border);
+    }
+
+    .cat-section-label:first-of-type { border-top: none; }
+
+    .company-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 16px;
+      cursor: pointer;
+      transition: background 0.1s;
+      border-left: 2px solid transparent;
+    }
+
+    .company-item:hover { background: var(--surface2); }
+
+    .company-item.active {
+      background: var(--surface2);
+      border-left-color: var(--accent-sat);
+    }
+
+    .company-item.active.osint { border-left-color: var(--accent-os); }
+
+    .company-dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .company-dot.osint  { background: var(--accent-os); }
+    .company-dot.satellite { background: var(--accent-sat); }
+
+    .company-name {
+      font-size: 11px;
+      color: var(--text);
+      flex: 1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .company-count {
+      font-size: 9px;
+      color: var(--text-dim);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1px 6px;
+      min-width: 22px;
+      text-align: center;
+    }
+
+    .company-count.has-new {
+      background: #162008;
+      border-color: var(--accent-contract);
+      color: var(--accent-contract);
+    }
+
+    /* ── Feed panel ── */
+    .feed-panel {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .feed-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .feed-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      color: #fff;
+    }
+
+    .feed-meta {
+      font-size: 10px;
+      color: var(--text-dim);
+      letter-spacing: 0.5px;
+    }
+
+    /* ── Article card ── */
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 14px 18px;
+      transition: border-color 0.15s, transform 0.15s;
+      animation: fadeUp 0.3s ease both;
+      cursor: pointer;
+      text-decoration: none;
+      display: block;
+      color: inherit;
+    }
+
+    .article-card:hover {
+      border-color: var(--border2);
+      transform: translateY(-1px);
+    }
+
+    .article-card.is-new {
+      border-left: 3px solid var(--accent-contract);
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+    }
+
+    .source-badge {
+      font-size: 8px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-weight: 500;
+    }
+
+    .source-badge.news          { background: #0d1e30; color: #5a9fcc; border: 1px solid #1a3a55; }
+    .source-badge.press_release { background: #1e0d2e; color: var(--accent-pr); border: 1px solid #3a1a55; }
+    .source-badge.contract      { background: #0d200a; color: var(--accent-contract); border: 1px solid #1e4010; }
+
+    .new-badge {
+      font-size: 8px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 3px;
+      background: #162008;
+      color: var(--accent-contract);
+      border: 1px solid var(--accent-contract);
+      animation: blink 1.5s step-end 3;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    .company-tag {
+      font-size: 9px;
+      letter-spacing: 1px;
+      color: var(--text-dim);
+    }
+
+    .company-tag.osint { color: var(--accent-os); }
+    .company-tag.satellite { color: var(--accent-sat); }
+
+    .article-date {
+      font-size: 9px;
+      color: var(--text-dim);
+      margin-left: auto;
+    }
+
+    .article-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      color: #e8f0ff;
+      line-height: 1.4;
+      margin-bottom: 4px;
+    }
+
+    .article-desc {
+      font-size: 11px;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    /* ── Empty state ── */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-dim);
+    }
+
+    .empty-state .icon { font-size: 40px; margin-bottom: 12px; }
+    .empty-state p { font-size: 12px; letter-spacing: 1px; }
+
+    /* ── Loading skeleton ── */
+    .skeleton {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 14px 18px;
+    }
+
+    .skel-line {
+      background: linear-gradient(90deg, var(--surface2) 25%, var(--border) 50%, var(--surface2) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+      border-radius: 3px;
+      margin-bottom: 8px;
+    }
+
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    /* ── Digest panel ── */
+    .digest-banner {
+      background: linear-gradient(135deg, #0a2010 0%, #081810 100%);
+      border: 1px solid var(--accent-contract);
+      border-radius: 6px;
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 4px;
+      animation: fadeUp 0.5s ease both;
+    }
+
+    .digest-icon { font-size: 24px; }
+
+    .digest-text { flex: 1; }
+
+    .digest-text strong {
+      display: block;
+      font-family: 'Syne', sans-serif;
+      font-size: 14px;
+      color: var(--accent-contract);
+      margin-bottom: 2px;
+    }
+
+    .digest-text span { font-size: 11px; color: var(--text-muted); }
+
+    /* ── Ticker ── */
+    .ticker-wrap {
+      overflow: hidden;
+      border-bottom: 1px solid var(--border);
+      border-top: 1px solid var(--border);
+      background: var(--surface);
+      height: 32px;
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .ticker-label {
+      flex-shrink: 0;
+      font-size: 8px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--accent-sat);
+      background: var(--surface);
+      padding: 0 16px 0 12px;
+      border-right: 1px solid var(--border);
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+
+    .ticker-track {
+      display: flex;
+      align-items: center;
+      white-space: nowrap;
+      animation: ticker 40s linear infinite;
+      gap: 0;
+    }
+
+    @keyframes ticker {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+
+    .ticker-item {
+      font-size: 10px;
+      color: var(--text-muted);
+      padding: 0 28px;
+      border-right: 1px solid var(--border);
+    }
+
+    .ticker-item .name { color: var(--text); }
+
+    /* ── Animations ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 900px) {
+      .main-grid { grid-template-columns: 1fr; }
+      .company-list-panel { position: static; }
+      .stats-row { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 500px) {
+      .stats-row { grid-template-columns: 1fr 1fr; }
+      .topbar { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+
+<body>
+<div class="shell">
+
+  <!-- Topbar -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <div class="logo">ORBITAL<span>INTEL</span></div>
+      <div class="tagline">Competitor Intelligence Dashboard</div>
+    </div>
+    <div class="topbar-right">
+      <div class="status-pill">
+        <div class="status-dot"></div>
+        Live
+      </div>
+      <div class="last-updated" id="lastUpdated">Loading...</div>
+    </div>
+  </header>
+
+  <!-- Ticker -->
+  <div class="ticker-wrap">
+    <div class="ticker-label">TRACKING</div>
+    <div style="overflow:hidden;flex:1;">
+      <div class="ticker-track" id="tickerTrack">
+        <!-- populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats-row">
+    <div class="stat-card total" style="animation-delay:0.05s">
+      <div class="stat-label">Total Articles</div>
+      <div class="stat-value" id="statTotal">—</div>
+      <div class="stat-sub">in archive</div>
+    </div>
+    <div class="stat-card osint" style="animation-delay:0.1s">
+      <div class="stat-label">OSINT Competitors</div>
+      <div class="stat-value" id="statOsint">12</div>
+      <div class="stat-sub">platforms tracked</div>
+    </div>
+    <div class="stat-card sat" style="animation-delay:0.15s">
+      <div class="stat-label">Sat Imagery Cos</div>
+      <div class="stat-value" id="statSat">13</div>
+      <div class="stat-sub">providers tracked</div>
+    </div>
+    <div class="stat-card new" style="animation-delay:0.2s">
+      <div class="stat-label">New (24h)</div>
+      <div class="stat-value" id="statNew">—</div>
+      <div class="stat-sub">since yesterday</div>
+    </div>
+  </div>
+
+  <!-- Digest banner (shown if new articles exist) -->
+  <div class="digest-banner" id="digestBanner" style="display:none;">
+    <div class="digest-icon">📡</div>
+    <div class="digest-text">
+      <strong id="digestTitle">Morning Brief Ready</strong>
+      <span id="digestSub">Loading digest...</span>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <div class="controls">
+    <input class="search-box" type="text" id="searchInput" placeholder="Search articles, companies, sources..." />
+    <button class="filter-btn active-all" data-filter="all" onclick="setFilter('all', this)">All</button>
+    <button class="filter-btn" data-filter="osint" onclick="setFilter('osint', this)">OSINT</button>
+    <button class="filter-btn" data-filter="satellite" onclick="setFilter('satellite', this)">Satellite</button>
+    <button class="filter-btn" data-filter="new" onclick="setFilter('new', this)">New (24h)</button>
+    <button class="filter-btn" data-filter="contract" onclick="setFilter('contract', this)">Contracts</button>
+  </div>
+
+  <!-- Main grid -->
+  <div class="main-grid">
+
+    <!-- Company sidebar -->
+    <aside class="company-list-panel">
+      <div class="panel-header">
+        <span>Companies</span>
+        <span id="companyCount">25</span>
+      </div>
+      <div id="companyList">
+        <!-- populated by JS -->
+      </div>
+    </aside>
+
+    <!-- Feed -->
+    <main class="feed-panel">
+      <div class="feed-header">
+        <div class="feed-title" id="feedTitle">All Competitors</div>
+        <div class="feed-meta" id="feedMeta">Loading...</div>
+      </div>
+      <div id="articleFeed">
+        <!-- Skeletons while loading -->
+        <div class="skeleton">
+          <div class="skel-line" style="height:10px;width:30%;margin-bottom:10px;"></div>
+          <div class="skel-line" style="height:16px;width:80%;"></div>
+          <div class="skel-line" style="height:10px;width:60%;"></div>
+        </div>
+        <div class="skeleton">
+          <div class="skel-line" style="height:10px;width:25%;margin-bottom:10px;"></div>
+          <div class="skel-line" style="height:16px;width:75%;"></div>
+          <div class="skel-line" style="height:10px;width:55%;"></div>
+        </div>
+        <div class="skeleton">
+          <div class="skel-line" style="height:10px;width:35%;margin-bottom:10px;"></div>
+          <div class="skel-line" style="height:16px;width:85%;"></div>
+          <div class="skel-line" style="height:10px;width:65%;"></div>
+        </div>
+      </div>
+    </main>
+
+  </div>
+</div>
+
+<script>
+// ── State ────────────────────────────────────────────────────────────────────
+let companies = [];
+let allArticles = [];
+let digestArticles = [];
+let activeFilter = 'all';
+let activeCompany = null;
+let searchTerm = '';
+
+// ── Load data ────────────────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const [companiesRes, newsRes, digestRes] = await Promise.all([
+      fetch('data/companies.json').then(r => r.json()),
+      fetch('data/news.json').then(r => r.json()).catch(() => ({ articles: [], lastUpdated: null })),
+      fetch('data/digest.json').then(r => r.json()).catch(() => ({ articles: [], count: 0 })),
+    ]);
+
+    companies = companiesRes;
+    allArticles = newsRes.articles || [];
+    digestArticles = digestRes.articles || [];
+
+    updateUI(newsRes.lastUpdated, digestRes);
+  } catch (e) {
+    console.error('Failed to load data:', e);
+    showError();
+  }
+}
+
+function updateUI(lastUpdated, digest) {
+  // Last updated
+  if (lastUpdated) {
+    const dt = new Date(lastUpdated);
+    document.getElementById('lastUpdated').textContent =
+      'Refreshed ' + dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) +
+      ' ' + dt.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }) + ' UTC';
+  } else {
+    document.getElementById('lastUpdated').textContent = 'No data yet — run workflow to fetch';
+  }
+
+  // Stats
+  document.getElementById('statTotal').textContent = allArticles.length || '0';
+  document.getElementById('statOsint').textContent = companies.filter(c => c.category === 'osint').length;
+  document.getElementById('statSat').textContent = companies.filter(c => c.category === 'satellite').length;
+
+  const newCount = countNewArticles();
+  document.getElementById('statNew').textContent = newCount;
+
+  // Digest banner
+  if (digest.count > 0) {
+    document.getElementById('digestBanner').style.display = 'flex';
+    document.getElementById('digestTitle').textContent =
+      `Morning Brief: ${digest.count} new item${digest.count !== 1 ? 's' : ''} since yesterday`;
+    const companies_in_digest = [...new Set(digestArticles.map(a => a.companyName))].slice(0, 4).join(', ');
+    document.getElementById('digestSub').textContent =
+      `Coverage: ${companies_in_digest}${digest.count > 4 ? ' and more' : ''}`;
+  }
+
+  // Ticker
+  buildTicker();
+
+  // Company list
+  renderCompanyList();
+
+  // Feed
+  renderFeed();
+}
+
+function countNewArticles() {
+  const cutoff = new Date(Date.now() - 28 * 60 * 60 * 1000);
+  return allArticles.filter(a => {
+    try { return new Date(a.publishedAt) >= cutoff; } catch { return false; }
+  }).length;
+}
+
+function isNew(article) {
+  try {
+    return new Date(article.publishedAt) >= new Date(Date.now() - 28 * 60 * 60 * 1000);
+  } catch { return false; }
+}
+
+// ── Ticker ───────────────────────────────────────────────────────────────────
+function buildTicker() {
+  const items = companies.map(c => {
+    const count = allArticles.filter(a => a.companyId === c.id).length;
+    return `<div class="ticker-item"><span class="name">${c.name}</span> · ${count} articles</div>`;
+  }).join('');
+  // Duplicate for seamless loop
+  document.getElementById('tickerTrack').innerHTML = items + items;
+}
+
+// ── Company list ─────────────────────────────────────────────────────────────
+function renderCompanyList() {
+  const osint = companies.filter(c => c.category === 'osint');
+  const sat = companies.filter(c => c.category === 'satellite');
+
+  let html = '';
+
+  html += `<div class="cat-section-label" style="border-top:none;color:var(--accent-os);">▸ OSINT / Intelligence</div>`;
+  osint.forEach(c => html += companyItemHtml(c));
+
+  html += `<div class="cat-section-label" style="color:var(--accent-sat);">▸ Satellite Imagery</div>`;
+  sat.forEach(c => html += companyItemHtml(c));
+
+  document.getElementById('companyList').innerHTML = html;
+}
+
+function companyItemHtml(c) {
+  const count = allArticles.filter(a => a.companyId === c.id).length;
+  const hasNew = allArticles.filter(a => a.companyId === c.id && isNew(a)).length > 0;
+  const isActive = activeCompany === c.id;
+
+  return `
+    <div class="company-item ${isActive ? 'active ' + c.category : ''}"
+         onclick="selectCompany('${c.id}')">
+      <div class="company-dot ${c.category}"></div>
+      <span class="company-name">${c.name}</span>
+      <span class="company-count ${hasNew ? 'has-new' : ''}">${count}</span>
+    </div>`;
+}
+
+function selectCompany(id) {
+  activeCompany = (activeCompany === id) ? null : id;
+  renderCompanyList();
+  renderFeed();
+
+  if (activeCompany) {
+    const c = companies.find(x => x.id === id);
+    document.getElementById('feedTitle').textContent = c ? c.name : 'All';
+  } else {
+    document.getElementById('feedTitle').textContent = filterLabel();
+  }
+}
+
+// ── Filter ───────────────────────────────────────────────────────────────────
+function setFilter(filter, btn) {
+  activeFilter = filter;
+  activeCompany = null;
+
+  document.querySelectorAll('.filter-btn').forEach(b => {
+    b.className = 'filter-btn';
+  });
+  btn.className = `filter-btn active-${filter}`;
+
+  document.getElementById('feedTitle').textContent = filterLabel();
+  renderCompanyList();
+  renderFeed();
+}
+
+function filterLabel() {
+  const labels = { all: 'All Competitors', osint: 'OSINT Platforms', satellite: 'Satellite Imagery', new: 'New (24h)', contract: 'Contract Awards' };
+  return labels[activeFilter] || 'All';
+}
+
+// ── Search ───────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('searchInput').addEventListener('input', e => {
+    searchTerm = e.target.value.toLowerCase();
+    renderFeed();
+  });
+  loadData();
+});
+
+// ── Feed ─────────────────────────────────────────────────────────────────────
+function renderFeed() {
+  let articles = [...allArticles];
+
+  // Company filter
+  if (activeCompany) {
+    articles = articles.filter(a => a.companyId === activeCompany);
+  } else {
+    // Category/type filter
+    if (activeFilter === 'osint') {
+      articles = articles.filter(a => a.category === 'osint');
+    } else if (activeFilter === 'satellite') {
+      articles = articles.filter(a => a.category === 'satellite');
+    } else if (activeFilter === 'new') {
+      articles = articles.filter(a => isNew(a));
+    } else if (activeFilter === 'contract') {
+      articles = articles.filter(a => a.source === 'contract');
+    }
+  }
+
+  // Search
+  if (searchTerm) {
+    articles = articles.filter(a =>
+      (a.title || '').toLowerCase().includes(searchTerm) ||
+      (a.description || '').toLowerCase().includes(searchTerm) ||
+      (a.companyName || '').toLowerCase().includes(searchTerm) ||
+      (a.sourceName || '').toLowerCase().includes(searchTerm)
+    );
+  }
+
+  const feed = document.getElementById('articleFeed');
+
+  document.getElementById('feedMeta').textContent =
+    `${articles.length} article${articles.length !== 1 ? 's' : ''}`;
+
+  if (articles.length === 0) {
+    feed.innerHTML = `
+      <div class="empty-state">
+        <div class="icon">📭</div>
+        <p>${allArticles.length === 0 ? 'No data yet. Run the GitHub Actions workflow to fetch news.' : 'No articles match your filter.'}</p>
+      </div>`;
+    return;
+  }
+
+  feed.innerHTML = articles.map((a, i) => articleCardHtml(a, i)).join('');
+}
+
+function articleCardHtml(a, index) {
+  const newFlag = isNew(a);
+  const delay = Math.min(index * 0.03, 0.5);
+
+  // Format date
+  let dateStr = '';
+  try {
+    const d = new Date(a.publishedAt);
+    const now = new Date();
+    const diffH = Math.round((now - d) / 3600000);
+    if (diffH < 1) dateStr = 'Just now';
+    else if (diffH < 24) dateStr = `${diffH}h ago`;
+    else dateStr = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  } catch { dateStr = ''; }
+
+  const sourceClass = a.source || 'news';
+  const sourceLabel = { news: 'News', press_release: 'Press Release', contract: 'Contract' }[sourceClass] || 'News';
+
+  return `
+    <a class="article-card ${newFlag ? 'is-new' : ''}" href="${escHtml(a.url || '#')}"
+       target="_blank" rel="noopener" style="animation-delay:${delay}s">
+      <div class="article-meta">
+        <span class="source-badge ${sourceClass}">${sourceLabel}</span>
+        ${newFlag ? '<span class="new-badge">New</span>' : ''}
+        <span class="company-tag ${a.category || ''}">${escHtml(a.companyName || '')}</span>
+        <span class="article-date">${dateStr}</span>
+      </div>
+      <div class="article-title">${escHtml(a.title || 'Untitled')}</div>
+      ${a.description ? `<div class="article-desc">${escHtml(a.description.substring(0, 180))}${a.description.length > 180 ? '…' : ''}</div>` : ''}
+    </a>`;
+}
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function showError() {
+  document.getElementById('articleFeed').innerHTML = `
+    <div class="empty-state">
+      <div class="icon">⚠️</div>
+      <p>Could not load data files. Make sure news.json exists in the data/ folder.</p>
+    </div>`;
+  document.getElementById('lastUpdated').textContent = 'Error loading data';
+}
+</script>
+</body>
+</html>
