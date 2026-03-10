@@ -7,7 +7,7 @@
     "description": "AI-powered data fusion & analytics platform (Gotham, AIP) — deep Pentagon and IC integration",
     "website": "https://www.palantir.com",
     "newsQuery": "Palantir Technologies defense government contract",
-    "govClients": ["DoD", "CIA", "DHS", "ICE", "US Army"],
+    "govClients": ["DoD", "CIA", "DHS", "US Army"],
     "founded": 2003,
     "hq": "Denver, CO"
   },
@@ -19,7 +19,7 @@
     "description": "Real-time multilingual OSINT & persistent monitoring across global public data sources",
     "website": "https://www.babelstreet.com",
     "newsQuery": "Babel Street intelligence government",
-    "govClients": ["DHS", "CBP", "DoD", "IC Community"],
+    "govClients": ["DHS", "CBP", "DoD"],
     "founded": 2009,
     "hq": "Reston, VA"
   },
@@ -115,7 +115,7 @@
     "description": "OSINT services & analysis — $239M DIA task order for intelligence analysis and operations",
     "website": "https://www.caci.com",
     "newsQuery": "CACI International intelligence OSINT contract defense",
-    "govClients": ["US Army Europe", "DIA", "DoD"],
+    "govClients": ["US Army", "DIA", "DoD"],
     "founded": 1962,
     "hq": "Reston, VA"
   },
@@ -144,13 +144,85 @@
     "hq": "McLean, VA"
   },
   {
-    "id": "maxar",
-    "name": "Maxar Intelligence",
+    "id": "seerist",
+    "name": "Seerist",
+    "ticker": null,
+    "category": "osint",
+    "description": "AI-powered threat intelligence and geopolitical risk forecasting platform for government and enterprise",
+    "website": "https://www.seerist.com",
+    "newsQuery": "Seerist threat intelligence government defense risk",
+    "govClients": ["DoD", "IC", "State Dept"],
+    "founded": 2019,
+    "hq": "Arlington, VA"
+  },
+  {
+    "id": "danti-ai",
+    "name": "Danti.AI",
+    "ticker": null,
+    "category": "osint",
+    "description": "Multi-source intelligence search platform unifying satellite, OSINT, and sensor data for analysts",
+    "website": "https://www.danti.ai",
+    "newsQuery": "Danti AI intelligence search government defense geospatial",
+    "govClients": ["DoD", "IC"],
+    "founded": 2022,
+    "hq": "Washington, DC"
+  },
+  {
+    "id": "lgnd-ai",
+    "name": "Lgnd.AI",
+    "ticker": null,
+    "category": "osint",
+    "description": "AI-driven identity and legend intelligence platform for defense and national security missions",
+    "website": "https://www.lgnd.ai",
+    "newsQuery": "Lgnd AI intelligence government defense identity",
+    "govClients": ["DoD", "IC"],
+    "founded": 2022,
+    "hq": "Washington, DC"
+  },
+  {
+    "id": "intelix",
+    "name": "Intelix",
+    "ticker": null,
+    "category": "osint",
+    "description": "Open-source intelligence aggregation and analytics platform focused on defense and security markets",
+    "website": "https://www.intelix.com",
+    "newsQuery": "Intelix intelligence OSINT government defense analytics",
+    "govClients": ["DoD", "IC"],
+    "founded": 2018,
+    "hq": "Washington, DC"
+  },
+  {
+    "id": "zignal",
+    "name": "Zignal Labs",
+    "ticker": null,
+    "category": "osint",
+    "description": "Real-time narrative intelligence platform — tracks information operations and influence campaigns",
+    "website": "https://zignallabs.com",
+    "newsQuery": "Zignal Labs narrative intelligence government defense disinformation",
+    "govClients": ["DoD", "DHS", "IC"],
+    "founded": 2012,
+    "hq": "San Francisco, CA"
+  },
+  {
+    "id": "prowave-ai",
+    "name": "ProWave AI",
+    "ticker": null,
+    "category": "osint",
+    "description": "AI-powered signals and pattern-of-life analytics for defense intelligence and threat detection",
+    "website": "https://www.prowave.ai",
+    "newsQuery": "ProWave AI intelligence government defense signals analytics",
+    "govClients": ["DoD", "IC"],
+    "founded": 2021,
+    "hq": "Washington, DC"
+  },
+  {
+    "id": "vantor",
+    "name": "Vantor (fmr. Maxar)",
     "ticker": null,
     "category": "satellite",
-    "description": "Very high-resolution optical imagery (30cm) — dominant NGA partner, WorldView constellation",
-    "website": "https://www.maxar.com",
-    "newsQuery": "Maxar Intelligence satellite imagery government NGA NRO contract",
+    "description": "Very high-resolution optical imagery (30cm) — dominant NGA partner, WorldView constellation. Rebranded from Maxar Intelligence.",
+    "website": "https://www.vantor.com",
+    "newsQuery": "Vantor Maxar satellite imagery government NGA NRO contract",
     "govClients": ["NGA", "NRO", "NASA", "DoD"],
     "founded": 1969,
     "hq": "Westminster, CO"
@@ -211,7 +283,7 @@
     "description": "Finnish-US SAR constellation — persistent monitoring capability, NRO and NATO contracts",
     "website": "https://www.iceye.com",
     "newsQuery": "ICEYE SAR satellite government defense NATO contract",
-    "govClients": ["NRO", "DoD", "NATO", "EMSA"],
+    "govClients": ["NRO", "DoD", "NATO"],
     "founded": 2014,
     "hq": "Espoo, Finland / Irvine, CA"
   },
@@ -298,5 +370,65 @@
     "govClients": ["IC", "DoD", "NGA"],
     "founded": 2013,
     "hq": "Palo Alto, CA"
+  },
+  {
+    "id": "aetosky",
+    "name": "Aetosky",
+    "ticker": null,
+    "category": "geoint",
+    "description": "AI-powered geospatial intelligence platform combining satellite imagery with OSINT for defense analytics",
+    "website": "https://www.aetosky.com",
+    "newsQuery": "Aetosky geospatial intelligence government defense satellite",
+    "govClients": ["DoD", "IC"],
+    "founded": 2020,
+    "hq": "Washington, DC"
+  },
+  {
+    "id": "esper",
+    "name": "Esper",
+    "ticker": null,
+    "category": "geoint",
+    "description": "Geospatial AI platform for rapid change detection and activity-based intelligence from EO data",
+    "website": "https://www.esper.ai",
+    "newsQuery": "Esper geospatial AI intelligence government defense imagery analytics",
+    "govClients": ["DoD", "NGA", "IC"],
+    "founded": 2019,
+    "hq": "San Francisco, CA"
+  },
+  {
+    "id": "wyvern",
+    "name": "Wyvern",
+    "ticker": null,
+    "category": "geoint",
+    "description": "High-resolution hyperspectral satellite imagery — advanced material and vegetation analysis for defense",
+    "website": "https://wyvern.space",
+    "newsQuery": "Wyvern hyperspectral satellite imagery government defense geoint",
+    "govClients": ["DoD", "NGA"],
+    "founded": 2018,
+    "hq": "Edmonton, Canada"
+  },
+  {
+    "id": "vantor-geoint",
+    "name": "Vantor",
+    "ticker": null,
+    "category": "geoint",
+    "description": "Geospatial intelligence analytics platform — next-generation GEOINT tooling built on the Maxar data foundation",
+    "website": "https://www.vantor.com",
+    "newsQuery": "Vantor geospatial intelligence analytics government defense NGA",
+    "govClients": ["NGA", "DoD", "IC"],
+    "founded": 2023,
+    "hq": "Westminster, CO"
+  },
+  {
+    "id": "google-geoint",
+    "name": "Google (Earth / Cloud)",
+    "ticker": "GOOGL",
+    "category": "geoint",
+    "description": "Google Earth Engine, Maps Platform, and Cloud geospatial APIs — foundational GEOINT infrastructure across IC and DoD",
+    "website": "https://cloud.google.com/geospatial",
+    "newsQuery": "Google Earth Engine geospatial government defense NGA DoD contract",
+    "govClients": ["NGA", "DoD", "Federal Agencies"],
+    "founded": 1998,
+    "hq": "Mountain View, CA"
   }
 ]
