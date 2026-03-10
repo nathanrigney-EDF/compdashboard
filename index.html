@@ -3,964 +3,831 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Orbital Intel — Competitor Dashboard</title>
+  <title>Competitor Intelligence Dashboard</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
 
   <style>
-    /* ── Variables ── */
     :root {
-      --bg:        #080c14;
-      --surface:   #0e1420;
-      --surface2:  #131929;
-      --border:    #1e2d44;
-      --border2:   #243352;
-      --text:      #c8d8f0;
-      --text-muted:#5a7090;
-      --text-dim:  #3a5070;
-      --accent-sat:#00e5ff;   /* satellite — cyan */
-      --accent-os: #ff6b35;   /* osint — orange */
-      --accent-contract: #a8ff3e; /* contract award — green */
-      --accent-pr: #c084fc;   /* press release — purple */
-      --red:       #ff4040;
-      --yellow:    #ffd060;
+      --bg:         #f7f8fa;
+      --bg2:        #ffffff;
+      --border:     #e4e7ec;
+      --border2:    #d0d5dd;
+      --text:       #101828;
+      --text-2:     #344054;
+      --text-3:     #667085;
+      --text-4:     #98a2b3;
+
+      --osint:      #2563eb;
+      --osint-bg:   #eff6ff;
+      --osint-bd:   #bfdbfe;
+
+      --sat:        #0891b2;
+      --sat-bg:     #ecfeff;
+      --sat-bd:     #a5f3fc;
+
+      --geoint:     #7c3aed;
+      --geoint-bg:  #f5f3ff;
+      --geoint-bd:  #ddd6fe;
+
+      --new:        #059669;
+      --new-bg:     #ecfdf5;
+      --new-bd:     #a7f3d0;
+
+      --contract:   #d97706;
+      --contract-bg:#fffbeb;
+      --contract-bd:#fde68a;
+
+      --pr:         #db2777;
+      --pr-bg:      #fdf2f8;
+      --pr-bd:      #fbcfe8;
+
+      --shadow-sm:  0 1px 2px rgba(16,24,40,0.05);
+      --shadow:     0 1px 3px rgba(16,24,40,0.1), 0 1px 2px rgba(16,24,40,0.06);
+      --shadow-md:  0 4px 8px -2px rgba(16,24,40,0.1), 0 2px 4px -2px rgba(16,24,40,0.06);
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-    html { scroll-behavior: smooth; }
-
     body {
       background: var(--bg);
       color: var(--text);
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 13px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 14px;
       line-height: 1.6;
-      min-height: 100vh;
-      overflow-x: hidden;
     }
 
-    /* ── Scanlines texture overlay ── */
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background: repeating-linear-gradient(
-        0deg,
-        transparent,
-        transparent 2px,
-        rgba(0,0,0,0.08) 2px,
-        rgba(0,0,0,0.08) 4px
-      );
-      pointer-events: none;
-      z-index: 9999;
-    }
-
-    /* ── Grid bg ── */
-    body::after {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background-image:
-        linear-gradient(rgba(0,229,255,0.02) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0,229,255,0.02) 1px, transparent 1px);
-      background-size: 40px 40px;
-      pointer-events: none;
-      z-index: 0;
-    }
-
-    /* ── Layout ── */
-    .shell {
-      position: relative;
-      z-index: 1;
-      max-width: 1440px;
-      margin: 0 auto;
-      padding: 0 24px 60px;
-    }
-
-    /* ── Topbar ── */
-    .topbar {
+    /* ── Top nav ── */
+    .nav {
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      padding: 0 32px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 20px 0 18px;
-      border-bottom: 1px solid var(--border);
-      gap: 16px;
-      flex-wrap: wrap;
+      height: 56px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow-sm);
     }
 
-    .topbar-left {
+    .nav-left {
       display: flex;
-      align-items: baseline;
-      gap: 14px;
+      align-items: center;
+      gap: 32px;
     }
 
     .logo {
-      font-family: 'Syne', sans-serif;
-      font-weight: 800;
-      font-size: 20px;
-      letter-spacing: -0.5px;
-      color: #fff;
-    }
-
-    .logo span {
-      color: var(--accent-sat);
-    }
-
-    .tagline {
-      font-size: 10px;
-      letter-spacing: 2.5px;
-      text-transform: uppercase;
-      color: var(--text-dim);
-    }
-
-    .topbar-right {
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 600;
+      font-size: 15px;
+      color: var(--text);
+      letter-spacing: -0.3px;
       display: flex;
       align-items: center;
-      gap: 20px;
+      gap: 8px;
     }
 
-    .status-pill {
+    .logo-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--osint);
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 4px;
+    }
+
+    .nav-tab {
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-3);
+      cursor: pointer;
+      border: none;
+      background: none;
+      transition: all 0.15s;
+    }
+
+    .nav-tab:hover { background: var(--bg); color: var(--text-2); }
+    .nav-tab.active { background: var(--bg); color: var(--text); }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .refresh-badge {
       display: flex;
       align-items: center;
       gap: 6px;
-      font-size: 10px;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      color: var(--text-muted);
+      font-size: 12px;
+      color: var(--text-3);
     }
 
-    .status-dot {
+    .live-dot {
       width: 6px; height: 6px;
       border-radius: 50%;
-      background: var(--accent-contract);
-      box-shadow: 0 0 6px var(--accent-contract);
-      animation: pulse 2s infinite;
+      background: var(--new);
+      animation: pulse 2.5s ease-in-out infinite;
     }
 
     @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.4; }
+      0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(5,150,105,0.4); }
+      50% { opacity: 0.7; box-shadow: 0 0 0 4px rgba(5,150,105,0); }
     }
 
-    .last-updated {
-      font-size: 10px;
-      color: var(--text-dim);
-      letter-spacing: 0.5px;
-    }
-
-    /* ── Stats row ── */
-    .stats-row {
+    /* ── Layout ── */
+    .layout {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 12px;
-      margin: 20px 0;
+      grid-template-columns: 256px 1fr;
+      max-width: 1440px;
+      margin: 0 auto;
+      min-height: calc(100vh - 56px);
     }
 
-    .stat-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 14px 18px;
-      position: relative;
-      overflow: hidden;
-      animation: fadeUp 0.4s ease both;
-    }
-
-    .stat-card::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 2px;
-    }
-
-    .stat-card.total::before   { background: var(--accent-sat); }
-    .stat-card.osint::before   { background: var(--accent-os); }
-    .stat-card.sat::before     { background: var(--accent-sat); }
-    .stat-card.new::before     { background: var(--accent-contract); }
-
-    .stat-label {
-      font-size: 9px;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--text-dim);
-      margin-bottom: 6px;
-    }
-
-    .stat-value {
-      font-family: 'Syne', sans-serif;
-      font-weight: 800;
-      font-size: 32px;
-      color: #fff;
-      line-height: 1;
-    }
-
-    .stat-sub {
-      font-size: 10px;
-      color: var(--text-muted);
-      margin-top: 4px;
-    }
-
-    /* ── Controls ── */
-    .controls {
-      display: flex;
-      gap: 10px;
-      margin-bottom: 18px;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
-    .search-box {
-      flex: 1;
-      min-width: 200px;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      padding: 8px 14px;
-      color: var(--text);
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 12px;
-      outline: none;
-      transition: border-color 0.2s;
-    }
-
-    .search-box::placeholder { color: var(--text-dim); }
-    .search-box:focus { border-color: var(--accent-sat); }
-
-    .filter-btn {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      padding: 8px 14px;
-      color: var(--text-muted);
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 10px;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      cursor: pointer;
-      transition: all 0.15s;
-      white-space: nowrap;
-    }
-
-    .filter-btn:hover { border-color: var(--border2); color: var(--text); }
-
-    .filter-btn.active-all   { background: #1a2a3a; border-color: var(--accent-sat); color: var(--accent-sat); }
-    .filter-btn.active-osint { background: #2a1a0a; border-color: var(--accent-os);  color: var(--accent-os); }
-    .filter-btn.active-sat   { background: #0a1e28; border-color: var(--accent-sat); color: var(--accent-sat); }
-    .filter-btn.active-new   { background: #162008; border-color: var(--accent-contract); color: var(--accent-contract); }
-
-    /* ── Main grid ── */
-    .main-grid {
-      display: grid;
-      grid-template-columns: 280px 1fr;
-      gap: 16px;
-      align-items: start;
-    }
-
-    /* ── Company list ── */
-    .company-list-panel {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      overflow: hidden;
+    /* ── Sidebar ── */
+    .sidebar {
+      background: var(--bg2);
+      border-right: 1px solid var(--border);
+      padding: 20px 0;
       position: sticky;
-      top: 20px;
+      top: 56px;
+      height: calc(100vh - 56px);
+      overflow-y: auto;
     }
 
-    .panel-header {
-      padding: 12px 16px;
-      border-bottom: 1px solid var(--border);
-      font-size: 9px;
-      letter-spacing: 2.5px;
+    .sidebar::-webkit-scrollbar { width: 4px; }
+    .sidebar::-webkit-scrollbar-track { background: transparent; }
+    .sidebar::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 4px; }
+
+    .sidebar-section {
+      margin-bottom: 8px;
+    }
+
+    .sidebar-label {
+      padding: 6px 16px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
       text-transform: uppercase;
-      color: var(--text-dim);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .cat-section-label {
-      padding: 8px 16px 4px;
-      font-size: 8px;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--text-dim);
-      border-top: 1px solid var(--border);
-    }
-
-    .cat-section-label:first-of-type { border-top: none; }
-
-    .company-item {
+      color: var(--text-4);
       display: flex;
       align-items: center;
-      gap: 10px;
-      padding: 8px 16px;
-      cursor: pointer;
-      transition: background 0.1s;
-      border-left: 2px solid transparent;
+      gap: 8px;
     }
 
-    .company-item:hover { background: var(--surface2); }
-
-    .company-item.active {
-      background: var(--surface2);
-      border-left-color: var(--accent-sat);
-    }
-
-    .company-item.active.osint { border-left-color: var(--accent-os); }
-
-    .company-dot {
+    .sidebar-label-dot {
       width: 6px; height: 6px;
       border-radius: 50%;
       flex-shrink: 0;
     }
 
-    .company-dot.osint  { background: var(--accent-os); }
-    .company-dot.satellite { background: var(--accent-sat); }
+    .company-row {
+      display: flex;
+      align-items: center;
+      padding: 7px 16px;
+      cursor: pointer;
+      transition: background 0.1s;
+      gap: 10px;
+      border-radius: 0;
+    }
 
-    .company-name {
-      font-size: 11px;
-      color: var(--text);
+    .company-row:hover { background: var(--bg); }
+
+    .company-row.selected {
+      background: var(--bg);
+      position: relative;
+    }
+
+    .company-row.selected::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      border-radius: 0 2px 2px 0;
+    }
+
+    .company-row.selected.osint::before  { background: var(--osint); }
+    .company-row.selected.satellite::before { background: var(--sat); }
+    .company-row.selected.geoint::before { background: var(--geoint); }
+
+    .company-row-name {
       flex: 1;
+      font-size: 13px;
+      font-weight: 400;
+      color: var(--text-2);
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
 
-    .company-count {
-      font-size: 9px;
-      color: var(--text-dim);
+    .company-row.selected .company-row-name { color: var(--text); font-weight: 500; }
+
+    .company-row-count {
+      font-size: 11px;
+      color: var(--text-4);
       background: var(--bg);
       border: 1px solid var(--border);
       border-radius: 10px;
-      padding: 1px 6px;
-      min-width: 22px;
+      padding: 1px 7px;
+      min-width: 24px;
       text-align: center;
+      font-family: 'DM Mono', monospace;
     }
 
-    .company-count.has-new {
-      background: #162008;
-      border-color: var(--accent-contract);
-      color: var(--accent-contract);
+    .company-row-count.fresh {
+      background: var(--new-bg);
+      border-color: var(--new-bd);
+      color: var(--new);
     }
 
-    /* ── Feed panel ── */
-    .feed-panel {
+    /* ── Main content ── */
+    .main {
+      padding: 28px 32px;
+      max-width: 900px;
+    }
+
+    /* ── Stats ── */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+
+    .stat {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px 20px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: var(--text-3);
+      font-weight: 500;
+      margin-bottom: 6px;
+    }
+
+    .stat-value {
+      font-family: 'DM Mono', monospace;
+      font-size: 26px;
+      font-weight: 500;
+      color: var(--text);
+      line-height: 1;
+    }
+
+    .stat-sub {
+      font-size: 11px;
+      color: var(--text-4);
+      margin-top: 4px;
+    }
+
+    /* ── Digest banner ── */
+    .digest-bar {
+      background: var(--new-bg);
+      border: 1px solid var(--new-bd);
+      border-radius: 10px;
+      padding: 12px 18px;
       display: flex;
-      flex-direction: column;
-      gap: 10px;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      font-size: 13px;
     }
 
+    .digest-bar strong { color: var(--new); font-weight: 600; }
+    .digest-bar span { color: var(--text-3); }
+
+    /* ── Toolbar ── */
+    .toolbar {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 20px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .search {
+      flex: 1;
+      min-width: 200px;
+      height: 36px;
+      padding: 0 12px 0 36px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg2);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 13px;
+      color: var(--text);
+      outline: none;
+      box-shadow: var(--shadow-sm);
+      position: relative;
+      background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='7' cy='7' r='4.5' stroke='%2398a2b3' stroke-width='1.5'/%3E%3Cpath d='m10.5 10.5 2.5 2.5' stroke='%2398a2b3' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: 12px center;
+      transition: border-color 0.15s;
+    }
+
+    .search::placeholder { color: var(--text-4); }
+    .search:focus { border-color: var(--osint); }
+
+    .pill {
+      height: 36px;
+      padding: 0 14px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg2);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-3);
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .pill:hover { border-color: var(--border2); color: var(--text-2); }
+    .pill.on-all     { background: var(--text); border-color: var(--text); color: #fff; }
+    .pill.on-osint   { background: var(--osint-bg); border-color: var(--osint-bd); color: var(--osint); }
+    .pill.on-sat     { background: var(--sat-bg); border-color: var(--sat-bd); color: var(--sat); }
+    .pill.on-geoint  { background: var(--geoint-bg); border-color: var(--geoint-bd); color: var(--geoint); }
+    .pill.on-new     { background: var(--new-bg); border-color: var(--new-bd); color: var(--new); }
+    .pill.on-contract{ background: var(--contract-bg); border-color: var(--contract-bd); color: var(--contract); }
+
+    /* ── Feed header ── */
     .feed-header {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding-bottom: 10px;
-      border-bottom: 1px solid var(--border);
+      margin-bottom: 16px;
     }
 
     .feed-title {
-      font-family: 'Syne', sans-serif;
-      font-weight: 700;
       font-size: 16px;
-      color: #fff;
+      font-weight: 600;
+      color: var(--text);
     }
 
-    .feed-meta {
-      font-size: 10px;
-      color: var(--text-dim);
-      letter-spacing: 0.5px;
+    .feed-count {
+      font-size: 12px;
+      color: var(--text-3);
+      font-family: 'DM Mono', monospace;
     }
 
     /* ── Article card ── */
-    .article-card {
-      background: var(--surface);
+    .card {
+      background: var(--bg2);
       border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 14px 18px;
-      transition: border-color 0.15s, transform 0.15s;
-      animation: fadeUp 0.3s ease both;
-      cursor: pointer;
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-bottom: 10px;
+      box-shadow: var(--shadow-sm);
       text-decoration: none;
       display: block;
       color: inherit;
+      transition: box-shadow 0.15s, border-color 0.15s;
+      animation: slideIn 0.25s ease both;
     }
 
-    .article-card:hover {
+    .card:hover {
+      box-shadow: var(--shadow-md);
       border-color: var(--border2);
-      transform: translateY(-1px);
     }
 
-    .article-card.is-new {
-      border-left: 3px solid var(--accent-contract);
+    .card.is-new {
+      border-left: 3px solid var(--new);
     }
 
-    .article-meta {
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card-meta {
       display: flex;
       align-items: center;
       gap: 8px;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
       flex-wrap: wrap;
     }
 
-    .source-badge {
-      font-size: 8px;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      padding: 2px 6px;
-      border-radius: 3px;
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      font-size: 11px;
       font-weight: 500;
+      padding: 2px 8px;
+      border-radius: 4px;
+      border: 1px solid transparent;
     }
 
-    .source-badge.news          { background: #0d1e30; color: #5a9fcc; border: 1px solid #1a3a55; }
-    .source-badge.press_release { background: #1e0d2e; color: var(--accent-pr); border: 1px solid #3a1a55; }
-    .source-badge.contract      { background: #0d200a; color: var(--accent-contract); border: 1px solid #1e4010; }
+    .tag-news     { background: #f1f5f9; color: #475569; border-color: #e2e8f0; }
+    .tag-pr       { background: var(--pr-bg); color: var(--pr); border-color: var(--pr-bd); }
+    .tag-contract { background: var(--contract-bg); color: var(--contract); border-color: var(--contract-bd); }
+    .tag-new      { background: var(--new-bg); color: var(--new); border-color: var(--new-bd); }
 
-    .new-badge {
-      font-size: 8px;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      padding: 2px 6px;
-      border-radius: 3px;
-      background: #162008;
-      color: var(--accent-contract);
-      border: 1px solid var(--accent-contract);
-      animation: blink 1.5s step-end 3;
-    }
+    .tag-osint    { background: var(--osint-bg); color: var(--osint); border-color: var(--osint-bd); }
+    .tag-satellite{ background: var(--sat-bg); color: var(--sat); border-color: var(--sat-bd); }
+    .tag-geoint   { background: var(--geoint-bg); color: var(--geoint); border-color: var(--geoint-bd); }
 
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.4; }
-    }
-
-    .company-tag {
-      font-size: 9px;
-      letter-spacing: 1px;
-      color: var(--text-dim);
-    }
-
-    .company-tag.osint { color: var(--accent-os); }
-    .company-tag.satellite { color: var(--accent-sat); }
-
-    .article-date {
-      font-size: 9px;
-      color: var(--text-dim);
+    .card-date {
       margin-left: auto;
+      font-size: 11px;
+      color: var(--text-4);
+      font-family: 'DM Mono', monospace;
     }
 
-    .article-title {
-      font-family: 'Syne', sans-serif;
-      font-weight: 600;
+    .card-title {
       font-size: 14px;
-      color: #e8f0ff;
-      line-height: 1.4;
+      font-weight: 500;
+      color: var(--text);
+      line-height: 1.45;
       margin-bottom: 4px;
     }
 
-    .article-desc {
-      font-size: 11px;
-      color: var(--text-muted);
+    .card-desc {
+      font-size: 13px;
+      color: var(--text-3);
       line-height: 1.5;
     }
 
     /* ── Empty state ── */
-    .empty-state {
+    .empty {
       text-align: center;
-      padding: 60px 20px;
-      color: var(--text-dim);
+      padding: 64px 24px;
+      color: var(--text-3);
     }
 
-    .empty-state .icon { font-size: 40px; margin-bottom: 12px; }
-    .empty-state p { font-size: 12px; letter-spacing: 1px; }
+    .empty-icon {
+      font-size: 36px;
+      margin-bottom: 12px;
+      opacity: 0.5;
+    }
 
-    /* ── Loading skeleton ── */
-    .skeleton {
-      background: var(--surface);
+    .empty p { font-size: 14px; }
+
+    /* ── Skeleton ── */
+    .skel {
+      background: var(--bg2);
       border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 14px 18px;
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-bottom: 10px;
     }
 
     .skel-line {
-      background: linear-gradient(90deg, var(--surface2) 25%, var(--border) 50%, var(--surface2) 75%);
+      background: linear-gradient(90deg, var(--bg) 25%, var(--border) 50%, var(--bg) 75%);
       background-size: 200% 100%;
-      animation: shimmer 1.5s infinite;
-      border-radius: 3px;
+      animation: shimmer 1.4s infinite;
+      border-radius: 4px;
       margin-bottom: 8px;
     }
 
     @keyframes shimmer {
-      0% { background-position: 200% 0; }
+      0%   { background-position: 200% 0; }
       100% { background-position: -200% 0; }
     }
 
-    /* ── Digest panel ── */
-    .digest-banner {
-      background: linear-gradient(135deg, #0a2010 0%, #081810 100%);
-      border: 1px solid var(--accent-contract);
-      border-radius: 6px;
-      padding: 14px 20px;
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      margin-bottom: 4px;
-      animation: fadeUp 0.5s ease both;
-    }
-
-    .digest-icon { font-size: 24px; }
-
-    .digest-text { flex: 1; }
-
-    .digest-text strong {
-      display: block;
-      font-family: 'Syne', sans-serif;
-      font-size: 14px;
-      color: var(--accent-contract);
-      margin-bottom: 2px;
-    }
-
-    .digest-text span { font-size: 11px; color: var(--text-muted); }
-
-    /* ── Ticker ── */
-    .ticker-wrap {
-      overflow: hidden;
-      border-bottom: 1px solid var(--border);
-      border-top: 1px solid var(--border);
-      background: var(--surface);
-      height: 32px;
-      display: flex;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-
-    .ticker-label {
-      flex-shrink: 0;
-      font-size: 8px;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: var(--accent-sat);
-      background: var(--surface);
-      padding: 0 16px 0 12px;
-      border-right: 1px solid var(--border);
-      height: 100%;
-      display: flex;
-      align-items: center;
-    }
-
-    .ticker-track {
-      display: flex;
-      align-items: center;
-      white-space: nowrap;
-      animation: ticker 40s linear infinite;
-      gap: 0;
-    }
-
-    @keyframes ticker {
-      0%   { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
-    }
-
-    .ticker-item {
-      font-size: 10px;
-      color: var(--text-muted);
-      padding: 0 28px;
-      border-right: 1px solid var(--border);
-    }
-
-    .ticker-item .name { color: var(--text); }
-
-    /* ── Animations ── */
-    @keyframes fadeUp {
-      from { opacity: 0; transform: translateY(8px); }
-      to   { opacity: 1; transform: translateY(0); }
-    }
+    /* ── Scrollbar ── */
+    .main::-webkit-scrollbar { width: 4px; }
 
     /* ── Responsive ── */
-    @media (max-width: 900px) {
-      .main-grid { grid-template-columns: 1fr; }
-      .company-list-panel { position: static; }
-      .stats-row { grid-template-columns: repeat(2, 1fr); }
-    }
-
-    @media (max-width: 500px) {
-      .stats-row { grid-template-columns: 1fr 1fr; }
-      .topbar { flex-direction: column; align-items: flex-start; }
+    @media (max-width: 860px) {
+      .layout { grid-template-columns: 1fr; }
+      .sidebar { position: static; height: auto; border-right: none; border-bottom: 1px solid var(--border); }
+      .stats { grid-template-columns: repeat(2, 1fr); }
+      .main { padding: 20px 16px; }
+      .nav { padding: 0 16px; }
     }
   </style>
 </head>
-
 <body>
-<div class="shell">
 
-  <!-- Topbar -->
-  <header class="topbar">
-    <div class="topbar-left">
-      <div class="logo">ORBITAL<span>INTEL</span></div>
-      <div class="tagline">Competitor Intelligence Dashboard</div>
+<!-- Nav -->
+<nav class="nav">
+  <div class="nav-left">
+    <div class="logo">
+      <div class="logo-dot"></div>
+      Competitor Intelligence
     </div>
-    <div class="topbar-right">
-      <div class="status-pill">
-        <div class="status-dot"></div>
-        Live
-      </div>
-      <div class="last-updated" id="lastUpdated">Loading...</div>
-    </div>
-  </header>
-
-  <!-- Ticker -->
-  <div class="ticker-wrap">
-    <div class="ticker-label">TRACKING</div>
-    <div style="overflow:hidden;flex:1;">
-      <div class="ticker-track" id="tickerTrack">
-        <!-- populated by JS -->
-      </div>
+    <div class="nav-tabs">
+      <button class="nav-tab active" onclick="setView('feed', this)">Feed</button>
+      <button class="nav-tab" onclick="setView('companies', this)">Companies</button>
     </div>
   </div>
-
-  <!-- Stats -->
-  <div class="stats-row">
-    <div class="stat-card total" style="animation-delay:0.05s">
-      <div class="stat-label">Total Articles</div>
-      <div class="stat-value" id="statTotal">—</div>
-      <div class="stat-sub">in archive</div>
-    </div>
-    <div class="stat-card osint" style="animation-delay:0.1s">
-      <div class="stat-label">OSINT Competitors</div>
-      <div class="stat-value" id="statOsint">12</div>
-      <div class="stat-sub">platforms tracked</div>
-    </div>
-    <div class="stat-card sat" style="animation-delay:0.15s">
-      <div class="stat-label">Sat Imagery Cos</div>
-      <div class="stat-value" id="statSat">13</div>
-      <div class="stat-sub">providers tracked</div>
-    </div>
-    <div class="stat-card new" style="animation-delay:0.2s">
-      <div class="stat-label">New (24h)</div>
-      <div class="stat-value" id="statNew">—</div>
-      <div class="stat-sub">since yesterday</div>
+  <div class="nav-right">
+    <div class="refresh-badge">
+      <div class="live-dot"></div>
+      <span id="lastUpdated">Loading…</span>
     </div>
   </div>
+</nav>
 
-  <!-- Digest banner (shown if new articles exist) -->
-  <div class="digest-banner" id="digestBanner" style="display:none;">
-    <div class="digest-icon">📡</div>
-    <div class="digest-text">
-      <strong id="digestTitle">Morning Brief Ready</strong>
-      <span id="digestSub">Loading digest...</span>
-    </div>
-  </div>
+<div class="layout">
 
-  <!-- Controls -->
-  <div class="controls">
-    <input class="search-box" type="text" id="searchInput" placeholder="Search articles, companies, sources..." />
-    <button class="filter-btn active-all" data-filter="all" onclick="setFilter('all', this)">All</button>
-    <button class="filter-btn" data-filter="osint" onclick="setFilter('osint', this)">OSINT</button>
-    <button class="filter-btn" data-filter="satellite" onclick="setFilter('satellite', this)">Satellite</button>
-    <button class="filter-btn" data-filter="new" onclick="setFilter('new', this)">New (24h)</button>
-    <button class="filter-btn" data-filter="contract" onclick="setFilter('contract', this)">Contracts</button>
-  </div>
-
-  <!-- Main grid -->
-  <div class="main-grid">
-
-    <!-- Company sidebar -->
-    <aside class="company-list-panel">
-      <div class="panel-header">
-        <span>Companies</span>
-        <span id="companyCount">25</span>
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-label">
+        <div class="sidebar-label-dot" style="background:var(--text-4)"></div>
+        All
       </div>
-      <div id="companyList">
-        <!-- populated by JS -->
+      <div class="company-row" data-id="__all" onclick="selectCompany('__all', this)">
+        <span class="company-row-name" style="font-weight:500;color:var(--text)">All Companies</span>
+        <span class="company-row-count" id="count-all">—</span>
       </div>
-    </aside>
+    </div>
+
+    <div class="sidebar-section" id="sidebar-osint">
+      <div class="sidebar-label">
+        <div class="sidebar-label-dot" style="background:var(--osint)"></div>
+        OSINT
+      </div>
+    </div>
+
+    <div class="sidebar-section" id="sidebar-satellite">
+      <div class="sidebar-label">
+        <div class="sidebar-label-dot" style="background:var(--sat)"></div>
+        Satellite Imagery
+      </div>
+    </div>
+
+    <div class="sidebar-section" id="sidebar-geoint">
+      <div class="sidebar-label">
+        <div class="sidebar-label-dot" style="background:var(--geoint)"></div>
+        GEOINT
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <main class="main">
+
+    <!-- Stats -->
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-label">Total Articles</div>
+        <div class="stat-value" id="s-total">—</div>
+        <div class="stat-sub">in archive</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">New (24h)</div>
+        <div class="stat-value" id="s-new" style="color:var(--new)">—</div>
+        <div class="stat-sub">since yesterday</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Companies</div>
+        <div class="stat-value" id="s-companies">—</div>
+        <div class="stat-sub">tracked</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Contracts</div>
+        <div class="stat-value" id="s-contracts" style="color:var(--contract)">—</div>
+        <div class="stat-sub">awards found</div>
+      </div>
+    </div>
+
+    <!-- Digest banner -->
+    <div id="digestBar" class="digest-bar" style="display:none">
+      <span>📬</span>
+      <div>
+        <strong id="digestTitle">Morning Brief</strong>
+        <span id="digestSub"></span>
+      </div>
+    </div>
+
+    <!-- Toolbar -->
+    <div class="toolbar">
+      <input class="search" type="text" id="searchInput" placeholder="Search articles, companies…" />
+      <button class="pill on-all" onclick="setFilter('all', this)">All</button>
+      <button class="pill" onclick="setFilter('osint', this)">OSINT</button>
+      <button class="pill" onclick="setFilter('satellite', this)">Satellite</button>
+      <button class="pill" onclick="setFilter('geoint', this)">GEOINT</button>
+      <button class="pill" onclick="setFilter('new', this)">New (24h)</button>
+      <button class="pill" onclick="setFilter('contract', this)">Contracts</button>
+    </div>
+
+    <!-- Feed header -->
+    <div class="feed-header">
+      <div class="feed-title" id="feedTitle">All Companies</div>
+      <div class="feed-count" id="feedCount"></div>
+    </div>
 
     <!-- Feed -->
-    <main class="feed-panel">
-      <div class="feed-header">
-        <div class="feed-title" id="feedTitle">All Competitors</div>
-        <div class="feed-meta" id="feedMeta">Loading...</div>
-      </div>
-      <div id="articleFeed">
-        <!-- Skeletons while loading -->
-        <div class="skeleton">
-          <div class="skel-line" style="height:10px;width:30%;margin-bottom:10px;"></div>
-          <div class="skel-line" style="height:16px;width:80%;"></div>
-          <div class="skel-line" style="height:10px;width:60%;"></div>
-        </div>
-        <div class="skeleton">
-          <div class="skel-line" style="height:10px;width:25%;margin-bottom:10px;"></div>
-          <div class="skel-line" style="height:16px;width:75%;"></div>
-          <div class="skel-line" style="height:10px;width:55%;"></div>
-        </div>
-        <div class="skeleton">
-          <div class="skel-line" style="height:10px;width:35%;margin-bottom:10px;"></div>
-          <div class="skel-line" style="height:16px;width:85%;"></div>
-          <div class="skel-line" style="height:10px;width:65%;"></div>
-        </div>
-      </div>
-    </main>
+    <div id="feed">
+      <div class="skel"><div class="skel-line" style="height:11px;width:28%;"></div><div class="skel-line" style="height:15px;width:75%;"></div><div class="skel-line" style="height:11px;width:55%;"></div></div>
+      <div class="skel"><div class="skel-line" style="height:11px;width:22%;"></div><div class="skel-line" style="height:15px;width:80%;"></div><div class="skel-line" style="height:11px;width:60%;"></div></div>
+      <div class="skel"><div class="skel-line" style="height:11px;width:32%;"></div><div class="skel-line" style="height:15px;width:70%;"></div><div class="skel-line" style="height:11px;width:50%;"></div></div>
+    </div>
 
-  </div>
+  </main>
 </div>
 
 <script>
-// ── State ────────────────────────────────────────────────────────────────────
 let companies = [];
-let allArticles = [];
+let articles = [];
 let digestArticles = [];
+let activeCompany = '__all';
 let activeFilter = 'all';
-let activeCompany = null;
-let searchTerm = '';
+let search = '';
+let activeView = 'feed';
 
-// ── Load data ────────────────────────────────────────────────────────────────
-async function loadData() {
-  try {
-    const [companiesRes, newsRes, digestRes] = await Promise.all([
-      fetch('data/companies.json').then(r => r.json()),
-      fetch('data/news.json').then(r => r.json()).catch(() => ({ articles: [], lastUpdated: null })),
-      fetch('data/digest.json').then(r => r.json()).catch(() => ({ articles: [], count: 0 })),
-    ]);
+const HOURS_NEW = 28;
 
-    companies = companiesRes;
-    allArticles = newsRes.articles || [];
-    digestArticles = digestRes.articles || [];
+async function init() {
+  const [cos, news, digest] = await Promise.all([
+    fetch('data/companies.json').then(r => r.json()).catch(() => []),
+    fetch('data/news.json').then(r => r.json()).catch(() => ({})),
+    fetch('data/digest.json').then(r => r.json()).catch(() => ({})),
+  ]);
 
-    updateUI(newsRes.lastUpdated, digestRes);
-  } catch (e) {
-    console.error('Failed to load data:', e);
-    showError();
-  }
-}
+  companies = cos;
+  articles = news.articles || [];
+  digestArticles = digest.articles || [];
 
-function updateUI(lastUpdated, digest) {
   // Last updated
-  if (lastUpdated) {
-    const dt = new Date(lastUpdated);
+  if (news.lastUpdated) {
+    const d = new Date(news.lastUpdated);
     document.getElementById('lastUpdated').textContent =
-      'Refreshed ' + dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) +
-      ' ' + dt.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' }) + ' UTC';
+      'Updated ' + d.toLocaleDateString('en-US',{month:'short',day:'numeric'}) +
+      ' · ' + d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
   } else {
-    document.getElementById('lastUpdated').textContent = 'No data yet — run workflow to fetch';
+    document.getElementById('lastUpdated').textContent = 'No data yet — run workflow';
   }
 
-  // Stats
-  document.getElementById('statTotal').textContent = allArticles.length || '0';
-  document.getElementById('statOsint').textContent = companies.filter(c => c.category === 'osint').length;
-  document.getElementById('statSat').textContent = companies.filter(c => c.category === 'satellite').length;
+  buildSidebar();
+  updateStats();
+  showDigestBanner(digest);
+  render();
 
-  const newCount = countNewArticles();
-  document.getElementById('statNew').textContent = newCount;
-
-  // Digest banner
-  if (digest.count > 0) {
-    document.getElementById('digestBanner').style.display = 'flex';
-    document.getElementById('digestTitle').textContent =
-      `Morning Brief: ${digest.count} new item${digest.count !== 1 ? 's' : ''} since yesterday`;
-    const companies_in_digest = [...new Set(digestArticles.map(a => a.companyName))].slice(0, 4).join(', ');
-    document.getElementById('digestSub').textContent =
-      `Coverage: ${companies_in_digest}${digest.count > 4 ? ' and more' : ''}`;
-  }
-
-  // Ticker
-  buildTicker();
-
-  // Company list
-  renderCompanyList();
-
-  // Feed
-  renderFeed();
+  document.getElementById('searchInput').addEventListener('input', e => {
+    search = e.target.value.toLowerCase();
+    render();
+  });
 }
 
-function countNewArticles() {
-  const cutoff = new Date(Date.now() - 28 * 60 * 60 * 1000);
-  return allArticles.filter(a => {
-    try { return new Date(a.publishedAt) >= cutoff; } catch { return false; }
-  }).length;
-}
-
-function isNew(article) {
+function isNew(a) {
   try {
-    return new Date(article.publishedAt) >= new Date(Date.now() - 28 * 60 * 60 * 1000);
+    return new Date(a.publishedAt) >= new Date(Date.now() - HOURS_NEW * 3600000);
   } catch { return false; }
 }
 
-// ── Ticker ───────────────────────────────────────────────────────────────────
-function buildTicker() {
-  const items = companies.map(c => {
-    const count = allArticles.filter(a => a.companyId === c.id).length;
-    return `<div class="ticker-item"><span class="name">${c.name}</span> · ${count} articles</div>`;
-  }).join('');
-  // Duplicate for seamless loop
-  document.getElementById('tickerTrack').innerHTML = items + items;
+function updateStats() {
+  document.getElementById('s-total').textContent = articles.length;
+  document.getElementById('s-new').textContent = articles.filter(isNew).length;
+  document.getElementById('s-companies').textContent = companies.length;
+  document.getElementById('s-contracts').textContent = articles.filter(a => a.source === 'contract').length;
 }
 
-// ── Company list ─────────────────────────────────────────────────────────────
-function renderCompanyList() {
-  const osint = companies.filter(c => c.category === 'osint');
-  const sat = companies.filter(c => c.category === 'satellite');
-
-  let html = '';
-
-  html += `<div class="cat-section-label" style="border-top:none;color:var(--accent-os);">▸ OSINT / Intelligence</div>`;
-  osint.forEach(c => html += companyItemHtml(c));
-
-  html += `<div class="cat-section-label" style="color:var(--accent-sat);">▸ Satellite Imagery</div>`;
-  sat.forEach(c => html += companyItemHtml(c));
-
-  document.getElementById('companyList').innerHTML = html;
-}
-
-function companyItemHtml(c) {
-  const count = allArticles.filter(a => a.companyId === c.id).length;
-  const hasNew = allArticles.filter(a => a.companyId === c.id && isNew(a)).length > 0;
-  const isActive = activeCompany === c.id;
-
-  return `
-    <div class="company-item ${isActive ? 'active ' + c.category : ''}"
-         onclick="selectCompany('${c.id}')">
-      <div class="company-dot ${c.category}"></div>
-      <span class="company-name">${c.name}</span>
-      <span class="company-count ${hasNew ? 'has-new' : ''}">${count}</span>
-    </div>`;
-}
-
-function selectCompany(id) {
-  activeCompany = (activeCompany === id) ? null : id;
-  renderCompanyList();
-  renderFeed();
-
-  if (activeCompany) {
-    const c = companies.find(x => x.id === id);
-    document.getElementById('feedTitle').textContent = c ? c.name : 'All';
-  } else {
-    document.getElementById('feedTitle').textContent = filterLabel();
+function showDigestBanner(digest) {
+  const n = digest.count || 0;
+  if (n > 0) {
+    document.getElementById('digestBar').style.display = 'flex';
+    document.getElementById('digestTitle').textContent = `${n} new item${n !== 1 ? 's' : ''} since yesterday`;
+    const names = [...new Set(digestArticles.map(a => a.companyName))].slice(0, 3).join(', ');
+    document.getElementById('digestSub').textContent = ' — ' + names + (n > 3 ? ' and more' : '');
   }
 }
 
-// ── Filter ───────────────────────────────────────────────────────────────────
-function setFilter(filter, btn) {
-  activeFilter = filter;
-  activeCompany = null;
-
-  document.querySelectorAll('.filter-btn').forEach(b => {
-    b.className = 'filter-btn';
+function buildSidebar() {
+  const cats = ['osint', 'satellite', 'geoint'];
+  cats.forEach(cat => {
+    const section = document.getElementById('sidebar-' + cat);
+    const cos = companies.filter(c => c.category === cat);
+    cos.forEach(c => {
+      const count = articles.filter(a => a.companyId === c.id).length;
+      const fresh = articles.filter(a => a.companyId === c.id && isNew(a)).length > 0;
+      const row = document.createElement('div');
+      row.className = 'company-row';
+      row.dataset.id = c.id;
+      row.dataset.cat = cat;
+      row.innerHTML = `
+        <span class="company-row-name">${esc(c.name)}</span>
+        <span class="company-row-count ${fresh ? 'fresh' : ''}" id="count-${c.id}">${count}</span>`;
+      row.onclick = () => selectCompany(c.id, row);
+      section.appendChild(row);
+    });
   });
-  btn.className = `filter-btn active-${filter}`;
 
+  document.getElementById('count-all').textContent = articles.length;
+}
+
+function selectCompany(id, el) {
+  activeCompany = id;
+  document.querySelectorAll('.company-row').forEach(r => {
+    r.classList.remove('selected', 'osint', 'satellite', 'geoint');
+  });
+  if (el) {
+    el.classList.add('selected');
+    if (el.dataset.cat) el.classList.add(el.dataset.cat);
+  }
+  const c = companies.find(x => x.id === id);
+  document.getElementById('feedTitle').textContent =
+    id === '__all' ? filterLabel() : (c ? c.name : 'All');
+  render();
+}
+
+function setFilter(f, btn) {
+  activeFilter = f;
+  activeCompany = '__all';
+  document.querySelectorAll('.company-row').forEach(r => r.classList.remove('selected', 'osint', 'satellite', 'geoint'));
+  const allRow = document.querySelector('[data-id="__all"]');
+  if (allRow) allRow.classList.add('selected');
+  document.querySelectorAll('.pill').forEach(b => {
+    b.className = 'pill';
+  });
+  btn.className = `pill on-${f}`;
   document.getElementById('feedTitle').textContent = filterLabel();
-  renderCompanyList();
-  renderFeed();
+  render();
+}
+
+function setView(v, btn) {
+  activeView = v;
+  document.querySelectorAll('.nav-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
 }
 
 function filterLabel() {
-  const labels = { all: 'All Competitors', osint: 'OSINT Platforms', satellite: 'Satellite Imagery', new: 'New (24h)', contract: 'Contract Awards' };
-  return labels[activeFilter] || 'All';
+  return {all:'All Companies',osint:'OSINT Platforms',satellite:'Satellite Imagery',geoint:'GEOINT',new:'New (24h)',contract:'Contract Awards'}[activeFilter] || 'All';
 }
 
-// ── Search ───────────────────────────────────────────────────────────────────
-document.addEventListener('DOMContentLoaded', () => {
-  document.getElementById('searchInput').addEventListener('input', e => {
-    searchTerm = e.target.value.toLowerCase();
-    renderFeed();
-  });
-  loadData();
-});
-
-// ── Feed ─────────────────────────────────────────────────────────────────────
-function renderFeed() {
-  let articles = [...allArticles];
-
-  // Company filter
-  if (activeCompany) {
-    articles = articles.filter(a => a.companyId === activeCompany);
+function getFiltered() {
+  let list = [...articles];
+  if (activeCompany !== '__all') {
+    list = list.filter(a => a.companyId === activeCompany);
   } else {
-    // Category/type filter
-    if (activeFilter === 'osint') {
-      articles = articles.filter(a => a.category === 'osint');
-    } else if (activeFilter === 'satellite') {
-      articles = articles.filter(a => a.category === 'satellite');
-    } else if (activeFilter === 'new') {
-      articles = articles.filter(a => isNew(a));
-    } else if (activeFilter === 'contract') {
-      articles = articles.filter(a => a.source === 'contract');
-    }
+    if (activeFilter === 'osint') list = list.filter(a => a.category === 'osint');
+    else if (activeFilter === 'satellite') list = list.filter(a => a.category === 'satellite');
+    else if (activeFilter === 'geoint') list = list.filter(a => a.category === 'geoint');
+    else if (activeFilter === 'new') list = list.filter(isNew);
+    else if (activeFilter === 'contract') list = list.filter(a => a.source === 'contract');
   }
-
-  // Search
-  if (searchTerm) {
-    articles = articles.filter(a =>
-      (a.title || '').toLowerCase().includes(searchTerm) ||
-      (a.description || '').toLowerCase().includes(searchTerm) ||
-      (a.companyName || '').toLowerCase().includes(searchTerm) ||
-      (a.sourceName || '').toLowerCase().includes(searchTerm)
+  if (search) {
+    list = list.filter(a =>
+      (a.title || '').toLowerCase().includes(search) ||
+      (a.description || '').toLowerCase().includes(search) ||
+      (a.companyName || '').toLowerCase().includes(search)
     );
   }
+  return list;
+}
 
-  const feed = document.getElementById('articleFeed');
+function render() {
+  const list = getFiltered();
+  const feed = document.getElementById('feed');
+  document.getElementById('feedCount').textContent = `${list.length} article${list.length !== 1 ? 's' : ''}`;
 
-  document.getElementById('feedMeta').textContent =
-    `${articles.length} article${articles.length !== 1 ? 's' : ''}`;
-
-  if (articles.length === 0) {
-    feed.innerHTML = `
-      <div class="empty-state">
-        <div class="icon">📭</div>
-        <p>${allArticles.length === 0 ? 'No data yet. Run the GitHub Actions workflow to fetch news.' : 'No articles match your filter.'}</p>
-      </div>`;
+  if (list.length === 0) {
+    feed.innerHTML = `<div class="empty"><div class="empty-icon">📭</div><p>${articles.length === 0 ? 'No data yet. Run the GitHub Actions workflow to fetch news.' : 'No articles match your filters.'}</p></div>`;
     return;
   }
 
-  feed.innerHTML = articles.map((a, i) => articleCardHtml(a, i)).join('');
+  feed.innerHTML = list.map((a, i) => cardHtml(a, i)).join('');
 }
 
-function articleCardHtml(a, index) {
-  const newFlag = isNew(a);
-  const delay = Math.min(index * 0.03, 0.5);
+function cardHtml(a, i) {
+  const fresh = isNew(a);
+  const delay = Math.min(i * 0.025, 0.4);
 
-  // Format date
   let dateStr = '';
   try {
     const d = new Date(a.publishedAt);
-    const now = new Date();
-    const diffH = Math.round((now - d) / 3600000);
-    if (diffH < 1) dateStr = 'Just now';
-    else if (diffH < 24) dateStr = `${diffH}h ago`;
-    else dateStr = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-  } catch { dateStr = ''; }
+    const h = Math.round((Date.now() - d) / 3600000);
+    if (h < 1) dateStr = 'Just now';
+    else if (h < 24) dateStr = `${h}h ago`;
+    else dateStr = d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
+  } catch {}
 
-  const sourceClass = a.source || 'news';
-  const sourceLabel = { news: 'News', press_release: 'Press Release', contract: 'Contract' }[sourceClass] || 'News';
+  const srcLabel = {news:'News',press_release:'Press Release',contract:'Contract'}[a.source] || 'News';
+  const srcClass = {news:'tag-news',press_release:'tag-pr',contract:'tag-contract'}[a.source] || 'tag-news';
+  const catClass  = {osint:'tag-osint',satellite:'tag-satellite',geoint:'tag-geoint'}[a.category] || 'tag-news';
+  const catLabel  = {osint:'OSINT',satellite:'Satellite',geoint:'GEOINT'}[a.category] || '';
 
-  return `
-    <a class="article-card ${newFlag ? 'is-new' : ''}" href="${escHtml(a.url || '#')}"
-       target="_blank" rel="noopener" style="animation-delay:${delay}s">
-      <div class="article-meta">
-        <span class="source-badge ${sourceClass}">${sourceLabel}</span>
-        ${newFlag ? '<span class="new-badge">New</span>' : ''}
-        <span class="company-tag ${a.category || ''}">${escHtml(a.companyName || '')}</span>
-        <span class="article-date">${dateStr}</span>
-      </div>
-      <div class="article-title">${escHtml(a.title || 'Untitled')}</div>
-      ${a.description ? `<div class="article-desc">${escHtml(a.description.substring(0, 180))}${a.description.length > 180 ? '…' : ''}</div>` : ''}
-    </a>`;
+  return `<a class="card ${fresh ? 'is-new' : ''}" href="${esc(a.url||'#')}" target="_blank" rel="noopener" style="animation-delay:${delay}s">
+    <div class="card-meta">
+      <span class="tag ${srcClass}">${srcLabel}</span>
+      <span class="tag ${catClass}">${catLabel}</span>
+      <span class="tag tag-news" style="background:none;border:none;padding:0;color:var(--text-3);font-weight:400">${esc(a.companyName||'')}</span>
+      ${fresh ? '<span class="tag tag-new">New</span>' : ''}
+      <span class="card-date">${dateStr}</span>
+    </div>
+    <div class="card-title">${esc(a.title||'Untitled')}</div>
+    ${a.description ? `<div class="card-desc">${esc(a.description.substring(0,180))}${a.description.length>180?'…':''}</div>` : ''}
+  </a>`;
 }
 
-function escHtml(str) {
-  return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-function showError() {
-  document.getElementById('articleFeed').innerHTML = `
-    <div class="empty-state">
-      <div class="icon">⚠️</div>
-      <p>Could not load data files. Make sure news.json exists in the data/ folder.</p>
-    </div>`;
-  document.getElementById('lastUpdated').textContent = 'Error loading data';
-}
+init();
 </script>
 </body>
 </html>
