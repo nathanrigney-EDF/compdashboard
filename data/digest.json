@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": null,
+  "articles": [
+    {
+      "id": "palantir-rss-anthropic-was-the-pentagon-s-choice-for-ai--now-it",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried - CNBC",
+      "description": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried&nbsp;&nbsp;CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUY0S0t3SmoyblBwTFNQTkpYaG0yV1EtVUxodnptcF9xLWxnTmhwdTYtY0pJSzY4Rmc3Y01jbTAxaXo2UkpYNFpZWFZBUWpyN1RCMUphSmZrdVdmcGtKYUlDU0sxNEFiX0piUmxIODdtYWt4NG1QX191SzZ4Y0xIZU9hNjlPSk1pa2V6M29PQkVPYm9talhFOFRXRjRmYTVfTEpLUWI4R0JMTHY1UVhpU2lEb09EV3Q50gG-AUFVX3lxTE1iUUtPX1hrOWhJdlhNQmhBN3lueVJpLUNfaWxvTFpicXNWREJtU0hqRmdWaXFyM1JtMk5WM3J3TnJnVWlnd1R5d1doNTUwR2x1ODBBUXgtMlBkQk9GbGE5MHRwSmx3emFnRk5LSDduQmVhNk92enFrcmlnYkhua2VlZFFQZXYxcjFiOTNlc2h2NjJLMGM3ZldqTWVIckM5VmVpd19hT0xQYWV4UUhkendQRkp5dmdJYktrZ2pkNHc?oc=5",
+      "publishedAt": "2026-03-09T19:49:05+00:00",
+      "fetchedAt": "2026-03-10T17:45:43.096578+00:00"
+    },
+    {
+      "id": "palantir-rss-palantir-surges-as-geopolitical-tensions-reshape-d",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Palantir Surges as Geopolitical Tensions Reshape Defense Demand - TradingView",
+      "description": "Palantir Surges as Geopolitical Tensions Reshape Defense Demand&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3pxMmx4eUt6UkdOQUVHdUhhMlVoSE91TTVqQUdWSThaV0hKa0xGNm1jY0VKbEoxUXh6MVZ1Y0t6NG82d2FtdjZOdDdfQU9HUHdNX1BTQTRmNUR0WmRhM255THhpMjQzYnRBUGRUbTZpaVo4TktqMzREeXpoek1ma0tBaXZZTld1a0lVTzNINFFILUVYRlJSMmVWYkFNS2JRWnpSNW1Mb2Rpb3Bmb3dXcG9ILTd0R0xxcEo4WV9kMFU?oc=5",
+      "publishedAt": "2026-03-09T18:35:31+00:00",
+      "fetchedAt": "2026-03-10T17:45:43.096632+00:00"
+    }
+  ],
+  "generatedAt": "2026-03-10T17:47:47.720156+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
