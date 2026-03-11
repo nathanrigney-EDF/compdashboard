@@ -1185,13 +1185,7 @@ init();
 let chatOpen = false;
 let chatHistory = []; // [{role, content}]
 let activeGeminiModel = null;
-const GEMINI_MODELS = [
-  { model: 'gemini-1.5-flash-latest', api: 'https://generativelanguage.googleapis.com/v1beta/models/' },
-  { model: 'gemini-1.5-flash',        api: 'https://generativelanguage.googleapis.com/v1beta/models/' },
-  { model: 'gemini-1.5-flash-001',    api: 'https://generativelanguage.googleapis.com/v1beta/models/' },
-  { model: 'gemini-1.5-flash-latest', api: 'https://generativelanguage.googleapis.com/v1/models/' },
-  { model: 'gemini-1.5-flash',        api: 'https://generativelanguage.googleapis.com/v1/models/' },
-];
+// model auto-detected at runtime via findWorkingModel()
 
 function toggleChat() {
   chatOpen = !chatOpen;
@@ -1261,14 +1255,35 @@ function sendSuggestion(btn) {
   sendChat();
 }
 
-async function callGemini(apiKey, entry, body) {
-  const url = `${entry.api}${entry.model}:generateContent?key=${apiKey}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(body)
-  });
-  return { res, data: await res.json() };
+async function findWorkingModel(apiKey) {
+  // Probe each candidate with a tiny request to find which one works
+  const candidates = [
+    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest',
+    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash',
+    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-001',
+    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.0-pro',
+    'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-latest',
+    'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash',
+  ];
+  const probe = {
+    contents: [{ role: 'user', parts: [{ text: 'Hi' }] }],
+    generationConfig: { maxOutputTokens: 5 }
+  };
+  for (const base of candidates) {
+    try {
+      const r = await fetch(`${base}:generateContent?key=${apiKey}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(probe)
+      });
+      if (r.ok) return base;
+      const d = await r.json();
+      const code = d?.error?.code;
+      // 400 = bad request but model exists, 429 = quota but model exists — both count as "found"
+      if (code === 400 || code === 429) return base;
+    } catch(e) { /* network error, try next */ }
+  }
+  return null;
 }
 
 async function sendChat() {
@@ -1286,93 +1301,88 @@ async function sendChat() {
   appendMessage('user', question);
   const thinkingId = appendMessage('assistant', 'Thinking…', 'thinking');
 
-  // Build context from current articles (cap at ~120 to stay within token limits)
-  const contextArticles = getFiltered().slice(0, 120);
+  // Auto-detect working model on first call
+  if (!activeGeminiModel) {
+    updateThinking(thinkingId, 'Detecting available model…');
+    activeGeminiModel = await findWorkingModel(apiKey);
+    if (!activeGeminiModel) {
+      removeMessage(thinkingId);
+      appendMessage('assistant',
+        'Could not find a working Gemini model for your API key.\n\n' +
+        '**Please check:**\n' +
+        '- Your key was created at [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey) (not Google Cloud Console)\n' +
+        '- The key starts with `AIza`\n' +
+        '- Try clicking "Change key" below and pasting it again', 'error');
+      chatHistory.pop();
+      document.getElementById('chatSendBtn').disabled = false;
+      return;
+    }
+    const modelName = activeGeminiModel.split('/models/')[1];
+    document.getElementById('chatHeaderSub').textContent = `Powered by ${modelName} · Free`;
+  }
+
+  // Build context from current articles
+  const contextArticles = getFiltered().slice(0, 100);
   const contextText = contextArticles.map(a =>
     `[${a.companyName} · ${a.source} · ${a.publishedAt ? a.publishedAt.substring(0,10) : ''}]\nTitle: ${a.title}\n${a.description ? 'Summary: ' + a.description.substring(0, 200) : ''}`
   ).join('\n\n');
 
-  const systemPrompt = `You are an intelligence analyst assistant for a satellite and OSINT company. You have access to a curated feed of competitor news articles, press releases, and government contract awards. Answer questions concisely and analytically. Use bullet points for lists. Be specific about company names and dates. If you don't see relevant information in the provided articles, say so clearly.
+  const systemPrompt = `You are an intelligence analyst assistant for a satellite and OSINT company. Answer questions concisely and analytically. Use bullet points for lists. Be specific about company names and dates. If you don\'t see relevant info in the articles, say so.
 
-Today's date: ${new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'})}.
+Today: ${new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'})}.
 
-CURRENT ARTICLE FEED (${contextArticles.length} articles):
-${contextText || 'No articles loaded yet — the feed may need to be refreshed.'}`;
+ARTICLE FEED (${contextArticles.length} articles):
+${contextText || 'No articles loaded yet.'}`;
 
   chatHistory.push({ role: 'user', parts: [{ text: question }] });
 
-  // Try models in order until one works
-  const modelsToTry = activeGeminiModel ? [activeGeminiModel] : GEMINI_MODELS;
-  // Inject system prompt as first turn — v1 API does not support system_instruction
-  const historyWithSystem = [
-    { role: 'user', parts: [{ text: systemPrompt }] },
-    { role: 'model', parts: [{ text: 'Understood. I am ready to answer questions about your competitor intelligence feed.' }] },
-    ...chatHistory
-  ];
-
-  const requestBody = {
-    contents: historyWithSystem,
+  const body = {
+    contents: [
+      { role: 'user',  parts: [{ text: systemPrompt }] },
+      { role: 'model', parts: [{ text: 'Understood, ready to help.' }] },
+      ...chatHistory
+    ],
     generationConfig: { temperature: 0.3, maxOutputTokens: 1024 }
   };
 
-  let lastError = '';
-  let succeeded = false;
+  try {
+    updateThinking(thinkingId, 'Thinking…');
+    const res = await fetch(`${activeGeminiModel}:generateContent?key=${apiKey}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
 
-  for (const model of modelsToTry) {
-    try {
-      const { res, data } = await callGemini(apiKey, model, requestBody);
+    const data = await res.json();
 
-      if (res.ok) {
-        const reply = data?.candidates?.[0]?.content?.parts?.[0]?.text || 'No response received.';
-        chatHistory.push({ role: 'model', parts: [{ text: reply }] });
-        activeGeminiModel = model; // remember what worked
-        document.getElementById('chatHeaderSub').textContent = `Powered by ${model.model} · Free`;
-        removeMessage(thinkingId);
-        appendMessage('assistant', reply);
-        succeeded = true;
-        break;
-      }
-
-      // quota or not-found errors: try next model
-      const errMsg = data?.error?.message || '';
-      const status = data?.error?.code || res.status;
-      if (status === 429 || status === 404 || errMsg.includes('not found') || errMsg.includes('quota')) {
-        lastError = errMsg;
-        continue; // try next model
-      }
-
-      // Other errors (bad key, etc): stop immediately
+    if (res.ok) {
+      const reply = data?.candidates?.[0]?.content?.parts?.[0]?.text || 'No response received.';
+      chatHistory.push({ role: 'model', parts: [{ text: reply }] });
       removeMessage(thinkingId);
-      appendMessage('assistant', `Error: ${errMsg || 'API error ' + res.status}`, 'error');
-      chatHistory.pop();
-      succeeded = true; // prevent double-error
-      break;
-
-    } catch (err) {
-      lastError = err.message;
-    }
-  }
-
-  if (!succeeded) {
-    removeMessage(thinkingId);
-    if (lastError.includes('quota') || lastError.includes('limit')) {
-      appendMessage('assistant',
-        `All available Gemini models are hitting quota limits on your key.\n\n` +
-        `**Try these fixes:**\n` +
-        `- Wait a minute and try again (free tier rate limit)\n` +
-        `- Go to [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey), create a **new key in a new project**, then click "Change key" below\n` +
-        `- Make sure your Google account hasn't exceeded the daily free limit`, 'error');
+      appendMessage('assistant', reply);
     } else {
-      appendMessage('assistant', `Network error: ${lastError}. Check your API key and connection.`, 'error');
+      const errMsg = data?.error?.message || `API error ${res.status}`;
+      removeMessage(thinkingId);
+      appendMessage('assistant', `Error: ${errMsg}`, 'error');
+      chatHistory.pop();
+      if (res.status === 404) activeGeminiModel = null; // reset so we re-probe next time
     }
+  } catch (err) {
+    removeMessage(thinkingId);
+    appendMessage('assistant', `Network error: ${err.message}`, 'error');
     chatHistory.pop();
+  } finally {
+    document.getElementById('chatSendBtn').disabled = false;
+    input.focus();
   }
-
-  document.getElementById('chatSendBtn').disabled = false;
-  input.focus();
 }
 
 // ── Message rendering ─────────────────────────────────────────────────────────
+function updateThinking(id, text) {
+  const el = document.getElementById(id);
+  if (el) el.querySelector('.chat-bubble').textContent = text;
+}
+
 let msgCounter = 0;
 
 function appendMessage(role, text, extraClass = '') {
