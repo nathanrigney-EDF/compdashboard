@@ -1184,7 +1184,8 @@ init();
 // ── Chat state ────────────────────────────────────────────────────────────────
 let chatOpen = false;
 let chatHistory = []; // [{role, content}]
-const GEMINI_MODEL = 'gemini-2.0-flash';
+let activeGeminiModel = null;
+const GEMINI_MODELS = ['gemini-1.5-flash'];
 const GEMINI_API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models/';
 
 function toggleChat() {
@@ -1255,6 +1256,16 @@ function sendSuggestion(btn) {
   sendChat();
 }
 
+async function callGemini(apiKey, model, body) {
+  const url = `${GEMINI_API_BASE}${model}:generateContent?key=${apiKey}`;
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body)
+  });
+  return { res, data: await res.json() };
+}
+
 async function sendChat() {
   const input = document.getElementById('chatInput');
   const question = input.value.trim();
@@ -1270,7 +1281,7 @@ async function sendChat() {
   appendMessage('user', question);
   const thinkingId = appendMessage('assistant', 'Thinking…', 'thinking');
 
-  // Build context from current articles (cap at ~120 articles to stay within limits)
+  // Build context from current articles (cap at ~120 to stay within token limits)
   const contextArticles = getFiltered().slice(0, 120);
   const contextText = contextArticles.map(a =>
     `[${a.companyName} · ${a.source} · ${a.publishedAt ? a.publishedAt.substring(0,10) : ''}]\nTitle: ${a.title}\n${a.description ? 'Summary: ' + a.description.substring(0, 200) : ''}`
@@ -1285,44 +1296,69 @@ ${contextText || 'No articles loaded yet — the feed may need to be refreshed.'
 
   chatHistory.push({ role: 'user', parts: [{ text: question }] });
 
-  try {
-    const url = `${GEMINI_API_BASE}${GEMINI_MODEL}:generateContent?key=${apiKey}`;
-    const body = {
-      system_instruction: { parts: [{ text: systemPrompt }] },
-      contents: chatHistory,
-      generationConfig: { temperature: 0.3, maxOutputTokens: 1024 }
-    };
+  // Try models in order until one works
+  const modelsToTry = activeGeminiModel ? [activeGeminiModel] : GEMINI_MODELS;
+  const requestBody = {
+    system_instruction: { parts: [{ text: systemPrompt }] },
+    contents: chatHistory,
+    generationConfig: { temperature: 0.3, maxOutputTokens: 1024 }
+  };
 
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(body)
-    });
+  let lastError = '';
+  let succeeded = false;
 
-    const data = await res.json();
+  for (const model of modelsToTry) {
+    try {
+      const { res, data } = await callGemini(apiKey, model, requestBody);
 
-    if (!res.ok) {
-      const errMsg = data?.error?.message || `API error ${res.status}`;
+      if (res.ok) {
+        const reply = data?.candidates?.[0]?.content?.parts?.[0]?.text || 'No response received.';
+        chatHistory.push({ role: 'model', parts: [{ text: reply }] });
+        activeGeminiModel = model; // remember what worked
+        document.getElementById('chatHeaderSub').textContent = `Powered by ${model} · Free`;
+        removeMessage(thinkingId);
+        appendMessage('assistant', reply);
+        succeeded = true;
+        break;
+      }
+
+      // quota or not-found errors: try next model
+      const errMsg = data?.error?.message || '';
+      const status = data?.error?.code || res.status;
+      if (status === 429 || status === 404 || errMsg.includes('not found') || errMsg.includes('quota')) {
+        lastError = errMsg;
+        continue; // try next model
+      }
+
+      // Other errors (bad key, etc): stop immediately
       removeMessage(thinkingId);
-      appendMessage('assistant', `Error: ${errMsg}`, 'error');
-      chatHistory.pop(); // remove failed user message
-      return;
+      appendMessage('assistant', `Error: ${errMsg || 'API error ' + res.status}`, 'error');
+      chatHistory.pop();
+      succeeded = true; // prevent double-error
+      break;
+
+    } catch (err) {
+      lastError = err.message;
     }
-
-    const reply = data?.candidates?.[0]?.content?.parts?.[0]?.text || 'No response received.';
-    chatHistory.push({ role: 'model', parts: [{ text: reply }] });
-
-    removeMessage(thinkingId);
-    appendMessage('assistant', reply);
-
-  } catch (err) {
-    removeMessage(thinkingId);
-    appendMessage('assistant', `Network error: ${err.message}. Check your API key and internet connection.`, 'error');
-    chatHistory.pop();
-  } finally {
-    document.getElementById('chatSendBtn').disabled = false;
-    input.focus();
   }
+
+  if (!succeeded) {
+    removeMessage(thinkingId);
+    if (lastError.includes('quota') || lastError.includes('limit')) {
+      appendMessage('assistant',
+        `All available Gemini models are hitting quota limits on your key.\n\n` +
+        `**Try these fixes:**\n` +
+        `- Wait a minute and try again (free tier rate limit)\n` +
+        `- Go to [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey), create a **new key in a new project**, then click "Change key" below\n` +
+        `- Make sure your Google account hasn't exceeded the daily free limit`, 'error');
+    } else {
+      appendMessage('assistant', `Network error: ${lastError}. Check your API key and connection.`, 'error');
+    }
+    chatHistory.pop();
+  }
+
+  document.getElementById('chatSendBtn').disabled = false;
+  input.focus();
 }
 
 // ── Message rendering ─────────────────────────────────────────────────────────
