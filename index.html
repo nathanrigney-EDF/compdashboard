@@ -1298,9 +1298,15 @@ ${contextText || 'No articles loaded yet — the feed may need to be refreshed.'
 
   // Try models in order until one works
   const modelsToTry = activeGeminiModel ? [activeGeminiModel] : GEMINI_MODELS;
+  // Inject system prompt as first turn — v1 API does not support system_instruction
+  const historyWithSystem = [
+    { role: 'user', parts: [{ text: systemPrompt }] },
+    { role: 'model', parts: [{ text: 'Understood. I am ready to answer questions about your competitor intelligence feed.' }] },
+    ...chatHistory
+  ];
+
   const requestBody = {
-    system_instruction: { parts: [{ text: systemPrompt }] },
-    contents: chatHistory,
+    contents: historyWithSystem,
     generationConfig: { temperature: 0.3, maxOutputTokens: 1024 }
   };
 
