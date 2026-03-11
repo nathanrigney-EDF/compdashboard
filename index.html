@@ -1255,36 +1255,8 @@ function sendSuggestion(btn) {
   sendChat();
 }
 
-async function findWorkingModel(apiKey) {
-  // Probe each candidate with a tiny request to find which one works
-  const candidates = [
-    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest',
-    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash',
-    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-001',
-    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.0-pro',
-    'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-latest',
-    'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash',
-  ];
-  const probe = {
-    contents: [{ role: 'user', parts: [{ text: 'Hi' }] }],
-    generationConfig: { maxOutputTokens: 5 }
-  };
-  for (const base of candidates) {
-    try {
-      const r = await fetch(`${base}:generateContent?key=${apiKey}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(probe)
-      });
-      if (r.ok) return base;
-      const d = await r.json();
-      const code = d?.error?.code;
-      // 400 = bad request but model exists, 429 = quota but model exists — both count as "found"
-      if (code === 400 || code === 429) return base;
-    } catch(e) { /* network error, try next */ }
-  }
-  return null;
-}
+// Single fixed endpoint — v1beta + gemini-1.5-flash-latest is the correct free tier combo
+const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent';
 
 async function sendChat() {
   const input = document.getElementById('chatInput');
@@ -1301,25 +1273,7 @@ async function sendChat() {
   appendMessage('user', question);
   const thinkingId = appendMessage('assistant', 'Thinking…', 'thinking');
 
-  // Auto-detect working model on first call
-  if (!activeGeminiModel) {
-    updateThinking(thinkingId, 'Detecting available model…');
-    activeGeminiModel = await findWorkingModel(apiKey);
-    if (!activeGeminiModel) {
-      removeMessage(thinkingId);
-      appendMessage('assistant',
-        'Could not find a working Gemini model for your API key.\n\n' +
-        '**Please check:**\n' +
-        '- Your key was created at [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey) (not Google Cloud Console)\n' +
-        '- The key starts with `AIza`\n' +
-        '- Try clicking "Change key" below and pasting it again', 'error');
-      chatHistory.pop();
-      document.getElementById('chatSendBtn').disabled = false;
-      return;
-    }
-    const modelName = activeGeminiModel.split('/models/')[1];
-    document.getElementById('chatHeaderSub').textContent = `Powered by ${modelName} · Free`;
-  }
+  // Fixed endpoint: v1beta + gemini-1.5-flash-latest (Google free tier)
 
   // Build context from current articles
   const contextArticles = getFiltered().slice(0, 100);
@@ -1347,7 +1301,7 @@ ${contextText || 'No articles loaded yet.'}`;
 
   try {
     updateThinking(thinkingId, 'Thinking…');
-    const res = await fetch(`${activeGeminiModel}:generateContent?key=${apiKey}`, {
+    const res = await fetch(`${GEMINI_URL}?key=${apiKey}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body)
@@ -1365,7 +1319,7 @@ ${contextText || 'No articles loaded yet.'}`;
       removeMessage(thinkingId);
       appendMessage('assistant', `Error: ${errMsg}`, 'error');
       chatHistory.pop();
-      if (res.status === 404) activeGeminiModel = null; // reset so we re-probe next time
+      // if key is invalid, show error (already shown above)
     }
   } catch (err) {
     removeMessage(thinkingId);
