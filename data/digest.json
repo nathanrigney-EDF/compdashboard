@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "id": "esper-pr-esper-raises-new-funding-following-record-growth-a",
-      "companyId": "esper",
-      "companyName": "Esper",
-      "category": "geoint",
+      "id": "babel-street-pr-babel-street-announces-agentic-risk-intelligence-f",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
+      "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Esper Raises New Funding Following Record Growth and Leadership Expansion - Yahoo Finance",
-      "description": "Press release / announcement from Esper",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWdSbzZUbUxwUllZUGp2UHhta3VTcDJYRFhfWnlUOUlVV296UnE5UU1oUEJKZTQ5QlpPYXdCZzZQNlFBNzdwa2tVNWZJcUpzaF9Ja293XzdTNl9BSDBoaFNGX2hXaVljS3ExNnNVMlJxQkNhc19wOTFSUmluYXVaWFFRT1dvM0hiUW9v?oc=5",
-      "publishedAt": "2026-03-10T10:31:00+00:00",
-      "fetchedAt": "2026-03-11T10:35:59.078905+00:00"
+      "title": "Babel Street Announces Agentic Risk Intelligence for the AI-on-AI Era - Yahoo Finance",
+      "description": "Press release / announcement from Babel Street",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOG9fbllhWGVyNmF4T2ZxWXEwTVoxamdrQTJ4aGdpMU9nVzFzQy11LUl6RW5IemlxeC1FYzlGcXBselFpYkpucmI0U1BkWVd2NGlJTVByc1lCVU5lNmdEeUJmTm1KT0JTWFloVnJ0ZG40bzRRTzFneXNRR0xSTFBROWVxWnJWaXc4?oc=5",
+      "publishedAt": "2026-03-11T13:00:00+00:00",
+      "fetchedAt": "2026-03-12T10:33:25.616933+00:00"
     }
   ],
-  "generatedAt": "2026-03-11T10:36:37.763721+00:00",
+  "generatedAt": "2026-03-12T10:35:39.998599+00:00",
   "periodHours": 28,
   "count": 1
 }
