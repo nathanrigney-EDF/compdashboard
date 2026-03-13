@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "babel-street-pr-babel-street-announces-agentic-risk-intelligence-f",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
+      "id": "cognyte-pr-cognyte-to-announce-fourth-quarter-and-full-year-f",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Babel Street Announces Agentic Risk Intelligence for the AI-on-AI Era - Yahoo Finance",
-      "description": "Press release / announcement from Babel Street",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOG9fbllhWGVyNmF4T2ZxWXEwTVoxamdrQTJ4aGdpMU9nVzFzQy11LUl6RW5IemlxeC1FYzlGcXBselFpYkpucmI0U1BkWVd2NGlJTVByc1lCVU5lNmdEeUJmTm1KT0JTWFloVnJ0ZG40bzRRTzFneXNRR0xSTFBROWVxWnJWaXc4?oc=5",
-      "publishedAt": "2026-03-11T13:00:00+00:00",
-      "fetchedAt": "2026-03-12T10:33:25.616933+00:00"
+      "title": "Cognyte to Announce Fourth Quarter and Full Year FYE26 Financial Results on March 25, 2026 - Yahoo Finance Australia",
+      "description": "Press release / announcement from Cognyte",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTW1Lalh2NlNLYmVLcGVqY2JuN0pDSzViWDRFTE93UWdvNzFnR2Rid21VOXNkZ01mVlJTdkJXaFIwLXZzbWQ2d2NucEtSSW9CU1JVdHc1VkhaN05LdXhEWmdMMm96SzkzckgwR1d6OHpEN0s1dWhFbXBXUDMySjhSa3Y2Rkt1QS03RzhkOXl3?oc=5",
+      "publishedAt": "2026-03-12T12:00:00+00:00",
+      "fetchedAt": "2026-03-13T10:31:34.698232+00:00"
+    },
+    {
+      "id": "babel-street-rss-babel-street-to-launch-agentic-ai-workflows-for-ri",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Babel Street to Launch Agentic AI Workflows for Risk Intelligence - ExecutiveBiz",
+      "description": "Babel Street to Launch Agentic AI Workflows for Risk Intelligence&nbsp;&nbsp;ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMS1ZcEV4LVN5OFBoRFFwQkZBRWlSd3FiRnV5M056aWp2NXRWWENvN196VE5ILTM4MXdPclZaaVhWb2NCS3U0XzZiRjJCMTlfUWxVTTBtdnpUTVM0X0lhMUwzSjRUcXl2X1RKdUhsUTBFaDRGdWI5UW9yYnpjSmZQTHd4VTlHUQ?oc=5",
+      "publishedAt": "2026-03-12T09:52:51+00:00",
+      "fetchedAt": "2026-03-13T10:30:44.248958+00:00"
     }
   ],
-  "generatedAt": "2026-03-12T10:35:39.998599+00:00",
+  "generatedAt": "2026-03-13T10:35:16.434603+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
