@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "cognyte-pr-cognyte-to-announce-fourth-quarter-and-full-year-f",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Cognyte to Announce Fourth Quarter and Full Year FYE26 Financial Results on March 25, 2026 - Yahoo Finance Australia",
-      "description": "Press release / announcement from Cognyte",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTW1Lalh2NlNLYmVLcGVqY2JuN0pDSzViWDRFTE93UWdvNzFnR2Rid21VOXNkZ01mVlJTdkJXaFIwLXZzbWQ2d2NucEtSSW9CU1JVdHc1VkhaN05LdXhEWmdMMm96SzkzckgwR1d6OHpEN0s1dWhFbXBXUDMySjhSa3Y2Rkt1QS03RzhkOXl3?oc=5",
-      "publishedAt": "2026-03-12T12:00:00+00:00",
-      "fetchedAt": "2026-03-13T10:31:34.698232+00:00"
-    },
-    {
-      "id": "babel-street-rss-babel-street-to-launch-agentic-ai-workflows-for-ri",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
+      "id": "bigbear-ai-rss-can-bigbear-ai-s-strategic-partnerships-expand-its",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Babel Street to Launch Agentic AI Workflows for Risk Intelligence - ExecutiveBiz",
-      "description": "Babel Street to Launch Agentic AI Workflows for Risk Intelligence&nbsp;&nbsp;ExecutiveBiz",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMS1ZcEV4LVN5OFBoRFFwQkZBRWlSd3FiRnV5M056aWp2NXRWWENvN196VE5ILTM4MXdPclZaaVhWb2NCS3U0XzZiRjJCMTlfUWxVTTBtdnpUTVM0X0lhMUwzSjRUcXl2X1RKdUhsUTBFaDRGdWI5UW9yYnpjSmZQTHd4VTlHUQ?oc=5",
-      "publishedAt": "2026-03-12T09:52:51+00:00",
-      "fetchedAt": "2026-03-13T10:30:44.248958+00:00"
+      "title": "Can BigBear.ai's Strategic Partnerships Expand Its Defense Reach? - TradingView",
+      "description": "Can BigBear.ai's Strategic Partnerships Expand Its Defense Reach?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmRJN0dlTDY1UXBrSF85QnZxZjByMnRYeGVOZXRsNG5mUzFoRUZtc3ZpMS1RMl9ONXc4X3Z5N3FmandtWGFidFhJWmV4SHRiR1F3cE83QVhZSnp0Zmd4Uk1aOWtJaENVM3pVN25YN0tjVlRZbDROUHFFTlJ1V3h4QlVWSW5ldVZNUzNrR29OMHBMRTE3TlhHdXI2RVZPRUNBTS0xaGpJd3BYVVBhd180YUNsdnhPa2c1X1BZdg?oc=5",
+      "publishedAt": "2026-03-13T14:17:00+00:00",
+      "fetchedAt": "2026-03-14T10:22:09.563817+00:00"
     }
   ],
-  "generatedAt": "2026-03-13T10:35:16.434603+00:00",
+  "generatedAt": "2026-03-14T10:24:08.887762+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
