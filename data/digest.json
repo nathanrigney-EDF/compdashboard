@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "bigbear-ai-rss-can-bigbear-ai-s-strategic-partnerships-expand-its",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Can BigBear.ai's Strategic Partnerships Expand Its Defense Reach? - TradingView",
-      "description": "Can BigBear.ai's Strategic Partnerships Expand Its Defense Reach?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmRJN0dlTDY1UXBrSF85QnZxZjByMnRYeGVOZXRsNG5mUzFoRUZtc3ZpMS1RMl9ONXc4X3Z5N3FmandtWGFidFhJWmV4SHRiR1F3cE83QVhZSnp0Zmd4Uk1aOWtJaENVM3pVN25YN0tjVlRZbDROUHFFTlJ1V3h4QlVWSW5ldVZNUzNrR29OMHBMRTE3TlhHdXI2RVZPRUNBTS0xaGpJd3BYVVBhd180YUNsdnhPa2c1X1BZdg?oc=5",
-      "publishedAt": "2026-03-13T14:17:00+00:00",
-      "fetchedAt": "2026-03-14T10:22:09.563817+00:00"
-    }
-  ],
-  "generatedAt": "2026-03-14T10:24:08.887762+00:00",
+  "articles": [],
+  "generatedAt": "2026-03-15T10:27:01.778871+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
