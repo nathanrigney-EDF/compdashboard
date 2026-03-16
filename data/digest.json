@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": "2026-03-15T10:27:01.778871+00:00",
+  "articles": [
+    {
+      "id": "danti-ai-rss-strait-of-hormuz-crisis-drives-demand-for-commerci",
+      "companyId": "danti-ai",
+      "companyName": "Danti.AI",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence - SpaceNews",
+      "description": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence&nbsp;&nbsp;SpaceNews",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUcwVERueUZTRllNVWFHZlZuTXQxODl2bTFBMkZ5dVdOcDJDZS1veHd6WkdRamxnMHRibzRrcWtPZTN2MmlXenVnOEYwemJiRzVkbjFwRFVsOWZqMk9wSm1GSVhHMjJ0enVIMTRwYWcxU0t6MGNYM0tEa3lrVmVubTBISHJYREk2RVVmZ3UyaTFRSUlDUUM0ZnBZRE1ybWdK?oc=5",
+      "publishedAt": "2026-03-15T15:06:01+00:00",
+      "fetchedAt": "2026-03-16T10:50:22.344430+00:00"
+    },
+    {
+      "id": "recorded-future-week-in-review--aitm-phishing-kit-used-to-hijack-a",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Help Net Security",
+      "title": "Week in review: AiTM phishing kit used to hijack AWS accounts, year-long malware campaign targets HR",
+      "description": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Turning expertise into opportunity for women in cybersecurity Speaker diversity in cybersecurity has been a talking point for over a decade, with panels, pledges\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/03/15/week-in-review-aitm-phishing-kit-used-to-hijack-aws-accounts-year-long-malware-campaign-targets-hr/",
+      "publishedAt": "2026-03-15T09:00:27Z",
+      "fetchedAt": "2026-03-16T10:49:23.571692+00:00"
+    }
+  ],
+  "generatedAt": "2026-03-16T10:52:52.084030+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
