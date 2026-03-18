@@ -1,20 +1,46 @@
 {
   "articles": [
     {
-      "id": "palantir-palantir-technologies--pltr--closes-lower-at--150",
+      "id": "palantir-health-workers-call-for-palantir-to-be-booted-from",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Ibtimes.com.au",
-      "title": "Palantir Technologies (PLTR) Closes Lower at $150.95 Amid Profit-Taking After March Rally",
-      "description": "Palantir Technologies Inc. shares retreated Friday, March 13, 2026, snapping a recent winning streak as investors locked in gains following a strong March rally fueled by renewed defense demand and AI partnerships, though broader market caution capped upside.",
-      "url": "https://www.ibtimes.com.au/palantir-technologies-pltr-closes-lower-15095-amid-profit-taking-after-march-rally-1863488",
-      "publishedAt": "2026-03-16T10:25:19Z",
-      "fetchedAt": "2026-03-17T10:44:17.391659+00:00"
+      "sourceName": "ComputerWeekly.com",
+      "title": "Health workers call for Palantir to be booted from NHS contracts",
+      "description": "Health justice charity Medact warns that Palantir\u2019s involvement in NHS data systems is a threat to patients and healthcare organisations",
+      "url": "https://www.computerweekly.com/news/366640417/Health-workers-call-for-Palantir-to-be-booted-from-NHS-contracts",
+      "publishedAt": "2026-03-17T08:35:00Z",
+      "fetchedAt": "2026-03-18T10:45:27.226363+00:00"
+    },
+    {
+      "id": "orbital-insight-rss-commercial-satellite-imagery-market-to-reach-usd-1",
+      "companyId": "orbital-insight",
+      "companyName": "Orbital Insight",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Commercial Satellite Imagery Market to Reach USD 15.29 Billion by 2032 Amid Rising Demand for Geospatial Intelligence | MarkNtel Advisors - Bolsamania",
+      "description": "Commercial Satellite Imagery Market to Reach USD 15.29 Billion by 2032 Amid Rising Demand for Geospatial Intelligence | MarkNtel Advisors&nbsp;&nbsp;Bolsamania",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNN1kwMjQ5QkF4UkVCZzh6NFpJWklwUEstc1R2emc5NFB5OXF5SllWTkd5akMxZGwwLTJUYzhRcldvQjNUbTFyQ012YU1SMjB5UEJpSHpNZlN2X1NDVWp2S29HUV9wa3JqX2ljMUpEdy1aYzlWNXZVTnpTX0liYi1XTXZWc1NjTE9EdFVwRDFoN1A0blptQ0dTcnNoNEJ5NnlUVzF2b2Nla0tjR3QxbXdhdTE5T2Z0N0F3bjRtS3AyM1g2OHh2WkFVZFRxc2twRFlITUx4QzRBbVNtRklfX1hoN1VfS3JKVWo1UUZSb29QSDc3bFdwTUUyUXRqNDAzZmlCQUxYNElMeGxkeU9uLTNmaTVmLVZidVpxcVVibFRmQzFocmxQdWFHUVBkTWvSAawCQVVfeXFMTTdZMDI0OUJBeFJFQmc4ejRaSVpJcFBLLXNUdnpnOTRQeTlxeUpZVk5HeWpDMWRsMC0yVGM4UXJXb0IzVG0xckNNdmFNUjIweVBCaUh6TWZTdl9TQ1VqdktvR1FfcGtyal9pYzFKRHctWmM5VjV2VU56U19JYmItV012VnNTY0xPRHRVcEQxaDdQNG5abUNHU3JzaDRCeTZ5VFcxdm9jZWtLY0d0MW13YXUxOU9mdDdBd240bUtwMjNYNjh4dlpBVWRUcXNrcERZSE1MeEM0QW1TbUZJX19YaDdVX0tySlVqNVFGUm9vUEg3N2xXcE1FMlF0ajQwM2ZpQkFMWDRJTHhsZHlPbi0zZmk1Zi1WYnVacXFVYmxUZkMxaHJsUHVhR1FQZE1r?oc=5",
+      "publishedAt": "2026-03-17T08:29:00+00:00",
+      "fetchedAt": "2026-03-18T10:47:02.528429+00:00"
+    },
+    {
+      "id": "palantir-the-palantir-guide-to-stopping-world-war-iii",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Business Insider",
+      "title": "The Palantir guide to stopping World War III",
+      "description": "Can one secretive Silicon Valley giant reshape how we fight wars?",
+      "url": "https://www.businessinsider.com/palantir-guide-stopping-world-war-iii-karp-book-review-2026-3",
+      "publishedAt": "2026-03-17T08:11:01Z",
+      "fetchedAt": "2026-03-18T10:45:27.226383+00:00"
     }
   ],
-  "generatedAt": "2026-03-17T10:47:37.040520+00:00",
+  "generatedAt": "2026-03-18T10:47:17.610186+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 3
 }
