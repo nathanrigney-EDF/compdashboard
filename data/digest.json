@@ -1,46 +1,46 @@
 {
   "articles": [
     {
-      "id": "palantir-health-workers-call-for-palantir-to-be-booted-from",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "ComputerWeekly.com",
-      "title": "Health workers call for Palantir to be booted from NHS contracts",
-      "description": "Health justice charity Medact warns that Palantir\u2019s involvement in NHS data systems is a threat to patients and healthcare organisations",
-      "url": "https://www.computerweekly.com/news/366640417/Health-workers-call-for-Palantir-to-be-booted-from-NHS-contracts",
-      "publishedAt": "2026-03-17T08:35:00Z",
-      "fetchedAt": "2026-03-18T10:45:27.226363+00:00"
+      "id": "satellogic-pr-satellogic-s-tactical-positioning--freedom-capital",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Satellogic\u2019s Tactical Positioning: Freedom Capital\u2019s Strong Buy Intensifies Optimism Before March 19 Earnings Release - Bitget",
+      "description": "Press release / announcement from Satellogic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLajEtMWdwNFB5WE1BTUhpNUpRRm1CVkpYUHJleGFFRXh5STdSTGF5SDR0N2s3bFVuMXFoUGxCZzRnNGpEVlJvS0tEUnlzY0tSaTdKY0ZIczdReERhS2poM0VOTdIBY0FVX3lxTFBLajEtMWdwNFB5WE1BTUhpNUpRRm1CVkpYUHJleGFFRXh5STdSTGF5SDR0N2s3bFVuMXFoUGxCZzRnNGpEVlJvS0tEUnlzY0tSaTdKY0ZIczdReERhS2poM0VOTQ?oc=5",
+      "publishedAt": "2026-03-18T17:41:32+00:00",
+      "fetchedAt": "2026-03-19T10:37:04.906168+00:00"
     },
     {
-      "id": "orbital-insight-rss-commercial-satellite-imagery-market-to-reach-usd-1",
-      "companyId": "orbital-insight",
-      "companyName": "Orbital Insight",
+      "id": "spire-global-rss-earnings-call-transcript--spire-global-s-q4-2025-s",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
       "category": "satellite",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Commercial Satellite Imagery Market to Reach USD 15.29 Billion by 2032 Amid Rising Demand for Geospatial Intelligence | MarkNtel Advisors - Bolsamania",
-      "description": "Commercial Satellite Imagery Market to Reach USD 15.29 Billion by 2032 Amid Rising Demand for Geospatial Intelligence | MarkNtel Advisors&nbsp;&nbsp;Bolsamania",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNN1kwMjQ5QkF4UkVCZzh6NFpJWklwUEstc1R2emc5NFB5OXF5SllWTkd5akMxZGwwLTJUYzhRcldvQjNUbTFyQ012YU1SMjB5UEJpSHpNZlN2X1NDVWp2S29HUV9wa3JqX2ljMUpEdy1aYzlWNXZVTnpTX0liYi1XTXZWc1NjTE9EdFVwRDFoN1A0blptQ0dTcnNoNEJ5NnlUVzF2b2Nla0tjR3QxbXdhdTE5T2Z0N0F3bjRtS3AyM1g2OHh2WkFVZFRxc2twRFlITUx4QzRBbVNtRklfX1hoN1VfS3JKVWo1UUZSb29QSDc3bFdwTUUyUXRqNDAzZmlCQUxYNElMeGxkeU9uLTNmaTVmLVZidVpxcVVibFRmQzFocmxQdWFHUVBkTWvSAawCQVVfeXFMTTdZMDI0OUJBeFJFQmc4ejRaSVpJcFBLLXNUdnpnOTRQeTlxeUpZVk5HeWpDMWRsMC0yVGM4UXJXb0IzVG0xckNNdmFNUjIweVBCaUh6TWZTdl9TQ1VqdktvR1FfcGtyal9pYzFKRHctWmM5VjV2VU56U19JYmItV012VnNTY0xPRHRVcEQxaDdQNG5abUNHU3JzaDRCeTZ5VFcxdm9jZWtLY0d0MW13YXUxOU9mdDdBd240bUtwMjNYNjh4dlpBVWRUcXNrcERZSE1MeEM0QW1TbUZJX19YaDdVX0tySlVqNVFGUm9vUEg3N2xXcE1FMlF0ajQwM2ZpQkFMWDRJTHhsZHlPbi0zZmk1Zi1WYnVacXFVYmxUZkMxaHJsUHVhR1FQZE1r?oc=5",
-      "publishedAt": "2026-03-17T08:29:00+00:00",
-      "fetchedAt": "2026-03-18T10:47:02.528429+00:00"
+      "title": "Earnings call transcript: Spire Global\u2019s Q4 2025 shows strong revenue growth - Investing.com",
+      "description": "Earnings call transcript: Spire Global\u2019s Q4 2025 shows strong revenue growth&nbsp;&nbsp;Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbDJORlZadjdQel81RnJpTjJPU0tSNFo0NTZQM192d09XVjg4LUdzemc4S0FEN25tS0JSeC1mTHFaWXNJN0RDbzVZZWQ0eWtmNHdzYnE0djhtRm9fM3FaWWE0cUszZHpqTUpRV1V6RDczaEFCbFpGWWtzelpPejFMeGEyd2h5QjRaZXVUVFRQY01mRTlVemxLUmROMHZZODJHbXNsYUt5ZklRa0lCTTZSY3EwWTl0Si0yNGFSZWxhX2tmOXN0TjNSNkJibXBYcDNXekRULQ?oc=5",
+      "publishedAt": "2026-03-18T13:55:27+00:00",
+      "fetchedAt": "2026-03-19T10:37:13.139889+00:00"
     },
     {
-      "id": "palantir-the-palantir-guide-to-stopping-world-war-iii",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "dataminr-pr-dataminr-and-crisis24-announce-strategic-partnersh",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
       "category": "osint",
-      "source": "news",
-      "sourceName": "Business Insider",
-      "title": "The Palantir guide to stopping World War III",
-      "description": "Can one secretive Silicon Valley giant reshape how we fight wars?",
-      "url": "https://www.businessinsider.com/palantir-guide-stopping-world-war-iii-karp-book-review-2026-3",
-      "publishedAt": "2026-03-17T08:11:01Z",
-      "fetchedAt": "2026-03-18T10:45:27.226383+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Dataminr and Crisis24 Announce Strategic Partnership to Pioneer the Future of AI-Powered Global Risk Management - Yahoo Finance Singapore",
+      "description": "Press release / announcement from Dataminr",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWZMMmhrUTN0MFltWVVVaFBabkh3VFFLYnlzcS13cjUwcG9oV1dqUXd0bnZTR1pYRl9PVlRKVGRlSGR4d2l1MFVaOG5tdDVmVHJ6SVhUMGlMZEl6ZWphZDBPZlYtano1RjRfMkpYYlE1S1VENkNfUlZTMWg3dmE0SE52UDU3QUh4UGY1d3pLV3paUm0xV1V3R2NnTWY4QQ?oc=5",
+      "publishedAt": "2026-03-18T13:00:00+00:00",
+      "fetchedAt": "2026-03-19T10:35:02.260398+00:00"
     }
   ],
-  "generatedAt": "2026-03-18T10:47:17.610186+00:00",
+  "generatedAt": "2026-03-19T10:37:46.907666+00:00",
   "periodHours": 28,
   "count": 3
 }
