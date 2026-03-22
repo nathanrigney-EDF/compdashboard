@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "palantir-rss-palantir-doubles-down-on-military-ai-at-developer",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Doubles Down on Military AI at Developer Conference - The Tech Buzz",
-      "description": "Palantir Doubles Down on Military AI at Developer Conference&nbsp;&nbsp;The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzFaekZMREZQLUFUU0JQWklvallKZ3NNMmc0T3cyRlNkMHZPQTlkWmpBZEstcTNYRWo3Zjl5S3RFaHBwOHlTMklzcFlFZGJvLXlxMFlyN0RvaHV2aW13RlVsX3hLeF9GRmxEV2pmU09NclZSTlRvY0RnWXBqMjlneUZpZHh2cGlLeDBkSDZBOUg4NHl5MnY4ag?oc=5",
-      "publishedAt": "2026-03-20T15:47:00+00:00",
-      "fetchedAt": "2026-03-21T10:20:46.460450+00:00"
-    }
-  ],
-  "generatedAt": "2026-03-21T10:23:47.374477+00:00",
+  "articles": [],
+  "generatedAt": "2026-03-22T10:23:53.549572+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
