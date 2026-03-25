@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "palantir-rss-stock-market-today--march-24--palantir-falls-on-te",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Stock Market Today, March 24: Palantir Falls on Tech Weakness Despite New Government Contract Wins - The Motley Fool",
+      "description": "Stock Market Today, March 24: Palantir Falls on Tech Weakness Despite New Government Contract Wins&nbsp;&nbsp;The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcHc2b28xTHIxZ3I0ZlhFdDQ4OWFJbkFnck5mS0JwUVFXeDZoSWhvWnc5XzY0cFhROUFrN0Q4WjNQVjRwOW80TDRRRmVKdzB0TVd0MUE1NEs2aHpUQzBic0U1Q0ctNWhCVmdSTFNrVHVORWpKUmdhcW1Nbzg5ZjMtckxQN2NUZ3Z2SnNUZ05xQjFUQkZYcjhZRk81eEhvSV9Yd3BkYjFQQ29fX1VyLXlFNkFmMWdKRGIwblpfbUVhUmp1MlVwcUwzMzdDMzZtbVRyTUpoRVRoRTEtY3JCWE1nMURaNlZlM09rVi1PZzh3?oc=5",
+      "publishedAt": "2026-03-24T22:02:00+00:00",
+      "fetchedAt": "2026-03-25T10:42:37.367072+00:00"
+    },
+    {
       "id": "dataminr-rss-dataminr-launches-new-ai-powered-cyber-defense-sol",
       "companyId": "dataminr",
       "companyName": "Dataminr",
@@ -11,62 +24,23 @@
       "description": "Dataminr Launches New AI-Powered Cyber Defense Solutions&nbsp;&nbsp;Homeland Security Today",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkpyZHdZQnlEWXVIVXhBRV9uQ1FPVWdtclhWemtPLWFBUjRiU0JhMTJXWlZxN29JTFh1akhHVFByYUgtaFNEVFI0cDVZMG1fM2NDRzBsZHRYYTBVX3Ewd1FkWUVmNG9DRW5ucEthQXA0TnlmNVU5MWRhNnVndWs1c0RfZ09HamtKWmRJT2pvcGJCU040ZzhvdWQ3NGE3RTRJZG5sY2l3?oc=5",
       "publishedAt": "2026-03-24T08:53:43+00:00",
-      "fetchedAt": "2026-03-24T10:45:04.008270+00:00"
+      "fetchedAt": "2026-03-25T10:42:48.170948+00:00"
     },
     {
-      "id": "palantir-rss-palantir-technologies--pltr--stock-trades-up--here",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "recorded-future-explosions-and-injuries-in-israel-from-iranian-mis",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Technologies (PLTR) Stock Trades Up, Here Is Why - TradingView",
-      "description": "Palantir Technologies (PLTR) Stock Trades Up, Here Is Why&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFIxdUE0UXU5ZVh0Y3ZTSlUtTjN3QklPV0xmQlF1YmRLdWZlNFdVczlwcGZtT0Y5Q0Y3Vi1CbTJDSjlwSFlTUmJBVlJCUU93Y3B2bm44eWt2YVJYLXE4NDJlXzlnd2tMd3JvZFdxdUt6SkppMmNpU3E0TlFkcl9kWVJDby1XeG9aTFlVNWgwcFpIcEhzQzNFLWdJbE1JUmNtTUFWejBaaXRDbEo2amVaN0ZmbkU3QQ?oc=5",
-      "publishedAt": "2026-03-23T16:56:10+00:00",
-      "fetchedAt": "2026-03-24T10:44:53.705436+00:00"
-    },
-    {
-      "id": "palantir-rss-palantir-surges-5--monday--what-the-pentagon-s-mav",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Surges 5% Monday: What the Pentagon\u2019s Maven AI Decision Means for PLTR - 24/7 Wall St.",
-      "description": "Palantir Surges 5% Monday: What the Pentagon\u2019s Maven AI Decision Means for PLTR&nbsp;&nbsp;24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEE0RGRYTE8zOVd6R3VZaTc0M0VCd25HMjlSM2hJZ3BuR1lpZ0o3dlpEQ3M4QklkTnoyR2VWbC0wYnh2c3c1QzNIQ3VxNVdxcU82V01mNDZEQjlKNjJZVW9sVUtjaC1pSG5YcFdfdmpQM2dqSGthR2dscGxKaU5mZ215X3VDdUdiUTRMWk9qOVNkTlRraUVpNjlCMWQ5Ulp2ZTVkZWY4QTM3T3F1NU9ydnNaRWpvaXZfS19SZA?oc=5",
-      "publishedAt": "2026-03-23T15:37:35+00:00",
-      "fetchedAt": "2026-03-24T10:44:53.705472+00:00"
-    },
-    {
-      "id": "dataminr-rss-dataminr-redefines-cyber-defense-with-ai-powered-c",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Dataminr Redefines Cyber Defense with AI-Powered Client-Tailored Intelligence and Autonomous Threat and Exposure Management - PR Newswire",
-      "description": "Dataminr Redefines Cyber Defense with AI-Powered Client-Tailored Intelligence and Autonomous Threat and Exposure Management&nbsp;&nbsp;PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZEg1N3JMWWRGaEpmc2ExR0lRSnlPRkFfMUFvQjRONEh6eENMVUdSUFN6SUhzVDl4bG5PbzFjSzdNSXoybVFyc2tVeEMxNWQ3M1c1aVdscnpkZTdOMUo5VlVudFQwYS1vSFNETDJIOWVrbFFVSkZ4M3g2bHN1V0htU2FpRHZnRkV3bWZNOGd5bzdhLXVHbHhYTzh4WG1PSUgyTjRXYWxkeXdxTHhqZXltYmx4bE12UWtfNkJZcGUyeW54WEprS1ZGZk1wS3hTNENubF9iVUo2Z1FZWUg0ZzFTRlN1S1FUdmpScGl0Q0NqYndsbERYY1FZc0pfY3FZaE5OZ1NTZmpCNk96WUE?oc=5",
-      "publishedAt": "2026-03-23T13:00:00+00:00",
-      "fetchedAt": "2026-03-24T10:45:04.008294+00:00"
-    },
-    {
-      "id": "wyvern-pr-what-does-future-hold-for-wyvern-theatre-after--45",
-      "companyId": "wyvern",
-      "companyName": "Wyvern",
-      "category": "geoint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "What does future hold for Wyvern Theatre after \u00a345m venue announcement? - Swindon Advertiser",
-      "description": "Press release / announcement from Wyvern",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDgxR2kxWnhtenRhRnQ5WXQ2eDNfSldTN0VtYUpmdTdWRHJ6MnhWYTlyNDRMdHZrV2Q1OF81S2tfVU9yRWZpZ3pwX2RiY2Vfbzg2QVJqOXJqOTRmMXRvT3g4YkFtR2lHTG9mME1kNTNmY3VvSngwTEFyVy1EamhkcUphbThLZ1hMSkdMVEc2Nk4tQWhnNi1lZ0t3UzFUQUR2Q1A0?oc=5",
-      "publishedAt": "2026-03-23T11:06:33+00:00",
-      "fetchedAt": "2026-03-24T10:47:15.438043+00:00"
+      "sourceName": "Protothema.gr",
+      "title": "Explosions and injuries in Israel from Iranian missiles, Tehran denies Trump\u2019s claims of \u201cpoints of agreement\u201d (Update)",
+      "description": "Oil in Europe fell to $100, gas to \u20ac54 \u2013 Goldman Sachs on the European economy: Inflation at 5.6% and interest rate hikes of up to 200 basis points in the adverse scenario\nThe post Explosions and injuries in Israel from Iranian missiles, Tehran denies Trump\u2019s\u2026",
+      "url": "https://en.protothema.gr/2026/03/24/iran-struck-a-refinery-in-kuwait-again-launching-missiles-and-drones-at-gulf-countries-israel-bombards-tehran-update/",
+      "publishedAt": "2026-03-24T07:32:38Z",
+      "fetchedAt": "2026-03-25T10:42:43.534193+00:00"
     }
   ],
-  "generatedAt": "2026-03-24T10:47:36.080126+00:00",
+  "generatedAt": "2026-03-25T10:45:06.119376+00:00",
   "periodHours": 28,
-  "count": 5
+  "count": 3
 }
