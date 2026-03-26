@@ -1,46 +1,72 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-stock-market-today--march-24--palantir-falls-on-te",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "cognyte-rss-cognyte-software--a--10-million-defense-contract-h",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Stock Market Today, March 24: Palantir Falls on Tech Weakness Despite New Government Contract Wins - The Motley Fool",
-      "description": "Stock Market Today, March 24: Palantir Falls on Tech Weakness Despite New Government Contract Wins&nbsp;&nbsp;The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcHc2b28xTHIxZ3I0ZlhFdDQ4OWFJbkFnck5mS0JwUVFXeDZoSWhvWnc5XzY0cFhROUFrN0Q4WjNQVjRwOW80TDRRRmVKdzB0TVd0MUE1NEs2aHpUQzBic0U1Q0ctNWhCVmdSTFNrVHVORWpKUmdhcW1Nbzg5ZjMtckxQN2NUZ3Z2SnNUZ05xQjFUQkZYcjhZRk81eEhvSV9Yd3BkYjFQQ29fX1VyLXlFNkFmMWdKRGIwblpfbUVhUmp1MlVwcUwzMzdDMzZtbVRyTUpoRVRoRTEtY3JCWE1nMURaNlZlM09rVi1PZzh3?oc=5",
-      "publishedAt": "2026-03-24T22:02:00+00:00",
-      "fetchedAt": "2026-03-25T10:42:37.367072+00:00"
+      "title": "Cognyte Software: A $10 Million Defense Contract Highlights a Significant Valuation Discrepancy as Investors Overlook the Recovery - Bitget",
+      "description": "Cognyte Software: A $10 Million Defense Contract Highlights a Significant Valuation Discrepancy as Investors Overlook the Recovery&nbsp;&nbsp;Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zWm93NHRtQmY3NUxZMFVGZFJCZURiNmZQRklxOWZBdlV3dDNyal9zN0thQ2xySUUzQzN0ZldmZmVRN29rVWpwZlpOeHduNzNjc1A2OFFqN0Z6LTFETk1HbHhWVdIBY0FVX3lxTE5zWm93NHRtQmY3NUxZMFVGZFJCZURiNmZQRklxOWZBdlV3dDNyal9zN0thQ2xySUUzQzN0ZldmZmVRN29rVWpwZlpOeHduNzNjc1A2OFFqN0Z6LTFETk1HbHhWVQ?oc=5",
+      "publishedAt": "2026-03-25T17:09:43+00:00",
+      "fetchedAt": "2026-03-26T10:48:10.864623+00:00"
     },
     {
-      "id": "dataminr-rss-dataminr-launches-new-ai-powered-cyber-defense-sol",
+      "id": "dataminr-rss-dataminr-launches-ai-powered-cyber-defense-tools",
       "companyId": "dataminr",
       "companyName": "Dataminr",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Dataminr Launches New AI-Powered Cyber Defense Solutions - Homeland Security Today",
-      "description": "Dataminr Launches New AI-Powered Cyber Defense Solutions&nbsp;&nbsp;Homeland Security Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkpyZHdZQnlEWXVIVXhBRV9uQ1FPVWdtclhWemtPLWFBUjRiU0JhMTJXWlZxN29JTFh1akhHVFByYUgtaFNEVFI0cDVZMG1fM2NDRzBsZHRYYTBVX3Ewd1FkWUVmNG9DRW5ucEthQXA0TnlmNVU5MWRhNnVndWs1c0RfZ09HamtKWmRJT2pvcGJCU040ZzhvdWQ3NGE3RTRJZG5sY2l3?oc=5",
-      "publishedAt": "2026-03-24T08:53:43+00:00",
-      "fetchedAt": "2026-03-25T10:42:48.170948+00:00"
+      "title": "Dataminr Launches AI-Powered Cyber Defense Tools - ExecutiveBiz",
+      "description": "Dataminr Launches AI-Powered Cyber Defense Tools&nbsp;&nbsp;ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVURnUFhxYjF3RXNlekZ5RERjYmRraEVlNWFwOVdzNllyMmxxVjJKZWE2cVVoNGYwblBQZnFacGd5YjNkbk5mS3E2VnJvd09TMncxU2hkQjlFeWQ1VEJ3MXhWaWlLQm44RTNiR3FmV1VXQmE2Q3FFdzFJekVsWS1fbmN3?oc=5",
+      "publishedAt": "2026-03-25T11:15:46+00:00",
+      "fetchedAt": "2026-03-26T10:47:45.824396+00:00"
     },
     {
-      "id": "recorded-future-explosions-and-injuries-in-israel-from-iranian-mis",
+      "id": "cognyte-rss-cognyte-lands-major-state-agency-deal-for-fugitive",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Cognyte lands major state agency deal for fugitive and missing-child cases - Stock Titan",
+      "description": "Cognyte lands major state agency deal for fugitive and missing-child cases&nbsp;&nbsp;Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDVSRzlUVTlhdFBZdENxN29HLXp5RzFFV1lRR0ZSX19tT3d3bXJBUUlIX09XX0hqNDBTUjFZdHhaNjFrTU9qX2ZGellaZWd6dGcxZzhqSGJMbmtHOENPUGhuMnJJU2E2bEJqV2FjbmR6SzhMbDVWMFNmUnBidlJuVnVoWkRqNm15VFFiSmlUWVdTdkFVM1hMaTM3Wnozb3hPZlZHXzVReG9ZM3VicC1xQWlvNzRHZ3o2SVc2SQ?oc=5",
+      "publishedAt": "2026-03-25T11:00:00+00:00",
+      "fetchedAt": "2026-03-26T10:48:10.864695+00:00"
+    },
+    {
+      "id": "cognyte-pr-cognyte-wins---5m-contract-with-tier-1-us-law-enfo",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Cognyte Wins ~$5M Contract with Tier-1 US Law Enforcement Agency to Power Mission-Critical Investigations - Yahoo Finance Singapore",
+      "description": "Press release / announcement from Cognyte",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0J2VEhGYVFjeEdjUlJvbXZyVUc5Rm1tQUo1NzUtZTZuc0hmNlNpS0JLcHd4OWVOa2RKT3B4YlhNOHgzUzVZclRpMUVfNXpXM1MyWmZ3X0xtd19YNWozVUpLNTRaVTZUWmhVMkQ3eUIxeHNFSEZMMjI2RFU2WksxMkpjSEw?oc=5",
+      "publishedAt": "2026-03-25T11:00:00+00:00",
+      "fetchedAt": "2026-03-26T10:48:12.228500+00:00"
+    },
+    {
+      "id": "recorded-future-the-line-at-a-crossroads--revisiting-neom-s-vision",
       "companyId": "recorded-future",
       "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Protothema.gr",
-      "title": "Explosions and injuries in Israel from Iranian missiles, Tehran denies Trump\u2019s claims of \u201cpoints of agreement\u201d (Update)",
-      "description": "Oil in Europe fell to $100, gas to \u20ac54 \u2013 Goldman Sachs on the European economy: Inflation at 5.6% and interest rate hikes of up to 200 basis points in the adverse scenario\nThe post Explosions and injuries in Israel from Iranian missiles, Tehran denies Trump\u2019s\u2026",
-      "url": "https://en.protothema.gr/2026/03/24/iran-struck-a-refinery-in-kuwait-again-launching-missiles-and-drones-at-gulf-countries-israel-bombards-tehran-update/",
-      "publishedAt": "2026-03-24T07:32:38Z",
-      "fetchedAt": "2026-03-25T10:42:43.534193+00:00"
+      "sourceName": "ArchDaily",
+      "title": "The Line at a Crossroads: Revisiting NEOM's Vision for a Utopian City",
+      "description": "In 2023, ArchDaily's editor-in-chief sat down with Tarek Qaddumi, Executive Director of the Line Design at NEOM, at the closing of the Line Exhibition in Riyadh. Qaddumi described a layered, three-dimensional city organized around the idea of a \"five-minute s\u2026",
+      "url": "https://www.archdaily.com/1039911/the-line-at-a-crossroads-revisiting-neoms-vision-for-a-utopian-city",
+      "publishedAt": "2026-03-25T07:30:00Z",
+      "fetchedAt": "2026-03-26T10:47:41.356301+00:00"
     }
   ],
-  "generatedAt": "2026-03-25T10:45:06.119376+00:00",
+  "generatedAt": "2026-03-26T10:50:32.790452+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 5
 }
