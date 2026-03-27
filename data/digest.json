@@ -1,72 +1,20 @@
 {
   "articles": [
     {
-      "id": "cognyte-rss-cognyte-software--a--10-million-defense-contract-h",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
+      "id": "flashpoint-rss-why-millions-are-boycotting-ai-as-debate-rages-ove",
+      "companyId": "flashpoint",
+      "companyName": "Flashpoint",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Cognyte Software: A $10 Million Defense Contract Highlights a Significant Valuation Discrepancy as Investors Overlook the Recovery - Bitget",
-      "description": "Cognyte Software: A $10 Million Defense Contract Highlights a Significant Valuation Discrepancy as Investors Overlook the Recovery&nbsp;&nbsp;Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zWm93NHRtQmY3NUxZMFVGZFJCZURiNmZQRklxOWZBdlV3dDNyal9zN0thQ2xySUUzQzN0ZldmZmVRN29rVWpwZlpOeHduNzNjc1A2OFFqN0Z6LTFETk1HbHhWVdIBY0FVX3lxTE5zWm93NHRtQmY3NUxZMFVGZFJCZURiNmZQRklxOWZBdlV3dDNyal9zN0thQ2xySUUzQzN0ZldmZmVRN29rVWpwZlpOeHduNzNjc1A2OFFqN0Z6LTFETk1HbHhWVQ?oc=5",
-      "publishedAt": "2026-03-25T17:09:43+00:00",
-      "fetchedAt": "2026-03-26T10:48:10.864623+00:00"
-    },
-    {
-      "id": "dataminr-rss-dataminr-launches-ai-powered-cyber-defense-tools",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Dataminr Launches AI-Powered Cyber Defense Tools - ExecutiveBiz",
-      "description": "Dataminr Launches AI-Powered Cyber Defense Tools&nbsp;&nbsp;ExecutiveBiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVURnUFhxYjF3RXNlekZ5RERjYmRraEVlNWFwOVdzNllyMmxxVjJKZWE2cVVoNGYwblBQZnFacGd5YjNkbk5mS3E2VnJvd09TMncxU2hkQjlFeWQ1VEJ3MXhWaWlLQm44RTNiR3FmV1VXQmE2Q3FFdzFJekVsWS1fbmN3?oc=5",
-      "publishedAt": "2026-03-25T11:15:46+00:00",
-      "fetchedAt": "2026-03-26T10:47:45.824396+00:00"
-    },
-    {
-      "id": "cognyte-rss-cognyte-lands-major-state-agency-deal-for-fugitive",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Cognyte lands major state agency deal for fugitive and missing-child cases - Stock Titan",
-      "description": "Cognyte lands major state agency deal for fugitive and missing-child cases&nbsp;&nbsp;Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDVSRzlUVTlhdFBZdENxN29HLXp5RzFFV1lRR0ZSX19tT3d3bXJBUUlIX09XX0hqNDBTUjFZdHhaNjFrTU9qX2ZGellaZWd6dGcxZzhqSGJMbmtHOENPUGhuMnJJU2E2bEJqV2FjbmR6SzhMbDVWMFNmUnBidlJuVnVoWkRqNm15VFFiSmlUWVdTdkFVM1hMaTM3Wnozb3hPZlZHXzVReG9ZM3VicC1xQWlvNzRHZ3o2SVc2SQ?oc=5",
-      "publishedAt": "2026-03-25T11:00:00+00:00",
-      "fetchedAt": "2026-03-26T10:48:10.864695+00:00"
-    },
-    {
-      "id": "cognyte-pr-cognyte-wins---5m-contract-with-tier-1-us-law-enfo",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Cognyte Wins ~$5M Contract with Tier-1 US Law Enforcement Agency to Power Mission-Critical Investigations - Yahoo Finance Singapore",
-      "description": "Press release / announcement from Cognyte",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0J2VEhGYVFjeEdjUlJvbXZyVUc5Rm1tQUo1NzUtZTZuc0hmNlNpS0JLcHd4OWVOa2RKT3B4YlhNOHgzUzVZclRpMUVfNXpXM1MyWmZ3X0xtd19YNWozVUpLNTRaVTZUWmhVMkQ3eUIxeHNFSEZMMjI2RFU2WksxMkpjSEw?oc=5",
-      "publishedAt": "2026-03-25T11:00:00+00:00",
-      "fetchedAt": "2026-03-26T10:48:12.228500+00:00"
-    },
-    {
-      "id": "recorded-future-the-line-at-a-crossroads--revisiting-neom-s-vision",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "ArchDaily",
-      "title": "The Line at a Crossroads: Revisiting NEOM's Vision for a Utopian City",
-      "description": "In 2023, ArchDaily's editor-in-chief sat down with Tarek Qaddumi, Executive Director of the Line Design at NEOM, at the closing of the Line Exhibition in Riyadh. Qaddumi described a layered, three-dimensional city organized around the idea of a \"five-minute s\u2026",
-      "url": "https://www.archdaily.com/1039911/the-line-at-a-crossroads-revisiting-neoms-vision-for-a-utopian-city",
-      "publishedAt": "2026-03-25T07:30:00Z",
-      "fetchedAt": "2026-03-26T10:47:41.356301+00:00"
+      "title": "Why millions are boycotting AI as debate rages over its ethical use - Australian Broadcasting Corporation",
+      "description": "Why millions are boycotting AI as debate rages over its ethical use&nbsp;&nbsp;Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzMtajMxNjVDLUVGRzdvM2FaajVudkFiSXFKbjZqRE1zdmRzU3RnZDhwZmhFczUxVzJkU2ViTHpqU1BOUHB4YU1PR2lYNmdsaWEweURJWFdTNFdsbkR1a181cUVXekJYenNKY283N0xyQlZEODEtTUpSNXVZdHFkOWZPdnExNGJRcWxyZnM1NjRSbmxZNVg1cVh2Q195MHBNbUpnaU1xZmw?oc=5",
+      "publishedAt": "2026-03-26T23:11:32+00:00",
+      "fetchedAt": "2026-03-27T10:42:01.877869+00:00"
     }
   ],
-  "generatedAt": "2026-03-26T10:50:32.790452+00:00",
+  "generatedAt": "2026-03-27T10:45:16.110158+00:00",
   "periodHours": 28,
-  "count": 5
+  "count": 1
 }
