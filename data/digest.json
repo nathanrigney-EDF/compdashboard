@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-03-29T10:30:02.311607+00:00",
+  "articles": [
+    {
+      "id": "palantir-pr-palantir-technologies-announces-the-renewal-and-ex",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Palantir Technologies Announces the Renewal and Expansion of Its Partnership With Stellantis for an Additional Five Years - Yahoo Finance Singapore",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHo1SU51dVgwajV5VlBkSWdGSDdEZ054QVJYaExvWnRVLWRPaEtFVS1qNlR1ZDFyTDhoaHpRV0Q1WFVHNTd2Vkd5MzNtRUVPbHNMZzJyNndGUG0tS2ZyMzNid1dPQ25zbjlScHBqa0hkQzQzeWtqUEE2anItUjVvLVdtSGVFdkdlSGhOOXItZm9reDFBb1Q0QlB3aTEtdlk?oc=5",
+      "publishedAt": "2026-03-30T07:00:00+00:00",
+      "fetchedAt": "2026-03-30T10:57:09.862793+00:00"
+    }
+  ],
+  "generatedAt": "2026-03-30T10:58:43.927935+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
