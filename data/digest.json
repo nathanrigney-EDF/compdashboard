@@ -1,33 +1,111 @@
 {
   "articles": [
     {
-      "id": "spire-global-pr-spire-global-successfully-launches-ten-satellites",
+      "id": "spire-global-pr-spire-global-launches-satellite-to-advance-measure",
       "companyId": "spire-global",
       "companyName": "Spire Global",
       "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Spire Global Successfully Launches Ten Satellites on SpaceX\u2019s Transporter-16 Mission - Yahoo! Finance Canada",
+      "title": "Spire Global Launches Satellite to Advance Measurement of Earth\u2019s Magnetic Field in Support of MagQuest Challenge - Yahoo Finance Singapore",
       "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2VfZkF5UHk3VXg1U2lSQ0pGYjE4SkVPaGZQMDF1STBvUHJETEhqU1huQjZ0V25qa29YSWk5RGpvZ21nM08wOEY2a1B0Yld1S2lyaFdsQUItamdydmNiUXRNdkp3VGZYamhvTGpQaGNMWmVkc2pPU0dFd3F0Y0IyZjJ1VkVqNHVsc2ZOcng4VFo?oc=5",
-      "publishedAt": "2026-03-30T20:45:00+00:00",
-      "fetchedAt": "2026-03-31T10:50:48.757673+00:00"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMksxRWxmQk5RM3ZJdWZLNDdxNXNpa0hrOTk3SzlTODVhSWhVLXR2SURHVTh2V0dfQ3ZUSjJ4bGctZmFvYUFEdlY1NU41MGIxbmZIT3dmNUU2cUFNZGJQZlVuU0Z2MmZfLVkydW1ZT1lCVzJKbXl2REs1RVRJT1ItdU1VcWpqU0pVVVVWcDlWNmVZQQ?oc=5",
+      "publishedAt": "2026-04-01T10:45:00+00:00",
+      "fetchedAt": "2026-04-01T10:51:42.237050+00:00"
     },
     {
-      "id": "palantir-pr-palantir-technologies-announces-the-renewal-and-ex",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "vantor-geoint-rss-vantor-wins-nga-luno-b-contract-to-deliver-automat",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Vantor Wins NGA Luno B Contract to Deliver Automated Orbital Intelligence on Space Objects - businesswire.com",
+      "description": "Vantor Wins NGA Luno B Contract to Deliver Automated Orbital Intelligence on Space Objects&nbsp;&nbsp;businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORXNPdllvcWs5M1pvMS1fRGF5MWxocjhNWl9INHljVjNCR0hJTDZ2YXpLaDd0MlVIMmlvMUJBY1lGVUZlQ1RSbEwwclFjZWFjeEhibFI3UHNFcFRzNEVQTnFBQ0RuQUJGcVhHVU5sMGw0MUxneFNDVTEzX2VsM01Oc3U4eXRUTU5raF81VEw1WnNNM1d4RTNkaEVwRzNyclZCVkFwV2ppRnJUVWxwd1FzY0trQ3pzbDF3M2d2WVFtY204UWJ0OEZId0pSQnFCX3JCb3g0Q3lGb3dQZ2NsbDVucA?oc=5",
+      "publishedAt": "2026-04-01T09:30:00+00:00",
+      "fetchedAt": "2026-04-01T10:51:56.378244+00:00"
+    },
+    {
+      "id": "vantor-geoint-pr-vantor-wins-nga-luno-b-contract-to-deliver-automat",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Vantor Wins NGA Luno B Contract to Deliver Automated Orbital Intelligence on Space Objects - Morningstar",
+      "description": "Press release / announcement from Vantor",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU2V0ZjNScUtFc2xFSzktYWVmU1N5ZmIyQldFelZVRHNQZzVENTF3X05IbWVvLVVXOHZ5MmpDajhHTFpERFpfc0ZMaGNTSUJwemI0VmJiZGlQTlJhZkhtYW92bUY1WWkzdzhyT1ZQSjJxWU44RFR2M2tuUzNaMUpTRjJxT3hsS3RYdHBYODRjTkZSRHp2enJsQUo1X0lPaTZxNEdsbDJFV3A3SXNqVmRYc1VBUkduUi1SUUlPSXJUempaSnhwRnV6RDF2VU85Y25PWHB2MDctRk5lMUFscDgwSTJaQmV0QTQ?oc=5",
+      "publishedAt": "2026-04-01T09:30:00+00:00",
+      "fetchedAt": "2026-04-01T10:51:57.649003+00:00"
+    },
+    {
+      "id": "iceye-pr-iceye-launches-six-new-sar-satellites---janes",
+      "companyId": "iceye",
+      "companyName": "ICEYE",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Iceye launches six new SAR satellites - Janes",
+      "description": "Press release / announcement from ICEYE",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdnFzdmNXV0NKdE84d0lDTjdvREFBcU5mQVo2Q3RoakFrWjRERjlPWFRKbDdtVm4zbDdiR2g1YkllcENfdTJwWTJ0Tk4xV0JiWGU1ZFZRVlBTT1RxMFdJaDdyUUtvamVIcVdKTTYxRTV2ak5GWVZzUGIwaGdqNV9QX3l0N0lYU1VqSzIxZV8xT19CMWIwMlE?oc=5",
+      "publishedAt": "2026-03-31T22:37:30+00:00",
+      "fetchedAt": "2026-04-01T10:51:14.075453+00:00"
+    },
+    {
+      "id": "seerist-rss-seerist-and-janes-announce-strategic-partnership-t",
+      "companyId": "seerist",
+      "companyName": "Seerist",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Seerist and Janes Announce Strategic Partnership to Revolutionize Real-Time Military Intelligence and Mission Workflows - Lelezard",
+      "description": "Seerist and Janes Announce Strategic Partnership to Revolutionize Real-Time Military Intelligence and Mission Workflows&nbsp;&nbsp;Lelezard",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUWs5RHFkSjR6TGplRl9qNHBaNEZScGJ0SGRkRUlRRGRWdDlkYnI3emVxSjhJaUJPVUN4UFJWSnFxelg5cnpQMjc2VkZxbndTOWs4RGFzS1lQZw?oc=5",
+      "publishedAt": "2026-03-31T22:00:44+00:00",
+      "fetchedAt": "2026-04-01T10:50:29.253608+00:00"
+    },
+    {
+      "id": "seerist-pr-seerist-and-janes-announce-strategic-partnership-t",
+      "companyId": "seerist",
+      "companyName": "Seerist",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Palantir Technologies Announces the Renewal and Expansion of Its Partnership With Stellantis for an Additional Five Years - Business Wire",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQanlvQ0VkeVc5aVdnRm55UHVXTTRybnpiU0tHazhnSGlBSmV3TGI1MVo4WF9lVll3TFR0OUx0d1NRT2hCYzliQUVkZWZSajhMdUt0T0htbTQ4VllJN3pORzdPWkF4bURkWEVVdXpvdXRnNjFPdE9CTDlfWU9FT3lxTnFTYUdRX05GVmEtX2xUMzZEQWpPWkdFVUx5WWJlc2JKdEZDMHFVR0VkUDZMX2RsbUVZcDFXeXc1c2dvT2pPR1FsYjJaMVpLUkVrekNBUVJHdl9kOXZ2VXpIZUg5Vy1hVXhXanluTnNEaGpTbDFReF96QkdDQ0daaC1FSnJmQkR0WUI2NmpOd0s4UQ?oc=5",
-      "publishedAt": "2026-03-30T07:00:00+00:00",
-      "fetchedAt": "2026-03-31T10:48:53.124187+00:00"
+      "title": "Seerist and Janes Announce Strategic Partnership to Revolutionize Real-Time Military Intelligence and Mission Workflows - Lelezard",
+      "description": "Press release / announcement from Seerist",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUWs5RHFkSjR6TGplRl9qNHBaNEZScGJ0SGRkRUlRRGRWdDlkYnI3emVxSjhJaUJPVUN4UFJWSnFxelg5cnpQMjc2VkZxbndTOWs4RGFzS1lQZw?oc=5",
+      "publishedAt": "2026-03-31T22:00:44+00:00",
+      "fetchedAt": "2026-04-01T10:50:30.464662+00:00"
+    },
+    {
+      "id": "l3harris-pr-l3harris-sets-date-for-first-quarter-2026-earnings",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Sets Date for First Quarter 2026 Earnings Release - barchart.com",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzZkdHpXX0FWQVFJSDRmdUU3dTExN0lHU19SYmIwNWVlZmhrSG4zeDdTamswS2RnWkI2aWdOSFVFdFExcDE1X3VIMU5WbF9yS0UxS0VNYVpSeEtOVGdkMVdNM2FSZmE2UXlkcnktSmRBN180ZHl4TnBzTTVSaFpXVFNBQjJfRXFOS2UxdC12dmVicVB3dTNuS0NoSGZUNl9hdE9zWQ?oc=5",
+      "publishedAt": "2026-03-31T14:00:00+00:00",
+      "fetchedAt": "2026-04-01T10:51:22.017287+00:00"
+    },
+    {
+      "id": "blacksky-rss-blacksky-awarded-multi-year-sole-source--99-millio",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BlackSky Awarded Multi-Year Sole-Source $99 Million US Government IDIQ Contract for Advanced, Next Generation Capabilities - businesswire.com",
+      "description": "BlackSky Awarded Multi-Year Sole-Source $99 Million US Government IDIQ Contract for Advanced, Next Generation Capabilities&nbsp;&nbsp;businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdlM0Y1B3LVhnVmdjLXVkZU9qaHBMUjF2NmtZQ2lTR2lxbFZhUEYtMzJkZUxIcEhSVElSVjV6QUZueDNWY29tRGxWVkRtc1ZFOTF2MWlqellkOWJrbjhWVkVhWHE5eEw0a210MVFoTXpFbS1OVjFHQS1SZ182T2x6M3F5R3FabGRtNVF6aWFIcDUyNzBOazVKNXZMWGpBR2N5dDF6TTM4bHFLczVBbDNMMnNiQmpjYS1hdVRpRFRCcV9mM0lkRE5KNFhDY056blBsVU5lOFhrMm5nOTBBVld1SkVtWU5mQ1BSV2NrMGV5WGZ2NF93M1JaOHhhVmd6OFU1Yy1lem5wQlcwYVZq?oc=5",
+      "publishedAt": "2026-03-31T12:45:00+00:00",
+      "fetchedAt": "2026-04-01T10:51:04.785922+00:00"
     }
   ],
-  "generatedAt": "2026-03-31T10:51:21.457234+00:00",
+  "generatedAt": "2026-04-01T10:52:01.409379+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 8
 }
