@@ -1,98 +1,20 @@
 {
   "articles": [
     {
-      "id": "booz-allen-rss-bah-s-consistency-in-government-contracting-and-in",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BAH's Consistency in Government Contracting and Innovation Assistance - Bitget",
-      "description": "BAH's Consistency in Government Contracting and Innovation Assistance&nbsp;&nbsp;Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84V01BYVJERW5HeDJnSTNKanlfdFFzX1VSTjBJdkp5WVhDVEJrYWdSM0luUC13di1nWkRBUWNsaWlZSkprQlJ4WGZHdTdhT3pKa3lLSlZORS1MeVRxWWxqVUotNNIBY0FVX3lxTE84V01BYVJERW5HeDJnSTNKanlfdFFzX1VSTjBJdkp5WVhDVEJrYWdSM0luUC13di1nWkRBUWNsaWlZSkprQlJ4WGZHdTdhT3pKa3lLSlZORS1MeVRxWWxqVUotNA?oc=5",
-      "publishedAt": "2026-04-01T18:51:33+00:00",
-      "fetchedAt": "2026-04-02T10:47:35.869996+00:00"
-    },
-    {
-      "id": "babel-street-rss-babel-street-extends-free-real-time-risk-intellige",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Babel Street Extends Free Real-Time Risk Intelligence to U.S. Tech Companies Operating Across the Middle East Being Targeted by Iran\u2019s Islamic Revolutionary Guard Corps - Business Wire",
-      "description": "Babel Street Extends Free Real-Time Risk Intelligence to U.S. Tech Companies Operating Across the Middle East Being Targeted by Iran\u2019s Islamic Revolutionary Guard Corps&nbsp;&nbsp;Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPQzNiY09jY1FhSTBYTVctTnM0d0wxQXJhdmVyR0JqV290Z3hmR2dZS2VvcmVUeFo4T3Z0aHZrQ2VxaDdFQmFKU0JYU19mRW03ZUVQMU9OaTNzRzlva2dJa0syZEZ6Qk1MbEwtYjdIZzlOZ0ZRSTJiMmFnd3dFcUlFbl9ycndDNFBGb21WRTFIV3JDamxBM3ZoWmpfZFNGQ2RtaF96S2NMOWNTSE9HRE9GVmNCNXZtbGJpU25hT1lkaE1ablE0R1BvLTA4MmoySEpYczJ6d0FRc01fSnpKYVZyZWFkdlBXVEhqLUFxNDNlR1NUOGdYSUZSU3NLUkJwdnlZVzJSV3F0cm5tLW5iN3hTRWVtWVNrTEs0dVg3RXlTV0lZaGt5N2dNLUVRaHQ4cjdpRTlrT2c5T3hRZThRd1hJUjFmbVJST2M?oc=5",
-      "publishedAt": "2026-04-01T17:42:00+00:00",
-      "fetchedAt": "2026-04-02T10:46:41.762635+00:00"
-    },
-    {
-      "id": "booz-allen-rss-bah-s-government-contracts-and-innovation-support",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BAH's Government Contracts and Innovation Support Stability - tradingview.com",
-      "description": "BAH's Government Contracts and Innovation Support Stability&nbsp;&nbsp;tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDhTSzF1dmhoLXVpbVg3ZXZCLUU4M3VUVGdjQS1VWFFqWGdOV1lyQkxUVTFncFpMc0ZFNTROcWFuNVQ4dHFLYWw2bGZtYUdZMVBISmc5TXMzUTZuMTk4eUVPNUphVWtMS2NYbDRCTXd4WHBCcTk2UTJ3amV6Z3N5Q0wwLXRobkxmV001VE9VU2I0T1dfSkJpWkNfUy03Mm84S0NJTTlVQkVIRS1VN0N6R2xnRVFRZw?oc=5",
-      "publishedAt": "2026-04-01T16:22:00+00:00",
-      "fetchedAt": "2026-04-02T10:47:35.869972+00:00"
-    },
-    {
-      "id": "seerist-rss-janes--seerist-to-offer-integrated-intelligence-pl",
-      "companyId": "seerist",
-      "companyName": "Seerist",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Janes, Seerist to Offer Integrated Intelligence Platform for National Security Users - ExecutiveBiz",
-      "description": "Janes, Seerist to Offer Integrated Intelligence Platform for National Security Users&nbsp;&nbsp;ExecutiveBiz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjNEeFF4U19pcndOWWdQRXAzSWtPcFUzWmkya3B3c2xsNm9qazZ3R3NncTlnUTNOTkpJdlVWYjdBNjBNOHhRTy1FeV93eUtudHBLd3h3MmpCaFd5WnBzUThZUnFoUHc0ZXlzRTNpd2hWMXh2NXFobU1peXR0ZjZVaFhuUTJlSk9ZUWd6ODRB?oc=5",
-      "publishedAt": "2026-04-01T12:39:56+00:00",
-      "fetchedAt": "2026-04-02T10:47:54.256014+00:00"
-    },
-    {
-      "id": "spire-global-pr-spire-global-launches-satellite-to-advance-measure",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Spire Global Launches Satellite to Advance Measurement of Earth\u2019s Magnetic Field in Support of MagQuest Challenge - Yahoo! Finance Canada",
-      "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDAyV2NsSklpOVg0eUtaNlo2WDlST1NIRjQwVWdfWTNaVHdXWkRSSHpuU3cwVk83UHFjaW5IanZiQTlKM3BDQWFnZGgzQnZFVTFNZFhOeF9EQTVmbDBQY3VkWW5nUDRlcVBoQVM3aHk1Wm1nRDZYOHp0eXBzNzhHZVpqVUZMSjhLckY1ekxTNFRDZw?oc=5",
-      "publishedAt": "2026-04-01T10:45:00+00:00",
-      "fetchedAt": "2026-04-02T10:49:18.552755+00:00"
-    },
-    {
-      "id": "vantor-geoint-rss-vantor-wins-nga-luno-b-contract-to-deliver-automat",
+      "id": "vantor-geoint-rss-vantor-to-provide-nga-with-orbital-intelligence-un",
       "companyId": "vantor-geoint",
       "companyName": "Vantor",
       "category": "geoint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Vantor Wins NGA Luno B Contract to Deliver Automated Orbital Intelligence on Space Objects - Bakersfield.com",
-      "description": "Vantor Wins NGA Luno B Contract to Deliver Automated Orbital Intelligence on Space Objects&nbsp;&nbsp;Bakersfield.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNRGNYNVphNWJybFA3RWJuTVFvVDVvRU9kQVc1WEZxZ1BST01XSTZIS3BtQ1VfeFM5bndMQktfR1pKano1NzVQdll2aVVyOGtrQTZyTXpNNjRPcU9SWnFyOGdhX2R5d3oxbnp6S1pxNWU1TXpzMjNMM2otQlFNNW41b0NxSnh2QnFkZklBMnBISS14aHV6TnA2Q3VyamhFcW1HSG1CbzhqaUVEXzFyMEdBdmpOQVZsTjhmSFBCaHE4ZFg1enVFbm9EcHBqTGhkWVJ6VFJ6VnhJbkRMVFNqS3RHZ0dLLUZENG90VlMwY1YtZ1VHeFlxSWtZS0FHbFBuZWxDQmFJQXZ2a0xEbXVU?oc=5",
-      "publishedAt": "2026-04-01T09:30:07+00:00",
-      "fetchedAt": "2026-04-02T10:49:46.396663+00:00"
-    },
-    {
-      "id": "vantor-geoint-pr-vantor-wins-nga-luno-b-contract-to-deliver-automat",
-      "companyId": "vantor-geoint",
-      "companyName": "Vantor",
-      "category": "geoint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Vantor Wins NGA Luno B Contract to Deliver Automated Orbital Intelligence on Space Objects - Morningstar",
-      "description": "Press release / announcement from Vantor",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU2V0ZjNScUtFc2xFSzktYWVmU1N5ZmIyQldFelZVRHNQZzVENTF3X05IbWVvLVVXOHZ5MmpDajhHTFpERFpfc0ZMaGNTSUJwemI0VmJiZGlQTlJhZkhtYW92bUY1WWkzdzhyT1ZQSjJxWU44RFR2M2tuUzNaMUpTRjJxT3hsS3RYdHBYODRjTkZSRHp2enJsQUo1X0lPaTZxNEdsbDJFV3A3SXNqVmRYc1VBUkduUi1SUUlPSXJUempaSnhwRnV6RDF2VU85Y25PWHB2MDctRk5lMUFscDgwSTJaQmV0QTQ?oc=5",
-      "publishedAt": "2026-04-01T09:30:00+00:00",
-      "fetchedAt": "2026-04-02T10:49:47.564508+00:00"
+      "title": "Vantor to Provide NGA With Orbital Intelligence Under New Luno B Contract - ExecutiveBiz",
+      "description": "Vantor to Provide NGA With Orbital Intelligence Under New Luno B Contract&nbsp;&nbsp;ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXA4YlkwWHlvOVdoNkVaX2x4dHhBV2dub0Z5SERuemg0eU9CcHc5MlBWRXN0T0tvRFI2NDI2dE1MZ0FMWkd6a1ZzaW5zeVlmTThHdnljeUdPc1QzOHp4NnY3WVVSRWJwMjctZlozcjVzVVJFTFotdmcxNmNzYlFNOFVQNGxiSDVjU0hqbUZDblQ?oc=5",
+      "publishedAt": "2026-04-02T14:15:45+00:00",
+      "fetchedAt": "2026-04-03T10:40:42.069953+00:00"
     }
   ],
-  "generatedAt": "2026-04-02T10:49:50.659223+00:00",
+  "generatedAt": "2026-04-03T10:40:46.627026+00:00",
   "periodHours": 28,
-  "count": 7
+  "count": 1
 }
