@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "vantor-geoint-rss-vantor-to-provide-nga-with-orbital-intelligence-un",
-      "companyId": "vantor-geoint",
-      "companyName": "Vantor",
-      "category": "geoint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Vantor to Provide NGA With Orbital Intelligence Under New Luno B Contract - ExecutiveBiz",
-      "description": "Vantor to Provide NGA With Orbital Intelligence Under New Luno B Contract&nbsp;&nbsp;ExecutiveBiz",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXA4YlkwWHlvOVdoNkVaX2x4dHhBV2dub0Z5SERuemg0eU9CcHc5MlBWRXN0T0tvRFI2NDI2dE1MZ0FMWkd6a1ZzaW5zeVlmTThHdnljeUdPc1QzOHp4NnY3WVVSRWJwMjctZlozcjVzVVJFTFotdmcxNmNzYlFNOFVQNGxiSDVjU0hqbUZDblQ?oc=5",
-      "publishedAt": "2026-04-02T14:15:45+00:00",
-      "fetchedAt": "2026-04-03T10:40:42.069953+00:00"
-    }
-  ],
-  "generatedAt": "2026-04-03T10:40:46.627026+00:00",
+  "articles": [],
+  "generatedAt": "2026-04-04T10:29:10.050979+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
