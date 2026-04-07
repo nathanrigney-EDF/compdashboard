@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-04-06T10:53:16.449754+00:00",
+  "articles": [
+    {
+      "id": "leidos-pr-leidos-will-release-quarterly-results-before-an-8",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Leidos will release quarterly results before an 8 a.m. May 5 call - Stock Titan",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFd6RlZmXzViZGZiVk95Z2NJUVIzbWczODVJUVd6NkFYOXpYVy1WWUVUSjBodFdDaS05MEQ1R0hNMjgtaW1sZ29Janl3djZ4VzRKWHlPSjlDdGtvRko1RUpoYkMtN3gtUWlMcUFxOHVnaS13WVp5VzNTUmFOb1FmQVJ6UUJUVmZNUlRTclBrYjdLNVh4STJSeUp6TmxfSWJ5WGtuSzdIMGE3dGd4dlZINVF5c0VmUzBGOHcwNFNZQmU?oc=5",
+      "publishedAt": "2026-04-06T12:00:00+00:00",
+      "fetchedAt": "2026-04-07T10:51:34.293343+00:00"
+    }
+  ],
+  "generatedAt": "2026-04-07T10:53:09.832389+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
