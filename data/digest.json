@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "leidos-pr-leidos-will-release-quarterly-results-before-an-8",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
+      "id": "satellogic-rss-in-a-defensive-march--these-space-stocks-orbited-o",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "In a Defensive March, These Space Stocks Orbited Outperformance - ETF Trends",
+      "description": "In a Defensive March, These Space Stocks Orbited Outperformance&nbsp;&nbsp;ETF Trends",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNG1JWmw5Z2p1UTB1SGlsRUxQbnBfWGxUbzRNUW9kQzVldG00bHl4VThQTWNwYTZxU2NHeVo1SWt5YXh2TXFHcjhMVDEtamIzaHdiaEVvY2wzMnRLRVBqdkJSUC1HdFJIUWd2OXFMVjVqbHhOWFBkWjl4aWFoU3BDM09DaElQbk5XMGIxXzZjXzloMTRKeUV3MldDMTZTZVRtbnkwWTJMdHhIaThjYXdnN3pkQdIBswFBVV95cUxQNG1JWmw5Z2p1UTB1SGlsRUxQbnBfWGxUbzRNUW9kQzVldG00bHl4VThQTWNwYTZxU2NHeVo1SWt5YXh2TXFHcjhMVDEtamIzaHdiaEVvY2wzMnRLRVBqdkJSUC1HdFJIUWd2OXFMVjVqbHhOWFBkWjl4aWFoU3BDM09DaElQbk5XMGIxXzZjXzloMTRKeUV3MldDMTZTZVRtbnkwWTJMdHhIaThjYXdnN3pkQQ?oc=5",
+      "publishedAt": "2026-04-07T18:48:09+00:00",
+      "fetchedAt": "2026-04-08T10:55:11.615266+00:00"
+    },
+    {
+      "id": "capella-space-pr-capella-selected-for-next-space-development-agency",
+      "companyId": "capella-space",
+      "companyName": "Capella Space",
+      "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Leidos will release quarterly results before an 8 a.m. May 5 call - Stock Titan",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFd6RlZmXzViZGZiVk95Z2NJUVIzbWczODVJUVd6NkFYOXpYVy1WWUVUSjBodFdDaS05MEQ1R0hNMjgtaW1sZ29Janl3djZ4VzRKWHlPSjlDdGtvRko1RUpoYkMtN3gtUWlMcUFxOHVnaS13WVp5VzNTUmFOb1FmQVJ6UUJUVmZNUlRTclBrYjdLNVh4STJSeUp6TmxfSWJ5WGtuSzdIMGE3dGd4dlZINVF5c0VmUzBGOHcwNFNZQmU?oc=5",
-      "publishedAt": "2026-04-06T12:00:00+00:00",
-      "fetchedAt": "2026-04-07T10:51:34.293343+00:00"
+      "title": "Capella Selected for Next Space Development Agency Prototype - AFCEA International",
+      "description": "Press release / announcement from Capella Space",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEtya0FXOE9qVVl3ZV9ELW16OXdqTm1xU0k4OHlTT2xsSWlIR3JVVEluMDlETUloUVFWcTV4VnlDUWt1ay1wNUM3NEwydkpjSXBhWkRrN19VOG81UC14VVhtOC1JYUFMNWtEWFhaSEc5QVZXUjJjMWdwdHdBaGhFRG9mYzIzV0o2TjlxUkQ0MEl0Y0kyQ085dGY5Q0h0eHQ2Nk9sTEtwNHNocU1hcXZv?oc=5",
+      "publishedAt": "2026-04-07T12:00:00+00:00",
+      "fetchedAt": "2026-04-08T10:54:49.083768+00:00"
     }
   ],
-  "generatedAt": "2026-04-07T10:53:09.832389+00:00",
+  "generatedAt": "2026-04-08T10:56:00.173343+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
