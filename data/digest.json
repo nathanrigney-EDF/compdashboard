@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "spire-global-pr-spire-global-announces--70-0-million-private-place",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Spire Global Announces $70.0 Million Private Placement - Yahoo! Finance Canada",
+      "description": "Press release / announcement from Spire Global",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3o2a0JnY29HVGpfVkY0cTZwYXI1Z2J0SGEwelM1NjJGcU9FNzNIeERTcGpaSnF4SWUyV2lsOGwzSExVcFFaaTFLd193QjZlR1Eyd3BOc1Y4V3V2T28ta3lKOThIS3loeVBNRDVwS21RSGpZXzBGSlhpV3llZjZHTlB3?oc=5",
+      "publishedAt": "2026-04-09T12:00:00+00:00",
+      "fetchedAt": "2026-04-10T10:50:02.274257+00:00"
+    },
+    {
       "id": "spire-global-rss-spire-global-inc-stock--why-space-data-is-powering",
       "companyId": "spire-global",
       "companyName": "Spire Global",
@@ -9,25 +22,12 @@
       "sourceName": "Google News",
       "title": "Spire Global Inc stock: Why space data is powering investor interest now - AD HOC NEWS",
       "description": "Spire Global Inc stock: Why space data is powering investor interest now&nbsp;&nbsp;AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdk1DU0xNTkhzTVZSMjV4UUJhWHA1V2JxUTNLVm9xclVSZ1BJVW8xOU1sMmotWnBuU1dBOUYxWl93NG12VkZMMWxLc2lrVWU1SkJzTnZ6NUhFeVpUdGdpaFdFN0J3VTQzcm85RmNicnhsUmxFTU9qQnZ5U0szVk91cndPRjRjQXdXZDUzRWtybWhVcTExOTZJU0RNSGMzYlIwQzdDVGowR2g2UlhzQ1g0NHJhUkJSTkV3VHhNaXAxbnB3V3FoOHctNGJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ0NoQUZJenFvT2txTVJ0T3JqcWM3MThhbVFRM3I2aUp3UkVTaDFSLV9FWE5XMVBfR0VucGJBcFViNzk2ZUlYRjFDTlY1WXhldk9lNmwyQUlPTUtZSGJ4SFRYTE4xYmFIaUVRRWdSNHFWcm1ZeUY0bFFUR3l5VlRiMFNWRXJVUUFkZ2UzaGZPVWpMQUFXdWVuM1JsZmxZdXI1V25jMjB6cUZDTXNfZTVHU2NPX1VScnJabXE4aGRpQmphanM?oc=5",
       "publishedAt": "2026-04-09T09:40:18+00:00",
-      "fetchedAt": "2026-04-09T10:56:07.127990+00:00"
-    },
-    {
-      "id": "bigbear-ai-pr-bigbear-ai-announces-appointments-of-jo-ann-bjorns",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai Announces Appointments of Jo Ann Bjornson as Chief Human Resources Officer and Alex Thompson as Chief Corporate Affairs Officer - Business Wire",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYlBoaXdydVU4Z2tUQlJVazRJRWNyLTk3aFI4WDFSZG9nMnVZU3BSQlByUk9FSFRWaC1kaHBzellUb0pIMWpxVmd5Zm1JY19tX1pjRzVqSmc1NHYzN1J4ekFCczJheWdxMVdXN05mcndtaXA3VzE0MFdFUUZIZVpseDNHZEwxV1lZVjUzcGxjelpUVmkxcDdQNGRlTzFMcHB3U0p5R29WRThmaDJ3a08yMUFrVWFWYlp5dkhLRE9iTjBGU1BONDJSaTJjaXZaVlZoUmRNTWl6WXZtNXhuWW0zMXF6YzJHRG9xQTNYVEREalVMTm5ZQ2hDNWNwY292VVducDZrUjRGc2xKMTVxd0hKdmFhUWRqcm9JY1oxTGlraUo?oc=5",
-      "publishedAt": "2026-04-08T13:15:00+00:00",
-      "fetchedAt": "2026-04-09T10:54:46.404682+00:00"
+      "fetchedAt": "2026-04-10T10:50:01.002868+00:00"
     }
   ],
-  "generatedAt": "2026-04-09T10:56:41.390685+00:00",
+  "generatedAt": "2026-04-10T10:50:34.731282+00:00",
   "periodHours": 28,
   "count": 2
 }
