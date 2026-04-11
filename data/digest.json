@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "spire-global-pr-spire-global-announces--70-0-million-private-place",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Spire Global Announces $70.0 Million Private Placement - Yahoo! Finance Canada",
-      "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3o2a0JnY29HVGpfVkY0cTZwYXI1Z2J0SGEwelM1NjJGcU9FNzNIeERTcGpaSnF4SWUyV2lsOGwzSExVcFFaaTFLd193QjZlR1Eyd3BOc1Y4V3V2T28ta3lKOThIS3loeVBNRDVwS21RSGpZXzBGSlhpV3llZjZHTlB3?oc=5",
-      "publishedAt": "2026-04-09T12:00:00+00:00",
-      "fetchedAt": "2026-04-10T10:50:02.274257+00:00"
-    },
-    {
-      "id": "spire-global-rss-spire-global-inc-stock--why-space-data-is-powering",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Spire Global Inc stock: Why space data is powering investor interest now - AD HOC NEWS",
-      "description": "Spire Global Inc stock: Why space data is powering investor interest now&nbsp;&nbsp;AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ0NoQUZJenFvT2txTVJ0T3JqcWM3MThhbVFRM3I2aUp3UkVTaDFSLV9FWE5XMVBfR0VucGJBcFViNzk2ZUlYRjFDTlY1WXhldk9lNmwyQUlPTUtZSGJ4SFRYTE4xYmFIaUVRRWdSNHFWcm1ZeUY0bFFUR3l5VlRiMFNWRXJVUUFkZ2UzaGZPVWpMQUFXdWVuM1JsZmxZdXI1V25jMjB6cUZDTXNfZTVHU2NPX1VScnJabXE4aGRpQmphanM?oc=5",
-      "publishedAt": "2026-04-09T09:40:18+00:00",
-      "fetchedAt": "2026-04-10T10:50:01.002868+00:00"
-    }
-  ],
-  "generatedAt": "2026-04-10T10:50:34.731282+00:00",
+  "articles": [],
+  "generatedAt": "2026-04-11T10:32:08.310921+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
