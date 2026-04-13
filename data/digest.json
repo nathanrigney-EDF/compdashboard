@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-04-12T10:36:08.275477+00:00",
+  "articles": [
+    {
+      "id": "palantir-palantir-stock-2026--buy-or-sell-pltr-as-ai-platfo",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Ibtimes.com.au",
+      "title": "Palantir Stock 2026: Buy or Sell PLTR as AI Platform Drives 61% Revenue Growth Despite High Valuation Concerns",
+      "description": "NEW YORK \u2014 Palantir Technologies Inc. (NASDAQ: PLTR) shares traded near $128 as of April 10, 2026, with Wall Street issuing a Moderate Buy consensus amid explosive commercial momentum from its Artificial Intelligence Platform (AIP) and steady government contr\u2026",
+      "url": "https://www.ibtimes.com.au/palantir-stock-2026-buy-sell-pltr-ai-platform-drives-61-revenue-growth-despite-high-valuation-1866216",
+      "publishedAt": "2026-04-12T08:29:31Z",
+      "fetchedAt": "2026-04-13T11:12:59.843184+00:00"
+    }
+  ],
+  "generatedAt": "2026-04-13T11:16:05.375581+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
