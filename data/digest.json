@@ -1,85 +1,20 @@
 {
   "articles": [
     {
-      "id": "palantir-pr-press-release--palantir-announces-date-of-first-qu",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "caci-pr-caci-international--caci--to-release-earnings-on-w",
+      "companyId": "caci",
+      "companyName": "CACI International",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Press Release: Palantir Announces Date of First Quarter 2026 Earnings Release and Webcast - Moomoo",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYy1pSzJRNjRVN04wZHdPOFlDWnc3NVZuU05kTU85bVJvcmsxb1huaVJGNmVVSUtvOXVkOWw1a0JIdXI1bVZMdkdqdk9kYXJtSU1PYzhwRUxxQzVKbE5GWjB6X210eXFlS0k5WkpEbDZPQVBkYk5JLTVBdDZaS0F5N2JtZ29OeDlENG9mLVJSTDdVRG9uOWdOa1FtSVloQkFzTzk4R2tJVWF0ZUh0V2Jn?oc=5",
-      "publishedAt": "2026-04-13T22:15:00+00:00",
-      "fetchedAt": "2026-04-14T10:57:54.510205+00:00"
-    },
-    {
-      "id": "palantir-pr-palantir-announces-date-of-first-quarter-2026-earn",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Palantir Announces Date of First Quarter 2026 Earnings Release and Webcast - Business Wire",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ294T2lSZ1U1eEVLSG5tZ3BGY3dtMGhjY2xvWnFnX3RnNjdzMzl1b0pJaXdRUEpnTFNHMFd0MXBqb3c4eVpoNXY1TTB3MGhkS2M2SW02SVN3eUI1SVNPSlU3c2NDT25ESlJneWdMaTZsSmptWWhabUZXbkE1UHlzZmpHN0R2RGZoem1ieEhreUNZcGhLSTFsOXRlZHVyRHJQd25KRzJQQjNxdlNBenFzOVYwTlE3Z1VNa0QxNFNvcHRGbFFrOWZraF9Tcw?oc=5",
-      "publishedAt": "2026-04-13T20:05:00+00:00",
-      "fetchedAt": "2026-04-14T10:57:54.510180+00:00"
-    },
-    {
-      "id": "palantir-rss-palantir-rises-as-trump-endorsement-and-military-a",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Rises as Trump Endorsement and Military AI Contracts Give the Bulls Ammunition - 24/7 Wall St.",
-      "description": "Palantir Rises as Trump Endorsement and Military AI Contracts Give the Bulls Ammunition&nbsp;&nbsp;24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWFOSnRjYkRJMlRCNzdxS1N4Uk1nbnJuczVZdUY2bVpUS3JZWWJvakdhMm5SUmxKN2hjRE52SmFwWnRVSEYyVWU4T3dPV2VtaUYtXzYtV2xRQWJXX3ZfNm9nRkM0UlJ5TEgxOElITTd1emNVbEhmUWdNOU43aUZ1aHlkY29ORVB5VEdsQ24wM0RVZVpjelh4aGZyZ1dpaWNnc29zMEhzRXM2b1J0WkpPa3JlcXduSUhLYmg3SmJJeHZTMThLbW12bndTSQ?oc=5",
-      "publishedAt": "2026-04-13T13:49:23+00:00",
-      "fetchedAt": "2026-04-14T10:57:53.124125+00:00"
-    },
-    {
-      "id": "recorded-future-the-death-of-an-ai-whistleblower",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Thenation.com",
-      "title": "The Death of an AI Whistleblower",
-      "description": "Jacob Silverman\n\n\n\nSuchir Balaji sought to expose OpenAI\u2019s data abuses. Did it come at the expense of his own life?\r\n\n\r\n\n\nThe post The Death of an AI Whistleblower appeared first on The Nation.",
-      "url": "https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/",
-      "publishedAt": "2026-04-13T09:00:02Z",
-      "fetchedAt": "2026-04-14T10:57:59.594712+00:00"
-    },
-    {
-      "id": "recorded-future-weekly-climate-and-energy-news-roundup--686",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Wattsupwiththat.com",
-      "title": "Weekly Climate and Energy News Roundup #686",
-      "description": "\u201cAll other aspects and characteristics of science can be understood directly when we understand that observation is the ultimate and final judge of the truth of an idea.\u201d \u2014 Richard Feynman, The Meaning of It All: Thoughts of a Citizen-Scientist (1998)",
-      "url": "https://wattsupwiththat.com/2026/04/13/weekly-climate-and-energy-news-roundup-686/",
-      "publishedAt": "2026-04-13T09:00:00Z",
-      "fetchedAt": "2026-04-14T10:57:59.594731+00:00"
-    },
-    {
-      "id": "recorded-future-japan-s-record-low-births-ignite-global-population",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Ibtimes.com.au",
-      "title": "Japan's Record Low Births Ignite Global Population Collapse Debate After Viral X Post",
-      "description": "TOKYO \u2014 A viral X post warning that population collapse poses a greater threat to humanity than overpopulation has drawn hundreds of thousands of views after spotlighting Japan's grim 2025 demographic data. The post by user @XFreeze highlighted the country's \u2026",
-      "url": "https://www.ibtimes.com.au/japans-record-low-births-ignite-global-population-collapse-debate-after-viral-x-post-1866340",
-      "publishedAt": "2026-04-13T07:43:54Z",
-      "fetchedAt": "2026-04-14T10:57:59.594738+00:00"
+      "title": "CACI International (CACI) to Release Earnings on Wednesday - MarketBeat",
+      "description": "Press release / announcement from CACI International",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVFzX3pCM1VFVF9zaVdiWndQNHNPNGhjOEtkZ2NSLXVXVWxlaUdqSGFQNjV3LUd0NVYzWXZNSmRyR2NXcXdEZmpMdVJaZzlaejFxMWlreVN6M25hUkJTQ3A3dFI0b2daVlN4M3hVX1F6aVNpcTFOWGJRQnlUQVBXMDkwcElKOV8wRXBYdUFPWW1nTkRqZnpQX281NElNUHlHU21XTFoxRVhLVm02OE5N?oc=5",
+      "publishedAt": "2026-04-15T05:39:30+00:00",
+      "fetchedAt": "2026-04-15T10:55:04.329108+00:00"
     }
   ],
-  "generatedAt": "2026-04-14T11:00:39.992190+00:00",
+  "generatedAt": "2026-04-15T10:57:38.066743+00:00",
   "periodHours": 28,
-  "count": 6
+  "count": 1
 }
