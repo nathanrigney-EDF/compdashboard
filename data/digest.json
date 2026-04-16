@@ -1,20 +1,46 @@
 {
   "articles": [
     {
-      "id": "caci-pr-caci-international--caci--to-release-earnings-on-w",
-      "companyId": "caci",
-      "companyName": "CACI International",
+      "id": "leidos-pr-analogic---leidos-security-enterprise-solutions-an",
+      "companyId": "leidos",
+      "companyName": "Leidos",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "CACI International (CACI) to Release Earnings on Wednesday - MarketBeat",
-      "description": "Press release / announcement from CACI International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVFzX3pCM1VFVF9zaVdiWndQNHNPNGhjOEtkZ2NSLXVXVWxlaUdqSGFQNjV3LUd0NVYzWXZNSmRyR2NXcXdEZmpMdVJaZzlaejFxMWlreVN6M25hUkJTQ3A3dFI0b2daVlN4M3hVX1F6aVNpcTFOWGJRQnlUQVBXMDkwcElKOV8wRXBYdUFPWW1nTkRqZnpQX281NElNUHlHU21XTFoxRVhLVm02OE5N?oc=5",
-      "publishedAt": "2026-04-15T05:39:30+00:00",
-      "fetchedAt": "2026-04-15T10:55:04.329108+00:00"
+      "title": "Analogic & Leidos Security Enterprise Solutions Announce Intent to Combine Under Analogic Leadership - Business Wire",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNelBHLXl1TF9ybXRuWTdzWllJR3c4X1VxaVNsVnB4b21aQ2plLW1sVnJXX1JCcHNfMzZtYzJPNXBvZU5mdXRuY3NIMjJCOG8wbFJOblJBQ2Z2U3VtQm9BanBhLTBwLU1Md1E0eUYtcDVhYlNIckxSYldEUUdka2dNTUJIOHJPY3NSZ1R3THVKSlZWUmhsd3FxZWZ0TklCa3NFWVUxeVdWOHhQZm5PaUdaX1kwMGVGbjFhRFk2RUtLTS11YUlITlN3OUx5QUdVeV9qV19OcHdTQmpDblloS1BlLXFubDg2OHo3TkZz?oc=5",
+      "publishedAt": "2026-04-15T10:05:00+00:00",
+      "fetchedAt": "2026-04-16T10:57:57.410620+00:00"
+    },
+    {
+      "id": "leidos-pr-leidos-security-enterprise-solutions-and-analogic",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Leidos Security Enterprise Solutions and Analogic partner to form American joint venture and strengthen global security screening capabilities - PR Newswire",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZ2N3RlpLbWlyNTJadXE1S25PYXdaSEdXWk42Um1lVi1xLXRlbGFMWnowZjhSMWlZRHhNTXgzTXlXSlRoakVoMkJjN0FvZ2tKX0U4VW9BUC0wR0FfemdsZkpzOFBTekdwVFNiOFJKVjR0S1pvZmQxcEt3WDJYZnF6TEpMWHhMNE1DMUpCaDdXOWRNb1F0cmhTTTMxQVc5emlUVnl1WmxFWV9rU1lJUmNBOVJwNG1jN0VNZzhpTURuVUswTWYyX2VEdWtjU01UTWlYaGZENUh1R2tMWF9KbEEwdVZXX3NLMU95aTN0ZWRVa19FVC1EeWt5RVZxcEdHYWlIOGhHd0NtR3dXNnl6WWFnQzVkbmRfaXZyMVJvZFhhaWw4Z3Zf?oc=5",
+      "publishedAt": "2026-04-15T10:00:00+00:00",
+      "fetchedAt": "2026-04-16T10:57:57.410598+00:00"
+    },
+    {
+      "id": "recorded-future-good-sleep--good-learning--2012",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Super-memory.com",
+      "title": "Good Sleep, Good Learning (2012)",
+      "description": "Article URL: https://super-memory.com/articles/sleep.htm\nComments URL: https://news.ycombinator.com/item?id=47776557\nPoints: 4\n# Comments: 1",
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "publishedAt": "2026-04-15T09:11:18Z",
+      "fetchedAt": "2026-04-16T10:57:37.233403+00:00"
     }
   ],
-  "generatedAt": "2026-04-15T10:57:38.066743+00:00",
+  "generatedAt": "2026-04-16T10:59:58.744987+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 3
 }
