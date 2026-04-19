@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "palantir-pr-press-release--reps--garamendi--goldman--velazquez",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Press Release: Reps. Garamendi, Goldman, Velazquez, and Sen. Wyden Call for Accountability on ICE's Use of Palantir Technologies for Surveillance - Quiver Quantitative",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM05McEJKTm92ekF4ZXVfU3hZa1BBbGswRFF2dVNJR3pMRTN1bVpody1sVldsM1AxNTI4RXByUU9IX1AtQlUwVnZUVkRfWElHeFNFUnhRQndRU1F0ZzdiTV9BSUF6emlQeVNxSWxfcHZsR2ZUN0hRTTVCSkFPQ2FZRnhQblU1eFo5MGx0QVZyTEU4TXlBR2xWTGUxYlM2ZTRkUG1Pclp2OFN1SzFNZGFCcGVyMFFBdnlsX3R4R19uWlBQZl9EWWhOXzNTUjJCeUZtSURqcTVSNDRvLUpYdnBkWXFQWXE1NldfOERyWjRMeVVHZEk0cXg2by1xZ0dORVZ0b3RVNU5RQ0U2UnVEQU8wZDZlRHVOZjg?oc=5",
-      "publishedAt": "2026-04-17T20:24:00+00:00",
-      "fetchedAt": "2026-04-18T10:35:15.764911+00:00"
-    }
-  ],
-  "generatedAt": "2026-04-18T10:37:18.235525+00:00",
+  "articles": [],
+  "generatedAt": "2026-04-19T10:36:44.748155+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
