@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": "2026-04-19T10:36:44.748155+00:00",
+  "articles": [
+    {
+      "id": "spire-global-pr-spire-global-selected-by-precursor-spc-to-support",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Spire Global Selected by Precursor SPC to Support Hypersonic Tracking - Yahoo Finance Singapore",
+      "description": "Press release / announcement from Spire Global",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenpOWUVrVjZEb0hMc0lVczJScUw5WW1Mbi0wMWlVTVFncUVsb1MxVENxYk5rbWNIbHVaVldwNzY2WkMwVlZwS21NVjJEWllUN3F4d011ZHM3Z2V4NkFwRGxfMEwtUHRsLWtMVWFkcDlzN3pBbENwSFRydlg2UHhKcWpDd0JPQjBCNXlNZA?oc=5",
+      "publishedAt": "2026-04-20T10:45:00+00:00",
+      "fetchedAt": "2026-04-20T11:19:16.601387+00:00"
+    },
+    {
+      "id": "vantor-geoint-pr-windward-vantor-partnership-to-track-vessels-that",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Windward\u2013Vantor partnership to track vessels that go dark - The Jerusalem Post",
+      "description": "Press release / announcement from Vantor",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52Tm8xaWRtRXVxY2R2TXR3a3hwZVVhVzhzY3hTbjY2eWRPM3hlQl9BbnFoUlRKczFxUVJvX3JMbks4MFZsZXhJOWd5akQwYkw0Uk14YzZfLTRwZkJvTXdyNFhrNA?oc=5",
+      "publishedAt": "2026-04-20T07:19:47+00:00",
+      "fetchedAt": "2026-04-20T11:19:45.741175+00:00"
+    }
+  ],
+  "generatedAt": "2026-04-20T11:19:48.913300+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
