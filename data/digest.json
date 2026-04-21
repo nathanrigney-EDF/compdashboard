@@ -11,7 +11,20 @@
       "description": "Press release / announcement from Spire Global",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenpOWUVrVjZEb0hMc0lVczJScUw5WW1Mbi0wMWlVTVFncUVsb1MxVENxYk5rbWNIbHVaVldwNzY2WkMwVlZwS21NVjJEWllUN3F4d011ZHM3Z2V4NkFwRGxfMEwtUHRsLWtMVWFkcDlzN3pBbENwSFRydlg2UHhKcWpDd0JPQjBCNXlNZA?oc=5",
       "publishedAt": "2026-04-20T10:45:00+00:00",
-      "fetchedAt": "2026-04-20T11:19:16.601387+00:00"
+      "fetchedAt": "2026-04-21T11:03:19.172367+00:00"
+    },
+    {
+      "id": "iceye-rss-rheinmetall-plans-satellite-test-facility-in-norwa",
+      "companyId": "iceye",
+      "companyName": "ICEYE",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Rheinmetall Plans Satellite Test Facility in Norway - The Defense Post",
+      "description": "Rheinmetall Plans Satellite Test Facility in Norway&nbsp;&nbsp;The Defense Post",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDRTUDBtZUZiRXR6eFgtZFRiOFJIQnhwdFY1THMxZDhnYmhackxjQkJseGIyemVfNTNMdnF5M2xHSmxkZTJubnFPS1V3MzNWenFqWFBGOExsejBGQzhXbkdPSjI1anp1RlZZQzQtV0NIazZQMVY0X1diZG1XS3BHOUNn0gGHAUFVX3lxTE4zNVlEdDI0cTlOU0xJSktpTDFvWFREaUtKTWEtWlR3V0FwUDNtMEpwTXJKTTNBRXNfNHdTVkhKdlF1YVBicXVKZ2FpakozbmJudy1UbGt5Mi12VVhSTHljWGF3VDZqNWtVSW1nRFNPYkRTSEZlX19Rbm0wQjdmd082SmUxWk91cw?oc=5",
+      "publishedAt": "2026-04-20T08:37:20+00:00",
+      "fetchedAt": "2026-04-21T11:03:05.316829+00:00"
     },
     {
       "id": "vantor-geoint-pr-windward-vantor-partnership-to-track-vessels-that",
@@ -24,10 +37,10 @@
       "description": "Press release / announcement from Vantor",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52Tm8xaWRtRXVxY2R2TXR3a3hwZVVhVzhzY3hTbjY2eWRPM3hlQl9BbnFoUlRKczFxUVJvX3JMbks4MFZsZXhJOWd5akQwYkw0Uk14YzZfLTRwZkJvTXdyNFhrNA?oc=5",
       "publishedAt": "2026-04-20T07:19:47+00:00",
-      "fetchedAt": "2026-04-20T11:19:45.741175+00:00"
+      "fetchedAt": "2026-04-21T11:03:48.416671+00:00"
     }
   ],
-  "generatedAt": "2026-04-20T11:19:48.913300+00:00",
+  "generatedAt": "2026-04-21T11:04:06.647074+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 3
 }
