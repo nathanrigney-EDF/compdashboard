@@ -1,6 +1,124 @@
 {
-  "articles": [],
-  "generatedAt": "2026-04-22T11:01:57.230427+00:00",
+  "articles": [
+    {
+      "id": "palantir-rss-palantir-s-usda-deal-and-defense-manifesto-reframe",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Palantir\u2019s USDA Deal And Defense Manifesto Reframe Its Government Role - Yahoo Finance",
+      "description": "Palantir\u2019s USDA Deal And Defense Manifesto Reframe Its Government Role&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFFtRUpUSndaMWJtQ2JndmVMbVZsZTFESl95UGQzMThLUTg3YkxNLWVnYW96ZVBDMFBNLUNPNlAxLXdpN3U0bi1IeUhLT25yVVljLWtoZzlQSjhWSnpRZHBKbzBzeVk5ZVRjMGRGMlpmRXlNZVZKejZGcmkyeTRVZWVKd0JZMFZZMlB4WndHWDRacXBuWXBjUWRWWXFiRE5GaVVR?oc=5",
+      "publishedAt": "2026-04-23T01:11:00+00:00",
+      "fetchedAt": "2026-04-23T11:03:10.412346+00:00"
+    },
+    {
+      "id": "shadowdragon-rss-shadowdragon-and-district-4-labs-announce-strategi",
+      "companyId": "shadowdragon",
+      "companyName": "ShadowDragon",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "ShadowDragon and District 4 Labs Announce Strategic Partnership to Transform OSINT and Digital Investigations - EIN News",
+      "description": "ShadowDragon and District 4 Labs Announce Strategic Partnership to Transform OSINT and Digital Investigations&nbsp;&nbsp;EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWpYRGRvTlJiY0dFbW5WLUNIeUZ2Vm5yNmtmQkFwYnNSaWNJanFkME5CeUlYUS05cnBfZXoxNGpwVTZrU0tHT2FlMXloRVJqQU53cVkyUmNMTzdKZGtwc0c1S1NZbUk4MEU5Ump5NjJPajlOek91Zl9NazQ3VGRkOWtmYkEtdGxJVjJOSVk0OURUa0o3X0hxenlVd2MzbGJIajV4Zm5INHhGdjllRlhINVJ2d05Ic0UzQjFCSnVmUmltSzA1OEs1T2ZXUElmRzZTRGg1R24tVzZmVGZEOWxSbFVyUHNGR1JRS2x4T9IB7AFBVV95cUxPaWpYRGRvTlJiY0dFbW5WLUNIeUZ2Vm5yNmtmQkFwYnNSaWNJanFkME5CeUlYUS05cnBfZXoxNGpwVTZrU0tHT2FlMXloRVJqQU53cVkyUmNMTzdKZGtwc0c1S1NZbUk4MEU5Ump5NjJPajlOek91Zl9NazQ3VGRkOWtmYkEtdGxJVjJOSVk0OURUa0o3X0hxenlVd2MzbGJIajV4Zm5INHhGdjllRlhINVJ2d05Ic0UzQjFCSnVmUmltSzA1OEs1T2ZXUElmRzZTRGg1R24tVzZmVGZEOWxSbFVyUHNGR1JRS2x4Tw?oc=5",
+      "publishedAt": "2026-04-22T16:05:02+00:00",
+      "fetchedAt": "2026-04-23T11:03:41.855449+00:00"
+    },
+    {
+      "id": "shadowdragon-pr-shadowdragon-and-district-4-labs-announce-strategi",
+      "companyId": "shadowdragon",
+      "companyName": "ShadowDragon",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "ShadowDragon and District 4 Labs Announce Strategic Partnership to Transform OSINT and Digital Investigations - EIN News",
+      "description": "Press release / announcement from ShadowDragon",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWpYRGRvTlJiY0dFbW5WLUNIeUZ2Vm5yNmtmQkFwYnNSaWNJanFkME5CeUlYUS05cnBfZXoxNGpwVTZrU0tHT2FlMXloRVJqQU53cVkyUmNMTzdKZGtwc0c1S1NZbUk4MEU5Ump5NjJPajlOek91Zl9NazQ3VGRkOWtmYkEtdGxJVjJOSVk0OURUa0o3X0hxenlVd2MzbGJIajV4Zm5INHhGdjllRlhINVJ2d05Ic0UzQjFCSnVmUmltSzA1OEs1T2ZXUElmRzZTRGg1R24tVzZmVGZEOWxSbFVyUHNGR1JRS2x4T9IB7AFBVV95cUxPaWpYRGRvTlJiY0dFbW5WLUNIeUZ2Vm5yNmtmQkFwYnNSaWNJanFkME5CeUlYUS05cnBfZXoxNGpwVTZrU0tHT2FlMXloRVJqQU53cVkyUmNMTzdKZGtwc0c1S1NZbUk4MEU5Ump5NjJPajlOek91Zl9NazQ3VGRkOWtmYkEtdGxJVjJOSVk0OURUa0o3X0hxenlVd2MzbGJIajV4Zm5INHhGdjllRlhINVJ2d05Ic0UzQjFCSnVmUmltSzA1OEs1T2ZXUElmRzZTRGg1R24tVzZmVGZEOWxSbFVyUHNGR1JRS2x4Tw?oc=5",
+      "publishedAt": "2026-04-22T16:05:02+00:00",
+      "fetchedAt": "2026-04-23T11:03:43.136844+00:00"
+    },
+    {
+      "id": "blacksky-rss-blacksky-wins--25-million-multi-year-satellite-int",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BlackSky wins $25 million multi-year satellite intelligence contract with major international defense customer - Defence Industry Europe",
+      "description": "BlackSky wins $25 million multi-year satellite intelligence contract with major international defense customer&nbsp;&nbsp;Defence Industry Europe",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeWZzZ1dxb2FjcXpTYXdBOHkxaGFFM21LZnMwQUUyZ3doZnlBcU50N0QzaG9vcnRGU1hQSkk0dF8zdzg4X3ZobUVrbmQ4aXVGb2JmNTFiakNxMW14T1gwZmdKMmdXTjVIWU9nSE5CdV9KWVhJNkFxazVtbjJYa1hRSDRuSkpTOTVTV25IWVIzTmNFWWFhWW02enQ5NFc1ekx0NHprREt3eUc4T2liWm5vbkJ0NEdBLXJIbk05eklEdTM4ZmpTMER5M29qMkpCMW5kOGJMTw?oc=5",
+      "publishedAt": "2026-04-22T14:55:40+00:00",
+      "fetchedAt": "2026-04-23T11:05:00.266929+00:00"
+    },
+    {
+      "id": "blacksky-pr-blacksky-technology-wins--25m-assured-deal--boosti",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BlackSky Technology wins $25M assured deal, boosting Gen-3 revenue pipeline - MSN",
+      "description": "Press release / announcement from BlackSky Technology",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXJ0MzdGZHU0NFhNaUthUVFxcW1nb3ZMVHNuQXBPeERraTdmSXJOd3FfS0I2dEh3eGpIRG9DZ1ZNdkwxME9nSmFMbDdUQ3VjYS13cVlXWk80SnVpSUhzTk9hRGsteW5lbGRzdHVjeWM1dDY1bXN2QVR6NHJUOXRmeVV2MGNqeTVFdlJ5NW1ZVEU1NkN6SFRFYXZlQS04NGs0QVhCSm5WQWhtcmFUTlQ5Y2FTN1Q4X19ZcG9iX3NmemJWLTVrM1E?oc=5",
+      "publishedAt": "2026-04-22T14:35:13+00:00",
+      "fetchedAt": "2026-04-23T11:05:01.757199+00:00"
+    },
+    {
+      "id": "blacksky-rss-blacksky-wins--25m-defense-contract-for-satellite",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BlackSky wins $25M defense contract for satellite imagery - Investing.com",
+      "description": "BlackSky wins $25M defense contract for satellite imagery&nbsp;&nbsp;Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUZuejVubW05eU56UzUycjBwY29fZTk1eGh2OERKdVRfa013MGdvZmpXb3JWZWZJQkh2eExIYWV4QkFSd1NKVHc4MGY4TmJkd0kzal9ybkxxZVBfSGVEMWFnS1hOQ192MzNVUmdfTzFPUkFoa0JVYXJJcXY0NHFvbks4NEc1RXdSQ2trbnpxV09MXzg3WE8xcjRFLUkycV81cVI1V2lSdzFoMjFDZk9hRlppMA?oc=5",
+      "publishedAt": "2026-04-22T12:47:23+00:00",
+      "fetchedAt": "2026-04-23T11:05:00.266905+00:00"
+    },
+    {
+      "id": "palantir-rss-palantir-lands--300m-usda-contract--pivots-to-food",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Palantir lands $300M USDA contract, pivots to food security - The Tech Buzz",
+      "description": "Palantir lands $300M USDA contract, pivots to food security&nbsp;&nbsp;The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVRYdnpGdVJIRmVyeUZoQWtBU1VxaGxITUd4dmhwSGZDLTRULWdxTHpCdjM5d3ZWODFxOEZZN0ZoSlA2ZDU5ZzVHNzJOODlCLVNKMl9qeEk3S1h5UnFEYlMxNlEwQXhCUXB0YWR5bGlYN214UEVhZFhOMGxUdWRPTnhrcFk5b0tEVzh3TjI0bGtfdGxN?oc=5",
+      "publishedAt": "2026-04-22T11:48:00+00:00",
+      "fetchedAt": "2026-04-23T11:03:10.412397+00:00"
+    },
+    {
+      "id": "palantir-rss-palantir-inks--300-million-deal-with-usda-to-safeg",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Palantir inks $300 million deal with USDA to safeguard food supply - CNBC",
+      "description": "Palantir inks $300 million deal with USDA to safeguard food supply&nbsp;&nbsp;CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFkwaVpyeEhxcC15R3o5Q3JhTlcxYlVkUFNob1puUkE5NHgwNVAyRUNoNEd1TFlMRHpYQ1VOZTR5bnppTkdCcktBN1lUSkhmQWpEbTdFSEVjaGVFaERfcVFGc1RRQzBKSzVmQTVxQ0VqYkhKUHo4TTJUeXBQRXZHLUtvWlZReWZoTTk2ZGRlVklGYndvUDdxcUJ6c0NSa2xnOHNrR9IBqgFBVV95cUxNazZBV1Y4VzBVa1JXcS1PZkRFR09FbDYzYTlZeVdYLVZuWUtkd3lGT1VKc19SbHpPNzBFcU5JY1FGWDdXY1JJX21rWHdUdlhaNUQwMFd3VVBjZGQyRjdFUjNNWDJCWm8wU1hlaWk5YnlmaU1UODUwQnB6S3FNQ082emZCWkVBa2VKeW9lRVVZOVAxQUtQY0d1VGlIR0tQd2F2WlZHTVdkNURHQQ?oc=5",
+      "publishedAt": "2026-04-22T11:00:01+00:00",
+      "fetchedAt": "2026-04-23T11:03:10.412378+00:00"
+    },
+    {
+      "id": "palantir-pr-usda-and-palantir-launch-partnership-to-deliver-fa",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "USDA and Palantir Launch Partnership to Deliver Faster, Modernized Support for Farmers - Business Wire",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPODAwWk00UFBiVFhoNTg5aXhuTkVRNTJidTFyeGw3Vl8yMER3MDg2dFM0X1FoVlM1a0puOE94QzF4Y3hFSGxkRG4zanZGRzBlUWtoTDVLRkt1cS1iWXQxdEV4cGUxMlhPZG8tdTI3RFFZQXpqeUZjQml5VnM5ZC02SVRXaHQ2dW9aUzdBNlI3NHZELTVLd3ZvRk1PaUZnN2tLN2IxUHE3aGxIY0w2M1ZQZkw2cGtZSzF1VmdEbzFUUm1NbWRSWUpEYlV2QTc4eHpjSVpOTWF1N0lFUQ?oc=5",
+      "publishedAt": "2026-04-22T10:59:00+00:00",
+      "fetchedAt": "2026-04-23T11:03:11.784910+00:00"
+    }
+  ],
+  "generatedAt": "2026-04-23T11:06:39.077116+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 9
 }
