@@ -1,33 +1,72 @@
 {
   "articles": [
     {
-      "id": "blacksky-rss-blacksky-secures--25m-deal-for-satellite-imagery",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
+      "id": "palantir-rss-palantir-under-fire-for-x--manifesto--from-co-foun",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "BlackSky Secures $25M Deal for Satellite Imagery, Analytics Services - The Defense Post",
-      "description": "BlackSky Secures $25M Deal for Satellite Imagery, Analytics Services&nbsp;&nbsp;The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWJJWmtNaXVEWWRPSnpwMXhZNjJGdFQxVTNaRjFvUEhBYVhsZktnNjJwTi1DTUo0WHZHNDBBNVVYRFE0YUdaU3hXc2FXSUw3VFptYVM5cHh5NEJTVlotcTZ6c3lwVFFZMmpicTlJdnBVMXNJSWJBV1hPam1panJLVmREdUE4T0cxbGpqVdIBkgFBVV95cUxPZEV1T3N2ZXNKSHJTUDFjeE1HajlLeFFtN09semFpQXNsVkppZ2lIdWVBSkRlVjRicVluWmJZZzdTbzJhTFlMSWZaRWN5NHJrVlpwOGNJb0VwZmVROVAySUdQalQwQnItamNRVkJ1V3huZ2xYOVVfVFk0MmJMSXpqckVVLV9YUU9TeW82NTk4M1NPdw?oc=5",
-      "publishedAt": "2026-04-23T13:54:53+00:00",
-      "fetchedAt": "2026-04-24T11:03:27.980851+00:00"
+      "title": "Palantir under fire for X 'manifesto' from co-founder Alex Karp - BBC",
+      "description": "Palantir under fire for X 'manifesto' from co-founder Alex Karp&nbsp;&nbsp;BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZ2VaR2JWVnVuZmVQdmc0LTJaOGtsVnZ1eXQ1RzhHM1R3dUNGSHB6Y2kwSWJ5M0dqajVkcndWWUQwbFFoWHk2REJ0YWM3UmVDYTVCemMzNm1xQQ?oc=5",
+      "publishedAt": "2026-04-25T01:18:33+00:00",
+      "fetchedAt": "2026-04-25T10:38:22.375774+00:00"
     },
     {
-      "id": "l3harris-rss-the-space-economy--mapping-86-companies-across-11",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
+      "id": "satellogic-rss-satellogic-s-stock-jumped-on-new-contracts-and-a-c",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
       "category": "satellite",
       "source": "news",
       "sourceName": "Google News",
-      "title": "The Space Economy: Mapping 86 Companies Across 11 Subsectors - MLQ.ai",
-      "description": "The Space Economy: Mapping 86 Companies Across 11 Subsectors&nbsp;&nbsp;MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakdqZTJFT3o5VkFyZmxwZmJsQkNlLVY1WVJaUHFsVmYyZEdzQW9fN2syTzFUXzR5N1gxLUFuTEtiY0RySUI2WDdwTlA2Y0d5TjVRQ24zSXp0U3hRZDQwRUZpQXc5cHJ5Q3Y3dkM2LV9PdUdpU2J0alBKN2NzdkZQYmJ1Ri1NT0FRbmd6Ql9BU3c?oc=5",
-      "publishedAt": "2026-04-23T09:32:14+00:00",
-      "fetchedAt": "2026-04-24T11:03:57.974540+00:00"
+      "title": "Satellogic\u2019s Stock Jumped On New Contracts And A Clearer Growth Plan - Finimize",
+      "description": "Satellogic\u2019s Stock Jumped On New Contracts And A Clearer Growth Plan&nbsp;&nbsp;Finimize",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NOUJwbmFTU1dXN3dkV1FUOVI5d19RaDFseXhpamZtcXFxOHUtUTNfeHg1U0w1WUx4V1ZxTzJ5OXAxTkJpSzkxOU1MY0pTaWU0Y084RjJ6VjloVzVi?oc=5",
+      "publishedAt": "2026-04-24T16:03:57+00:00",
+      "fetchedAt": "2026-04-25T10:40:06.159132+00:00"
+    },
+    {
+      "id": "iceye-pr-update--iceye-launches-six-new-sar-satellites---ja",
+      "companyId": "iceye",
+      "companyName": "ICEYE",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Update: Iceye launches six new SAR satellites - Janes",
+      "description": "Press release / announcement from ICEYE",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUdCelBTbkZlLWs3T0x5a2ZfUmRTejNGMlU2Q3QxenZwZHpMQWF2akV0NWJHVmtjUEx4UlZUOW1sOUxDS1JzeUl5Z01ybnpFM1FsbS1JSkJPNHYwUmtGbTZ2TGxZSExWWHhRcFptV2xhay01a3NSWjk0Wk1xcjhZTUlFdUpIVlpHbUJNWjA2dmRBc1hZVGdGeUlzYzRBcDQ?oc=5",
+      "publishedAt": "2026-04-24T11:54:31+00:00",
+      "fetchedAt": "2026-04-25T10:40:04.932713+00:00"
+    },
+    {
+      "id": "recorded-future-how-big-a-threat-are-iranian-backed-cyber-attacks",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The New Yorker",
+      "title": "How Big a Threat Are Iranian-Backed Cyber Attacks?",
+      "description": "A recent CISA advisory was a blunt reminder that, in the digital age, the battlefield has expanded to encompass the geography of everyday life. Sue Halpern writes.",
+      "url": "https://www.newyorker.com/news/the-lede/how-big-a-threat-are-iranian-backed-cyber-attacks",
+      "publishedAt": "2026-04-24T10:00:00Z",
+      "fetchedAt": "2026-04-25T10:38:28.490588+00:00"
+    },
+    {
+      "id": "recorded-future-how-big-a-threat-are-iranian-backed-cyberattacks",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The New Yorker",
+      "title": "How Big a Threat Are Iranian-Backed Cyberattacks?",
+      "description": "A recent CISA advisory was a blunt reminder that, in the digital age, the battlefield has expanded to encompass the geography of everyday life. Sue Halpern writes.",
+      "url": "https://www.newyorker.com/news/the-lede/how-big-a-threat-are-iranian-backed-cyberattacks",
+      "publishedAt": "2026-04-24T10:00:00Z",
+      "fetchedAt": "2026-04-25T10:38:28.490606+00:00"
     }
   ],
-  "generatedAt": "2026-04-24T11:04:36.796129+00:00",
+  "generatedAt": "2026-04-25T10:40:49.871276+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 5
 }
