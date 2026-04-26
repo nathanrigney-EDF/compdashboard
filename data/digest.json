@@ -1,72 +1,20 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-under-fire-for-x--manifesto--from-co-foun",
+      "id": "palantir-rss-palantir-expands-government-contracts-amid-defense",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Palantir under fire for X 'manifesto' from co-founder Alex Karp - BBC",
-      "description": "Palantir under fire for X 'manifesto' from co-founder Alex Karp&nbsp;&nbsp;BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZ2VaR2JWVnVuZmVQdmc0LTJaOGtsVnZ1eXQ1RzhHM1R3dUNGSHB6Y2kwSWJ5M0dqajVkcndWWUQwbFFoWHk2REJ0YWM3UmVDYTVCemMzNm1xQQ?oc=5",
-      "publishedAt": "2026-04-25T01:18:33+00:00",
-      "fetchedAt": "2026-04-25T10:38:22.375774+00:00"
-    },
-    {
-      "id": "satellogic-rss-satellogic-s-stock-jumped-on-new-contracts-and-a-c",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic\u2019s Stock Jumped On New Contracts And A Clearer Growth Plan - Finimize",
-      "description": "Satellogic\u2019s Stock Jumped On New Contracts And A Clearer Growth Plan&nbsp;&nbsp;Finimize",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NOUJwbmFTU1dXN3dkV1FUOVI5d19RaDFseXhpamZtcXFxOHUtUTNfeHg1U0w1WUx4V1ZxTzJ5OXAxTkJpSzkxOU1MY0pTaWU0Y084RjJ6VjloVzVi?oc=5",
-      "publishedAt": "2026-04-24T16:03:57+00:00",
-      "fetchedAt": "2026-04-25T10:40:06.159132+00:00"
-    },
-    {
-      "id": "iceye-pr-update--iceye-launches-six-new-sar-satellites---ja",
-      "companyId": "iceye",
-      "companyName": "ICEYE",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Update: Iceye launches six new SAR satellites - Janes",
-      "description": "Press release / announcement from ICEYE",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUdCelBTbkZlLWs3T0x5a2ZfUmRTejNGMlU2Q3QxenZwZHpMQWF2akV0NWJHVmtjUEx4UlZUOW1sOUxDS1JzeUl5Z01ybnpFM1FsbS1JSkJPNHYwUmtGbTZ2TGxZSExWWHhRcFptV2xhay01a3NSWjk0Wk1xcjhZTUlFdUpIVlpHbUJNWjA2dmRBc1hZVGdGeUlzYzRBcDQ?oc=5",
-      "publishedAt": "2026-04-24T11:54:31+00:00",
-      "fetchedAt": "2026-04-25T10:40:04.932713+00:00"
-    },
-    {
-      "id": "recorded-future-how-big-a-threat-are-iranian-backed-cyber-attacks",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "The New Yorker",
-      "title": "How Big a Threat Are Iranian-Backed Cyber Attacks?",
-      "description": "A recent CISA advisory was a blunt reminder that, in the digital age, the battlefield has expanded to encompass the geography of everyday life. Sue Halpern writes.",
-      "url": "https://www.newyorker.com/news/the-lede/how-big-a-threat-are-iranian-backed-cyber-attacks",
-      "publishedAt": "2026-04-24T10:00:00Z",
-      "fetchedAt": "2026-04-25T10:38:28.490588+00:00"
-    },
-    {
-      "id": "recorded-future-how-big-a-threat-are-iranian-backed-cyberattacks",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "The New Yorker",
-      "title": "How Big a Threat Are Iranian-Backed Cyberattacks?",
-      "description": "A recent CISA advisory was a blunt reminder that, in the digital age, the battlefield has expanded to encompass the geography of everyday life. Sue Halpern writes.",
-      "url": "https://www.newyorker.com/news/the-lede/how-big-a-threat-are-iranian-backed-cyberattacks",
-      "publishedAt": "2026-04-24T10:00:00Z",
-      "fetchedAt": "2026-04-25T10:38:28.490606+00:00"
+      "title": "Palantir Expands Government Contracts Amid Defense Technology Growth - HarianBasis.co",
+      "description": "Palantir Expands Government Contracts Amid Defense Technology Growth&nbsp;&nbsp;HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EN0JkZm5uSmVOcWxJaVQ2UUUydWtXakxwdjVsUTdqazJ1eEdhN2FEa3k2Xzdzamd4TlBnUEVUNExFRXVZT0N6UF90clFiZThNbnVtcnlOTnpvN19UUVBiTVcxOE01ZUxsSFl2SVlfdDRYTk5ERjl3U1Bn?oc=5",
+      "publishedAt": "2026-04-25T10:35:36+00:00",
+      "fetchedAt": "2026-04-26T10:40:01.436569+00:00"
     }
   ],
-  "generatedAt": "2026-04-25T10:40:49.871276+00:00",
+  "generatedAt": "2026-04-26T10:42:12.920056+00:00",
   "periodHours": 28,
-  "count": 5
+  "count": 1
 }
