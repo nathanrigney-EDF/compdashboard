@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-expands-government-contracts-amid-defense",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Expands Government Contracts Amid Defense Technology Growth - HarianBasis.co",
-      "description": "Palantir Expands Government Contracts Amid Defense Technology Growth&nbsp;&nbsp;HarianBasis.co",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EN0JkZm5uSmVOcWxJaVQ2UUUydWtXakxwdjVsUTdqazJ1eEdhN2FEa3k2Xzdzamd4TlBnUEVUNExFRXVZT0N6UF90clFiZThNbnVtcnlOTnpvN19UUVBiTVcxOE01ZUxsSFl2SVlfdDRYTk5ERjl3U1Bn?oc=5",
-      "publishedAt": "2026-04-25T10:35:36+00:00",
-      "fetchedAt": "2026-04-26T10:40:01.436569+00:00"
+      "id": "heo-pr-my-royal-nemesis-release-date--lim-ji-yeon--heo-na",
+      "companyId": "heo",
+      "companyName": "HEO",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "My Royal Nemesis Release Date: Lim Ji Yeon, Heo Nam Jun\u2019s romantic comedy locks May 8 premiere - Pinkvilla",
+      "description": "Press release / announcement from HEO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZnRNTmN6ZEI2ODJOYjNGd204VnNhT2Zha3psYzNnQ2ZQTG14bXo1RHd0aUo0VlBIbC1nQnRBTUwtNFlhUzBNQ1NDNklfbXptNW8yRzhSbWJYa1hmWkZBTVpzdk9tNENmUXExdXVVYmpaMlBkV1huZHJ0a0lZQkhsaXo2N2JZbG5LR25PLVFmZUtSU1NkSGhZX0JUZklITTJwVUx6OGFiMWhZTlJ1Zmt2bl9Kdzl0akprdno1UF9oZXdYZ2dOeF84MFZKWXVXQlMwdDg1T0xR0gHbAUFVX3lxTE9TczFDdUtoazYzcmVOWDdoek1YS0xjeG9jVFpId3pVbmxscmliaXVkVTA5ZE1RV2VlRTJCdjhWTlNLNG9kX1FRSXhwSHBYd1VmOVJYblpmalVMRjFIRXNKSDdmYnp1YW5MTzh2dmQyUThUOGVzZEp3R3hiMWpIRVc3OTZBckp3TTBydnJpVWFDWWM2ajdPV08zUDJFbkRPWmtOMy1iTXV0UDV3RE13by1tdWpoX29Tc3RIM1R0d3lULXBGY1o3bmVVTkhzbHJCMmRfTFZXN0UyRW44SQ?oc=5",
+      "publishedAt": "2026-04-27T05:25:29+00:00",
+      "fetchedAt": "2026-04-27T11:43:55.332696+00:00"
+    },
+    {
+      "id": "blacksky-pr-blacksky-technology-wins--25m-assured-deal--boosti",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BlackSky Technology wins $25M assured deal, boosting Gen-3 revenue pipeline - MSN",
+      "description": "Press release / announcement from BlackSky Technology",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPZUhDek85NzJRXzdxSTBvZVBOSkU3WGdKM3lwMnQzd1R1cXlpeGRmQlVvWGJ4Q2dNWXg0TnZ4V1o5ODVjRFZ3cU1iZjU3VFF0UFNzbFRGdW50UWJFLW1fQlNWMEQ3cndDaVFDTDhkSGd1Q3ZyeHZfZ0JETzZCSi02RzBFak1ORzktRlpsczdsd1oyZUxzbWNZTDhDTndTNzd4ZXNnQWdLZWkyaEVrRUNGMEZnelM3Q3htT2ExaFRjRUtXX1U0TmJwMnItdHpGUHFiWDZpWVV6V3ZCM0hHMFk4a3AxMExlbjlsYjd0eVM2Rl9rZ1J1T1FFV3JCZTk3WXRpOFhYUUhBcHg3RVdubEdqM0hWM2tjUU5zOU1ZaXFHVkZ3OTdMTWlON3dDdHRqbWQzaUE0Qm1CdGRVZV9yRl9aQmVwWGV5R3BxRUJBVVZvUFZEQnhlZEFqbVY2aWtfcGVzZVU2WnFPUmpkcnlGU1R2LVRqQ29hRFV2RVE?oc=5",
+      "publishedAt": "2026-04-27T01:43:45+00:00",
+      "fetchedAt": "2026-04-27T11:43:24.663931+00:00"
     }
   ],
-  "generatedAt": "2026-04-26T10:42:12.920056+00:00",
+  "generatedAt": "2026-04-27T11:45:41.099019+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
