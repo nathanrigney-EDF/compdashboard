@@ -1,46 +1,59 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-rss-stock-market-today--april-28--bigbear-ai-rises-on",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
+      "id": "palantir-rss-palantir-technologies-inc-stock--us69608a1088---ci",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Stock Market Today, April 28: BigBear.ai Rises on Heavy Volume Ahead of Earnings as AI Defense Stocks See Increased Trading Activity - The Globe and Mail",
-      "description": "Stock Market Today, April 28: BigBear.ai Rises on Heavy Volume Ahead of Earnings as AI Defense Stocks See Increased Trading Activity&nbsp;&nbsp;The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPR29kdy1WekFzRE9uZEo3MmR4MWh4bXlsSDVFcnVBa0o4ZU55RkhtZ2dycHpmMUhUcnRYQUJETHM1R3RpbzlVbnhhaXBJU090LXl3MUk0a21yWDl1RDR5M0hCSS14bThPUm5QVzh5OGg3LW5CSkdHT0ZlSDhDN1NPemFMZFRuVVFxM05EenBOa3RrX3NueUhRc1UtNEk0cWZqWkhWOU5WMTF0R3pVTmJsRXR5ZGtHb01EMm82QTkzcWY2YktrNzJ5ajliWWVkNDAtWDl2V3pXejV6N0wwNU5KcjBTRWhsN3ZGT1JWNmlDV1Y4cVFhXzNkSzZvTmhfZFFwejBMNTNxSUJ0ZGZSY2tmTWFFeUd2bWp0YThRSUJKRHl6aG5UeXpIbER3TkhDT3I3UkJ4VkVrMzRUQQ?oc=5",
-      "publishedAt": "2026-04-28T21:31:00+00:00",
-      "fetchedAt": "2026-04-29T11:26:09.987203+00:00"
+      "title": "Palantir Technologies Inc Stock (US69608A1088): Citigroup Cuts Price Target to $210 on 04/28/2026 - AD HOC NEWS",
+      "description": "Palantir Technologies Inc Stock (US69608A1088): Citigroup Cuts Price Target to $210 on 04/28/2026&nbsp;&nbsp;AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGkwaFVwaFEydWN1am11SDlpdUhYS0Q1azd3NmRtZnI1REVzNnRuVFBRMWltSTltbllsMUFUNFR5WmRaQlFVektJdmMtLWtBX1FJMnpPNXJydmEwWDJKakFsQ0xQREItZlJqS0xMSHVrV2ZILTM5Q0ZLcE1ZcnF3VHU2b2RlX3QzaFZ3VzlrQnlsR1hUZUJmTFFKZHZCdnhTTEhSbDdGTWpmSWkydW1Cc0otaEx3OXZ0bWlBMnU1NVBWUQ?oc=5",
+      "publishedAt": "2026-04-30T11:03:26+00:00",
+      "fetchedAt": "2026-04-30T11:24:22.337355+00:00"
     },
     {
-      "id": "bigbear-ai-pr-bigbear-ai--bbai--to-release-quarterly-earnings-on",
+      "id": "l3harris-pr-l3harris-technologies-stock--us5024311095---q1-202",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Technologies Stock (US5024311095): Q1 2026 Earnings Set for Release Today - AD HOC NEWS",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbklINlpFZVZJU1I0QnZaMkR1RE5kZ1ZObWJWb3FmYmVNSEJKTzR5S3V0MG5yNUtTeEVRaWg1YUtLdjJPTXBrN29nd1YzMzM1dTl0YUctaVFuVURfaVlDVmdmYnYxaFFuWnBPS3Y1Q2xzbXVsZzN6djZfQUs0OWtRd1ZhdldOT0pSZFNSWjM0anpVNm55TFVuU0JnN1hveldiVDc4Yk9xMGhqNVdpNHJRX3YzS180ZTFlRy1ieDI1Sk03QQ?oc=5",
+      "publishedAt": "2026-04-30T10:45:31+00:00",
+      "fetchedAt": "2026-04-30T11:25:42.908796+00:00"
+    },
+    {
+      "id": "bigbear-ai-pr-bigbear-ai--bbai--stock-rallies-over-10--ahead-of",
       "companyId": "bigbear-ai",
       "companyName": "BigBear.ai",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "BigBear.ai (BBAI) to Release Quarterly Earnings on Tuesday - MarketBeat",
+      "title": "BigBear.ai (BBAI) Stock Rallies Over 10% Ahead of May 5 Earnings Release - Blockonomi",
       "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNExCZFl5TzVIY2dLaW1vUVpNOVltanVJTkxVa05CeTdwdGNMSEFjNW1wcjdLWU9Ta2tqQ3EtdTFic3lLbS1XcXkzWXFUOVF3enNpTk5jenVqMWFwYVpFZ0NPNkNaMHM5b0djYkh5RmJxOS1YbFF5N0JrLUpLRUdhYnhOMHNSVk0wSTVNaFNXRzFON3BBVDhYQlB6YUVuZGlmYVgtZjhkaTkzaVZJdFE?oc=5",
-      "publishedAt": "2026-04-28T17:29:39+00:00",
-      "fetchedAt": "2026-04-29T11:26:11.410243+00:00"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXZjcHJvXzJaaDFZaFVoVzRIWC1pLWF1NTBkMEVwWDhMT09jY3I2NU12TlY0YnM2cEhVVnEyLXZSeURVRkdRVWw3TklBdndoVUU2VTY4dmFCdElkSEgxaTJuSWJOa3A2U2YwOFd4dUwzMFA1WkFmYjU0aTEycHR0bnppajFMVUUtZlZUbzRCSGtEc2RXb180Ug?oc=5",
+      "publishedAt": "2026-04-29T13:24:04+00:00",
+      "fetchedAt": "2026-04-30T11:24:41.404330+00:00"
     },
     {
-      "id": "leidos-pr-leidos--ldos--to-release-earnings-on-tuesday---mar",
-      "companyId": "leidos",
-      "companyName": "Leidos",
+      "id": "palantir-russell-s-teapot--dispatches-from-the-final-stage",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Leidos (LDOS) to Release Earnings on Tuesday - MarketBeat",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1Izc3BubmNsRGtrdHA5TTJ2VjR1eGlVY3NYZER6MGN3YzdfTEhWNlRDanE0MDNWRTY0NWJTSkFqM05pc09wemtLOFc1N3JDRmJCNGNrWElTVWpaR0dpb3Nvc2EyRTlvOW5TVnlMQTVoVnRhNDZ2QjdMRkdGcnFJUzNibHA0UkY5eGhSRklLdVJyX0cwT2FpQTZ2cXE?oc=5",
-      "publishedAt": "2026-04-28T12:30:36+00:00",
-      "fetchedAt": "2026-04-29T11:26:18.530581+00:00"
+      "source": "news",
+      "sourceName": "Nakedcapitalism.com",
+      "title": "Russell\u2019s Teapot: Dispatches From the Final Stage of the AI Bubble",
+      "description": "The AI future sold to markets rests on claims that cannot survive scrutiny, not foresight but hype dressed up as inevitability.",
+      "url": "https://www.nakedcapitalism.com/2026/04/russells-teapot-dispatches-from-the-final-stage-of-the-ai-bubble.html",
+      "publishedAt": "2026-04-29T10:54:56Z",
+      "fetchedAt": "2026-04-30T11:24:22.949154+00:00"
     }
   ],
-  "generatedAt": "2026-04-29T11:28:04.772053+00:00",
+  "generatedAt": "2026-04-30T11:26:35.623291+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 4
 }
