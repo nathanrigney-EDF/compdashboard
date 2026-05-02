@@ -1,98 +1,33 @@
 {
   "articles": [
     {
-      "id": "satellogic-rss-satellogic-sells-satellite-to-defense-customer-for",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic sells satellite to defense customer for $12 million - Investing.com UK",
-      "description": "Satellogic sells satellite to defense customer for $12 million&nbsp;&nbsp;Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0Y5dHhtajYwM1RZemJJTC1FN2xtMUNTb0ZWdVpSNk81ZTBLaDhmc2NvY2V3QUpQeVlPcEFZOTVvQXFpbDRwSkhkRUtrYmZEY1Ewazl2MHRFSV9obG41RWZhQXRWYmFYQURsTjFpSml6MXhGejNjM2xnNEU5RzZITU1xMC1ZOXFjbmM1Z3ViOV9HWG5mYmhKZjh6T3FFdW1JX2JndlE3aFB0akQxSGEtbDk4ZHI2ckItYTZlRWY1Z3NFZjRESDZaOGpsLWlyUGM?oc=5",
-      "publishedAt": "2026-04-30T13:28:57+00:00",
-      "fetchedAt": "2026-05-01T11:04:41.102547+00:00"
+      "id": "leidos-pr-press-release--leidos-holdings--inc--declares-quar",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Press Release: Leidos Holdings, Inc. Declares Quarterly Cash Dividend - \u5bcc\u9014\u725b\u725b",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcy01MEhUdjNONnZGcTZ3V0hObGNWSC1JZ01rSExDOUVuUEhQY2U3OU5tN3gyU2QxbEVPZ3lBbVBqclZkeXlwdEoxdURWT3ZBaFZqM0p4VzFqYXI3eDFueUd6X0NEa1RreDQ0Z190V2lmb2FzT1F5aTdZS3pnZlIwS3poeWJXZlNmRk9RUGw1cU1QeEhyN016aXlMaXNFcXpVNUx5Q251d01IWUU?oc=5",
+      "publishedAt": "2026-05-01T21:09:57+00:00",
+      "fetchedAt": "2026-05-02T10:45:12.987266+00:00"
     },
     {
-      "id": "satellogic-rss-satellogic-announces--12-million-agreement-for-in",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic Announces $12 Million Agreement for In-Orbit Satellite Delivery and Support to Sovereign Defense Customer - Quiver Quantitative",
-      "description": "Satellogic Announces $12 Million Agreement for In-Orbit Satellite Delivery and Support to Sovereign Defense Customer&nbsp;&nbsp;Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWxWQnhQOVZlUk1MamgyV2xnUjJXQ2FIb2Y3OGEyTWZrUjVsOHRxWFItWEw5U0lBTmRlR0hPMk9uVmJYRHp1S3E5VkQ0RWlYYWFaNVRreHpEQ3VFdlJkUXdINHhVV1hhU29mcXczWjE2ZkhVT0JJc1FKTmk1UWFRU0FSQ1BtaGoxSFdvLVFZRDdONmR4RGtsR2YyNFdqSGpnNmZRY01KSjZaaklxOUFGd0RXdTdXNUhrWUtETTRFY0EwX3c3ZW5Yc3g5d0FvSmJTazE2ZUpMUmtveVJreVVxZ1FrNUdxUQ?oc=5",
-      "publishedAt": "2026-04-30T13:21:00+00:00",
-      "fetchedAt": "2026-05-01T11:04:41.102507+00:00"
-    },
-    {
-      "id": "blacksky-rss-blacksky-wins--30m-defense-contract-from-internati",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BlackSky wins $30M defense contract from international client - Investing.com UK",
-      "description": "BlackSky wins $30M defense contract from international client&nbsp;&nbsp;Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZm41ZmJyVmtMdnhYYkFDSlBnM0drWk1OaWJHNW5QU05WWG4wR240Q1FVMVVmOHgxbGFlQUxHMWlneE1yYThNVEpReU1SdXVSYkdVQmtVZzZ5WVlKcDA3UXhEZnBmbnEyN0h3UG9tdVJNSmd4amJrUHVVTkRVUFV1N0ZRbk42X21PQndlS2ZQbm83Y24zc2VQcmhaa0VvaFI3RWxTNmMtUllkdGU4cmRqN2pqR2ctXzlXYkNfc3JPS3c2SzVUbG1rZEt6dUwyUQ?oc=5",
-      "publishedAt": "2026-04-30T13:20:45+00:00",
-      "fetchedAt": "2026-05-01T11:04:30.949557+00:00"
-    },
-    {
-      "id": "palantir-rss-palantir-technologies-inc-stock--us69608a1088---ci",
+      "id": "palantir-why-palantir--pltr--is-expanding-its-ai-software-f",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Technologies Inc Stock (US69608A1088): Citigroup Cuts Price Target to $210 on 04/28/2026 - AD HOC NEWS",
-      "description": "Palantir Technologies Inc Stock (US69608A1088): Citigroup Cuts Price Target to $210 on 04/28/2026&nbsp;&nbsp;AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGkwaFVwaFEydWN1am11SDlpdUhYS0Q1azd3NmRtZnI1REVzNnRuVFBRMWltSTltbllsMUFUNFR5WmRaQlFVektJdmMtLWtBX1FJMnpPNXJydmEwWDJKakFsQ0xQREItZlJqS0xMSHVrV2ZILTM5Q0ZLcE1ZcnF3VHU2b2RlX3QzaFZ3VzlrQnlsR1hUZUJmTFFKZHZCdnhTTEhSbDdGTWpmSWkydW1Cc0otaEx3OXZ0bWlBMnU1NVBWUQ?oc=5",
-      "publishedAt": "2026-04-30T11:03:26+00:00",
-      "fetchedAt": "2026-04-30T11:24:22.337355+00:00"
-    },
-    {
-      "id": "l3harris-pr-l3harris-technologies---first-quarter-2026-news-re",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Technologies : First Quarter 2026 News Release - marketscreener.com",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGFKeWNGOTJnVWRCd3FSTGdUS2dBWklqN2ppZFVNTW1oUEgzZHQ4Ykx2a3R4UTFVdjAxSTAzVk1hdTBNZ1VXOUpyQmQ5UzFNaTY3VFoyd1JNQ0Q0ZFVxQjlkTHkwN1RRVnVLS3IxbkNpa1pIZmN1RFFKNTJFMncxa1hkbnhLTGxYRkdQTFpCXzAxcGdBRDNtTWJfalpCY1NILXFrbXpRS2RDdw?oc=5",
-      "publishedAt": "2026-04-30T10:58:14+00:00",
-      "fetchedAt": "2026-05-01T11:05:02.683564+00:00"
-    },
-    {
-      "id": "l3harris-pr-press-release--l3harris-technologies-reports-stron",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Press Release: L3Harris Technologies Reports Strong First Quarter 2026 Results - Moomoo",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNmRMY0pvOHg1TlJwVEpib1M0WXZyVW9IWElQWnBKdkxTUk9iYkJFY05iVXZkZDc4OTFqalFZN3ZNblZJdnpUalQ5ZEs2YjVOVDRrNnA3ZTZIc1p1cm9MekgzUFRyQnNDSHpIOHNpNDRGeHJOaXVHd1psUHFtQlNWOU5JMVhYOXJCcHpIVHhLMlUxa014Zy1HcXRfbDIzNVdIR0dxcVJTdHFLdGU0UGY4eUkwdjMtY1lxaXF5Vmd1eHNERzBsbGloaHlHa3R0YVAzclhCQzhpZjBEMUtwbGh2U2VXdUlPVUE3dnc?oc=5",
-      "publishedAt": "2026-04-30T10:55:00+00:00",
-      "fetchedAt": "2026-05-01T11:05:02.683544+00:00"
-    },
-    {
-      "id": "l3harris-pr-l3harris-technologies-stock--us5024311095---q1-202",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Technologies Stock (US5024311095): Q1 2026 Earnings Set for Release Today - AD HOC NEWS",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbklINlpFZVZJU1I0QnZaMkR1RE5kZ1ZObWJWb3FmYmVNSEJKTzR5S3V0MG5yNUtTeEVRaWg1YUtLdjJPTXBrN29nd1YzMzM1dTl0YUctaVFuVURfaVlDVmdmYnYxaFFuWnBPS3Y1Q2xzbXVsZzN6djZfQUs0OWtRd1ZhdldOT0pSZFNSWjM0anpVNm55TFVuU0JnN1hveldiVDc4Yk9xMGhqNVdpNHJRX3YzS180ZTFlRy1ieDI1Sk03QQ?oc=5",
-      "publishedAt": "2026-04-30T10:45:31+00:00",
-      "fetchedAt": "2026-04-30T11:25:42.908796+00:00"
+      "sourceName": "Yahoo Entertainment",
+      "title": "Why Palantir (PLTR) Is Expanding Its AI Software Footprint at the USDA",
+      "description": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the fastest-growing AI stocks to buy now. On April 22, 2026, Palantir Technologies Inc. (NASDAQ:PLTR) and ...",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/why-palantir-pltr-expanding-ai-090524484.html",
+      "publishedAt": "2026-05-01T09:05:24Z",
+      "fetchedAt": "2026-05-02T10:44:02.190340+00:00"
     }
   ],
-  "generatedAt": "2026-05-01T11:05:26.570206+00:00",
+  "generatedAt": "2026-05-02T10:46:58.549535+00:00",
   "periodHours": 28,
-  "count": 7
+  "count": 2
 }
