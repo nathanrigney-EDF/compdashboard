@@ -1,33 +1,33 @@
 {
   "articles": [
     {
+      "id": "palantir-rss-palantir-maven-win-raises-questions-on-valuation-a",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Palantir Maven Win Raises Questions On Valuation And Defense Revenue Visibility - simplywall.st",
+      "description": "Palantir Maven Win Raises Questions On Valuation And Defense Revenue Visibility&nbsp;&nbsp;simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWRwUjczSFdFUlZiamk4dkxxYjNDQlA2QkRFSUwxQzR4d2ZKeHA3cTBFbUEzYTV0WWlodW0za1dwcTJaa1hLVjlkWWtLT2tZSHROTU9qQ0xxdm1FSXJRa2dfNE1Oa2tVaTV6dWtmZU1KMXk5UHhXcFV4RDlySUJSMjg3Z0lxQ3ZwYVBmY045eUxWT3o2Yjh6NENMSks3d3RSNHV6cFFzQ1VQcllWNm5qS0xUdmdDRTZYc0ZINThTeWp4V2lEcDFKUkxKWmdlMzJ2YWNBLUV0NNIB3AFBVV95cUxNOW50TEJJd25haHA0ZlpRcVE2SkdzcEJPdUMtNTZ5a0JWcVBMQVVfWGF6UlVSSzR3Y1h2T3g5YWNyaWZiRXl3ZmZ1R1VHUnVPMEozNm5LY2JsYTllaXRHQU0xUm9uWTVieUcyZW82eGZuaWV3VHQwSkxJWERSX2hVY252d3gwQ0hwVzlyRjJKbUFBb0xXR0wyRlUySVZXWU8ySDdXSHNPWDNsMkx3aVl0ZW9ROEZQN1VkVmQzLTM0cGgzak5UQm16Wjk5UVhmakE3ME1DdWlRSEJhUnFS?oc=5",
+      "publishedAt": "2026-05-02T21:56:04+00:00",
+      "fetchedAt": "2026-05-03T10:49:18.639148+00:00"
+    },
+    {
       "id": "leidos-pr-press-release--leidos-holdings--inc--declares-quar",
       "companyId": "leidos",
       "companyName": "Leidos",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Press Release: Leidos Holdings, Inc. Declares Quarterly Cash Dividend - \u5bcc\u9014\u725b\u725b",
+      "title": "Press Release: Leidos Holdings, Inc. Declares Quarterly Cash Dividend - Moomoo",
       "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcy01MEhUdjNONnZGcTZ3V0hObGNWSC1JZ01rSExDOUVuUEhQY2U3OU5tN3gyU2QxbEVPZ3lBbVBqclZkeXlwdEoxdURWT3ZBaFZqM0p4VzFqYXI3eDFueUd6X0NEa1RreDQ0Z190V2lmb2FzT1F5aTdZS3pnZlIwS3poeWJXZlNmRk9RUGw1cU1QeEhyN016aXlMaXNFcXpVNUx5Q251d01IWUU?oc=5",
-      "publishedAt": "2026-05-01T21:09:57+00:00",
-      "fetchedAt": "2026-05-02T10:45:12.987266+00:00"
-    },
-    {
-      "id": "palantir-why-palantir--pltr--is-expanding-its-ai-software-f",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Yahoo Entertainment",
-      "title": "Why Palantir (PLTR) Is Expanding Its AI Software Footprint at the USDA",
-      "description": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the fastest-growing AI stocks to buy now. On April 22, 2026, Palantir Technologies Inc. (NASDAQ:PLTR) and ...",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/why-palantir-pltr-expanding-ai-090524484.html",
-      "publishedAt": "2026-05-01T09:05:24Z",
-      "fetchedAt": "2026-05-02T10:44:02.190340+00:00"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEZsMDBCbGFSdjJsd3ItUmcyWXNvY01MNG1MeElnYnAtLWcxdDdyOENrZ2xLTWtucmotQWQtZXJrWERENk5WbmMza1JQSHNkcFY4aXB5U01ZdE5ycGExbDBlNTBIU3dwam9BeUhUa3hUTjI2dnFoWmhFS2xzTjhOSDBsSmRaZzgyOTdsbVZ3NlJtcEhZU1A3MlgyMVhVTWpMTnBrV25raG4wemJf?oc=5",
+      "publishedAt": "2026-05-02T18:18:16+00:00",
+      "fetchedAt": "2026-05-03T10:49:59.301741+00:00"
     }
   ],
-  "generatedAt": "2026-05-02T10:46:58.549535+00:00",
+  "generatedAt": "2026-05-03T10:51:58.846621+00:00",
   "periodHours": 28,
   "count": 2
 }
