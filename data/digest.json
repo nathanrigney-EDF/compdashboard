@@ -1,33 +1,46 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-maven-win-raises-questions-on-valuation-a",
+      "id": "vantor-geoint-rss-nga-awards-vantor--70m-option-year-contract-to-ope",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "NGA Awards Vantor $70M Option Year Contract to Operate and Enhance Government\u2019s Primary Commercial GEOINT Platform - Business Wire",
+      "description": "NGA Awards Vantor $70M Option Year Contract to Operate and Enhance Government\u2019s Primary Commercial GEOINT Platform&nbsp;&nbsp;Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdlF5YlJsak5FT0NuWWxRQ2MwY2NLNC1uZFc5RXktOHVVWFRoODY4UGd4VzBtWDFIa0pidURqR1lIM2UyOW1ncFFnTDU0THQzZENlT0VtNENyTm9hUFNqdjFvS3gzTy1fNzBYdm50dlkwaFloUDEzWFVmM1BXM25ydFFrOThZdE9CcUVVNDktdjNIX3MzQ1puWndRVXFyWXVadFRSVmxLSkpQOVpYZVRHMndxY3Y2LVVaZ1pQLVMxdFk0clZZM0Q1ZmU5TU5BWF85OS1hemZLX0ZDQnVTdjUwUjNjLXQwR1NORXpRcjBRRmJ2NC1LT2hJbG9hVUJhSHpHV1E?oc=5",
+      "publishedAt": "2026-05-04T11:30:00+00:00",
+      "fetchedAt": "2026-05-04T11:46:54.362691+00:00"
+    },
+    {
+      "id": "vantor-geoint-pr-nga-awards-vantor--70m-option-year-contract-to-ope",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "NGA Awards Vantor $70M Option Year Contract to Operate and Enhance Government\u2019s Primary Commercial GEOINT Platform - Morningstar",
+      "description": "Press release / announcement from Vantor",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVUxneVNkUmJrV0pmRVowdDBMRHdLT1cyMWhrc0JDd2lIMzlSYVhQVWtZZW5wU202MWg0MHB0OTVicXUzanFIVDdmcGhHamVFQ244Vk0yaHRQZWcxODdVSHBnVXZJRjdrQlhJbWdLczBDWDBGOGItb3lxcGhWUFRWa0ZrQ0ZtQVNqSnVLcTJiWWE4Ni0zWk1GQk92MmtpVzJSeUFpSjBpa2ZaMnZITzdaLVcyUW9pUzNDSWZ5a3dVY2ZwRjNLYnJkdjZqb05uT2ZMMG8xWU8xOUYwX0s4UDMxZ04wVjBDVUNZdEtKOG1Sek5Pb0ZWdmExRzk1YTd6Nm9nNGtUNw?oc=5",
+      "publishedAt": "2026-05-04T11:30:00+00:00",
+      "fetchedAt": "2026-05-04T11:46:55.761492+00:00"
+    },
+    {
+      "id": "palantir-palantir-manifesto-shows-the-clear-convergence-of",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Maven Win Raises Questions On Valuation And Defense Revenue Visibility - simplywall.st",
-      "description": "Palantir Maven Win Raises Questions On Valuation And Defense Revenue Visibility&nbsp;&nbsp;simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWRwUjczSFdFUlZiamk4dkxxYjNDQlA2QkRFSUwxQzR4d2ZKeHA3cTBFbUEzYTV0WWlodW0za1dwcTJaa1hLVjlkWWtLT2tZSHROTU9qQ0xxdm1FSXJRa2dfNE1Oa2tVaTV6dWtmZU1KMXk5UHhXcFV4RDlySUJSMjg3Z0lxQ3ZwYVBmY045eUxWT3o2Yjh6NENMSks3d3RSNHV6cFFzQ1VQcllWNm5qS0xUdmdDRTZYc0ZINThTeWp4V2lEcDFKUkxKWmdlMzJ2YWNBLUV0NNIB3AFBVV95cUxNOW50TEJJd25haHA0ZlpRcVE2SkdzcEJPdUMtNTZ5a0JWcVBMQVVfWGF6UlVSSzR3Y1h2T3g5YWNyaWZiRXl3ZmZ1R1VHUnVPMEozNm5LY2JsYTllaXRHQU0xUm9uWTVieUcyZW82eGZuaWV3VHQwSkxJWERSX2hVY252d3gwQ0hwVzlyRjJKbUFBb0xXR0wyRlUySVZXWU8ySDdXSHNPWDNsMkx3aVl0ZW9ROEZQN1VkVmQzLTM0cGgzak5UQm16Wjk5UVhmakE3ME1DdWlRSEJhUnFS?oc=5",
-      "publishedAt": "2026-05-02T21:56:04+00:00",
-      "fetchedAt": "2026-05-03T10:49:18.639148+00:00"
-    },
-    {
-      "id": "leidos-pr-press-release--leidos-holdings--inc--declares-quar",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Press Release: Leidos Holdings, Inc. Declares Quarterly Cash Dividend - Moomoo",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEZsMDBCbGFSdjJsd3ItUmcyWXNvY01MNG1MeElnYnAtLWcxdDdyOENrZ2xLTWtucmotQWQtZXJrWERENk5WbmMza1JQSHNkcFY4aXB5U01ZdE5ycGExbDBlNTBIU3dwam9BeUhUa3hUTjI2dnFoWmhFS2xzTjhOSDBsSmRaZzgyOTdsbVZ3NlJtcEhZU1A3MlgyMVhVTWpMTnBrV25raG4wemJf?oc=5",
-      "publishedAt": "2026-05-02T18:18:16+00:00",
-      "fetchedAt": "2026-05-03T10:49:59.301741+00:00"
+      "sourceName": "Activistpost.com",
+      "title": "Palantir Manifesto Shows The Clear Convergence Of Technofascism With Technocracy",
+      "description": "A 22 point manifesto recently published by tech giant Palantir reads like a villainous plot for dystopian domination. At this point it has become abundantly clear for those paying even the slightest bit of attention that tech giant Palantir is becoming one of\u2026",
+      "url": "https://www.activistpost.com/palantir-manifesto-shows-the-clear-convergence-of-technofascism-with-technocracy/",
+      "publishedAt": "2026-05-03T10:00:00Z",
+      "fetchedAt": "2026-05-04T11:43:38.472536+00:00"
     }
   ],
-  "generatedAt": "2026-05-03T10:51:58.846621+00:00",
+  "generatedAt": "2026-05-04T11:46:59.306311+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 3
 }
