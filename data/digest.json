@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-pr-bigbear-ai-announces-first-quarter-2026-results--i",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
+      "id": "blacksky-pr-blacksky-technology-wins--25m-assured-deal--boosti",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "BigBear.ai Announces First Quarter 2026 Results, Increases Backlog Including More Than $60 million in National Security Contracts, and Affirms Revenue Guidance - Yahoo Finance",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ29iWUU2LTlxUi0yQjJvNUo3TFNVOEdMZXVBUjZzQVpKZFdSTVc5dy1jRjVtbTl6TWx6blNZcUc4U3A2Q0JGMVBBWEJJWWNUaVVrYXdYenRTTXVzb0Nkb0RPbFg1OENHNTY4bURRaHFoSjU1TVFybG9LUTkwZE9YWlhGRWZZYUk4eUtzLXFDZW8xUHdGRHZmdV9neU5YUXlE?oc=5",
-      "publishedAt": "2026-05-05T20:15:00+00:00",
-      "fetchedAt": "2026-05-06T11:45:06.906692+00:00"
-    },
-    {
-      "id": "recorded-future-war-without-borders--the-rise-of-cyberattacks-beyo",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "The Times of India",
-      "title": "War without borders: The rise of cyberattacks beyond the battlefield",
-      "description": "Cyber conflict escalates beyond borders following US-Israeli strikes on Iran. Hacktivists and state-backed actors launch global attacks. This crisis fuels a cybercrime economy, creating cover and opportunity. Critical infrastructure like energy and aviation f\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/war-without-borders-the-rise-of-cyberattacks-beyond-the-battlefield/articleshow/130822082.cms",
-      "publishedAt": "2026-05-05T08:23:46Z",
-      "fetchedAt": "2026-05-06T11:44:36.953829+00:00"
+      "title": "BlackSky Technology wins $25M assured deal, boosting Gen-3 revenue pipeline - MSN",
+      "description": "Press release / announcement from BlackSky Technology",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPczdtZWkwMWdBWS01eHFYOGRzZ3Z2Ui1wWGl4S2hQNXNVbjNabm9xd1BKUnUtTjhxbklOS0huQVpZYkNxZTg5bEJQbXUzSklRTllEYXlTamwzNTZUQzg4dW0yNWc3M19TcWluQlNCSnNiX052cjhsVFdsVkFRZFJVbGlwaWNqaEcxODZjX3NpMmNYVWxjVzRqZ0xZNUlhWGtuZmJNanN3dWppWDY3M016U2hPU2tNRV95d2dWN0tzYk8zeDNTbDZNSlQ1RFRkd3dSeElVbHZ6SWhUWFVUdlEyZ0oxcXpHellTeDUwcHFzbDZxRGJnN2QwUGNQN0QtUFM5Vnh4bUE3TEtjcEVsWnZjWkZvZWR3cTNJR0p4MXJfVk9IalhpRDJUbS1EY3huMWpHSnZGSGZya0U1SnNfZlZTQjY2V3B6Zm1qZ21aeG5RZ2JwNVVfcTNKelQ1Uk9jSTJlNEFyRWlCVzVfLTBOYjJuZGFnd2NtejRWWG1iSl9n?oc=5",
+      "publishedAt": "2026-05-06T14:44:57+00:00",
+      "fetchedAt": "2026-05-07T11:45:13.903701+00:00"
     }
   ],
-  "generatedAt": "2026-05-06T11:48:09.219344+00:00",
+  "generatedAt": "2026-05-07T11:46:40.220696+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
