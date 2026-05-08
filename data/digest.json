@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "blacksky-pr-blacksky-technology-wins--25m-assured-deal--boosti",
+      "id": "blacksky-pr-stonegate-capital-partners-updates-coverage-on-bla",
       "companyId": "blacksky",
       "companyName": "BlackSky Technology",
       "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "BlackSky Technology wins $25M assured deal, boosting Gen-3 revenue pipeline - MSN",
+      "title": "Stonegate Capital Partners Updates Coverage on BlackSky Technology, Inc. (BKSY) 1Q26 - FinancialContent",
       "description": "Press release / announcement from BlackSky Technology",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPczdtZWkwMWdBWS01eHFYOGRzZ3Z2Ui1wWGl4S2hQNXNVbjNabm9xd1BKUnUtTjhxbklOS0huQVpZYkNxZTg5bEJQbXUzSklRTllEYXlTamwzNTZUQzg4dW0yNWc3M19TcWluQlNCSnNiX052cjhsVFdsVkFRZFJVbGlwaWNqaEcxODZjX3NpMmNYVWxjVzRqZ0xZNUlhWGtuZmJNanN3dWppWDY3M016U2hPU2tNRV95d2dWN0tzYk8zeDNTbDZNSlQ1RFRkd3dSeElVbHZ6SWhUWFVUdlEyZ0oxcXpHellTeDUwcHFzbDZxRGJnN2QwUGNQN0QtUFM5Vnh4bUE3TEtjcEVsWnZjWkZvZWR3cTNJR0p4MXJfVk9IalhpRDJUbS1EY3huMWpHSnZGSGZya0U1SnNfZlZTQjY2V3B6Zm1qZ21aeG5RZ2JwNVVfcTNKelQ1Uk9jSTJlNEFyRWlCVzVfLTBOYjJuZGFnd2NtejRWWG1iSl9n?oc=5",
-      "publishedAt": "2026-05-06T14:44:57+00:00",
-      "fetchedAt": "2026-05-07T11:45:13.903701+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVlVCOXdaUlJIMmR5dFVNQU80WFV2ZWlBaHNrNmJoU3BucktxanR0eEZSMllNUTlDTE1tbGprUXB1N1l5bTBQQUlSV210OG42TDFIMnNzQ0dDcFpBMllYODhDWDVRa0hxN2VDTVFjNUFIZUNUVnBPZXdiaUZwY3lqakd1SWVZZEZ6T2ZWVVFGSGx1b3BJWVBXQTJvZmFtemVSeS1PU0loeHJBbjdQejNPcEUtYjZ0ZkVqT1NOeFZTSnY3ZURnTkFvblkzWDRNWFhMeDZQQkRXWEhFVy16Ylg0OVY1dGU?oc=5",
+      "publishedAt": "2026-05-07T21:04:00+00:00",
+      "fetchedAt": "2026-05-08T11:08:21.039545+00:00"
+    },
+    {
+      "id": "blacksky-pr-blacksky-technology-inc---nyse-bksy--misses-q1-est",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BlackSky Technology Inc. (NYSE:BKSY) Misses Q1 Estimates but Boosts Full-Year Guidance Amid Record Contract Wins - ChartMill",
+      "description": "Press release / announcement from BlackSky Technology",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYlFKVldmeHpoclJWRV83NkxYbm9QclJCREo1S1poREhOaFQ1UHNuRjA2SHFrZU1FdUZWendyM29nMkl5dFpBZFZ6cWw3MUtQZWYxa1JVam13bHdJVVNaT2hKelFEVnpHVzJtSVI0Q2d4cWtCc0ctU3JZZ185Z2dDdVMyaTl6R0xNNWR2OWR1M25XaXE1eXk3anMtZ3J3T3h4ZkNyOWV4UjJlZ3dMeWtaN0JvSkl0aHBHVF9xaVg4aHNLOThKSjJ4TmdWVDhTdHZrakpHUHpMNEdPM2E4c1dQaHloQmhZcm9xNlpPSmlodnEyZw?oc=5",
+      "publishedAt": "2026-05-07T12:40:15+00:00",
+      "fetchedAt": "2026-05-08T11:08:21.039570+00:00"
     }
   ],
-  "generatedAt": "2026-05-07T11:46:40.220696+00:00",
+  "generatedAt": "2026-05-08T11:09:58.855671+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
