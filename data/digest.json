@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "blacksky-pr-stonegate-capital-partners-updates-coverage-on-bla",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Stonegate Capital Partners Updates Coverage on BlackSky Technology, Inc. (BKSY) 1Q26 - FinancialContent",
-      "description": "Press release / announcement from BlackSky Technology",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVlVCOXdaUlJIMmR5dFVNQU80WFV2ZWlBaHNrNmJoU3BucktxanR0eEZSMllNUTlDTE1tbGprUXB1N1l5bTBQQUlSV210OG42TDFIMnNzQ0dDcFpBMllYODhDWDVRa0hxN2VDTVFjNUFIZUNUVnBPZXdiaUZwY3lqakd1SWVZZEZ6T2ZWVVFGSGx1b3BJWVBXQTJvZmFtemVSeS1PU0loeHJBbjdQejNPcEUtYjZ0ZkVqT1NOeFZTSnY3ZURnTkFvblkzWDRNWFhMeDZQQkRXWEhFVy16Ylg0OVY1dGU?oc=5",
-      "publishedAt": "2026-05-07T21:04:00+00:00",
-      "fetchedAt": "2026-05-08T11:08:21.039545+00:00"
-    },
-    {
-      "id": "blacksky-pr-blacksky-technology-inc---nyse-bksy--misses-q1-est",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BlackSky Technology Inc. (NYSE:BKSY) Misses Q1 Estimates but Boosts Full-Year Guidance Amid Record Contract Wins - ChartMill",
-      "description": "Press release / announcement from BlackSky Technology",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYlFKVldmeHpoclJWRV83NkxYbm9QclJCREo1S1poREhOaFQ1UHNuRjA2SHFrZU1FdUZWendyM29nMkl5dFpBZFZ6cWw3MUtQZWYxa1JVam13bHdJVVNaT2hKelFEVnpHVzJtSVI0Q2d4cWtCc0ctU3JZZ185Z2dDdVMyaTl6R0xNNWR2OWR1M25XaXE1eXk3anMtZ3J3T3h4ZkNyOWV4UjJlZ3dMeWtaN0JvSkl0aHBHVF9xaVg4aHNLOThKSjJ4TmdWVDhTdHZrakpHUHpMNEdPM2E4c1dQaHloQmhZcm9xNlpPSmlodnEyZw?oc=5",
-      "publishedAt": "2026-05-07T12:40:15+00:00",
-      "fetchedAt": "2026-05-08T11:08:21.039570+00:00"
+      "id": "recorded-future-friday--hili-dialogue",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Whyevolutionistrue.com",
+      "title": "Friday: Hili dialogue",
+      "description": "Welcome to Friday, May 8, 2026, and National Have a Coke Day. That link explains the date: John Stith Pemberton invented a cola syrup at his Eagle Drug and Chemical house in Columbus, Georgia. He brought it to Jacob\u2019s Pharmacy in Atlanta and mixed it with car\u2026",
+      "url": "https://whyevolutionistrue.com/2026/05/08/friday-hili-dialogue-576/",
+      "publishedAt": "2026-05-08T09:45:11Z",
+      "fetchedAt": "2026-05-09T10:52:11.444386+00:00"
     }
   ],
-  "generatedAt": "2026-05-08T11:09:58.855671+00:00",
+  "generatedAt": "2026-05-09T10:54:47.366912+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
