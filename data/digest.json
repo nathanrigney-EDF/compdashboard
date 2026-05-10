@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "id": "recorded-future-friday--hili-dialogue",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "palantir-the-praxian-genocidal-kill-chain---part-1",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Whyevolutionistrue.com",
-      "title": "Friday: Hili dialogue",
-      "description": "Welcome to Friday, May 8, 2026, and National Have a Coke Day. That link explains the date: John Stith Pemberton invented a cola syrup at his Eagle Drug and Chemical house in Columbus, Georgia. He brought it to Jacob\u2019s Pharmacy in Atlanta and mixed it with car\u2026",
-      "url": "https://whyevolutionistrue.com/2026/05/08/friday-hili-dialogue-576/",
-      "publishedAt": "2026-05-08T09:45:11Z",
-      "fetchedAt": "2026-05-09T10:52:11.444386+00:00"
+      "sourceName": "Activistpost.com",
+      "title": "The Praxian Genocidal Kill Chain \u2013 Part 1",
+      "description": "In this two-part article series, Iain Davis examines how a class of Silicon Valley oligarchs have set about destabilising the planet in order to achieve their goal of a multipolar world of interconnected smart-city states; that is, a regionalised world that t\u2026",
+      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-1/",
+      "publishedAt": "2026-05-09T10:00:00Z",
+      "fetchedAt": "2026-05-10T10:56:59.457641+00:00"
     }
   ],
-  "generatedAt": "2026-05-09T10:54:47.366912+00:00",
+  "generatedAt": "2026-05-10T10:59:41.311589+00:00",
   "periodHours": 28,
   "count": 1
 }
