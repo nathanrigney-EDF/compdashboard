@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "palantir-the-praxian-genocidal-kill-chain---part-1",
+      "id": "dataminr-rss-dataminr-showcases-real-time-ai-capabilities-at-de",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Dataminr Showcases Real-Time AI Capabilities at Defense and Security Exhibition - TipRanks",
+      "description": "Dataminr Showcases Real-Time AI Capabilities at Defense and Security Exhibition&nbsp;&nbsp;TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamYwOEhfYnZRVlNqRHUxaWdLeVY4RklLejY0Wi1HeDhWVkhodzFzUDZoWTZfVDRyb2ZJaDVEeVhJMkprd1RSdUFBcHNvXzZKQm9HTThZV09vU0pfd19yTHZfWXhQQzVFMENvTVVzS1B1bzltcjV2MmRIOWxINW5XSHM0OGwzYWJfemZkbElIaVRqTWJ1SDFyY3NBTm1VeldGY2RjMmJOY2NxNDJJM3hjdFdCVndCU3Q4X2hFSllDZWcwMkdha2c?oc=5",
+      "publishedAt": "2026-05-10T18:13:52+00:00",
+      "fetchedAt": "2026-05-11T12:36:07.627954+00:00"
+    },
+    {
+      "id": "palantir-justin-bieber-faces-fierce-backlash-over-private-p",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Activistpost.com",
-      "title": "The Praxian Genocidal Kill Chain \u2013 Part 1",
-      "description": "In this two-part article series, Iain Davis examines how a class of Silicon Valley oligarchs have set about destabilising the planet in order to achieve their goal of a multipolar world of interconnected smart-city states; that is, a regionalised world that t\u2026",
-      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-1/",
-      "publishedAt": "2026-05-09T10:00:00Z",
-      "fetchedAt": "2026-05-10T10:56:59.457641+00:00"
+      "sourceName": "Ibtimes.com.au",
+      "title": "Justin Bieber Faces Fierce Backlash Over Private Performance for Palantir Executives",
+      "description": "LOS ANGELES \u2014 Justin Bieber is facing intense criticism and calls for boycotts after reports emerged that he performed a private concert for executives of Palantir Technologies, the controversial data analytics company known for its extensive government surve\u2026",
+      "url": "https://www.ibtimes.com.au/justin-bieber-faces-fierce-backlash-over-private-performance-palantir-executives-1868503",
+      "publishedAt": "2026-05-10T09:49:36Z",
+      "fetchedAt": "2026-05-11T12:35:57.308855+00:00"
     }
   ],
-  "generatedAt": "2026-05-10T10:59:41.311589+00:00",
+  "generatedAt": "2026-05-11T12:38:10.084123+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
