@@ -1,33 +1,33 @@
 {
   "articles": [
     {
-      "id": "dataminr-rss-dataminr-showcases-real-time-ai-capabilities-at-de",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Dataminr Showcases Real-Time AI Capabilities at Defense and Security Exhibition - TipRanks",
-      "description": "Dataminr Showcases Real-Time AI Capabilities at Defense and Security Exhibition&nbsp;&nbsp;TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamYwOEhfYnZRVlNqRHUxaWdLeVY4RklLejY0Wi1HeDhWVkhodzFzUDZoWTZfVDRyb2ZJaDVEeVhJMkprd1RSdUFBcHNvXzZKQm9HTThZV09vU0pfd19yTHZfWXhQQzVFMENvTVVzS1B1bzltcjV2MmRIOWxINW5XSHM0OGwzYWJfemZkbElIaVRqTWJ1SDFyY3NBTm1VeldGY2RjMmJOY2NxNDJJM3hjdFdCVndCU3Q4X2hFSllDZWcwMkdha2c?oc=5",
-      "publishedAt": "2026-05-10T18:13:52+00:00",
-      "fetchedAt": "2026-05-11T12:36:07.627954+00:00"
+      "id": "l3harris-pr-l3harris-technologies-stock--us5024311095---q1-ear",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Technologies stock (US5024311095): Q1 earnings beat and US Air Force contract win - AD HOC NEWS",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb29zMzNscWdCYzU0dWQyelBRQlY4Ml93a0lkNXdnNHFpZVJZUnp1bzRGQWZhS3NaTm5ycDZXeWJUZTJ1SFVIbDR5NjJfd0c4b1A2aTctWkhjeWZoaE15UXp0bjdRM1VsNlNPeUo0NTB3ODRkeGEySmFMV0dVbjdrdjhRNlI0WTA5VGwwak9YbFNaUHREeFczMjhQT3Fadkgydm1aUzR0ZF96RmFHTEJkbWd1bEFqSFJCeGE5aEQ1S0kwbWNzMlE?oc=5",
+      "publishedAt": "2026-05-11T14:38:42+00:00",
+      "fetchedAt": "2026-05-12T11:51:04.304933+00:00"
     },
     {
-      "id": "palantir-justin-bieber-faces-fierce-backlash-over-private-p",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "recorded-future-sensex-today---stock-market-highlights--sensex-cra",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Ibtimes.com.au",
-      "title": "Justin Bieber Faces Fierce Backlash Over Private Performance for Palantir Executives",
-      "description": "LOS ANGELES \u2014 Justin Bieber is facing intense criticism and calls for boycotts after reports emerged that he performed a private concert for executives of Palantir Technologies, the controversial data analytics company known for its extensive government surve\u2026",
-      "url": "https://www.ibtimes.com.au/justin-bieber-faces-fierce-backlash-over-private-performance-palantir-executives-1868503",
-      "publishedAt": "2026-05-10T09:49:36Z",
-      "fetchedAt": "2026-05-11T12:35:57.308855+00:00"
+      "sourceName": "BusinessLine",
+      "title": "Sensex today | Stock Market Highlights: Sensex crashes 1,313 points, rupee hits record low amid US-Iran tensions",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Indian stock markets plunged on Monday as soaring crude oil prices and fading hopes of a US-Iran peace deal triggered heavy selling, with the Sensex crashing over 1,300 points amid rising fears over the prolon\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-11th-may-2026/article70961997.ece",
+      "publishedAt": "2026-05-11T10:58:10Z",
+      "fetchedAt": "2026-05-12T11:49:16.452064+00:00"
     }
   ],
-  "generatedAt": "2026-05-11T12:38:10.084123+00:00",
+  "generatedAt": "2026-05-12T11:51:43.402732+00:00",
   "periodHours": 28,
   "count": 2
 }
