@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "l3harris-pr-l3harris-technologies-stock--us5024311095---q1-ear",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
+      "id": "blacksky-rss-blacksky-secures-seven-figure-government-contract",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
       "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Technologies stock (US5024311095): Q1 earnings beat and US Air Force contract win - AD HOC NEWS",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb29zMzNscWdCYzU0dWQyelBRQlY4Ml93a0lkNXdnNHFpZVJZUnp1bzRGQWZhS3NaTm5ycDZXeWJUZTJ1SFVIbDR5NjJfd0c4b1A2aTctWkhjeWZoaE15UXp0bjdRM1VsNlNPeUo0NTB3ODRkeGEySmFMV0dVbjdrdjhRNlI0WTA5VGwwak9YbFNaUHREeFczMjhQT3Fadkgydm1aUzR0ZF96RmFHTEJkbWd1bEFqSFJCeGE5aEQ1S0kwbWNzMlE?oc=5",
-      "publishedAt": "2026-05-11T14:38:42+00:00",
-      "fetchedAt": "2026-05-12T11:51:04.304933+00:00"
-    },
-    {
-      "id": "recorded-future-sensex-today---stock-market-highlights--sensex-cra",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
       "source": "news",
-      "sourceName": "BusinessLine",
-      "title": "Sensex today | Stock Market Highlights: Sensex crashes 1,313 points, rupee hits record low amid US-Iran tensions",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Indian stock markets plunged on Monday as soaring crude oil prices and fading hopes of a US-Iran peace deal triggered heavy selling, with the Sensex crashing over 1,300 points amid rising fears over the prolon\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-11th-may-2026/article70961997.ece",
-      "publishedAt": "2026-05-11T10:58:10Z",
-      "fetchedAt": "2026-05-12T11:49:16.452064+00:00"
+      "sourceName": "Google News",
+      "title": "BlackSky secures seven-figure government contract for advanced Gen-2 space intelligence applications - Defence Industry Europe",
+      "description": "BlackSky secures seven-figure government contract for advanced Gen-2 space intelligence applications&nbsp;&nbsp;Defence Industry Europe",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVk0b2lRNUVjYVNneDlvOERrbEprZzRhVkFtbWZ1QUpiMmRaMEVIQ2FJeXJ4WnB6bTd3aV9EVGZQOGcxZll5QnlmRlJ3QndPeEpKdnhNNVhsb1VuSmJZbXJPNk5PQ21iUzhTTTZYY2ZnM3JNNDZxTjRVbUNYckxuSGptX1Y3NktYWFYzOXp5Q1VrU2RMcTlHbDN3ZDljUjNRZjRLVE4wVkJidnktUk5oUWZ4T0Fna1doRjNxX0FRTXZlTGpJNFMtUg?oc=5",
+      "publishedAt": "2026-05-12T18:31:09+00:00",
+      "fetchedAt": "2026-05-13T12:00:24.024451+00:00"
     }
   ],
-  "generatedAt": "2026-05-12T11:51:43.402732+00:00",
+  "generatedAt": "2026-05-13T12:02:08.026386+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
