@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-ukraine-ai-partnership-deepens-role-in-go",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "planet-labs-pr-planet-releases-first-light-from-latest-pelican-la",
+      "companyId": "planet-labs",
+      "companyName": "Planet Labs",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Planet Releases First Light from Latest Pelican Launch, Including Imagery from Sweden\u2019s First Sovereign Satellite - Via Ritzau",
+      "description": "Press release / announcement from Planet Labs",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOG1kdnVUdmdpQzVHQllaNzJRc2l3RXVROEVlQXRvYmpYa2ZVRW00MloyYkxBaEdtcldZZHJpOUdhRmRfc2hGS09wYi1adENTeWJTNzVmel83aWVObnpqWUFTazhTeFlKeVB1MFVjaC1jcnh2cGRtMnl1bS1ZYkVQREppaEN1QmNlb1BNV2poWnlTZHJNYUlBdGVXUDdnTkhjU1NDYnQ0NXA4Vk9CNWlpdGVsNm9jYWMzem56M05iNTQtcHhxSGk0cXRHVUpLVHRaeGNqcE5BSVNicUxGYU1SWnV1ZHpCeUZ2VG15ZjBuckFxMDJFNU1pY0NSbDBqbENxemVwS0s1SnQyOUlCQ19oQVZGNA?oc=5",
+      "publishedAt": "2026-05-14T13:04:00+00:00",
+      "fetchedAt": "2026-05-15T11:52:11.031841+00:00"
+    },
+    {
+      "id": "recorded-future-on-interpolatable-archives",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Ukraine AI Partnership Deepens Role In Government And Defense Contracts - simplywall.st",
-      "description": "Palantir Ukraine AI Partnership Deepens Role In Government And Defense Contracts&nbsp;&nbsp;simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUjNta3J1YUs3V0dubkxkMU9pQ211S3d3SzZUUmtZUXNXQWdteHpMblQ1bFpwWWMzci0tcjlQX05McWNqb1RLQVJzVUR0ODFOeUxxWUh1c0VnNWY4eU0yVFpRTGlDZGQ0dThWRG53UlJrS0dObW5HQjFmNEZBVnB4NlA3UklLZU8yREQtRGJhWXlUdkw5QkQxSHRCTlh4M2lQd210TVJITnRESTVIMGRXNGQwQVJXZHplVW9HemdJTnFJSnF4bU90N3Z5UUVncmNyZTV6LWpUd9IB3AFBVV95cUxPTEFtMU8tTllQZnRCeG9jRW1EYUJqZndteFlRVVRJRXlCYmlYWVl5al9kVHU5M0E1cGxrc2xtS2tlR2Y0N3Q2UmNsRTYtYmdKdTdpUVVFUkpLV3VWUVd6Y241RmVOSENfVEp1SnpualBVRkcwOV9lekZLWHNnSlMwMko4WEZlY0llTTVxXzhwY0Y0VlhZbGFrUlFyYWdkR2xmTXNHWXZhVlBvd1BtY1hTRkFCS0lHWWFHZGVkNEx0d1ZjSkxENFNRcFZVaWpNTlg2NGQ1cTZ4OUxfRUlm?oc=5",
-      "publishedAt": "2026-05-14T01:05:46+00:00",
-      "fetchedAt": "2026-05-14T11:46:45.141587+00:00"
+      "sourceName": "Substack.com",
+      "title": "On Interpolatable Archives",
+      "description": "AI Latent Spaces as Shapeshifting Skeleton Libraries and Explosion Drawings bearing cognitive hazards and new opportunities to play.",
+      "url": "https://goodinternet.substack.com/p/interpolatable-archives",
+      "publishedAt": "2026-05-14T11:08:11Z",
+      "fetchedAt": "2026-05-15T11:50:28.326405+00:00"
     }
   ],
-  "generatedAt": "2026-05-14T11:50:05.638394+00:00",
+  "generatedAt": "2026-05-15T11:54:07.334708+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
