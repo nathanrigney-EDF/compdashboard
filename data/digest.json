@@ -1,33 +1,46 @@
 {
   "articles": [
     {
-      "id": "planet-labs-pr-planet-releases-first-light-from-latest-pelican-la",
-      "companyId": "planet-labs",
-      "companyName": "Planet Labs",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Planet Releases First Light from Latest Pelican Launch, Including Imagery from Sweden\u2019s First Sovereign Satellite - Via Ritzau",
-      "description": "Press release / announcement from Planet Labs",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOG1kdnVUdmdpQzVHQllaNzJRc2l3RXVROEVlQXRvYmpYa2ZVRW00MloyYkxBaEdtcldZZHJpOUdhRmRfc2hGS09wYi1adENTeWJTNzVmel83aWVObnpqWUFTazhTeFlKeVB1MFVjaC1jcnh2cGRtMnl1bS1ZYkVQREppaEN1QmNlb1BNV2poWnlTZHJNYUlBdGVXUDdnTkhjU1NDYnQ0NXA4Vk9CNWlpdGVsNm9jYWMzem56M05iNTQtcHhxSGk0cXRHVUpLVHRaeGNqcE5BSVNicUxGYU1SWnV1ZHpCeUZ2VG15ZjBuckFxMDJFNU1pY0NSbDBqbENxemVwS0s1SnQyOUlCQ19oQVZGNA?oc=5",
-      "publishedAt": "2026-05-14T13:04:00+00:00",
-      "fetchedAt": "2026-05-15T11:52:11.031841+00:00"
-    },
-    {
-      "id": "recorded-future-on-interpolatable-archives",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "bigbear-ai-rss-shares-of-bigbear-ai-slide-as-defense-ai-hype-wave",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
       "category": "osint",
       "source": "news",
-      "sourceName": "Substack.com",
-      "title": "On Interpolatable Archives",
-      "description": "AI Latent Spaces as Shapeshifting Skeleton Libraries and Explosion Drawings bearing cognitive hazards and new opportunities to play.",
-      "url": "https://goodinternet.substack.com/p/interpolatable-archives",
-      "publishedAt": "2026-05-14T11:08:11Z",
-      "fetchedAt": "2026-05-15T11:50:28.326405+00:00"
+      "sourceName": "Google News",
+      "title": "Shares of BigBear.ai Slide as Defense AI Hype Wavers - TechStock\u00b2",
+      "description": "Shares of BigBear.ai Slide as Defense AI Hype Wavers&nbsp;&nbsp;TechStock\u00b2",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzRYNm5CeHpWZHBTS3FHQ0dBTm9DaTNrNERKcEEyYjR5VUNOTFJzQzBmYnY4YkZJdEJfd0pDSmhtdk5IVWpnYUk1UXE3d2pCb29Pbi0wNF9IRTdyaDNRU014N1VrbUpHXzMtYUQxb3JUV3ZhV1VFblBKVVVLLUFPa1BPYWI2bTR6WXlB?oc=5",
+      "publishedAt": "2026-05-15T19:23:38+00:00",
+      "fetchedAt": "2026-05-16T10:58:26.290364+00:00"
+    },
+    {
+      "id": "spire-global-rss-spire-global-q1-earnings-call-highlights---inkl",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Spire Global Q1 Earnings Call Highlights - inkl",
+      "description": "Spire Global Q1 Earnings Call Highlights&nbsp;&nbsp;inkl",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ucTZQdXE3V3ZjWjVRelpxNm4zZG5iaFNwSFVibk8wdlhoQjZKNzRFVzczQW81N1daQ0RSMFpYT3dQZXIxcjBtYkFSZEtNRlBydXhvMlU2R2JpUlVYeWxaV2hFcmR3TjdWNGp0UWNIRVl6NjN2?oc=5",
+      "publishedAt": "2026-05-15T10:11:31+00:00",
+      "fetchedAt": "2026-05-16T11:00:48.068503+00:00"
+    },
+    {
+      "id": "babel-street-ready-or-not--ai-government-is-already-here",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Nakedcapitalism.com",
+      "title": "Ready or Not, AI Government is Already Here",
+      "description": "AI's reach in government services is already bigger than most realize and is set to grow considerably.",
+      "url": "https://www.nakedcapitalism.com/2026/05/ready-or-not-ai-government-is-already-here.html",
+      "publishedAt": "2026-05-15T07:49:24Z",
+      "fetchedAt": "2026-05-16T10:57:41.422733+00:00"
     }
   ],
-  "generatedAt": "2026-05-15T11:54:07.334708+00:00",
+  "generatedAt": "2026-05-16T11:01:37.402162+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 3
 }
