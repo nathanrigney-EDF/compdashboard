@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": "bigbear-ai-rss-bigbear-ai-holdings--nyse--bbai--stock-price-trade",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BigBear.ai Holdings (NYSE: BBAI) Stock Price Trades 23% Below Analyst Targets After New Defence and FAA Contracts - foreignpolicyjournal.com",
+      "description": "BigBear.ai Holdings (NYSE: BBAI) Stock Price Trades 23% Below Analyst Targets After New Defence and FAA Contracts&nbsp;&nbsp;foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeGhfMVZRMTQxYjJwR0lLcU5UMzNXbDdMNUNtR3FGWXh6TmlMbjFqS2t1R3J2UU1ydWU5eGtaR18yazk5OVUySFZkb1pWRXAtaUNFemRBOXVCdHpHTzdqZG56MGI3STY5Qm9SNDlJUzY1dmFGYU9VQUFVUkpLQ3VfcGdlR3M5aUZ3aXV1dU1CZ2tnZExZNjJxcmdrNFNtajB2OHByRGkwWFlITU5DTWJWNWdCcXFIYzVZYnZLYW04XzVCRUJ2RUJKcGNZbkM4TGxIRWdBUXZLamNxelZ1VUNUckZyX3Nvdy1WNWI3OEwwUQ?oc=5",
+      "publishedAt": "2026-05-18T18:55:00+00:00",
+      "fetchedAt": "2026-05-19T12:36:07.700308+00:00"
+    },
+    {
+      "id": "babel-street-rss-babel-street-launches-agentic-risk-intelligence-to",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Babel Street Launches Agentic Risk Intelligence to Empower Analysts to Outpace AI-Fueled Threats - 01net",
+      "description": "Babel Street Launches Agentic Risk Intelligence to Empower Analysts to Outpace AI-Fueled Threats&nbsp;&nbsp;01net",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0xfNjV4NzdsM2NpTXM4SDVrN0h4ZUVnVkg3VmRhZ3d6WnllcVNCZkxwQndfa0h5bTdIN0cyTGI2bjVvX1BJSzZfbVlaWnpMdlVPMF9XUmExN1dHTUE0VzQzVzkzVzN0UzdxTlV2ZlgyT1daTF9DeHZxZXFlTnJkN2VrMDhWWFJzWUc2ZndrTTJzUl9Tbzg2OGU5QUo5NUN3VnpnNjJ3T1F3WnBFVGlpbk5zQjhZSjZ0Mnc?oc=5",
+      "publishedAt": "2026-05-18T16:00:00+00:00",
+      "fetchedAt": "2026-05-19T12:35:37.804156+00:00"
+    },
+    {
       "id": "zignal-pr-zignal-labs-launches-zignal-ai-to-deliver-structur",
       "companyId": "zignal",
       "companyName": "Zignal Labs",
@@ -11,49 +37,10 @@
       "description": "Press release / announcement from Zignal Labs",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQX0FZdW8yaTc1eVdkYmpZVzhUTEczbGpVOXFTZms1ZF8zQVpxSzRFalN2Nkd1dUhNNHR5b3Q2M3dwcUdYb2tXUTNYX2Y3R3UtQ081UElfUnFjRWlacV9xM1pqN2pYR3JEcXlGM19mOGhYbi1jeUhDdEJXakxxaGk1X3lVTS1VcnZtWUF4SU5WZHA0Y2xZUlFWVFR4SUhjQWdFeTVzWmhFenFYcXk0U0lwUEx3MUF4YXktSzFiRUxXd1V3OUZBbFdlMGw5M3NxZ3V3eElaWXIwSTZZeV9obk9WaXNiTEpWOFhJTjNkdkI3dzBNOVJ3cDFCampuclk0VVFlekEzclZCWmU2RVFDVTloMHZaQ2xxSWZLUW5CN1Vn?oc=5",
       "publishedAt": "2026-05-18T12:00:00+00:00",
-      "fetchedAt": "2026-05-18T13:41:38.348425+00:00"
-    },
-    {
-      "id": "palantir-rss-trump-s-palantir-trades-put-spotlight-on-political",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Trump\u2019s Palantir Trades Put Spotlight On Political And Contract Risks - simplywall.st",
-      "description": "Trump\u2019s Palantir Trades Put Spotlight On Political And Contract Risks&nbsp;&nbsp;simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3pwYXpyNzByVm9NcjlRdzNrYldYQkRWbW9DTUVIWDFmS2JqMm5MeG9wRWNvdUlYQUExcXlYMHNGZ2c1Wl8wdG5EM1JJRUFIcDJpUjBNTHRndTVlc3ZmYndpM2dWVURVVk1aTG91empHQUZHVHM5N0pxaUZzOGJ0SkVOd1IwNUF1Zy1zNmh6dldRWHVRWXVyeHY0ZDBIOWpPNGZWWWJ2SFNtVkIyOFRkdW9CdG11a3hFaFBPME1sWUNTWlk2WURkemhTdjZaMDNYOF81ckd4WdIB3AFBVV95cUxNLXg3empmMTRJQzg4TDExcUhYSGZqM29PRWZpZXJpNGxwTWNfVlM2b3c0cjZJa3FuTkVRRUtjMVRwM0poVTJIWWowVVFIQ19CLU1tLVRKQ1gwN3RCQ3dteUFmRy13UFpHS2hKaGt2RHo2dnZ2bHlhbm5EbFZ6MV9XMzhjY2F4ejF4QXFDWTI1T0FEU1EtZHNwQlNXaENnSGQ1bzh3RzY3YW5PY3RZOHAwR2ZvMzNrWmctLXZGNy1GU3VjTEp3cUVPWFlvcWw0aEt2VGVrbVgtUkw3V1F2?oc=5",
-      "publishedAt": "2026-05-17T23:58:22+00:00",
-      "fetchedAt": "2026-05-18T13:40:10.127513+00:00"
-    },
-    {
-      "id": "palantir-palantir-pltr-stock-hits-fresh-highs-as-ai-governm",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Ibtimes.com.au",
-      "title": "Palantir PLTR Stock Hits Fresh Highs as AI Government Contracts Drive Momentum",
-      "description": "Palantir Technologies' shares rose, pushing its market cap over $300 billion, driven by AI contracts with government and commercial clients, solidifying its position in the AI sector.",
-      "url": "https://www.ibtimes.com.au/palantir-technologies-ai-expansion-market-cap-1869022",
-      "publishedAt": "2026-05-17T10:02:22Z",
-      "fetchedAt": "2026-05-18T13:40:10.786525+00:00"
-    },
-    {
-      "id": "palantir-rss-palantir-pltr-stock-hits-fresh-highs-as-ai-governm",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir PLTR Stock Hits Fresh Highs as AI Government Contracts Drive Momentum - International Business Times Australia",
-      "description": "Palantir PLTR Stock Hits Fresh Highs as AI Government Contracts Drive Momentum&nbsp;&nbsp;International Business Times Australia",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVk55SGU4TkV0a21wWnh6LVlsajlfMFNIMkVSWHVmc25kNTl2QW5LR3JfZDZTT3g3ZWF6aEdocEhoVzM4N3ppaTZob1Q2ZW5FVGRReWhfdjZuRDVvSjhsS3hFdmtKUWpCVHhjS0tvLWJKV1VMVUxFdzREWVdjYlVPMDMxMjh5WDg?oc=5",
-      "publishedAt": "2026-05-17T10:02:22+00:00",
-      "fetchedAt": "2026-05-18T13:40:10.127644+00:00"
+      "fetchedAt": "2026-05-19T12:37:01.465421+00:00"
     }
   ],
-  "generatedAt": "2026-05-18T13:42:58.810405+00:00",
+  "generatedAt": "2026-05-19T12:38:18.409518+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 3
 }
