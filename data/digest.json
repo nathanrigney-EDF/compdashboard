@@ -1,46 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "bigbear-ai-rss-bigbear-ai-holdings--nyse--bbai--stock-price-trade",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BigBear.ai Holdings (NYSE: BBAI) Stock Price Trades 23% Below Analyst Targets After New Defence and FAA Contracts - foreignpolicyjournal.com",
-      "description": "BigBear.ai Holdings (NYSE: BBAI) Stock Price Trades 23% Below Analyst Targets After New Defence and FAA Contracts&nbsp;&nbsp;foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeGhfMVZRMTQxYjJwR0lLcU5UMzNXbDdMNUNtR3FGWXh6TmlMbjFqS2t1R3J2UU1ydWU5eGtaR18yazk5OVUySFZkb1pWRXAtaUNFemRBOXVCdHpHTzdqZG56MGI3STY5Qm9SNDlJUzY1dmFGYU9VQUFVUkpLQ3VfcGdlR3M5aUZ3aXV1dU1CZ2tnZExZNjJxcmdrNFNtajB2OHByRGkwWFlITU5DTWJWNWdCcXFIYzVZYnZLYW04XzVCRUJ2RUJKcGNZbkM4TGxIRWdBUXZLamNxelZ1VUNUckZyX3Nvdy1WNWI3OEwwUQ?oc=5",
-      "publishedAt": "2026-05-18T18:55:00+00:00",
-      "fetchedAt": "2026-05-19T12:36:07.700308+00:00"
-    },
-    {
-      "id": "babel-street-rss-babel-street-launches-agentic-risk-intelligence-to",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Babel Street Launches Agentic Risk Intelligence to Empower Analysts to Outpace AI-Fueled Threats - 01net",
-      "description": "Babel Street Launches Agentic Risk Intelligence to Empower Analysts to Outpace AI-Fueled Threats&nbsp;&nbsp;01net",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0xfNjV4NzdsM2NpTXM4SDVrN0h4ZUVnVkg3VmRhZ3d6WnllcVNCZkxwQndfa0h5bTdIN0cyTGI2bjVvX1BJSzZfbVlaWnpMdlVPMF9XUmExN1dHTUE0VzQzVzkzVzN0UzdxTlV2ZlgyT1daTF9DeHZxZXFlTnJkN2VrMDhWWFJzWUc2ZndrTTJzUl9Tbzg2OGU5QUo5NUN3VnpnNjJ3T1F3WnBFVGlpbk5zQjhZSjZ0Mnc?oc=5",
-      "publishedAt": "2026-05-18T16:00:00+00:00",
-      "fetchedAt": "2026-05-19T12:35:37.804156+00:00"
-    },
-    {
-      "id": "zignal-pr-zignal-labs-launches-zignal-ai-to-deliver-structur",
-      "companyId": "zignal",
-      "companyName": "Zignal Labs",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Zignal Labs Launches Zignal AI to Deliver Structured - GlobeNewswire",
-      "description": "Press release / announcement from Zignal Labs",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQX0FZdW8yaTc1eVdkYmpZVzhUTEczbGpVOXFTZms1ZF8zQVpxSzRFalN2Nkd1dUhNNHR5b3Q2M3dwcUdYb2tXUTNYX2Y3R3UtQ081UElfUnFjRWlacV9xM1pqN2pYR3JEcXlGM19mOGhYbi1jeUhDdEJXakxxaGk1X3lVTS1VcnZtWUF4SU5WZHA0Y2xZUlFWVFR4SUhjQWdFeTVzWmhFenFYcXk0U0lwUEx3MUF4YXktSzFiRUxXd1V3OUZBbFdlMGw5M3NxZ3V3eElaWXIwSTZZeV9obk9WaXNiTEpWOFhJTjNkdkI3dzBNOVJ3cDFCampuclk0VVFlekEzclZCWmU2RVFDVTloMHZaQ2xxSWZLUW5CN1Vn?oc=5",
-      "publishedAt": "2026-05-18T12:00:00+00:00",
-      "fetchedAt": "2026-05-19T12:37:01.465421+00:00"
-    }
-  ],
-  "generatedAt": "2026-05-19T12:38:18.409518+00:00",
+  "articles": [],
+  "generatedAt": "2026-05-20T12:21:45.598128+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 0
 }
