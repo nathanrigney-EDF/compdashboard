@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": "2026-05-20T12:21:45.598128+00:00",
+  "articles": [
+    {
+      "id": "bigbear-ai-pr-bigbear-ai--nyse--bbai--narrows-losses-and-stacks",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai (NYSE: BBAI) Narrows Losses and Stacks $75 Million in Defence Contracts as BBAI Grinds Higher - foreignpolicyjournal.com",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY1loN1dwb0NxT1VhUEpIWHBzSGNlR05LZlR6eFRrbVZQc2tROFk1czFvbEF5bmg1bHJUbVlkbV9UTUFIZFpXNTM4Qy1PY1dGVXlwbnVseDBjbGRYZHBvVm84ZHVtYnRZamZ2UWhieGRHbFNBWUNTdGxoSlFwZDZnSnlyVjVFSU8xcE8tbGI4X2h5Z1ZSSF9JVVF5dnB6MUVvb1B0bThVNlFTd3R0aldNYTJqNXZIdnFramlHb3pibUdYa1dodmtScHV5S3FSMW5Mdzl1NnVwRGE5bkdHRktGXzZZcw?oc=5",
+      "publishedAt": "2026-05-21T07:06:17+00:00",
+      "fetchedAt": "2026-05-21T12:41:19.705569+00:00"
+    },
+    {
+      "id": "bigbear-ai-pr-bigbear-ai-and-international-shipping-compliance",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai and International Shipping Compliance (ISC) Announce First Deployment of AI-Powered Supply Chain Security Platform in Panama\u2019s Dry Canal - Yahoo! Finance Canada",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1VDVDFGMUtUQW5UNW0yWGpJRGMzeGxlRUJzYVJNd2JNbDFyek52UG9aajNhZ3Y2MG03ZFp2MlRCa1JwMU9ud09SV20tZk5JeHp6eEFCeUxJakZUZHRZVTJhakpoWHpCaWIyRGZ0aHQ5eGZkQmR6M2VJV1RSMVJkUFBWbXZaaDhoQTZSdXdDYmJaVFNGVHJ2Tw?oc=5",
+      "publishedAt": "2026-05-20T13:15:00+00:00",
+      "fetchedAt": "2026-05-21T12:41:19.705651+00:00"
+    }
+  ],
+  "generatedAt": "2026-05-21T12:43:34.201781+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
