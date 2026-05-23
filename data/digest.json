@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "esper-pr-esper-announces-airwave--an-enterprise-grade-manag",
+      "companyId": "esper",
+      "companyName": "Esper",
+      "category": "geoint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Esper Announces Airwave, an Enterprise-Grade Managed OTA Solution for Android OEMs That Have Gone Without - Yahoo Finance Singapore",
+      "description": "Press release / announcement from Esper",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONjlJTWVRZ1dFZ2pBN2N2Mmh1bVIxb0k3Yi1jTlVvS0VhcjBnOEFiM3NwSnBwTk1uVEVFMDV2R0FxV0JQMTBjX085V1pBQWpWcEdMTFhrblpidFdTMy1zTm5GTDF0UUxBWGVGZTYzdjlrSmNva250OXNaT2FkWGZsQk83SzlUcnRGV2lIMWh2dWtOcGs?oc=5",
+      "publishedAt": "2026-05-22T13:00:00+00:00",
+      "fetchedAt": "2026-05-23T11:07:52.487309+00:00"
+    },
+    {
       "id": "booz-allen-pr-booz-allen-hamilton-announces-fourth-quarter-and-f",
       "companyId": "booz-allen",
       "companyName": "Booz Allen Hamilton",
@@ -11,75 +24,23 @@
       "description": "Press release / announcement from Booz Allen Hamilton",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbW5zWFJOUF9uOWdVMlYyQm9BU0xWUEhvSlhxM2hvT1ZQVmREQngydUIzWjRDY1JOUnJkZGxDWE1IT2gzdzhxNjc1b3RUMnAxN2NicWhiSk93UDFaLXFXTFNLX3lUalFkRm1fTkJMdDRhTFdXUGtzVzlZLTYwMkZNQzVTREhuWVZCYUlCQUt6Vkp4NzE3ZmU3QjRONzJBWFdZcFlGc2VmY3J2c21NeVNmSGZzLVVod3cyQ05rY2pVdXNDdkJ0NlRxNTBMY3gtZExt?oc=5",
       "publishedAt": "2026-05-22T10:45:00+00:00",
-      "fetchedAt": "2026-05-22T12:15:40.474743+00:00"
+      "fetchedAt": "2026-05-23T11:06:33.238815+00:00"
     },
     {
-      "id": "palantir-rss-palantir-technologies-stock--us69608a1088---dia-co",
+      "id": "palantir-google-ai-engineer-dismissed-for-opposing-tech-sal",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Technologies stock (US69608A1088): DIA contract challenge and earnings expectations in focu - AD HOC NEWS",
-      "description": "Palantir Technologies stock (US69608A1088): DIA contract challenge and earnings expectations in focu&nbsp;&nbsp;AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0NHX2hkS091YWJFWFRQWnpvVkZUT19ULVVhQkVyYUktU2ZPa0FUS0pUTUJFaGs1dk4wV1VEcXJNdkxlRkZEcGVYajFJQUc3eS1GVmFWZjFMUVBOMXBlbWJyOUxMMUR3Um9xWHNoS1QwbkwwOF9KcXUxalh0MnhKOVp2U2lNSndldE56Q084U1VnZ2RQaGZ4Wk5Rc09KU25JWDJyclRqM21sWGlJRGVKUWtZblpWdzBUSWcwX1h1V3FvY2pN?oc=5",
-      "publishedAt": "2026-05-22T02:31:03+00:00",
-      "fetchedAt": "2026-05-22T12:14:07.398684+00:00"
-    },
-    {
-      "id": "palantir-pr-palantir-technologies-stock--us69608a1088---dia-co",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Palantir Technologies stock (US69608A1088): DIA contract challenge and earnings expectations in focu - AD HOC NEWS",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0NHX2hkS091YWJFWFRQWnpvVkZUT19ULVVhQkVyYUktU2ZPa0FUS0pUTUJFaGs1dk4wV1VEcXJNdkxlRkZEcGVYajFJQUc3eS1GVmFWZjFMUVBOMXBlbWJyOUxMMUR3Um9xWHNoS1QwbkwwOF9KcXUxalh0MnhKOVp2U2lNSndldE56Q084U1VnZ2RQaGZ4Wk5Rc09KU25JWDJyclRqM21sWGlJRGVKUWtZblpWdzBUSWcwX1h1V3FvY2pN?oc=5",
-      "publishedAt": "2026-05-22T02:31:03+00:00",
-      "fetchedAt": "2026-05-22T12:14:08.981657+00:00"
-    },
-    {
-      "id": "blacksky-rss-pl-versus-bksy--which-satellite-imaging-stock-has",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "PL Versus BKSY: Which Satellite Imaging Stock Has More Upside? - TradingView",
-      "description": "PL Versus BKSY: Which Satellite Imaging Stock Has More Upside?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFgzZElFNmVQZTRxdEwzVi1GQmh1am1WbFZxWUZBdWd6ZlE1M3ltcUJZSzd4WDY5ZVJxbGFjV09LeU9zd045SE0zMXlYTV9wUVJ4dVdNUTZURDlVMGZ0bFFwVURPZGZIUS1zTFhKSThQaUo5dnlLMEFheTBwaHE5WmF4VjVxdHlqS1NzdXpFaUNTcVhuRjJ4bFhESlFXWUF4bVlOSGdfVmpMQl9xRkp2ZWRBOTBjb1E?oc=5",
-      "publishedAt": "2026-05-21T17:23:00+00:00",
-      "fetchedAt": "2026-05-22T12:16:32.614623+00:00"
-    },
-    {
-      "id": "babel-street-rss-babel-street-unveils-agentic-ai-platform-for-intel",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Babel Street Unveils Agentic AI Platform for Intelligence Investigations - The Defense Post",
-      "description": "Babel Street Unveils Agentic AI Platform for Intelligence Investigations&nbsp;&nbsp;The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00NTBXNGcxTGZnYmc2Y2RXYkxpT21iN2hnNEJZOF9uaXM1UHkwWDJQeGYtcEFnQmItWVc0WFBwbmhaV0dsa3JfcG4xaUpMU1NMSWV3bG9xOFlRTzNEUlRZNmhGYm80RjJDV3FXOC13b1psZ29NZ0M2Y9IBfkFVX3lxTE96eVlaZ01WdnNOM1l4bWozY2RXakV1UVhBRFIwQ3Z4LWZwb3hiRXNLRVhId3NNQ2NvZzh1ZUdoMElrd2lRenJGZTA1LW8wUnpqRTRsYU42X1dHX3Rkbl95aWwwZVFLTXlpLW1wM05YaC1IYk5rU002eEE4VnJnZw?oc=5",
-      "publishedAt": "2026-05-21T13:53:46+00:00",
-      "fetchedAt": "2026-05-22T12:14:10.860582+00:00"
-    },
-    {
-      "id": "cognyte-rss-can-cognyte-s--5m-apac-security-deal-strengthen-it",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Can Cognyte's $5M APAC Security Deal Strengthen its Revenue Pipeline? - TradingView",
-      "description": "Can Cognyte's $5M APAC Security Deal Strengthen its Revenue Pipeline?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlR2eVgtclgyREZfWG5mN3laWjhEVGhnZU1reV9Ya3ZzLWNiWnlUR0xBVlFxNHQ4enRaWnZqaVY4X0FQY2JSODhDSG1FSFI1VlRrQkpOSXJkNHk3NU11ZXhyU09UU0l6MDUyVTBGVmJhOS1nU0ktUEtjR0tPNzBnaW9SaHI4WlNSdU5ZRnMzN2stMlJTd281TDhTNmRjUGFrOHo5YWI4SjhXbm00SkdoeE1HbTRDRjUySkVRYmJOb2w?oc=5",
-      "publishedAt": "2026-05-21T13:40:00+00:00",
-      "fetchedAt": "2026-05-22T12:15:15.611715+00:00"
+      "sourceName": "ComputerWeekly.com",
+      "title": "Google AI engineer dismissed for opposing tech sales to Israel",
+      "description": "\u2018Our work on AI was sold to facilitate genocide\u2019: Artificial intelligence engineer claims Google unfairly sacked them for internally criticising the company\u2019s decision to continue supplying technology to the Israeli military, despite credible claims of war cr\u2026",
+      "url": "https://www.computerweekly.com/news/366643389/Google-AI-engineer-dismissed-for-opposing-tech-sales-to-Israel",
+      "publishedAt": "2026-05-22T10:30:00Z",
+      "fetchedAt": "2026-05-23T11:05:50.660941+00:00"
     }
   ],
-  "generatedAt": "2026-05-22T12:18:31.727389+00:00",
+  "generatedAt": "2026-05-23T11:08:00.624528+00:00",
   "periodHours": 28,
-  "count": 6
+  "count": 3
 }
