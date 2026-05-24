@@ -1,46 +1,20 @@
 {
   "articles": [
     {
-      "id": "esper-pr-esper-announces-airwave--an-enterprise-grade-manag",
-      "companyId": "esper",
-      "companyName": "Esper",
-      "category": "geoint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Esper Announces Airwave, an Enterprise-Grade Managed OTA Solution for Android OEMs That Have Gone Without - Yahoo Finance Singapore",
-      "description": "Press release / announcement from Esper",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONjlJTWVRZ1dFZ2pBN2N2Mmh1bVIxb0k3Yi1jTlVvS0VhcjBnOEFiM3NwSnBwTk1uVEVFMDV2R0FxV0JQMTBjX085V1pBQWpWcEdMTFhrblpidFdTMy1zTm5GTDF0UUxBWGVGZTYzdjlrSmNva250OXNaT2FkWGZsQk83SzlUcnRGV2lIMWh2dWtOcGs?oc=5",
-      "publishedAt": "2026-05-22T13:00:00+00:00",
-      "fetchedAt": "2026-05-23T11:07:52.487309+00:00"
-    },
-    {
-      "id": "booz-allen-pr-booz-allen-hamilton-announces-fourth-quarter-and-f",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
+      "id": "bigbear-ai-pr-bigbear-ai--nyse--bbai--stock-price-holds-near--4",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Booz Allen Hamilton Announces Fourth Quarter and Full Year Fiscal 2026 Results - Business Wire",
-      "description": "Press release / announcement from Booz Allen Hamilton",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbW5zWFJOUF9uOWdVMlYyQm9BU0xWUEhvSlhxM2hvT1ZQVmREQngydUIzWjRDY1JOUnJkZGxDWE1IT2gzdzhxNjc1b3RUMnAxN2NicWhiSk93UDFaLXFXTFNLX3lUalFkRm1fTkJMdDRhTFdXUGtzVzlZLTYwMkZNQzVTREhuWVZCYUlCQUt6Vkp4NzE3ZmU3QjRONzJBWFdZcFlGc2VmY3J2c21NeVNmSGZzLVVod3cyQ05rY2pVdXNDdkJ0NlRxNTBMY3gtZExt?oc=5",
-      "publishedAt": "2026-05-22T10:45:00+00:00",
-      "fetchedAt": "2026-05-23T11:06:33.238815+00:00"
-    },
-    {
-      "id": "palantir-google-ai-engineer-dismissed-for-opposing-tech-sal",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "ComputerWeekly.com",
-      "title": "Google AI engineer dismissed for opposing tech sales to Israel",
-      "description": "\u2018Our work on AI was sold to facilitate genocide\u2019: Artificial intelligence engineer claims Google unfairly sacked them for internally criticising the company\u2019s decision to continue supplying technology to the Israeli military, despite credible claims of war cr\u2026",
-      "url": "https://www.computerweekly.com/news/366643389/Google-AI-engineer-dismissed-for-opposing-tech-sales-to-Israel",
-      "publishedAt": "2026-05-22T10:30:00Z",
-      "fetchedAt": "2026-05-23T11:05:50.660941+00:00"
+      "title": "BigBear.ai (NYSE: BBAI) Stock Price Holds Near $4.20 as Defence Contract Pipeline Builds - foreignpolicyjournal.com",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWWlhTVM2N1NZMGxmOE8tdTlpWW1FeWJQd3k5NlV6Nnh6cmxxSF9QM1VZOF91VEt0M044bUExU1pnbHpBcmU1Y2xvdXFVQzRFaG5aZ01uMHBzVmN0dVRfeWtUS2lkOXhkVUJ3WXB3bVNTa1lUSUFjZmI0MjBaWms3YTVDVUhlTV9FU25jWTFoYXZZVUhVNDVxMXZxbGJldHJLOFd4UlZTR2JURDlRLVE0R05iSlZydzBqcVJCeEdFZWxOS190ZEZrV1VSbjl4UQ?oc=5",
+      "publishedAt": "2026-05-23T12:02:55+00:00",
+      "fetchedAt": "2026-05-24T11:11:34.468522+00:00"
     }
   ],
-  "generatedAt": "2026-05-23T11:08:00.624528+00:00",
+  "generatedAt": "2026-05-24T11:15:07.181805+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 1
 }
