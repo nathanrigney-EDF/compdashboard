@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "bigbear-ai-pr-bigbear-ai--nyse--bbai--stock-price-holds-near--4",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai (NYSE: BBAI) Stock Price Holds Near $4.20 as Defence Contract Pipeline Builds - foreignpolicyjournal.com",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWWlhTVM2N1NZMGxmOE8tdTlpWW1FeWJQd3k5NlV6Nnh6cmxxSF9QM1VZOF91VEt0M044bUExU1pnbHpBcmU1Y2xvdXFVQzRFaG5aZ01uMHBzVmN0dVRfeWtUS2lkOXhkVUJ3WXB3bVNTa1lUSUFjZmI0MjBaWms3YTVDVUhlTV9FU25jWTFoYXZZVUhVNDVxMXZxbGJldHJLOFd4UlZTR2JURDlRLVE0R05iSlZydzBqcVJCeEdFZWxOS190ZEZrV1VSbjl4UQ?oc=5",
-      "publishedAt": "2026-05-23T12:02:55+00:00",
-      "fetchedAt": "2026-05-24T11:11:34.468522+00:00"
-    }
-  ],
-  "generatedAt": "2026-05-24T11:15:07.181805+00:00",
+  "articles": [],
+  "generatedAt": "2026-05-25T13:00:43.867669+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
