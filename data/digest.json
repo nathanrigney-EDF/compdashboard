@@ -1,72 +1,46 @@
 {
   "articles": [
     {
-      "id": "palantir-pr-thomas-cavanagh-construction-limited-extends-strat",
+      "id": "palantir-counter-drone-procurement-goes-generational",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Thomas Cavanagh Construction Limited Extends Strategic Partnership with Palantir Technologies Through December 31, 2035 - Yahoo! Finance Canada",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2hkS0FsX2NKdmgyRThXSW55S3JVMVJPNE9nNnVNY2U5bmR2Y3BPWWtuUThTemV0N3FYMnp2OUtYOEJtbGRvLXZ2QTlIbDdMR1dCUmJSaEtHOFhnU2VVcm52bkNkeE5HSnJ6YnVXd2pQREhNWGw0ekh4WUx6ak5hX19sbmtPa3pvak12blJzMWkyMXVVVUpqTw?oc=5",
-      "publishedAt": "2026-05-27T21:29:00+00:00",
-      "fetchedAt": "2026-05-28T13:43:21.327054+00:00"
+      "source": "news",
+      "sourceName": "PRNewswire",
+      "title": "Counter-Drone Procurement Goes Generational",
+      "description": "Issued on behalf of VisionWave Holdings, Inc. A vertically integrated autonomous defense platform built around RF, computer vision, AI video analytics, and composite materials NEW YORK, May 28, 2026 /PRNewswire/ -- Equity Insider News Commentary \u2014 The U.S. de\u2026",
+      "url": "https://www.prnewswire.com/news-releases/counter-drone-procurement-goes-generational-302783555.html",
+      "publishedAt": "2026-05-28T12:35:00Z",
+      "fetchedAt": "2026-05-29T12:44:39.611225+00:00"
     },
     {
-      "id": "planet-labs-pr-planet-labs-pbc-receives-john-deere-sustainability",
-      "companyId": "planet-labs",
-      "companyName": "Planet Labs",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Planet Labs PBC Receives John Deere Sustainability Award - Yahoo! Finance Canada",
-      "description": "Press release / announcement from Planet Labs",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTBWZ0hTaTVRYjVGcWNwWUpLdWFpaFhRb0M3ZnlLd0NGVXBKbkZ5NjlxVG92YU1SbldiM3plSlVocUNXUWkxQldERTZ4UkxybV9RR18xcnBBaE5TZWRIbjdraWJlZ2t5cEhtQ0xkMTkwdXhuVHFpaEJmY2RMa1hLY2pmMkY?oc=5",
-      "publishedAt": "2026-05-27T13:05:00+00:00",
-      "fetchedAt": "2026-05-28T13:44:56.271109+00:00"
-    },
-    {
-      "id": "spire-global-pr-schaeffler-and-spire-global-partner-to-build-sover",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Schaeffler and Spire Global Partner to Build Sovereign European Space Infrastructure - Yahoo Finance Australia",
-      "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX2hjcjdIY085cTZFMUZaVXE3dHMwU3BYRkgtSkJSYlBkZVJjb3IzbmcyVmVYRFBSaG1xWENZS3pVdmxnM3Zxa1hlblhkMUZUR256MUtNelNGTXppSWFUMkFzSUJGc3d2UllzQVNVdjZXbXdNZlUzZ1FNNW1wcVlKaUVJTlJLZ2J1Z09VZjNQRQ?oc=5",
-      "publishedAt": "2026-05-27T11:00:00+00:00",
-      "fetchedAt": "2026-05-28T13:45:20.217471+00:00"
-    },
-    {
-      "id": "recorded-future-bmo-financial-group-reports-second-quarter-2026-re",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "bigbear-ai-counter-drone-procurement-goes-generational",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
       "category": "osint",
       "source": "news",
       "sourceName": "PRNewswire",
-      "title": "BMO Financial Group Reports Second Quarter 2026 Results",
-      "description": "BMO's Second Quarter 2026 Report to Shareholders, including the unaudited interim consolidated financial statements for the period ended April 30, 2026, are available online at www.bmo.com/investorrelations, on the Canadian Securities Administrators' website \u2026",
-      "url": "https://www.prnewswire.com/news-releases/bmo-financial-group-reports-second-quarter-2026-results-302782969.html",
-      "publishedAt": "2026-05-27T10:00:00Z",
-      "fetchedAt": "2026-05-28T13:43:26.300322+00:00"
+      "title": "Counter-Drone Procurement Goes Generational",
+      "description": "Issued on behalf of VisionWave Holdings, Inc. A vertically integrated autonomous defense platform built around RF, computer vision, AI video analytics, and composite materials NEW YORK, May 28, 2026 /PRNewswire/ -- Equity Insider News Commentary \u2014 The U.S. de\u2026",
+      "url": "https://www.prnewswire.com/news-releases/counter-drone-procurement-goes-generational-302783555.html",
+      "publishedAt": "2026-05-28T12:35:00Z",
+      "fetchedAt": "2026-05-29T12:44:58.243523+00:00"
     },
     {
-      "id": "esper-pr-recent-release---love-and-evil---from-page-publish",
-      "companyId": "esper",
-      "companyName": "Esper",
-      "category": "geoint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Recent Release, \"Love and Evil,\" from Page Publishing Author Esper Rushing, Explores a Transcendent Bond\u2014Love so Potent That No Force Can Diminish It - PR.com",
-      "description": "Press release / announcement from Esper",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JVkktUTNvd09EYi1TZEtYNndsZVhsTzV1R1hQRlFjYXhPeEhiOHhGV3d4bkR1ank5UkRCWGV5OWMyTnJZVWEyUnhNd2ZpamtR?oc=5",
-      "publishedAt": "2026-05-27T10:00:00+00:00",
-      "fetchedAt": "2026-05-28T13:45:30.664378+00:00"
+      "id": "blacksky-why-blacksky-s--bksy--gen-2-constellation-continue",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Yahoo Entertainment",
+      "title": "Why BlackSky\u2019s (BKSY) Gen-2 Constellation Continues To Draw Attention",
+      "description": "With 13 hedge funds having stakes in the company, BlackSky Technology Inc. (NYSE:BKSY) is among the 9 Best Space Stocks to Buy According to Reddit and Social...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-blacksky-bksy-gen-2-115207840.html",
+      "publishedAt": "2026-05-28T11:52:07Z",
+      "fetchedAt": "2026-05-29T12:45:43.917623+00:00"
     }
   ],
-  "generatedAt": "2026-05-28T13:45:39.544126+00:00",
+  "generatedAt": "2026-05-29T12:47:06.463381+00:00",
   "periodHours": 28,
-  "count": 5
+  "count": 3
 }
