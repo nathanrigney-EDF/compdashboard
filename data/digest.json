@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "cognyte-rss-a-look-at-cognyte-software--cgnt--valuation-after",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "A Look At Cognyte Software (CGNT) Valuation After First Quarter Results And Government Contract Wins - Yahoo Finance",
+      "description": "A Look At Cognyte Software (CGNT) Valuation After First Quarter Results And Government Contract Wins&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1o4ajBrd0I3Nk5BTzJVd3NiNm9OTjd3dTJPSFNuTXM3M1Y2UEk2R0ZrbUl1MGlvaEJ2ZWs1RWFIaVllMUIyUVRJMzNEcE82SVRtWE1La2h1RmZYSnY0TzZ3cld6UFQ5MjlHa0pXTEFwV3V2TzNqYUQzVG1VeHFSTlJha01yZ3o4Xy1uWlkxdDQ1Wko3X0FDQUQwN0xUYk1qTVJv?oc=5",
+      "publishedAt": "2026-06-04T10:10:18+00:00",
+      "fetchedAt": "2026-06-04T12:42:03.230071+00:00"
+    },
+    {
       "id": "spire-global-rss-spire-global-just-lost-a-contract-that-would-have",
       "companyId": "spire-global",
       "companyName": "Spire Global",
@@ -10,76 +23,37 @@
       "title": "Spire Global Just Lost a Contract That Would Have Been Equal to 9 Months of 2025 Revenue - AOL.com",
       "description": "Spire Global Just Lost a Contract That Would Have Been Equal to 9 Months of 2025 Revenue&nbsp;&nbsp;AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVBlMDlKQ1hKcENJR2Fvb2lneHo4VjdHRDlJME1sS2J0T0VTWnJLa0l4bk1GU2czZHFWM0w0VXRxeGhvc2dkT05LdHJMTTZrTloyQlBMeFkxZWw2OFdQcjZobmliZHBjSV9MUFhuLU9paVJLZ0F6cTdDYVdJM2swMg?oc=5",
-      "publishedAt": "2026-06-02T21:03:15+00:00",
-      "fetchedAt": "2026-06-03T14:26:35.497272+00:00"
+      "publishedAt": "2026-06-03T23:01:05+00:00",
+      "fetchedAt": "2026-06-04T12:43:25.652100+00:00"
     },
     {
-      "id": "cognyte-pr-cognyte-software--cgnt--set-to-release-q1-earnings",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
+      "id": "babel-street-pope-s-ai-warnings-come-as-americans-grapple-with",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Cognyte Software (CGNT) Set to Release Q1 Earnings with Strong E - GuruFocus",
-      "description": "Press release / announcement from Cognyte",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdklTV2ZHMndnbnFiZV9VU294R0Zxd0tJOFM3R1RhQTJaYkktTDFyWGx1TVdrd1phZkNVaVBiZDQxNUFZQ3ZTdlVpM1hleENqVVhhNG9FZFg5czA1TmhyUHVpTVVMQkJPTkNWZG96elBVZlhFbG90enlkcC1jR3JYd0ZQaE12dEJYVV9hQXYwTVgxVjY5dnJFc0RnWmJZNlRiYmNudGVsdDZhNk9oQmMyLU5kZEJsTlNvQ0dudEp3?oc=5",
-      "publishedAt": "2026-06-02T19:18:45+00:00",
-      "fetchedAt": "2026-06-03T14:24:32.103011+00:00"
+      "source": "news",
+      "sourceName": "Ewtnnews.com",
+      "title": "Pope\u2019s AI warnings come as Americans grapple with data center expansions",
+      "description": "Catholic scholars echo Leo's focus on the dignity of work, the environment, and avoiding power concentration as one data center spokesperson says her work is consistent with Leo's vision.",
+      "url": "https://www.ewtnnews.com/world/us/pope-s-ai-warnings-come-as-americans-grapple-with-data-center-expansions",
+      "publishedAt": "2026-06-03T11:00:00Z",
+      "fetchedAt": "2026-06-04T12:40:46.595790+00:00"
     },
     {
-      "id": "palantir-rss-palantir-hires-anchor---arrow-for-defense-lobbying",
+      "id": "palantir-buy-or-sell-palantir-stock-in-2026--analysts-weigh",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Hires Anchor & Arrow for Defense Lobbying - Legis1",
-      "description": "Palantir Hires Anchor & Arrow for Defense Lobbying&nbsp;&nbsp;Legis1",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MWVBBT19DQWFpcjhiWHdsR1MweWVxWGhDNEp5V01sQ0MzWkdjOWZwQk16VTNxaHFjdl9tV0lfZUFKV3g4OTNqR2VmS0llcmxfOFNzem9fdHNsbWpRaUhpS0JsdHhFRV9IeGx4d1BCbnJSYl9ScGxZLVN3UGQ?oc=5",
-      "publishedAt": "2026-06-02T18:25:21+00:00",
-      "fetchedAt": "2026-06-03T14:23:39.836045+00:00"
-    },
-    {
-      "id": "recorded-future-pr-recorded-future-announces-strategic-partnership-wi",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Recorded Future Announces Strategic Partnership with Wipro to Deliver AI-Powered Threat Intelligence at Global Enterprise Scale - Yahoo Finance Singapore",
-      "description": "Press release / announcement from Recorded Future",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRy1kVTMxNGRfU2dKRFcybGdNU040WXBGVUR6R25QcTk0RXhUNkJDXzV6aEhGMXNseXdiUnB2Y2piVnlZNVJJcnZCaTExeWdmdEpRNzR5VXVJRGprcnp4WEg3NkxUcHc0cEFpNVRqV2FIRXFpMzhEQlFnYzFFaHYxYmhTMFluZHVxR0VKN3Nkck9VUlZPbUZpSmZ2bGs?oc=5",
-      "publishedAt": "2026-06-02T17:21:00+00:00",
-      "fetchedAt": "2026-06-03T14:23:47.114498+00:00"
-    },
-    {
-      "id": "seerist-rss-seerist-recognized-in-frost---sullivan-s-2026-fros",
-      "companyId": "seerist",
-      "companyName": "Seerist",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Seerist Recognized in Frost & Sullivan's 2026 Frost Radar\u2122 for Risk Intelligence Solutions - PRWeb",
-      "description": "Seerist Recognized in Frost & Sullivan's 2026 Frost Radar\u2122 for Risk Intelligence Solutions&nbsp;&nbsp;PRWeb",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXJxWG80UHBoUVV2ajZLRG5oM1ptN3NHVkJHUktfSEE4bzBTemVQOUNvaUtoaG1yN2l5andOd0NkRmd1VXhtYXVRQi1JdHJMeGdRbm9CTG9lem1LaEVYQ2NSSE53T0owRGhyMWp6aUtMMzFlajNGZEtGU1hxQUxhQWd2c0NIdkVmQnc1OFRuVTZ2Rjc4VHFTUkRwUFpDdkUxckNHMDgxRzBfdHNvRS1Ia2RCRFVNVHdOSy1Tb3h2OWNROVoxM0Vfazl3LW5TZw?oc=5",
-      "publishedAt": "2026-06-02T14:05:00+00:00",
-      "fetchedAt": "2026-06-03T14:24:41.079948+00:00"
-    },
-    {
-      "id": "palantir-peter-mandelson-invited-uk-pm-to-meet-palantir-s-t",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Theregister.com",
-      "title": "Peter Mandelson invited UK PM to meet Palantir's Thiel",
-      "description": "Britain's former US ambassador founded lobbyist that represented spy-tech firm, saw it win big roles in UK defense, health tech",
-      "url": "https://www.theregister.com/public-sector/2026/06/02/peter-mandelson-invited-uk-pm-to-meet-palantirs-thiel/5249967",
-      "publishedAt": "2026-06-02T10:27:44Z",
-      "fetchedAt": "2026-06-03T14:23:40.595784+00:00"
+      "sourceName": "Ibtimes.com.au",
+      "title": "Buy or Sell Palantir Stock in 2026? Analysts Weigh AI Momentum Against High Valuation",
+      "description": "Palantir Technologies experiences significant growth driven by AI demand, but faces valuation concerns. Analysts debate its future amid strong U.S. market performance and government contract reliance.",
+      "url": "https://www.ibtimes.com.au/palantir-technologies-ai-demand-valuation-1870027",
+      "publishedAt": "2026-06-03T09:09:25Z",
+      "fetchedAt": "2026-06-04T12:40:28.559033+00:00"
     }
   ],
-  "generatedAt": "2026-06-03T14:27:40.342351+00:00",
+  "generatedAt": "2026-06-04T12:43:46.311852+00:00",
   "periodHours": 28,
-  "count": 6
+  "count": 4
 }
