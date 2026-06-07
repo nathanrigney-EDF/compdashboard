@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-rss-is-bigbear-ai-emerging-as-a-key-homeland-security",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Is BigBear.ai Emerging as a Key Homeland Security AI Stock? - TradingView",
-      "description": "Is BigBear.ai Emerging as a Key Homeland Security AI Stock?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUhqTERCaHdMNHhzV005Z3d4UU9wcWEydF9hVWJ3anVfTEJZQ252clRncXAxeG5yekZBZXFvTi1jQzFLTmJqejNRa3VaUUhLbG0xaF94cC1OZTVsYVdHbFpWak9yRkpXVHB5UVRSVXd0NFIwcFo5QkpCWGFFb3NYS0tNaFFMUXQ4V2VaR3JManpnblYyLVV2UEdOZnRNSnQwNFVPSjJTdnhfWFNVYkxQMzRCdGQ?oc=5",
-      "publishedAt": "2026-06-05T13:25:00+00:00",
-      "fetchedAt": "2026-06-06T11:20:29.844421+00:00"
-    },
-    {
-      "id": "satellogic-rss-why-satellogic--satl--is-down-17-4--after-landing",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
+      "id": "umbra-pr-vox-umbra-release-two-song-maxi-single--afterglow",
+      "companyId": "umbra",
+      "companyName": "Umbra",
       "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Why Satellogic (SATL) Is Down 17.4% After Landing New Defense Contract And Board Addition - Yahoo Finance",
-      "description": "Why Satellogic (SATL) Is Down 17.4% After Landing New Defense Contract And Board Addition&nbsp;&nbsp;Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGRuWGc3S0hHQ0RsVHNVNk5MRzJibnhGUjl5Mk5JZlJmNWFyZmx3T3ZQMkNORmYtVXhqZklTbTFsSG1DRm94TnYyX21HQ2tBc25VWVBCdlBfMnVIeTQ1M0Q0dUN5aVdrc0NjVE1namstcFdMN2Nkd1V1eHZ1aDVHd0c2V0lHa2NrQlR6a0NGcmdYZi04dnZn?oc=5",
-      "publishedAt": "2026-06-05T08:16:19+00:00",
-      "fetchedAt": "2026-06-05T12:35:16.057789+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Vox Umbra release two-song maxi-single \u2018Afterglow\u2019 / \u2018The Train\u2019 - SIDE-LINE",
+      "description": "Press release / announcement from Umbra",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94OXo4Skc0VzRpX0dwTGg1RFI1d1B2X18wSlN5OUFyOE9QVldRX0Fnek1pd0thc3c0dnlNZS14VjFNR1FycGt5NTBmbjFPUnJHUTFMeXV1WGlPaDVMQTlCSHRKRTJRT2M?oc=5",
+      "publishedAt": "2026-06-06T09:40:29+00:00",
+      "fetchedAt": "2026-06-07T11:45:37.356854+00:00"
     }
   ],
-  "generatedAt": "2026-06-06T11:23:22.077870+00:00",
+  "generatedAt": "2026-06-07T11:46:27.032424+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
