@@ -1,59 +1,46 @@
 {
   "articles": [
     {
-      "id": "satellogic-pr-satellogic-cfo-rick-dunn-to-step-down-following-tr",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Satellogic CFO Rick Dunn to step down following transition period - Investing.com",
-      "description": "Press release / announcement from Satellogic",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmc3a3FQWm9hNlFabl9oSGJtY1BiU18tTlY4ZGw2XzluVFd2THVqYkJYbGJTYWhYNDZ4bF9iOWU4WkNDLV9JaEdJdGY3UjEtX2xvcEktWVpYcUtXZ3lwTlpjMUFGbnNCWjBNRFh1TEZ4N1czNjN6TDc1NnhIZ0QxTWR6ampJZU5uYl9pSzI5UnVYN1VuaEs5Q1U5b21hNlVuM19DbkFOazFMNmZ3ZDI3NHdwTF92QTZsWlYzWHAxMmd0UUZ1U3VoVQ?oc=5",
-      "publishedAt": "2026-06-08T21:50:00+00:00",
-      "fetchedAt": "2026-06-09T12:33:35.249014+00:00"
-    },
-    {
-      "id": "lgnd-ai-pr-snowflake-summit-2026-recap--rebrands--acquisition",
-      "companyId": "lgnd-ai",
-      "companyName": "Lgnd.AI",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Snowflake Summit 2026 recap: rebrands, acquisition and 25+ announcements - Flexera",
-      "description": "Press release / announcement from Lgnd.AI",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhdENpOW45VjFvUlIxazR5aTJ3SmlkR18tSTFzWVFNWnpGdzE1X1A0Y05WV05hWklkR2tUOVZVZU5PMS1Gd1ZyZG4wQTdtZENlU3VXTHd1MmhEWloxM2RPVDF4eW92OFZYakpzOXQzZHYzZw?oc=5",
-      "publishedAt": "2026-06-08T14:49:28+00:00",
-      "fetchedAt": "2026-06-09T12:32:54.014081+00:00"
-    },
-    {
-      "id": "palantir-a-next-gen-intelligence-platform-operating-at-the",
+      "id": "palantir-pr-palantir-and-kirkland-launch-ai-fundraising-platfo",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
-      "source": "news",
-      "sourceName": "GlobeNewswire",
-      "title": "A Next-Gen Intelligence Platform Operating at the Intersection of AI, Defense Technology, and Quantum Cybersecurity",
-      "description": "AUSTIN, Texas, June 08, 2026 (GLOBE NEWSWIRE) -- AINewsWire Editorial Coverage: The convergence of artificial intelligence, operational intelligence infrastructure and post-quantum cybersecurity is creating growing demand for specialized platforms capable of \u2026",
-      "url": "https://www.globenewswire.com/news-release/2026/06/08/3308105/0/en/A-Next-Gen-Intelligence-Platform-Operating-at-the-Intersection-of-AI-Defense-Technology-and-Quantum-Cybersecurity.html",
-      "publishedAt": "2026-06-08T12:30:00Z",
-      "fetchedAt": "2026-06-09T12:32:00.697919+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Palantir and Kirkland Launch AI Fundraising Platform - Let's Data Science",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3JqYWFuQ2dfSEhLVG5TZnkyNVF5MmVkUzJkU0xyUVdPOENsSEVSZUF2UDY2UUszdjJEZG5sbERlZDJYX2FoX2QxYS1fSFJVUjBSell1ZlA1QUNvRmljYzBldUFxWlFaOUNSUlNUZ21WdWp2MHZtYXNPbndiTUxhS3VmRHcwSVVFUU1DRGxqMVJBV29zR0VEdHBB?oc=5",
+      "publishedAt": "2026-06-09T23:21:34+00:00",
+      "fetchedAt": "2026-06-10T12:50:23.155311+00:00"
     },
     {
-      "id": "recorded-future-sensex-today---stock-market-highlights--sensex-set",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "dataminr-rss-dataminr-announces-strategic-partnership-with-td-s",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
       "category": "osint",
       "source": "news",
-      "sourceName": "BusinessLine",
-      "title": "Sensex today | Stock Market Highlights: Sensex settles at 73,524.26, down 719.08 pts (0.97%); Nifty ends at 23,123, down 243.70 pts (1.04%)",
-      "description": "Sensex, Nifty, Stock Price Highlights:- Shares fell on Monday, tracking a sharp \u200bselloff across Asian markets, while crude prices spiked due to \u200can escalation of the Middle East \u200bconflict",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-june-2026/article71072799.ece",
-      "publishedAt": "2026-06-08T10:28:12Z",
-      "fetchedAt": "2026-06-09T12:32:06.521426+00:00"
+      "sourceName": "Google News",
+      "title": "Dataminr Announces Strategic Partnership with TD SYNNEX to Accelerate AI-Powered Cyber Defense - PR Newswire",
+      "description": "Dataminr Announces Strategic Partnership with TD SYNNEX to Accelerate AI-Powered Cyber Defense&nbsp;&nbsp;PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHoycHVXUV9jTzRFVlFrZWltald2djhGTERNbHNaU2MtNFJEZTZ0YThlRkM1LXp3clNjYmpFWF9iQzBycHUzZW1pc2IzNGUybFZWSjA5WnhMSE5vc19BcXRyN1VISnA5WUFWMVRlNmFhdktTTnN1Tm0tWnlKZGIzelRoSkVuVVVtYnpCMDNNVERpYm1ScVl6aEczaVMzdXJaMHcteWVfbGJnMVFMOUxIdm1OS1Q2NUZnd1p6S2ZHNTVJS3laTExZUHluTnN1TS1NSG9YQW1sWHJDSlVmQUxfQ3g4bGs?oc=5",
+      "publishedAt": "2026-06-09T13:00:00+00:00",
+      "fetchedAt": "2026-06-10T12:50:33.735272+00:00"
+    },
+    {
+      "id": "blacksky-pr-blacksky-receives-nro-contract-for-satellite-devel",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BlackSky receives NRO contract for satellite development By Investing.com - Investing.com Australia",
+      "description": "Press release / announcement from BlackSky Technology",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU2sxQ2Roc1ppbWRiY2htU2hnOVlzaENWSHRJSE1CbmltcWNrMnFRR21sNXMxTG12VWVsZkU1MnRzVVJYcTlsZUlNcER6SEdEWFNUa2Jyc2NrZnhEdnp4NnJzZGZ0Tm93REdxeWJ5N2Y4c1ZobmlHZTVzMHpTLVg3YmRteTNzbmtkS0ZmV0hRLVh2em5SVEg5TGFETXJpejFycFNpQXcwX0U3WmZuWmhNVTExODdzRW13UHFVYUZjNnhSZTZEOWNxbA?oc=5",
+      "publishedAt": "2026-06-09T12:47:41+00:00",
+      "fetchedAt": "2026-06-10T12:51:48.015043+00:00"
     }
   ],
-  "generatedAt": "2026-06-09T12:34:35.488599+00:00",
+  "generatedAt": "2026-06-10T12:53:15.191228+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 3
 }
