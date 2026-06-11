@@ -1,46 +1,33 @@
 {
   "articles": [
     {
-      "id": "palantir-pr-palantir-and-kirkland-launch-ai-fundraising-platfo",
+      "id": "palantir-rss-palantir-hires-northern-compass-for-defense-lobbyi",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Palantir and Kirkland Launch AI Fundraising Platform - Let's Data Science",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3JqYWFuQ2dfSEhLVG5TZnkyNVF5MmVkUzJkU0xyUVdPOENsSEVSZUF2UDY2UUszdjJEZG5sbERlZDJYX2FoX2QxYS1fSFJVUjBSell1ZlA1QUNvRmljYzBldUFxWlFaOUNSUlNUZ21WdWp2MHZtYXNPbndiTUxhS3VmRHcwSVVFUU1DRGxqMVJBV29zR0VEdHBB?oc=5",
-      "publishedAt": "2026-06-09T23:21:34+00:00",
-      "fetchedAt": "2026-06-10T12:50:23.155311+00:00"
-    },
-    {
-      "id": "dataminr-rss-dataminr-announces-strategic-partnership-with-td-s",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Dataminr Announces Strategic Partnership with TD SYNNEX to Accelerate AI-Powered Cyber Defense - PR Newswire",
-      "description": "Dataminr Announces Strategic Partnership with TD SYNNEX to Accelerate AI-Powered Cyber Defense&nbsp;&nbsp;PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHoycHVXUV9jTzRFVlFrZWltald2djhGTERNbHNaU2MtNFJEZTZ0YThlRkM1LXp3clNjYmpFWF9iQzBycHUzZW1pc2IzNGUybFZWSjA5WnhMSE5vc19BcXRyN1VISnA5WUFWMVRlNmFhdktTTnN1Tm0tWnlKZGIzelRoSkVuVVVtYnpCMDNNVERpYm1ScVl6aEczaVMzdXJaMHcteWVfbGJnMVFMOUxIdm1OS1Q2NUZnd1p6S2ZHNTVJS3laTExZUHluTnN1TS1NSG9YQW1sWHJDSlVmQUxfQ3g4bGs?oc=5",
-      "publishedAt": "2026-06-09T13:00:00+00:00",
-      "fetchedAt": "2026-06-10T12:50:33.735272+00:00"
+      "title": "Palantir Hires Northern Compass for Defense Lobbying - Legis1",
+      "description": "Palantir Hires Northern Compass for Defense Lobbying&nbsp;&nbsp;Legis1",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Mc1FTX3pPbGNiNGVsWC03VnNHSHJ0NzBIeDlDRnJWMTloY1VBaGhUZmN6OUs1SlU0dF8xcFlrMENYb3Nid09MdkQ5dmdGTXFiZVhNbUgyNXhkVmprMWUtVkt5ZXpaSlZUUGp0ZWpPdDN4XzBGTXRWMUphQUs?oc=5",
+      "publishedAt": "2026-06-10T20:00:44+00:00",
+      "fetchedAt": "2026-06-11T13:54:29.036303+00:00"
     },
     {
-      "id": "blacksky-pr-blacksky-receives-nro-contract-for-satellite-devel",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BlackSky receives NRO contract for satellite development By Investing.com - Investing.com Australia",
-      "description": "Press release / announcement from BlackSky Technology",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU2sxQ2Roc1ppbWRiY2htU2hnOVlzaENWSHRJSE1CbmltcWNrMnFRR21sNXMxTG12VWVsZkU1MnRzVVJYcTlsZUlNcER6SEdEWFNUa2Jyc2NrZnhEdnp4NnJzZGZ0Tm93REdxeWJ5N2Y4c1ZobmlHZTVzMHpTLVg3YmRteTNzbmtkS0ZmV0hRLVh2em5SVEg5TGFETXJpejFycFNpQXcwX0U3WmZuWmhNVTExODdzRW13UHFVYUZjNnhSZTZEOWNxbA?oc=5",
-      "publishedAt": "2026-06-09T12:47:41+00:00",
-      "fetchedAt": "2026-06-10T12:51:48.015043+00:00"
+      "id": "recorded-future-ncc--risk-managers-advocate-overhaul-of-national-s",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The Punch",
+      "title": "NCC, risk managers advocate overhaul of national security system",
+      "description": "The NCC and risk management professionals call for a coordinated overhaul of Nigeria\u2019s national security system to address rising physical, cyber, and oper\n\nRead More: https://punchng.com/ncc-risk-managers-advocate-overhaul-of-national-security-system/",
+      "url": "https://punchng.com/ncc-risk-managers-advocate-overhaul-of-national-security-system/",
+      "publishedAt": "2026-06-10T13:05:39Z",
+      "fetchedAt": "2026-06-11T13:54:35.027122+00:00"
     }
   ],
-  "generatedAt": "2026-06-10T12:53:15.191228+00:00",
+  "generatedAt": "2026-06-11T13:57:10.500142+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 2
 }
