@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "palantir-rss-palantir-hires-northern-compass-for-defense-lobbyi",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Hires Northern Compass for Defense Lobbying - Legis1",
-      "description": "Palantir Hires Northern Compass for Defense Lobbying&nbsp;&nbsp;Legis1",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Mc1FTX3pPbGNiNGVsWC03VnNHSHJ0NzBIeDlDRnJWMTloY1VBaGhUZmN6OUs1SlU0dF8xcFlrMENYb3Nid09MdkQ5dmdGTXFiZVhNbUgyNXhkVmprMWUtVkt5ZXpaSlZUUGp0ZWpPdDN4XzBGTXRWMUphQUs?oc=5",
-      "publishedAt": "2026-06-10T20:00:44+00:00",
-      "fetchedAt": "2026-06-11T13:54:29.036303+00:00"
-    },
-    {
-      "id": "recorded-future-ncc--risk-managers-advocate-overhaul-of-national-s",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "The Punch",
-      "title": "NCC, risk managers advocate overhaul of national security system",
-      "description": "The NCC and risk management professionals call for a coordinated overhaul of Nigeria\u2019s national security system to address rising physical, cyber, and oper\n\nRead More: https://punchng.com/ncc-risk-managers-advocate-overhaul-of-national-security-system/",
-      "url": "https://punchng.com/ncc-risk-managers-advocate-overhaul-of-national-security-system/",
-      "publishedAt": "2026-06-10T13:05:39Z",
-      "fetchedAt": "2026-06-11T13:54:35.027122+00:00"
-    }
-  ],
-  "generatedAt": "2026-06-11T13:57:10.500142+00:00",
+  "articles": [],
+  "generatedAt": "2026-06-12T12:53:28.763147+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
