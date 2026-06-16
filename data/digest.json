@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-rss-bigbear-ai--nyse--bbai--reaffirms-2026-revenue-gui",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
+      "id": "recorded-future-vandals-destroy-14-power-tower-spans-in-niger--tcn",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "BigBear.ai (NYSE: BBAI) Reaffirms 2026 Revenue Guidance Backed By Backlog Growth And Defense Contract Wins - foreignpolicyjournal.com",
-      "description": "BigBear.ai (NYSE: BBAI) Reaffirms 2026 Revenue Guidance Backed By Backlog Growth And Defense Contract Wins&nbsp;&nbsp;foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdzdwQ1lmNTh4NmJWQkhZV3BDTl9CaHZPNFQ3RU9nNGs3ejE5cXB4MWJfNy1TcGpkd3ZId09lSEo1RHlBVG4xemRBTkFFX0IycEdjSTU3cHBhQlA4UFdCRElkQWUwbnlfWk82RUU5b0xLbjQzeFNIbDE4T240Nl9tR0lYakhXT0dRczZUUkE3Qm1FMlItRWdIbTlJaWN3U091cW9RWjRJdkRFWHU1LWFGTjB2QTNZVjRPY0lPQjRkdXNTSlpoMGFxLTg4LVE4b3hIT190WEJfQnpDakJtWFRGVEhCYkZiTlU?oc=5",
-      "publishedAt": "2026-06-14T20:12:00+00:00",
-      "fetchedAt": "2026-06-15T15:41:26.866894+00:00"
+      "sourceName": "The Punch",
+      "title": "Vandals destroy 14 power tower spans in Niger, TCN laments",
+      "description": "TCN laments the destruction of 14 power tower spans by vandals in Niger State, highlighting economic sabotage and threats to electricity supply.\n\nRead More: https://punchng.com/vandals-destroy-14-power-tower-spans-in-niger-tcn-laments/",
+      "url": "https://punchng.com/vandals-destroy-14-power-tower-spans-in-niger-tcn-laments/",
+      "publishedAt": "2026-06-15T14:09:31Z",
+      "fetchedAt": "2026-06-16T14:56:40.488450+00:00"
     }
   ],
-  "generatedAt": "2026-06-15T15:43:28.422144+00:00",
+  "generatedAt": "2026-06-16T14:59:48.962899+00:00",
   "periodHours": 28,
   "count": 1
 }
