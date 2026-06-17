@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "recorded-future-vandals-destroy-14-power-tower-spans-in-niger--tcn",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "palantir-rss-palantir-technologies--nasdaq--pltr--set-to-end-fr",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "The Punch",
-      "title": "Vandals destroy 14 power tower spans in Niger, TCN laments",
-      "description": "TCN laments the destruction of 14 power tower spans by vandals in Niger State, highlighting economic sabotage and threats to electricity supply.\n\nRead More: https://punchng.com/vandals-destroy-14-power-tower-spans-in-niger-tcn-laments/",
-      "url": "https://punchng.com/vandals-destroy-14-power-tower-spans-in-niger-tcn-laments/",
-      "publishedAt": "2026-06-15T14:09:31Z",
-      "fetchedAt": "2026-06-16T14:56:40.488450+00:00"
+      "sourceName": "Google News",
+      "title": "Palantir Technologies (NASDAQ: PLTR) Set To End French Intelligence Contract, Prime Minister Confirms - foreignpolicyjournal.com",
+      "description": "Palantir Technologies (NASDAQ: PLTR) Set To End French Intelligence Contract, Prime Minister Confirms&nbsp;&nbsp;foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmFzbnhQTDlxS19vOHFwRnRoU1dPLUJjSGozOFAzaEtOdkp2d3kwNGJQWF9FdS01T0ZGc3p1TmR4dTVia0JoY3lHZG55bjNlSUhWSW1jQ1gyV0U3RTZFel9tcG5DOWlPaE9ER0NGeVFJcUNtTVNKcFd6enZTY21yaVFzb2tJRGtKeFZNcDJoNjFHYlZIUG1VNDJUamY2aHVEOFlJaC02c2hzNXFHODYwdHNzUVhHSjE2YWFveWFZRmJYOWFPU0x3LVVRWTlWTWFmUWxldlZPdkh6YjhXd2pz?oc=5",
+      "publishedAt": "2026-06-16T18:36:00+00:00",
+      "fetchedAt": "2026-06-17T13:37:47.292463+00:00"
+    },
+    {
+      "id": "palantir-tuesday--hili-dialogue",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Whyevolutionistrue.com",
+      "title": "Tuesday: Hili dialogue",
+      "description": "Welcome to the Cruelest Day, a Tuesday, and June 16 to be exact. It\u2019s also National Cannoli Day, which brings to mind this scene from \u201cThe Godfather\u201d. The original script called for Clemenza (Richard Castellano) to say just, \u201cLeave the gun.\u201d But Castellano ad\u2026",
+      "url": "https://whyevolutionistrue.com/2026/06/16/tuesday-hili-dialogue-584/",
+      "publishedAt": "2026-06-16T11:45:22Z",
+      "fetchedAt": "2026-06-17T13:37:48.064303+00:00"
     }
   ],
-  "generatedAt": "2026-06-16T14:59:48.962899+00:00",
+  "generatedAt": "2026-06-17T13:40:26.813685+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
