@@ -1,33 +1,33 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-technologies--nasdaq--pltr--set-to-end-fr",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "vantor-geoint-pr-vantor-and-rheinmetall-partner-to-build-sovereign",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Vantor and Rheinmetall partner to build sovereign intelligence capabilities for Germany - Rheinmetall",
+      "description": "Press release / announcement from Vantor",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmJJck1NckI5UmtNWWJWYnJxSHdjTGNkYm5XbjB0T3lpSThqVlJIM05uTzZxN1pVX0xHenVEelJVc0FjdmtESUhZbWNtaFIxMTlhRG9mbTE4aW81eVk0YnhCSUpRdVZXbzFVVUNGOG4tWmthcDNjaGtwNTRNVzV3VXJHV2FBb0FRZmxJb0lDWVFldUdEbGVQcWJCSC1LQWg0MHRyd1NVNGMwMWQ2QnBKN3NRU0ZTWXFndnU3UVJRSnQxTFhTaXNSSnBiOVVUalNxU0lvcW5peEVqb214aGozTA?oc=5",
+      "publishedAt": "2026-06-18T07:17:42+00:00",
+      "fetchedAt": "2026-06-18T12:54:02.197671+00:00"
+    },
+    {
+      "id": "cognyte-rss-cognyte-vs-palantir--which-ai-intelligence-stock-i",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Palantir Technologies (NASDAQ: PLTR) Set To End French Intelligence Contract, Prime Minister Confirms - foreignpolicyjournal.com",
-      "description": "Palantir Technologies (NASDAQ: PLTR) Set To End French Intelligence Contract, Prime Minister Confirms&nbsp;&nbsp;foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmFzbnhQTDlxS19vOHFwRnRoU1dPLUJjSGozOFAzaEtOdkp2d3kwNGJQWF9FdS01T0ZGc3p1TmR4dTVia0JoY3lHZG55bjNlSUhWSW1jQ1gyV0U3RTZFel9tcG5DOWlPaE9ER0NGeVFJcUNtTVNKcFd6enZTY21yaVFzb2tJRGtKeFZNcDJoNjFHYlZIUG1VNDJUamY2aHVEOFlJaC02c2hzNXFHODYwdHNzUVhHSjE2YWFveWFZRmJYOWFPU0x3LVVRWTlWTWFmUWxldlZPdkh6YjhXd2pz?oc=5",
-      "publishedAt": "2026-06-16T18:36:00+00:00",
-      "fetchedAt": "2026-06-17T13:37:47.292463+00:00"
-    },
-    {
-      "id": "palantir-tuesday--hili-dialogue",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Whyevolutionistrue.com",
-      "title": "Tuesday: Hili dialogue",
-      "description": "Welcome to the Cruelest Day, a Tuesday, and June 16 to be exact. It\u2019s also National Cannoli Day, which brings to mind this scene from \u201cThe Godfather\u201d. The original script called for Clemenza (Richard Castellano) to say just, \u201cLeave the gun.\u201d But Castellano ad\u2026",
-      "url": "https://whyevolutionistrue.com/2026/06/16/tuesday-hili-dialogue-584/",
-      "publishedAt": "2026-06-16T11:45:22Z",
-      "fetchedAt": "2026-06-17T13:37:48.064303+00:00"
+      "title": "Cognyte vs Palantir: Which AI Intelligence Stock Is the Better Buy? - TradingView",
+      "description": "Cognyte vs Palantir: Which AI Intelligence Stock Is the Better Buy?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGZRN2FGVjJ1QmYxTi1NREN5VGFGaDlDbzZ6TXRiSkVmTmdKMzd4MzhkTjhQSmpVRHRUTzRaOXg3UFl1X0NjUWFSM25UWlBlN0JVX3dROFJWS09xcUdnb1FNQTlvRHgzQVloeXhNYUhCaDJGOVcxZW9vNG1IMFA2djc4ZlptaXhRaEhiZ1d1MV93Q1o3SlhaTXNEUm9Dc2tEZEd4aTNhMnNaa3k5cU1nam9uTUNyNU9tNl9jYzJR?oc=5",
+      "publishedAt": "2026-06-17T14:20:00+00:00",
+      "fetchedAt": "2026-06-18T12:51:40.488459+00:00"
     }
   ],
-  "generatedAt": "2026-06-17T13:40:26.813685+00:00",
+  "generatedAt": "2026-06-18T12:54:20.623765+00:00",
   "periodHours": 28,
   "count": 2
 }
