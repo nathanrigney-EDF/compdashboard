@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "vantor-geoint-pr-vantor-and-rheinmetall-partner-to-build-sovereign",
-      "companyId": "vantor-geoint",
-      "companyName": "Vantor",
-      "category": "geoint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Vantor and Rheinmetall partner to build sovereign intelligence capabilities for Germany - Rheinmetall",
-      "description": "Press release / announcement from Vantor",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmJJck1NckI5UmtNWWJWYnJxSHdjTGNkYm5XbjB0T3lpSThqVlJIM05uTzZxN1pVX0xHenVEelJVc0FjdmtESUhZbWNtaFIxMTlhRG9mbTE4aW81eVk0YnhCSUpRdVZXbzFVVUNGOG4tWmthcDNjaGtwNTRNVzV3VXJHV2FBb0FRZmxJb0lDWVFldUdEbGVQcWJCSC1LQWg0MHRyd1NVNGMwMWQ2QnBKN3NRU0ZTWXFndnU3UVJRSnQxTFhTaXNSSnBiOVVUalNxU0lvcW5peEVqb214aGozTA?oc=5",
-      "publishedAt": "2026-06-18T07:17:42+00:00",
-      "fetchedAt": "2026-06-18T12:54:02.197671+00:00"
-    },
-    {
-      "id": "cognyte-rss-cognyte-vs-palantir--which-ai-intelligence-stock-i",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
-      "category": "osint",
+      "id": "orbital-insight-rss-digital-map-market-to-surge-at-12-18--cagr--antici",
+      "companyId": "orbital-insight",
+      "companyName": "Orbital Insight",
+      "category": "satellite",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Cognyte vs Palantir: Which AI Intelligence Stock Is the Better Buy? - TradingView",
-      "description": "Cognyte vs Palantir: Which AI Intelligence Stock Is the Better Buy?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGZRN2FGVjJ1QmYxTi1NREN5VGFGaDlDbzZ6TXRiSkVmTmdKMzd4MzhkTjhQSmpVRHRUTzRaOXg3UFl1X0NjUWFSM25UWlBlN0JVX3dROFJWS09xcUdnb1FNQTlvRHgzQVloeXhNYUhCaDJGOVcxZW9vNG1IMFA2djc4ZlptaXhRaEhiZ1d1MV93Q1o3SlhaTXNEUm9Dc2tEZEd4aTNhMnNaa3k5cU1nam9uTUNyNU9tNl9jYzJR?oc=5",
-      "publishedAt": "2026-06-17T14:20:00+00:00",
-      "fetchedAt": "2026-06-18T12:51:40.488459+00:00"
+      "title": "Digital Map Market to Surge at 12.18% CAGR, Anticipated to Reach USD 102.48 Billion by 2035 - EIN News",
+      "description": "Digital Map Market to Surge at 12.18% CAGR, Anticipated to Reach USD 102.48 Billion by 2035&nbsp;&nbsp;EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU1NqSmpHOXNUS1FtVENFbE9GX2EtQVdDd3ZpMTFWSVQyUFdodkJ3QVBkeDJZX0ljS3gxcTRfUUczMjNaeWZqOThqbjlzTG1JYnROcEJPaXE5QnljMm5tZnQtTDlOejVFWFptSm1lT01IVUwwMHN4ZExJWTJlQzJPZVphMk9DblYyNUNyOEVfSHdSeWQ3VGN0ckFwZkZ2Tl9kWUxsMW91SFJuYURKU19TTm1OTmY3eTBiX0lFOGd0RDJnVTRyZXpDaVpyVHpwbV8t0gHQAUFVX3lxTFBTU2pKakc5c1RLUW1UQ0VsT0ZfYS1BV0N3dmkxMVZJVDJQV2h2QndBUGR4MllfSWNLeDFxNF9RRzMyM1p5Zmo5OGpuOXNMbUlidE5wQk9pcTlCeWMybm1mdC1MOU56NUVYWm1KbWVPTUhVTDAwc3hkTElZMmVDMk9lWmEyT0NuVjI1Q3I4RV9Id1J5ZDdUY3RyQXBmRnZOX2RZTGwxb3VIUm5hREpTX1NObU5OZjd5MGJfSUU4Z3REMmdVNHJlekNpWnJUenBtXy0?oc=5",
+      "publishedAt": "2026-06-18T17:15:24+00:00",
+      "fetchedAt": "2026-06-19T13:32:35.920988+00:00"
     }
   ],
-  "generatedAt": "2026-06-18T12:54:20.623765+00:00",
+  "generatedAt": "2026-06-19T13:33:05.497789+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
