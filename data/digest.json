@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "booz-allen-rss-leidos-holdings---analyst-consensus-and-defense-se",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Leidos Holdings - Analyst consensus and defense-sector context on Friday - AD HOC NEWS",
-      "description": "Leidos Holdings - Analyst consensus and defense-sector context on Friday&nbsp;&nbsp;AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZW4xY2V3Y0FCaXVnWHU1RVVKZFZBRTFSVHVqU3ctV21Db1kwcFBHQWI1d0N1VVZfOTdFQTUySFlRdjlZMmltTk53TDNKSUVzTmc1UVI1eFZoUWpudlJuTng1MURGTmo5dHNrMnRzeV9yXzJiSVJUbUU0OU5qdGttb085R0o4NzVvQTJiVWJQSFJ3T0dTMThpOWoySmZmOFNXUVBUdzF6Si1taXBUN211LWpRN0lXX3RkYVhjOUNQNmwtSlhTUURrMg?oc=5",
-      "publishedAt": "2026-06-19T14:55:33+00:00",
-      "fetchedAt": "2026-06-20T11:53:23.192141+00:00"
-    },
-    {
-      "id": "satellogic-rss-satellogic-rides-on-healthy-demand-trends--should",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic Rides on Healthy Demand Trends: Should You Buy the Stock? - Yahoo Finance Australia",
-      "description": "Satellogic Rides on Healthy Demand Trends: Should You Buy the Stock?&nbsp;&nbsp;Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb194bWZ3Mm80Um9KODU0RXVGR1JVNndYZW5KMElIV3NVb1c5cFZlZUpNcEJqYjVxZW1sbDh2OTRpY2hRcXlPWVY3a2pBa3pCSGtxWUtPZkJVQkQtYnYwWUpOS1BsMXRyNFdGSXp3eGU0RGEyN0tpbWJKVFY4bkJ2WU9SOVZjQkY3blNpbHp5M28?oc=5",
-      "publishedAt": "2026-06-19T12:37:00+00:00",
-      "fetchedAt": "2026-06-20T11:54:24.499369+00:00"
-    }
-  ],
-  "generatedAt": "2026-06-20T11:55:23.525546+00:00",
+  "articles": [],
+  "generatedAt": "2026-06-21T12:09:47.297334+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
