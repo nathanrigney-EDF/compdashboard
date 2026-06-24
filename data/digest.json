@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "palantir-rss-palantir-technologies--nasdaq--pltr--expands-democ",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Palantir Technologies (NASDAQ: PLTR) Expands Democratic Lobbying Roster Amid Growing Washington Influence Push - foreignpolicyjournal.com",
+      "description": "Palantir Technologies (NASDAQ: PLTR) Expands Democratic Lobbying Roster Amid Growing Washington Influence Push&nbsp;&nbsp;foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbjRkT1JRVFZtQ1J6eFVGT3kxU2tmQnJJTnN6MUFyZjdRdmNZdllMY1FreUVpazkyd0dDdnh5ZHRBaUM2WkFuUUFuZXplTkJKMENJcDliVFNCRGJlRDJtNkJwdGZFSldiRW9PQWJPVEIxWUZ2amRhNExrRUx2R2NVa0M0eWQ2MTVoLVBqRGc3dXhnZkpLOG0tYlRUV2dTUEtkWW52RHlHdlZsRkh4OGNIVGNDbDZzakZNNU5najJ5dmlpS0t6SUMtTVE5dlRtTWNSMzdKV2pDcTBhaVNmWlppWTlaTVh5NXREWVJ5ZA?oc=5",
+      "publishedAt": "2026-06-24T01:11:00+00:00",
+      "fetchedAt": "2026-06-24T12:15:27.724100+00:00"
+    },
+    {
       "id": "satellogic-pr-satellogic-and-synmax-partner-to-bring-persistent",
       "companyId": "satellogic",
       "companyName": "Satellogic",
@@ -11,49 +24,23 @@
       "description": "Press release / announcement from Satellogic",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQazRzQ0dONE1wbV9FTmVWOGRsdnlYQ2liZUhFek5oWTg4SFlkMWxEYlRCd1VCZGNKWFRxRE9aYlBzOFg1dWlXT0hCYWREb1RzMUpQeWNxLWx3eDFoSzcwLWJLRzNRZlp0MVRNN0VYZWZZTkZHOUtOQ3lnc2tYQ2Ffd0hkeWR6X3o5N1ZzRkpMcVdjS054aFZnMDNCQl9YZ3dEeWNtYk5nWkEyNkRkYnYxMjZMT1cwUUZ2U3hPWWhvS18zTkFDQnJURFZIdDdWLVZBaXl2U2JyTEJvWVZyMzctZXpNSUNJLV9nN3REX2FFSnZrcVdpMldB0gH8AUFVX3lxTE05VzRXMHY1em54YXBvbUF2Z2lSaHRkbzNMZXJkM3FxaC1TUE40ZlJkYXhIS0NhRkl6WnNoYnY0X0tHeHpITC1obFdPMENrelhQZ29zcndSbFY5aF9YcUNPUWdtY3p5ME5jeERqRHk2cXB5WjNGNUxhNTdOaGFLdzZBa0JwcE5DMU1RRnNXRVRHVEVzamJZYVVkcXpiMjlNdDNoVHhoczF0cEptS1BlQ2FFTURfLTNpWlNOMWhjaHp0UjV1cGY4alRQb1htdUZBYWdTbEpBa1NnY0drbElpdUVuUUdGNmhWRHBqUmRKZGFCT19SOFVObUx4bzFCWA?oc=5",
       "publishedAt": "2026-06-23T12:07:44+00:00",
-      "fetchedAt": "2026-06-23T12:30:32.683329+00:00"
+      "fetchedAt": "2026-06-24T12:17:03.018664+00:00"
     },
     {
-      "id": "orbital-insight-rss-medium-earth-orbit--meo--remote-sensing--imagery",
-      "companyId": "orbital-insight",
-      "companyName": "Orbital Insight",
+      "id": "satellogic-pr-satellogic-partners-with-synmax-for-merlin-service",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
       "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Medium Earth Orbit (MEO) Remote Sensing, Imagery & Data Services to Nearly Triple in Size by 2032 - GlobeNewswire",
-      "description": "Medium Earth Orbit (MEO) Remote Sensing, Imagery & Data Services to Nearly Triple in Size by 2032&nbsp;&nbsp;GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObVJTMWdJV3lEaEJPMVRaQlB5VnhJLWZtNE1QUE5TTmdhX2JiNFFMSlFyWmFRaVJuTzVxRXRhSW9KcUV4d0Rfb2ZaYXJPczdjQlZWNkRrazY3UlBJUWRvU2FRSU0tUkhzOXgzSGx6Z0pxUjRkZnp1UEQ3bDdLdm1BZ1pFS19QcUtxQUQtdDlNVk44YUg4NXNLRUtyWFJZNjkzMWlvcldNWjlKUnNfZFlQMHVrQlRRendvcHh4UjUyOGwxV0s5NVZuUGRJSVBMTXZIZVB6Sml5SlNPOFVTa2lvWm51ZVVKTjcxTjZmc1Y5V0M0ZjJ3WkRiUkhXYjE?oc=5",
-      "publishedAt": "2026-06-22T17:02:41+00:00",
-      "fetchedAt": "2026-06-23T12:30:46.567162+00:00"
-    },
-    {
-      "id": "recorded-future-vulnerability-summary-for-the-week-of-june-15--202",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Cisa.gov",
-      "title": "Vulnerability Summary for the Week of June 15, 2026",
-      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>10Web--Form Maker by 10Web</td>\n<td>Unauthenticated SQL Injection in Form Maker by 10Web\u2026",
-      "url": "https://www.cisa.gov/news-events/bulletins/sb26-173",
-      "publishedAt": "2026-06-22T11:36:49Z",
-      "fetchedAt": "2026-06-23T12:29:06.901531+00:00"
-    },
-    {
-      "id": "recorded-future-sensex-today---stock-market-highlights--sensex-ris",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "BusinessLine",
-      "title": "Sensex today | Stock Market Highlights: Sensex rises 291 points, Nifty above 24,100; markets rebound on global cues",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Stock markets rebounded on Monday, with benchmark indices ending higher amid easing crude oil prices and supportive global cues following hopes of progress in US\u2013Iran diplomatic talks. The BSE Sensex rose 291.\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-june-2026/article71129135.ece",
-      "publishedAt": "2026-06-22T10:56:47Z",
-      "fetchedAt": "2026-06-23T12:29:06.901549+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Satellogic partners with SynMax for Merlin services - Let's Data Science",
+      "description": "Press release / announcement from Satellogic",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTFETE8yTDBJUk9vZ213Vk9XLUtZZ3dVTDJadWZDSkx0bVZoaXp0R255Q25ock10dmxidFNuYkVSZGc2aFJlcEF6Zll0YkZuMTNYZG5zNXVGMzN3NHdwS2tKSkkxa21aX3RCNDJoQk5uM0owS3lPa283TFo3SW83SnVuUE5KREdKVXBCY1RtTEtfUEkta3RZTw?oc=5",
+      "publishedAt": "2026-06-23T12:00:00+00:00",
+      "fetchedAt": "2026-06-24T12:17:03.018639+00:00"
     }
   ],
-  "generatedAt": "2026-06-23T12:31:31.398031+00:00",
+  "generatedAt": "2026-06-24T12:17:48.447241+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 3
 }
