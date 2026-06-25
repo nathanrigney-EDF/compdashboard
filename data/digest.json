@@ -1,46 +1,72 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-technologies--nasdaq--pltr--expands-democ",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "l3harris-pr-l3harris-plans-arkansas-facility-expansion-for-pac",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Plans Arkansas Facility Expansion for PAC-3 Propulsion Production \u2013 Company Announcement - Financial Times",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0lBa1BabVo4aFFpNnBZbUVNTExPczdhMVdJYXYxdHJacEhpOWF6WGsxTXM3TklPWkpGTmJfRHFjaXJjTVpxSHZoSkRFcmtTR3VMaFlMOExxZVc3b09uWWV5RWx5RnAxNmRRS3EzWk4yOHJBeS03Y2wwbm1qUUZUWTNQc003Y2ZuR05FVl9yM00wTFNmdDl3TlpCNlFqanppeGY4SFd3?oc=5",
+      "publishedAt": "2026-06-24T20:15:00+00:00",
+      "fetchedAt": "2026-06-25T12:15:11.080133+00:00"
+    },
+    {
+      "id": "bigbear-ai-rss-is-bigbear-ai-becoming-a-pure-play-government-gena",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Palantir Technologies (NASDAQ: PLTR) Expands Democratic Lobbying Roster Amid Growing Washington Influence Push - foreignpolicyjournal.com",
-      "description": "Palantir Technologies (NASDAQ: PLTR) Expands Democratic Lobbying Roster Amid Growing Washington Influence Push&nbsp;&nbsp;foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbjRkT1JRVFZtQ1J6eFVGT3kxU2tmQnJJTnN6MUFyZjdRdmNZdllMY1FreUVpazkyd0dDdnh5ZHRBaUM2WkFuUUFuZXplTkJKMENJcDliVFNCRGJlRDJtNkJwdGZFSldiRW9PQWJPVEIxWUZ2amRhNExrRUx2R2NVa0M0eWQ2MTVoLVBqRGc3dXhnZkpLOG0tYlRUV2dTUEtkWW52RHlHdlZsRkh4OGNIVGNDbDZzakZNNU5najJ5dmlpS0t6SUMtTVE5dlRtTWNSMzdKV2pDcTBhaVNmWlppWTlaTVh5NXREWVJ5ZA?oc=5",
-      "publishedAt": "2026-06-24T01:11:00+00:00",
-      "fetchedAt": "2026-06-24T12:15:27.724100+00:00"
+      "title": "Is BigBear.ai Becoming a Pure-Play Government GenAI Stock? - TradingView",
+      "description": "Is BigBear.ai Becoming a Pure-Play Government GenAI Stock?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDlwM1N1V3E2RGM1NjBmeFVXZzdUMU1QYnh3Qm9RRnMxbWhmOHFsUmc0WGFOOFNSZVZtTlNoYk5lR3JVdTZ6em1FQjB1SGNnRE5TWnhWVnlmSTFGVk0wM0xWTGpmbHV2bkk4elVxemRDckdfUlFqZ2dCOGZPS0JTSWZqVFVNeG83MWQya0F5MFliOFVLQkNRbUEyc0otNlRURzRHNThXMElXMVJhQ1BlYjRqSQ?oc=5",
+      "publishedAt": "2026-06-24T16:40:00+00:00",
+      "fetchedAt": "2026-06-25T12:13:18.884524+00:00"
     },
     {
-      "id": "satellogic-pr-satellogic-and-synmax-partner-to-bring-persistent",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
+      "id": "blacksky-rss-planet-labs-capitalizes-on-ai-and-defense-opportun",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Planet Labs Capitalizes on AI and Defense Opportunities for Growth - TradingView",
+      "description": "Planet Labs Capitalizes on AI and Defense Opportunities for Growth&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa09FVnFJSFpnYUh0bnZIcm16dXh4QjEtaXoydG5sQzJtWkEzYlQtTXpTNHRpZ2YyV29aZ2o4UnJXMWZQVlpfQnpfYkJBVFFQeXE0bFlNQ2FBdnowSnVjelNMc241MGlIMnpPWG1xa1ZQNVhvRXNfNFNhS2xkbk52VWZTSXBTUng4V0lMNzlVcUkwVWg3T3VYM2tYclY1OEtjV2VWSUphOXlpblFZQUk2YjVrc3BhU01sUDcxRmV4bw?oc=5",
+      "publishedAt": "2026-06-24T16:33:00+00:00",
+      "fetchedAt": "2026-06-25T12:14:38.270079+00:00"
+    },
+    {
+      "id": "vantor-geoint-pr-vantor-partners-with-bae-systems-to-build-next-gen",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Vantor Partners With BAE Systems to Build Next-Generation 20 cm-class Vantage Imaging Satellites - News-Press NOW",
+      "description": "Press release / announcement from Vantor",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQc3RIcW9WYm4yRjhySkJvUm9ZNEUwSzM3V3hKeFNCMFdtSzRsZ1ZEZk9TdW15eUlBTmNWcjBqZmRvUkRlbVQxYl9vOEN1Vmg3cGwwOUhBcDhlSFp3STRDWDhKTENmdEY0ZmQtU05VVUFWckdrQmhhOXhsV1dtdzQxWnUxaFdtVWhXYm01VW4yX3M1ejhqcmZTT1RLS0VBZmo4QTVfN2NmR1hrOFJvQlFGYlJhY0lqbUpaM29OZ2M0LWJzS00ydktVUVFYRGUybFZDdVIyZk9rd0MxaGFIeTFJNTJCQXdKVURoWE92OUhBcDA5TnYwOTUwbGxaeU5Jb1gyNXBGNmxGbV93cFZjWi1Uam9GQmtxWU1i?oc=5",
+      "publishedAt": "2026-06-24T12:30:40+00:00",
+      "fetchedAt": "2026-06-25T12:16:02.262970+00:00"
+    },
+    {
+      "id": "spire-global-pr-spire-global-prepares-10-satellites-for-spacex-lau",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
       "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Satellogic and SynMax Partner to Bring Persistent Global Intelligence to Defense Customers - The Manila Times",
-      "description": "Press release / announcement from Satellogic",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQazRzQ0dONE1wbV9FTmVWOGRsdnlYQ2liZUhFek5oWTg4SFlkMWxEYlRCd1VCZGNKWFRxRE9aYlBzOFg1dWlXT0hCYWREb1RzMUpQeWNxLWx3eDFoSzcwLWJLRzNRZlp0MVRNN0VYZWZZTkZHOUtOQ3lnc2tYQ2Ffd0hkeWR6X3o5N1ZzRkpMcVdjS054aFZnMDNCQl9YZ3dEeWNtYk5nWkEyNkRkYnYxMjZMT1cwUUZ2U3hPWWhvS18zTkFDQnJURFZIdDdWLVZBaXl2U2JyTEJvWVZyMzctZXpNSUNJLV9nN3REX2FFSnZrcVdpMldB0gH8AUFVX3lxTE05VzRXMHY1em54YXBvbUF2Z2lSaHRkbzNMZXJkM3FxaC1TUE40ZlJkYXhIS0NhRkl6WnNoYnY0X0tHeHpITC1obFdPMENrelhQZ29zcndSbFY5aF9YcUNPUWdtY3p5ME5jeERqRHk2cXB5WjNGNUxhNTdOaGFLdzZBa0JwcE5DMU1RRnNXRVRHVEVzamJZYVVkcXpiMjlNdDNoVHhoczF0cEptS1BlQ2FFTURfLTNpWlNOMWhjaHp0UjV1cGY4alRQb1htdUZBYWdTbEpBa1NnY0drbElpdUVuUUdGNmhWRHBqUmRKZGFCT19SOFVObUx4bzFCWA?oc=5",
-      "publishedAt": "2026-06-23T12:07:44+00:00",
-      "fetchedAt": "2026-06-24T12:17:03.018664+00:00"
-    },
-    {
-      "id": "satellogic-pr-satellogic-partners-with-synmax-for-merlin-service",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Satellogic partners with SynMax for Merlin services - Let's Data Science",
-      "description": "Press release / announcement from Satellogic",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTFETE8yTDBJUk9vZ213Vk9XLUtZZ3dVTDJadWZDSkx0bVZoaXp0R255Q25ock10dmxidFNuYkVSZGc2aFJlcEF6Zll0YkZuMTNYZG5zNXVGMzN3NHdwS2tKSkkxa21aX3RCNDJoQk5uM0owS3lPa283TFo3SW83SnVuUE5KREdKVXBCY1RtTEtfUEkta3RZTw?oc=5",
-      "publishedAt": "2026-06-23T12:00:00+00:00",
-      "fetchedAt": "2026-06-24T12:17:03.018639+00:00"
+      "title": "Spire Global prepares 10 satellites for SpaceX launch By Investing.com - Investing.com South Africa",
+      "description": "Press release / announcement from Spire Global",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQclF6bUZlTHIwa24yZnFWQ1dpcnljZUlVVVpiX1VrODlHSGdJbjIwcVFpUFphZXhrSzYybFVqRFhNNUNYcWNmWEZSOFM1TTZQTEI5enhfS3VIdTZsSkpOUnlTZV9VMzRoVUEwVVN5bWJLU0J1YlZrWktVa0tUdjlHN0RPVUpvMzZ0MzVlell3Q3VPaUE2U0ZLQVRMRlphWkJ3OHdwanQzX2xxSzNaVnBVWTd4U1FSQlhoUURpTmRxaUFQWEhi?oc=5",
+      "publishedAt": "2026-06-24T12:04:49+00:00",
+      "fetchedAt": "2026-06-25T12:15:16.480213+00:00"
     }
   ],
-  "generatedAt": "2026-06-24T12:17:48.447241+00:00",
+  "generatedAt": "2026-06-25T12:16:05.848569+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 5
 }
