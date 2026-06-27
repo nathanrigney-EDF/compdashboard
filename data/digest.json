@@ -1,85 +1,33 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-rss-what-s-driving-congressional-interest-in-bigbear-a",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
+      "id": "booz-allen-rss-booz-allen-hamilton-focuses-on-ai-services--shares",
+      "companyId": "booz-allen",
+      "companyName": "Booz Allen Hamilton",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "What's Driving Congressional Interest in BigBear.ai (BBAI) - Kavout | AI",
-      "description": "What's Driving Congressional Interest in BigBear.ai (BBAI)&nbsp;&nbsp;Kavout | AI",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVYxS0pURXBYZW9BZUNFYlhYWGxwSngzUWQyd19QQkpKUDJaQ2RoYlJpU3lQQmk0Y1ZnNXdzdFNSVkEycTB5NHpnWFNSZTlTUS03ZllXamdCbGZKaDlpNTQ1Z01ZcHVhUks5bXVFaW1tbVlDSEMzSHJlckpic0x2cVdJV1FGTVRzRUpEYUdIOF8xenZna1E?oc=5",
-      "publishedAt": "2026-06-26T01:20:45+00:00",
-      "fetchedAt": "2026-06-26T12:07:51.905185+00:00"
+      "title": "Booz Allen Hamilton focuses on AI services, shares supported by defense spending - Ad-hoc-news.de",
+      "description": "Booz Allen Hamilton focuses on AI services, shares supported by defense spending&nbsp;&nbsp;Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkpERjlrTVpCQXRRQlFIWGJIelhuZWxtelJlVkVUemdtbEt4YmhTdXE5U0pqUU1abVRzOTFXUVBiQWJjbUNjSTB0ZENtcmx5bWE3MTFlOWRMdG0xczVVVGhEeURvRFJzamdZMDVkaFVfSGZCWTcwQmVoMVY5aUZtbTIxcjZqZ3RpZUFKNnY3cjFaSkxFS0RNQnlQdmxIX0NMZjU4VmV6UFBvbDM4dnpKM2syNHN4eTVUemdkYlUwZlVLZ182YmJ1Sw?oc=5",
+      "publishedAt": "2026-06-26T20:16:58+00:00",
+      "fetchedAt": "2026-06-27T11:24:29.990114+00:00"
     },
     {
-      "id": "recorded-future-rss-where-expertise-meets-algorithm--the-insikt-group",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "palantir-rss-palantir-technologies-extends-us-army-work--shares",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Where Expertise Meets Algorithm: The Insikt Group\u00ae Intelligence Edge - Recorded Future",
-      "description": "Where Expertise Meets Algorithm: The Insikt Group\u00ae Intelligence Edge&nbsp;&nbsp;Recorded Future",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjc5eUIyZm1QOVpkU0dMODRxajczV0dmb0pnaXFBVk94MFRldjhDd1BGdGlSX3JGaFBfU0ZELUdzdS1GMDRyRzFUbno5dk1FSENpb1B0d1JLTmNWR0huX2d2SjNhNTk0QVBQWlJ5NTI5Q0l0cGJJWjM2ZDdUSklRanZwU1VIdw?oc=5",
-      "publishedAt": "2026-06-25T17:22:53+00:00",
-      "fetchedAt": "2026-06-26T12:07:24.665479+00:00"
-    },
-    {
-      "id": "recorded-future-rss-evaluating-mexico-s-new-cybersecurity-plan---recor",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Evaluating Mexico\u2019s New Cybersecurity Plan - Recorded Future",
-      "description": "Evaluating Mexico\u2019s New Cybersecurity Plan&nbsp;&nbsp;Recorded Future",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkZqbFVQZlFVS0VDUkQtWnlvNm9kZVFqUzhoNmk5NS12Z1dacVpVdW5oZ1Vaakp3OEFuNFZPcXBVUWU4aXpGTWJyNExLc1dUdzdzTkh4UzNOdE1QdnktbUROMktXWnF3MnYtZ2EtcHNna0FpUGQxVi1fVmJuXzlpQUVWUXJGR2s?oc=5",
-      "publishedAt": "2026-06-25T14:47:00+00:00",
-      "fetchedAt": "2026-06-26T12:07:24.665507+00:00"
-    },
-    {
-      "id": "seerist-rss-seerist-and-dataexpert-partner-to-deliver-forward",
-      "companyId": "seerist",
-      "companyName": "Seerist",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Seerist and DataExpert Partner to Deliver Forward-Looking Risk Intelligence and Enhanced Situational Awareness - PRWeb",
-      "description": "Seerist and DataExpert Partner to Deliver Forward-Looking Risk Intelligence and Enhanced Situational Awareness&nbsp;&nbsp;PRWeb",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYVJSZHE4SU5rQ0NNWmh4TlpnX3Ixbzdlc3pGOGM0eE9ES0c0YTN6d3VFa0JfMG0zaXdwM1ViV05FbkJmV0ttTWMxUFJSRWJPR3JsR3N3MWtxdkdQbjhhbzVSUUFkLVpDRy1ReVhWc2FJQ3pETmNEblNZbTl0MG11a0o1REwwM2VzZVlwOXNtdTZ2eWN5ZTRzaXFmbkt4LTdjcF9uYUduLVg2N04zQnp0TEg3Yk5EempZbWhsdDRGSWxnVEVFUWNGOWY2RVhTeXVEc3gwTkFCblFRUWQzSEZSS3VCcmxWWUQ5NDJ6SQ?oc=5",
-      "publishedAt": "2026-06-25T14:45:00+00:00",
-      "fetchedAt": "2026-06-26T12:08:19.090139+00:00"
-    },
-    {
-      "id": "seerist-pr-seerist-partners-with-dataexpert-to-expand-risk-in",
-      "companyId": "seerist",
-      "companyName": "Seerist",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Seerist Partners With DataExpert to Expand Risk Intelligence - Let's Data Science",
-      "description": "Press release / announcement from Seerist",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGVHdU93a0VMYjlwRHlsTEppc0xxMnc4ZTFEa1FNdFY4MTl5aGk2SndVOXZoRkN0N1BTMzdSekkzU08xSjdfcnh5WklqbVBsc1ZOV205S1BFNFZuUzI1RS1TaWdTX1ktMTRrbVMyMEFULVBkVDl1Q014a1FZMGlOMF85bVZxSEZ4cFhoa0xoc0FCcUcwaGVFZm5OSDQ4aWhrbW5hQQ?oc=5",
-      "publishedAt": "2026-06-25T14:45:00+00:00",
-      "fetchedAt": "2026-06-26T12:08:20.323932+00:00"
-    },
-    {
-      "id": "seerist-pr-seerist-and-dataexpert-partner-to-deliver-forward",
-      "companyId": "seerist",
-      "companyName": "Seerist",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Seerist and DataExpert Partner to Deliver Forward-Looking Risk Intelligence and Enhanced Situational Awareness - PRWeb",
-      "description": "Press release / announcement from Seerist",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYVJSZHE4SU5rQ0NNWmh4TlpnX3Ixbzdlc3pGOGM0eE9ES0c0YTN6d3VFa0JfMG0zaXdwM1ViV05FbkJmV0ttTWMxUFJSRWJPR3JsR3N3MWtxdkdQbjhhbzVSUUFkLVpDRy1ReVhWc2FJQ3pETmNEblNZbTl0MG11a0o1REwwM2VzZVlwOXNtdTZ2eWN5ZTRzaXFmbkt4LTdjcF9uYUduLVg2N04zQnp0TEg3Yk5EempZbWhsdDRGSWxnVEVFUWNGOWY2RVhTeXVEc3gwTkFCblFRUWQzSEZSS3VCcmxWWUQ5NDJ6SQ?oc=5",
-      "publishedAt": "2026-06-25T14:45:00+00:00",
-      "fetchedAt": "2026-06-26T12:08:20.323989+00:00"
+      "title": "Palantir Technologies extends US Army work, shares track defense demand - Ad-hoc-news.de",
+      "description": "Palantir Technologies extends US Army work, shares track defense demand&nbsp;&nbsp;Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlBSV1ozX01fS3Bxc0NvVlI5WUxkaTFRVUV6NjlpTDFQUlFad2xadXhNLWhHM1Fac0g4YW9NVzRUcDhaLTBubWIzN1p5VHhmZUhRb2F5bkxrNWNIdWdKVXFZWUNJcnJEbGxGOW92eE45eXFUS2RpTnY5VnZxUHBDQ0IzSmhwZ3M1QUU4YmwxUFotemw0cTBzRmtBWFFmYXQxUmkwcG9TWXIxVWlRWWZFbEt5UG9RQ1loSEp2M1F0aEVkbjRiRklrbw?oc=5",
+      "publishedAt": "2026-06-26T18:33:41+00:00",
+      "fetchedAt": "2026-06-27T11:23:47.229939+00:00"
     }
   ],
-  "generatedAt": "2026-06-26T12:11:05.119587+00:00",
+  "generatedAt": "2026-06-27T11:26:03.031443+00:00",
   "periodHours": 28,
-  "count": 6
+  "count": 2
 }
