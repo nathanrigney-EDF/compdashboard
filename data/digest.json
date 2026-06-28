@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "booz-allen-rss-booz-allen-hamilton-focuses-on-ai-services--shares",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Booz Allen Hamilton focuses on AI services, shares supported by defense spending - Ad-hoc-news.de",
-      "description": "Booz Allen Hamilton focuses on AI services, shares supported by defense spending&nbsp;&nbsp;Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkpERjlrTVpCQXRRQlFIWGJIelhuZWxtelJlVkVUemdtbEt4YmhTdXE5U0pqUU1abVRzOTFXUVBiQWJjbUNjSTB0ZENtcmx5bWE3MTFlOWRMdG0xczVVVGhEeURvRFJzamdZMDVkaFVfSGZCWTcwQmVoMVY5aUZtbTIxcjZqZ3RpZUFKNnY3cjFaSkxFS0RNQnlQdmxIX0NMZjU4VmV6UFBvbDM4dnpKM2syNHN4eTVUemdkYlUwZlVLZ182YmJ1Sw?oc=5",
-      "publishedAt": "2026-06-26T20:16:58+00:00",
-      "fetchedAt": "2026-06-27T11:24:29.990114+00:00"
-    },
-    {
-      "id": "palantir-rss-palantir-technologies-extends-us-army-work--shares",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Technologies extends US Army work, shares track defense demand - Ad-hoc-news.de",
-      "description": "Palantir Technologies extends US Army work, shares track defense demand&nbsp;&nbsp;Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlBSV1ozX01fS3Bxc0NvVlI5WUxkaTFRVUV6NjlpTDFQUlFad2xadXhNLWhHM1Fac0g4YW9NVzRUcDhaLTBubWIzN1p5VHhmZUhRb2F5bkxrNWNIdWdKVXFZWUNJcnJEbGxGOW92eE45eXFUS2RpTnY5VnZxUHBDQ0IzSmhwZ3M1QUU4YmwxUFotemw0cTBzRmtBWFFmYXQxUmkwcG9TWXIxVWlRWWZFbEt5UG9RQ1loSEp2M1F0aEVkbjRiRklrbw?oc=5",
-      "publishedAt": "2026-06-26T18:33:41+00:00",
-      "fetchedAt": "2026-06-27T11:23:47.229939+00:00"
-    }
-  ],
-  "generatedAt": "2026-06-27T11:26:03.031443+00:00",
+  "articles": [],
+  "generatedAt": "2026-06-28T11:46:27.628102+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
