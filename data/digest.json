@@ -1,6 +1,46 @@
 {
-  "articles": [],
-  "generatedAt": "2026-06-28T11:46:27.628102+00:00",
+  "articles": [
+    {
+      "id": "booz-allen-pr-booz-allen-hamilton-partners-with-openai-on-ai-dep",
+      "companyId": "booz-allen",
+      "companyName": "Booz Allen Hamilton",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Booz Allen Hamilton partners with OpenAI on AI deployment - Investing.com",
+      "description": "Press release / announcement from Booz Allen Hamilton",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbFZEOHliRFotSHF5YU42SjJpc3FWY1k1UVBmWUstU29BUF94YUM2U240Z1dHbjMzeFYzd3RIajRpMW53ZXBaZGZWaEJyODM4dHQ1bHZSWnF6amJkbFhqaDhKa3FxX0NNc1NTYTFlVDE3ckNhX1k5aWxTYmw0X3ZqeElodkU5Mm5HbldpNnhKNXBoaXN6WWtaN0dBejZ6a2t2S052RnFjQmlEcEtBLVRDMnE3NWo?oc=5",
+      "publishedAt": "2026-06-29T12:31:15+00:00",
+      "fetchedAt": "2026-06-29T14:00:31.759508+00:00"
+    },
+    {
+      "id": "palantir-pr-palantir-and-surf-air-mobility-expand-partnership",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Palantir and Surf Air Mobility Expand Partnership to Accelerate Commercialization of OperatorOS, OwnerOS, and Enterprise Products - Business Wire",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWWJjQXN4MFZCXzRYYTFyYzZCMmNxeGx0T3RGd1p0WUJIYjJOVjJzV0NKYkZRQnIwQ1lNYjF5ay1GcTVmT0tPTGtfSHhxSmVDa0pGSkJyaWQ5clFNTGJnX2RSclpEbFhfeWJpWWIwMzVQN3lrd2E2aGt2Zk4wTWFNd25XWnRyOUpWLUlSWUN5ZG81alZNbVFrMW9IMHRueHpveV9wT3JuQW1UOTZOdGlTa0hTOUl0aWRKRU0wcFlVLWhQeFpoa1hBRmVDUUZWZUVKRVdUZUwxYXdCcEk3YzQyMC1GQ2VCX08xU3dLekhtREVldlNhUS1ZY0pLNEZ2dUY5WjQtclBWWVY1TVFCazFDTUxR?oc=5",
+      "publishedAt": "2026-06-29T10:59:00+00:00",
+      "fetchedAt": "2026-06-29T13:59:44.208369+00:00"
+    },
+    {
+      "id": "bigbear-ai-rss-is-bigbear-ai-becoming-a-pure-play-government-gena",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Is BigBear.ai becoming a pure-play government GenAI stock? - MSN",
+      "description": "Is BigBear.ai becoming a pure-play government GenAI stock?&nbsp;&nbsp;MSN",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUlVzLXZmUzc0cTktNV9URTR3QU5sMlZqVGVwbEV2Wi11S3lGU2d5b2xNU1p3MEVfVXZlclVGMkM4UG9ZV2dnNXdQUm5ZOVlJQ09kdzFHU0V6c2lXZWp0T1JIcnhLUmFKbkt2U2VLcFJCS2VLZm5LOW9xRFdaOHRFY0doTmxxdlk2TGVxQ1dDU1ZEcE5mM1VleFc1SzAxNXNpSWJvSlEtX1A1M29halhpTm1sNFA3alFmQnVZNA?oc=5",
+      "publishedAt": "2026-06-28T14:42:27+00:00",
+      "fetchedAt": "2026-06-29T14:00:17.553503+00:00"
+    }
+  ],
+  "generatedAt": "2026-06-29T14:03:04.528176+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 3
 }
