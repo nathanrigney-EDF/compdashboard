@@ -1,59 +1,33 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-rss-bbai-vs--ldos--which-defense-tech-stock-has-better",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BBAI vs. LDOS: Which Defense Tech Stock Has Better Upside Potential? - TradingView",
-      "description": "BBAI vs. LDOS: Which Defense Tech Stock Has Better Upside Potential?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXpEdFF5dEc4cEFTcFhzcnN6UEZaZVVYblJxVGl5QzlDZ3BwbHJZZkFyY2t0MnJCX3A0R3ZuUUQzaXVoc1R3Njk2VHBzMUh3YTBhNFo2QnR2Sm05bHBpR1A3ajlxS1NzZ2JSSjd5RUtWaTE4eE93em41dzJFdmQzZTEzT05wWVROYW4tZFJpWUV4emx5WUUzclZLdjh2cE5PSDBZSnZoWGRaZGxCckZJMklFYWxQWm5DOTJVWHN3?oc=5",
-      "publishedAt": "2026-06-30T17:00:00+00:00",
-      "fetchedAt": "2026-07-01T12:30:22.965961+00:00"
-    },
-    {
-      "id": "satellogic-pr-satellogic-partners-with-spaceknow-for-ai-satellit",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
+      "id": "vantor-geoint-pr-vantor-launches-worldview-3d-to-deliver-up-to-date",
+      "companyId": "vantor-geoint",
+      "companyName": "Vantor",
+      "category": "geoint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Satellogic partners with SpaceKnow for AI satellite analytics - Investing.com UK",
-      "description": "Press release / announcement from Satellogic",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTVGLWlTNnk5RGNMWjdxZVhFMUxJMlFxNGhoM0ltVmEwT0JrVHo2WXQ2S2Q5VUM5eEJWeVB6Nml4UW9pY1Bob2g4VGx3OC0yQ2FyZUtweDk5b00ybkVLV0NnT0FOakVRdjkwV3lKMlRSdUNGTV96N3NyZEhUeXBDbjJXMklYelFaSW44bWszQ2V5cmxzSWI3Zm51U0NCMzNWS2p3dkQxYy1hem5TUGxYVF9HX0paTHQwTml0VWRjWF80TGNCR2tlVklkYkZ5VzA?oc=5",
-      "publishedAt": "2026-06-30T15:25:52+00:00",
-      "fetchedAt": "2026-07-01T12:31:35.058654+00:00"
+      "title": "Vantor Launches WorldView 3D to Deliver Up-to-Date 3D Ground Truth for Mission-Critical Operations Anywhere on Earth - Morningstar",
+      "description": "Press release / announcement from Vantor",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcWpoSVd2b2lHMFZZSjIwSlNaRlVYUEk4UlhuZTBCZXc3TF83cW1qNTNLTVBNTHkxWjhLZVZkQ2JsTWMzWHk2VDl1d1R2RWpUTlh6QWxjZlNNLUNYVGdoZ1N1U29qVjgxSXdDdzlxbkRqdjhIbDlMX29tcWRlZzF1TlE0eFZVbW1iclFqT1pzVUVhU3VsUEJUZ284LXZhSUNSS2NDeGlfSy1jenMwOUdESDRZT083TWNUV0JMbHkzZlBZaTJ3bFFQSzdxSThQTHBOR0pEN3dtOFBxTW93ZndHRnZlcDVXZHVLWncyVTI0VEY4bWFtU3RVZlpPYWVCWlFjMEtXNUFibG1VZw?oc=5",
+      "publishedAt": "2026-07-01T12:30:00+00:00",
+      "fetchedAt": "2026-07-02T12:07:52.240704+00:00"
     },
     {
-      "id": "seerist-rss-seerist-unveils-next-generation-platform--building",
-      "companyId": "seerist",
-      "companyName": "Seerist",
+      "id": "recorded-future-day-1-589-of-ww3--more-bad-news-for-orcistan--ukra",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Seerist Unveils Next-Generation Platform, Building the Foundation for the Future of Risk Intelligence - PRWeb",
-      "description": "Seerist Unveils Next-Generation Platform, Building the Foundation for the Future of Risk Intelligence&nbsp;&nbsp;PRWeb",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaHFVTUNyMGxMSDhkVDRKZWQyanZWY1FVNUk1YlQyRFpMQ3pJa1NVajdrckRhaUppV0gtLU43NS1JWUlEWkVPMEIwdTdfM2VNUUdGejdDa2hxLUVqb0FkNm8tSEJBOXFoZE5LdkpUaGozb3Q5Z0gtdllqR0tReVdSRmN6ZklJbFF5WllnUmNJQTU1QWZwZ0pSR2taRi0yYnMzRngxd0QwNkV1YTJuV05nbmI0VktFZjRLTk1CNmJaY2YyU0JGS2RiZUZYT2hmV0JpWkgwcXNrLVo5TC1NS0Q4?oc=5",
-      "publishedAt": "2026-06-30T13:10:00+00:00",
-      "fetchedAt": "2026-07-01T12:30:50.360663+00:00"
-    },
-    {
-      "id": "satellogic-rss-satellogic-teams-with-spaceknow-to-monitor-sites-c",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic teams with SpaceKnow to monitor sites continuously from orbit - Stock Titan",
-      "description": "Satellogic teams with SpaceKnow to monitor sites continuously from orbit&nbsp;&nbsp;Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPalJaSmdaU1V4ckdxcnV5eUpqaktzUDNqOWM0NV91ODNNUllfT0lMZ04tWGZsM2s3Mmp6NkFuOUhwNm1WLVctWnBDTHlJMnJvTDV3TnRzMFE5bW1vNHE0dGltdjNIV2dwSnpIQ2xPOWRNYWs5VDNmbzc0NE5zM1gyMHZxUVhfa1FLTUtUaFI2czhYNjRIclJwUlNRZnlLS0lSYzJmZ0Y3NHdmbTNrZjNsdlMtdVVYY1E?oc=5",
-      "publishedAt": "2026-06-30T12:45:00+00:00",
-      "fetchedAt": "2026-07-01T12:31:33.659714+00:00"
+      "sourceName": "Fark.com",
+      "title": "Day 1,589 of WW3. More bad news for Orcistan: Ukraine purchases 16 Gripen E warplanes. Moscow closes rail crossings into the Baltics, and the repatriated bodies of UAF troops are rigged with explosives. This is your Wednesday Ukraine war thread [News]",
+      "description": "Day 1,589 of WW3. More bad news for Orcistan: Ukraine purchases 16 Gripen E warplanes. Moscow closes rail crossings into the Baltics, and the repatriated bodies of UAF troops are rigged with explosives. This is your Wednesday Ukraine war thread",
+      "url": "https://www.fark.com/comments/14116684/Day-1589-of-WW3-More-bad-news-for-Orcistan-Ukraine-purchases-16-Gripen-E-warplanes-Moscow-closes-rail-crossings-into-Baltics-the-repatriated-bodies-of-UAF-troops-are-rigged-with-explosives-This-is-your-Wednesday-Ukraine-war-thread",
+      "publishedAt": "2026-07-01T12:00:00Z",
+      "fetchedAt": "2026-07-02T12:05:20.153570+00:00"
     }
   ],
-  "generatedAt": "2026-07-01T12:32:47.613845+00:00",
+  "generatedAt": "2026-07-02T12:07:55.529164+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 2
 }
