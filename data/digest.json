@@ -1,59 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "planet-labs-pr-planet-labs-germany-to-launch-satellite-on-isar-ae",
-      "companyId": "planet-labs",
-      "companyName": "Planet Labs",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Planet Labs Germany to launch satellite on Isar Aerospace rocket By Investing.com - Investing.com South Africa",
-      "description": "Press release / announcement from Planet Labs",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObE1VQkhremtGN1dfZWdfZzZvMnRJQXNIMDVkbl9yeEtXaVUxOFZBbUNIUTBOVjRhLVJJX1dYbVl5anlZbllsTmV6eElBQ0VHSDRsTlpsV1EzWmU4RFZtdFRyOENCQlFNNUVZRjdqSmp6dFh2c3NmMEd1dVJJbVNaUDhxYVdjdEV5RlZVN0JaclM2Qk5LY1ctU0E0cWpkaE1IRTlScVBVdGYtcG1zQ0o2aEhsUlYtTW5LbzBpVkUybzZ4dmkyYi1mamloOF9iTGFUcGxn?oc=5",
-      "publishedAt": "2026-07-03T00:27:42+00:00",
-      "fetchedAt": "2026-07-03T12:06:31.849822+00:00"
-    },
-    {
-      "id": "booz-allen-rss-booz-allen-hamilton-expands-its-role-in-tech-drive",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Booz Allen Hamilton expands its role in tech-driven defense consulting. BAH stock reflects the compa - Ad-hoc-news.de",
-      "description": "Booz Allen Hamilton expands its role in tech-driven defense consulting. BAH stock reflects the compa&nbsp;&nbsp;Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3RuU1RKWkZELTZUV3poSHhPbTVSWGhVeV90MDhsXzNvT3MweXFUcHBfM1U3bXBndTVheV9RTVdDOXk2Um9XVzROckVtNmh4WFNBODVQTGxBWXNhaUU4Q0I3cXV3NTJZUDgyZ2I2YmhLbGN5cV9VNmtaTmZiMWdVZGZwYUVhMHRFNkZfUlNjTVJ6R1QwdjN3N290Q0VWb0pZNkNfdklQVTFWTnd4RmNEa1B0Mmh5VTNTQ3NxaWFQNXNNR3Yyem14Mg?oc=5",
-      "publishedAt": "2026-07-02T19:44:43+00:00",
-      "fetchedAt": "2026-07-03T12:05:42.410788+00:00"
-    },
-    {
-      "id": "recorded-future-the-white-house-goes-all-in-on-aliens-with-new-uap",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Scientific American",
-      "title": "The White House goes all in on aliens with new UAP Science Advisory Council",
-      "description": "This new group, which is led by Harvard professor Avi Loeb, aims to advise the Trump administration and the U.S. intelligence community, as well as to publish its findings in peer-reviewed journals",
-      "url": "https://www.scientificamerican.com/article/the-white-house-goes-all-in-on-aliens-with-new-uap-science-advisory-council/",
-      "publishedAt": "2026-07-02T11:30:00Z",
-      "fetchedAt": "2026-07-03T12:04:51.040795+00:00"
-    },
-    {
-      "id": "palantir-d-a--davidson-upgrades-palantir-technologies-to-bu",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Crypto Briefing",
-      "title": "D.A. Davidson upgrades Palantir Technologies to buy from neutral, citing AI-driven growth",
-      "description": "Palantir's AI-driven growth and crypto expansion could bolster its market position, but high valuations pose risks if growth falters.\nThe post D.A. Davidson upgrades Palantir Technologies to buy from neutral, citing AI-driven growth appeared first on Crypto B\u2026",
-      "url": "https://cryptobriefing.com/da-davidson-upgrades-palantir-buy/",
-      "publishedAt": "2026-07-02T11:01:30Z",
-      "fetchedAt": "2026-07-03T12:04:45.968227+00:00"
-    }
-  ],
-  "generatedAt": "2026-07-03T12:07:55.698360+00:00",
+  "articles": [],
+  "generatedAt": "2026-07-04T11:25:01.464160+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 0
 }
