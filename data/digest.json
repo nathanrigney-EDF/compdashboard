@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-07-06T13:42:44.166932+00:00",
+  "articles": [
+    {
+      "id": "l3harris-pr-press-release--l3harris-sets-date-for-second-quart",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Press Release: L3Harris Sets Date for Second Quarter 2026 Earnings Release - \u5bcc\u9014\u725b\u725b",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclVoajFicnJ6ZXhhTTVWckZIMWR6VzVPb3Y2cjZzbFZUdm95LWZjSV9UNkdUZmc5bERkSDBLMmNsNHVSb0NQLVh3dkpBVk5rajBGb0Jrd2lacmFIS1lSeTNYbWRUcGtLNlY4VklIR1RNbklCdlRJbEw3LUhGdm1jYl9QTkJRbUpfMm9YT3BHWE1STV9Xdm9YQnhUUEJXdXV1OVNKR0RCVkFOZw?oc=5",
+      "publishedAt": "2026-07-06T20:02:50+00:00",
+      "fetchedAt": "2026-07-07T12:25:38.510395+00:00"
+    }
+  ],
+  "generatedAt": "2026-07-07T12:26:31.472970+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
