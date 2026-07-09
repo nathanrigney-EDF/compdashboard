@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-rss-can-bigbear-ai--nyse-bbai--extend-its-penny-stock",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
+      "id": "recorded-future-crushing-nigeria-s-illicit-alcohol-trade-before-it",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Can BigBear.ai (NYSE:BBAI) Extend Its Penny Stock Rally? - Kalkine Media",
-      "description": "Can BigBear.ai (NYSE:BBAI) Extend Its Penny Stock Rally?&nbsp;&nbsp;Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjJ4YTFncG8zV1pwOHRlSWZpcEd4SERSS1J1Sk14elZTU0RVbm5hVHpXSlZ4WTNGOGNveGtBc0c1T0dLb2JITzF3N092MEFGWURpTTNEQ19JN2djUkUyUUNqSnIyUHowODk5amlYZTVVMVNmYjhRcnhMX284QXNJWm02RXptREpqT011MXpNMXY0NzZGRmsw?oc=5",
-      "publishedAt": "2026-07-07T19:19:00+00:00",
-      "fetchedAt": "2026-07-08T11:44:05.247661+00:00"
-    },
-    {
-      "id": "l3harris-rss-missile-defense-has-one-test-watchdog--l3harris-wi",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Missile Defense Has One Test Watchdog: L3Harris Wins $500M Uncontested Deal - Tech Times",
-      "description": "Missile Defense Has One Test Watchdog: L3Harris Wins $500M Uncontested Deal&nbsp;&nbsp;Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFo2VncyamdMZl9Wc3RaOXhDODlDa2lwSFdaOG5OaDdxbGFxNEJfaldQTmtqSlF1bFFCM1A0WDVMNkZLOG9Kbl9PUEtTaHd5bEZTNDM1QVJOSFY5emdkN2dNQTZremxvUloyck1OODkxaEhJZHpzYTNjMVhidm1IWmh2dGJXb0daTTNSUUJTNGo4cGcxWXlhOWE3NDdtNjlGb2szanI3U2NocHlLSzFlc2NQTTdyRGlnSkVrWnB6WXlGNGFqQmpB?oc=5",
-      "publishedAt": "2026-07-07T14:10:12+00:00",
-      "fetchedAt": "2026-07-08T11:45:24.739187+00:00"
+      "sourceName": "Vanguard",
+      "title": "Crushing Nigeria\u2019s illicit alcohol trade before it costs more lives",
+      "description": "By Peter Egwuatu Nigeria\u2019s campaign against illicit alcohol deserves to be seen for what it truly is, not simply a fight against counterfeit drinks, but a battle to protect consumers, safeguard legitimate businesses and defend the country\u2019s economic future. T\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/crushing-nigerias-illicit-alcohol-trade-before-it-costs-more-lives/",
+      "publishedAt": "2026-07-08T10:07:19Z",
+      "fetchedAt": "2026-07-09T12:28:38.530828+00:00"
     }
   ],
-  "generatedAt": "2026-07-08T11:46:05.645124+00:00",
+  "generatedAt": "2026-07-09T12:38:43.429098+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }

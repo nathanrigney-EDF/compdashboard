@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "recorded-future-crushing-nigeria-s-illicit-alcohol-trade-before-it",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Vanguard",
+      "title": "Crushing Nigeria\u2019s illicit alcohol trade before it costs more lives",
+      "description": "By Peter Egwuatu Nigeria\u2019s campaign against illicit alcohol deserves to be seen for what it truly is, not simply a fight against counterfeit drinks, but a battle to protect consumers, safeguard legitimate businesses and defend the country\u2019s economic future. T\u2026",
+      "url": "https://www.vanguardngr.com/2026/07/crushing-nigerias-illicit-alcohol-trade-before-it-costs-more-lives/",
+      "publishedAt": "2026-07-08T10:07:19Z",
+      "fetchedAt": "2026-07-09T12:28:38.530828+00:00"
+    },
+    {
+      "id": "recorded-future-somali-pirates-are-back---but-the-coalition-that-b",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "War on the Rocks",
+      "title": "Somali Pirates Are Back \u2014 But the Coalition That Beat Them Isn\u2019t Coming",
+      "description": "Numerous recent pirate attacks, especially the hijacking of three merchant vessels off the Horn of Africa, are a stark reminder that the conditions for resurgence can return quickly.It took years of sustained, coordinated effort by multinational naval coaliti\u2026",
+      "url": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
+      "publishedAt": "2026-07-08T07:30:07Z",
+      "fetchedAt": "2026-07-09T12:28:38.530851+00:00"
+    },
+    {
+      "id": "recorded-future-as-ebola-surges--3-in-4-americans-back-restoring-u",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "PRNewswire",
+      "title": "As Ebola Surges, 3 in 4 Americans Back Restoring U.S. Aid to Fight It, per New Echelon-Rockefeller Foundation Poll",
+      "description": "Conducted ahead of America's 250th anniversary, the survey finds nine in ten Americans (90%) across the political spectrum support funding programs to prevent disease outbreaks abroad, the highest-testing program area in the survey. Those who primarily suppor\u2026",
+      "url": "https://www.prnewswire.com/news-releases/as-ebola-surges-3-in-4-americans-back-restoring-us-aid-to-fight-it-per-new-echelon-rockefeller-foundation-poll-302820085.html",
+      "publishedAt": "2026-07-08T04:01:00Z",
+      "fetchedAt": "2026-07-09T12:28:38.530865+00:00"
+    },
+    {
+      "id": "recorded-future-senate-raises-security-fears-as-terrorists-target",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The Punch",
+      "title": "Senate raises security fears as terrorists target military officers",
+      "description": "The Senate on Tuesday expressed grave concern over the country\u2019s worsening security situation, warning that the abduction and killing of retired military officers by terrorists and criminal gangs represent a dangerous escalation of Nigeria\u2019s security crisis. \u2026",
+      "url": "https://punchng.com/senate-raises-security-fears-as-terrorists-target-military-officers/",
+      "publishedAt": "2026-07-07T23:35:03Z",
+      "fetchedAt": "2026-07-09T12:28:38.530875+00:00"
+    },
+    {
       "id": "bigbear-ai-rss-can-bigbear-ai--nyse-bbai--extend-its-penny-stock",
       "companyId": "bigbear-ai",
       "companyName": "BigBear.ai",
@@ -25,6 +77,19 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFo2VncyamdMZl9Wc3RaOXhDODlDa2lwSFdaOG5OaDdxbGFxNEJfaldQTmtqSlF1bFFCM1A0WDVMNkZLOG9Kbl9PUEtTaHd5bEZTNDM1QVJOSFY5emdkN2dNQTZremxvUloyck1OODkxaEhJZHpzYTNjMVhidm1IWmh2dGJXb0daTTNSUUJTNGo4cGcxWXlhOWE3NDdtNjlGb2szanI3U2NocHlLSzFlc2NQTTdyRGlnSkVrWnB6WXlGNGFqQmpB?oc=5",
       "publishedAt": "2026-07-07T14:10:12+00:00",
       "fetchedAt": "2026-07-08T11:45:24.739187+00:00"
+    },
+    {
+      "id": "recorded-future-insecurity--senate-decries-disturbing-pattern-of-a",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The Punch",
+      "title": "Insecurity: Senate decries disturbing pattern of attacks on military personnel",
+      "description": "The Nigerian Senate expresses grave concern over the disturbing pattern of attacks on military personnel, highlighting the escalating insecurity in Nigeria\n\nRead More: https://punchng.com/insecurity-senate-decries-disturbing-pattern-of-attacks-on-military-per\u2026",
+      "url": "https://punchng.com/insecurity-senate-decries-disturbing-pattern-of-attacks-on-military-personnel/",
+      "publishedAt": "2026-07-07T13:55:05Z",
+      "fetchedAt": "2026-07-09T12:28:38.530882+00:00"
     },
     {
       "id": "heo-pr-samsung-electronics-earnings-announcement-d-day--t",
@@ -76,7 +141,7 @@
       "description": "DA Davidson has upgraded Palantir, citing its growing advantage in helping enterprises manage an increasingly complex AI ecosystem.",
       "url": "https://www.barchart.com/story/news/3146299/palantir-stock-just-scored-a-new-upgrade-wall-street-says-it-provides-a-critical-ai-orchestration-layer",
       "publishedAt": "2026-07-06T17:42:55Z",
-      "fetchedAt": "2026-07-08T11:43:32.007262+00:00"
+      "fetchedAt": "2026-07-09T12:28:09.023139+00:00"
     },
     {
       "id": "recorded-future-blue-wave--how-israel--washington-and-a-guernsey-s",
@@ -5875,60 +5940,8 @@
       "url": "https://www.vanguardngr.com/2026/04/drug-addiction-youth-hit-hard-as-14-3m-nigerians-consumed-ilicit-drugs-in-one-year/",
       "publishedAt": "2026-04-11T00:51:00Z",
       "fetchedAt": "2026-04-14T10:57:59.594769+00:00"
-    },
-    {
-      "id": "booz-allen-rss-booz-allen-backs-portal-space-to-deepen-space-and",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Booz Allen Backs Portal Space To Deepen Space And Defense Focus - Sahm",
-      "description": "Booz Allen Backs Portal Space To Deepen Space And Defense Focus&nbsp;&nbsp;Sahm",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckQyTk5zZGd0U3hYSzgxM2RHdndtUnU3Rk9Qb0MxVk1ISmNUYkpoOVgycjh5OXp5YU5FcVFvVkZ2VXVDejhoUWx1UEw2MXRGLVlpdkJQTzJPZXgxSU5BcTNNRXEtbWtRSW9FN2x2Nk1OZm9Uc1k5dmhQczJQZ1VUZnZhN1ZST1hWMjZucUtqMnlMWEQyNFB6eTM3ak14WWg0NF81Ym1PdmtFLXV0aXFGZXZCX0hQZw?oc=5",
-      "publishedAt": "2026-04-10T07:00:00+00:00",
-      "fetchedAt": "2026-05-19T12:36:32.760347+00:00"
-    },
-    {
-      "id": "recorded-future-roaming-vermin--from-kwara-to-kebbi",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "The Punch",
-      "title": "Roaming Vermin: From Kwara to Kebbi",
-      "description": "Explore the alarming spread of insecurity in Nigeria as banditry and killings move from the north to states like Kwara and Kebbi, a threat to all.\n\nRead More: https://punchng.com/roaming-vermin-from-kwara-to-kebbi/",
-      "url": "https://punchng.com/roaming-vermin-from-kwara-to-kebbi/",
-      "publishedAt": "2026-04-09T23:50:02Z",
-      "fetchedAt": "2026-04-12T10:33:42.477118+00:00"
-    },
-    {
-      "id": "recorded-future-blackberry-stock-surges-6-7--after-q4-beat-and-upb",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Ibtimes.com.au",
-      "title": "BlackBerry Stock Surges 6.7% After Q4 Beat and Upbeat 2027 Guidance as Cybersecurity Pivot Gains Traction",
-      "description": "WATERLOO, Ontario \u2014 Shares of BlackBerry Ltd. jumped more than 6% Thursday after the once-iconic smartphone maker posted stronger-than-expected fourth-quarter fiscal 2026 results and issued first-quarter guidance that topped Wall Street forecasts, signaling c\u2026",
-      "url": "https://www.ibtimes.com.au/blackberry-stock-surges-67-after-q4-beat-upbeat-2027-guidance-cybersecurity-pivot-gains-traction-1865950",
-      "publishedAt": "2026-04-09T19:00:48Z",
-      "fetchedAt": "2026-04-12T10:33:42.477124+00:00"
-    },
-    {
-      "id": "palantir-palantir-stock-plunges-7-5--as-michael-burry-claim",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Ibtimes.com.au",
-      "title": "Palantir Stock Plunges 7.5% as Michael Burry Claims Anthropic Is 'Eating Palantir's Lunch' in AI Race",
-      "description": "Palantir Technologies Inc. shares tumbled more than 7% midday Thursday, extending a volatile stretch for the once-high-flying artificial intelligence stock as prominent investor Michael Burry questioned the company's competitive position against rising rivals\u2026",
-      "url": "https://www.ibtimes.com.au/palantir-stock-plunges-75-michael-burry-claims-anthropic-eating-palantirs-lunch-ai-race-1865913",
-      "publishedAt": "2026-04-09T16:57:22Z",
-      "fetchedAt": "2026-04-12T10:33:36.987105+00:00"
     }
   ],
-  "lastUpdated": "2026-07-08T11:46:05.639177+00:00",
-  "totalArticles": 456
+  "lastUpdated": "2026-07-09T12:38:43.421083+00:00",
+  "totalArticles": 457
 }
