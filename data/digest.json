@@ -1,46 +1,20 @@
 {
   "articles": [
     {
-      "id": "l3harris-pr-us-army-awards-l3harris-ngc2-manpack-radio-deliver",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "US Army Awards L3Harris NGC2 Manpack Radio Delivery Orders - Business Wire",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0NUNWxvZk8tbnNNZXg1Mmg4Tm8tNjhjRERqZnBmMTIzMm5tMHFXbHQ2S1U4N2gzT2J2UHo3eG5ZSk10M2lJbXVJRDdOZ2xYODJlOENFX2lHMzRDdkFjcFl4ZGl5bExBT3dja1JFQUhJVDlGR0c2VEUwaDY1TWxSR0VrSldSTzM0X19Pdm5Ec3Rfc18yclpEaS1yaU5jZUxhd3Mta3JzUWlGdHFZVktaaENmcDJZZw?oc=5",
-      "publishedAt": "2026-07-09T17:00:00+00:00",
-      "fetchedAt": "2026-07-10T12:22:54.281229+00:00"
-    },
-    {
-      "id": "recorded-future-ontarians-spent--100b-betting-online--triggering-s",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "palantir-europe-s-gathering-backlash-against-palantir-hits",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "National Post",
-      "title": "Ontarians spent $100B betting online, triggering suicides and bankruptcies. Now it\u2019s Alberta\u2019s turn",
-      "description": "Sports betting used to involve a trip to a casino, racetrack or bookmaker. Now it's as easy as scrolling on TikTok or checking the weather.",
-      "url": "https://nationalpost.com/feature/online-sports-betting-in-canada",
-      "publishedAt": "2026-07-09T10:00:52Z",
-      "fetchedAt": "2026-07-10T12:21:21.574779+00:00"
-    },
-    {
-      "id": "flashpoint-rss-dark-web-intelligence-market-to-reach-us--3-07-bil",
-      "companyId": "flashpoint",
-      "companyName": "Flashpoint",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Dark Web Intelligence Market to Reach US$ 3.07 Billion by 2033 as - openPR.com",
-      "description": "Dark Web Intelligence Market to Reach US$ 3.07 Billion by 2033 as&nbsp;&nbsp;openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenluOWVJLU91MGNiYUJEcWFEU3c0dTRxTDlESTFaS3NQU1ZnUl9SbER0Zl9tdG1wQVpGVXJnOTgzQ1ZQa0RZSmFfLWF4OU85aHdHUlllVnYxWHo4MW1oOHFzWkNma1ZDMHFDTGZqeGNhYU5LWm55YURpaHhXdEItRUl2ODYzT05vWXIzSmVqbU1QS0luVm9zTkRSNGNHenFJeUE?oc=5",
-      "publishedAt": "2026-07-09T09:42:52+00:00",
-      "fetchedAt": "2026-07-10T12:21:23.597594+00:00"
+      "sourceName": "Nakedcapitalism.com",
+      "title": "Europe\u2019s Gathering Backlash Against Palantir Hits NATO Resistance",
+      "description": "The AI systems managed by Palantir are becoming even more embedded in the collective West's war-waging.",
+      "url": "https://www.nakedcapitalism.com/2026/07/europes-blacklisting-of-palantir-is-gathering-pace.html",
+      "publishedAt": "2026-07-10T10:45:16Z",
+      "fetchedAt": "2026-07-11T10:58:36.893838+00:00"
     }
   ],
-  "generatedAt": "2026-07-10T12:23:18.911240+00:00",
+  "generatedAt": "2026-07-11T11:01:09.022474+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 1
 }
