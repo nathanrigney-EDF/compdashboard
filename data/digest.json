@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "palantir-europe-s-gathering-backlash-against-palantir-hits",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Nakedcapitalism.com",
-      "title": "Europe\u2019s Gathering Backlash Against Palantir Hits NATO Resistance",
-      "description": "The AI systems managed by Palantir are becoming even more embedded in the collective West's war-waging.",
-      "url": "https://www.nakedcapitalism.com/2026/07/europes-blacklisting-of-palantir-is-gathering-pace.html",
-      "publishedAt": "2026-07-10T10:45:16Z",
-      "fetchedAt": "2026-07-11T10:58:36.893838+00:00"
-    }
-  ],
-  "generatedAt": "2026-07-11T11:01:09.022474+00:00",
+  "articles": [],
+  "generatedAt": "2026-07-12T11:09:35.371949+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
