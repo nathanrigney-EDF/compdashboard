@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-07-12T11:09:35.371949+00:00",
+  "articles": [
+    {
+      "id": "zignal-pr-zignal-labs-expands-protective-intelligence-capabi",
+      "companyId": "zignal",
+      "companyName": "Zignal Labs",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Zignal Labs Expands Protective Intelligence Capabilities Through Strategic Partnership with Reality Defender - GlobeNewswire",
+      "description": "Press release / announcement from Zignal Labs",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbU1aZm9kVUh4TFlwM1NoSXhOMU91RDVJZXc5c3JsRkotQ0N6c0tHVFB2TjhiTVpBQkJySl9lNm9VQ3ZlMkhfb2NhX1VMQzJjbkUyWXF5Wm04TWJ4V1NkVkJ2VGI0SjlQQVZvZXVVUXM2U3JSdFFjd3VYYW84a0ZhVjd0ZGs5Yk5pUTluaXhfd1JTcnMzNm9lNkVxcFlWQi1TT2tETy1vOXFGLUd6eVFnUW9hT2Rza2hKNjZBNTg0VGppV25WaHVZazVaa0lwZXVZRkU1REZpQnJZd1hsYXBIR2tvSHZ4UWpvQUVGa0ZfczRNbGpMcDhnbUFZXzh6TVVjdlBLYVZZR2RuTHJh?oc=5",
+      "publishedAt": "2026-07-13T12:00:00+00:00",
+      "fetchedAt": "2026-07-13T12:29:14.817683+00:00"
+    }
+  ],
+  "generatedAt": "2026-07-13T12:31:04.852469+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
