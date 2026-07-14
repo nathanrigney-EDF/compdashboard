@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "palantir-pr-palantir-sets-august-3-date-for-q2-2026-earnings-r",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Palantir sets August 3 date for Q2 2026 earnings release - scanx.trade",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzlCbDFpMExlXzBHRERqUmo1YWNhOTI1QVg4anFYT01LU0JNR1p5bFFOZVk5X2NBX2U5YjJKcVV6VW1tRnRhWGdnOXdISnVqekNSVEs1UzF4cHZqb25mZy1NeG9HUGFqVnAyV25UTkJEUVNvYzd0QVRmeXVJUzNwSmFNUHhlS2Zxc1lRX2wyalAxejFOSVJlZk50LXk2YzhmU2xtdzB1TkJwM3Z2aTFrNl9DWQ?oc=5",
+      "publishedAt": "2026-07-13T22:12:01+00:00",
+      "fetchedAt": "2026-07-14T11:21:06.290523+00:00"
+    },
+    {
+      "id": "leidos-rss-dia-expands-ai--osint-efforts-for-cyber-intelligen",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "DIA Expands AI, OSINT Efforts for Cyber Intelligence Missions - ExecutiveGov",
+      "description": "DIA Expands AI, OSINT Efforts for Cyber Intelligence Missions&nbsp;&nbsp;ExecutiveGov",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFJN0JmcVNvRUlZWUVDc3J2LWNEVHBIWUVuLXNLbDFZV2lIZVBZT0IzWEozRHZNNnFlbTNfbEs0LWI3UElBdTNUSkxRWFNETVB0ZllwSUhJbS1nRmlGOVg0S1VoWmZldzMtLUV2TGZ4NzZaMFJtTk5QM0hqeU05ZnMzcFBsMFFHZFB2NGRydEF0SEpT?oc=5",
+      "publishedAt": "2026-07-13T20:59:10+00:00",
+      "fetchedAt": "2026-07-14T11:22:01.258302+00:00"
+    },
+    {
+      "id": "palantir-pr-press-release--palantir-announces-date-of-second-q",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Press Release: Palantir Announces Date of Second Quarter 2026 Earnings Release and Webcast - Moomoo",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVJqVDFjNUpVcXFXRXFNZ01GN1VoaHpEVm5FWDZxR1A4X2V2X29yNHRIRU9LYmYtUlZtWWJWd0pnNkxUOFJieGtVcEEtZDBwdndxUGhIaENrWlB1cklJN3FCN3laR2VLLXk3TGk2Y3FfZFRWcVRNNENJODhTNHo5dmVxWFJ6X1dwdVZuaXQ0QkVyQmFteFF1Sk9TTVRpWUctUkpUeWg5djVoVEdDeE1Ndg?oc=5",
+      "publishedAt": "2026-07-13T20:24:00+00:00",
+      "fetchedAt": "2026-07-14T11:21:06.289988+00:00"
+    },
+    {
       "id": "zignal-pr-zignal-labs-expands-protective-intelligence-capabi",
       "companyId": "zignal",
       "companyName": "Zignal Labs",
@@ -11,10 +50,10 @@
       "description": "Press release / announcement from Zignal Labs",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbU1aZm9kVUh4TFlwM1NoSXhOMU91RDVJZXc5c3JsRkotQ0N6c0tHVFB2TjhiTVpBQkJySl9lNm9VQ3ZlMkhfb2NhX1VMQzJjbkUyWXF5Wm04TWJ4V1NkVkJ2VGI0SjlQQVZvZXVVUXM2U3JSdFFjd3VYYW84a0ZhVjd0ZGs5Yk5pUTluaXhfd1JTcnMzNm9lNkVxcFlWQi1TT2tETy1vOXFGLUd6eVFnUW9hT2Rza2hKNjZBNTg0VGppV25WaHVZazVaa0lwZXVZRkU1REZpQnJZd1hsYXBIR2tvSHZ4UWpvQUVGa0ZfczRNbGpMcDhnbUFZXzh6TVVjdlBLYVZZR2RuTHJh?oc=5",
       "publishedAt": "2026-07-13T12:00:00+00:00",
-      "fetchedAt": "2026-07-13T12:29:14.817683+00:00"
+      "fetchedAt": "2026-07-14T11:22:32.841493+00:00"
     }
   ],
-  "generatedAt": "2026-07-13T12:31:04.852469+00:00",
+  "generatedAt": "2026-07-14T11:23:53.778571+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 4
 }
