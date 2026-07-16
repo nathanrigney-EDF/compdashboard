@@ -1,59 +1,33 @@
 {
   "articles": [
     {
-      "id": "l3harris-pr-l3harris-receives-golden-dome-amdt3-satellites-con",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Receives Golden Dome AMDT3 Satellites Contract - Joint Forces News",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXJIdV9Ob3djRTFpa3dMaHRYemJIZk14OEJFQUdLbGt5bFhpRnJnY3BmVFR3QVJTTzlwSVk0Vm9PNFBVejhLTnlXUDFBWnhwWHZKMnVzQkMxWVF2Q0FyYkZmbWV4TnVhd005TmdaUjlaanA2SE95SjNySTZDMC1RODF0Z3FLZ19IdXpVU0hkRi1ZdE1FcnRiQ3M2TjZYdTVObTIyVlZNM0I?oc=5",
-      "publishedAt": "2026-07-15T07:28:14+00:00",
-      "fetchedAt": "2026-07-15T11:26:43.036334+00:00"
-    },
-    {
-      "id": "palantir-pr-palantir-technologies-will-report-q2-2026-results",
+      "id": "palantir-pr-palantir-stock-climbs-after-confirming-q2-earnings",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Palantir Technologies will report Q2 2026 results on August 3, with shares up 2.5% on the announcement - eciks.org",
+      "title": "Palantir Stock Climbs After Confirming Q2 Earnings Release - TradingView",
       "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01b2x5aWo2YkZkelNyUjlOckY4TVA3aWs4ZlhLd0xXMGhLRGNFTXgzX1JISHkzVV9tb2NOR1Q2SEpMQ0dIdkUyemE5UDl4T19CNXNWLW8tVC1nVHRwWFdrM2ZmaE8wUTlFMnhOUEtB?oc=5",
-      "publishedAt": "2026-07-14T17:38:29+00:00",
-      "fetchedAt": "2026-07-15T11:24:55.615780+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFo2eDFkZEZobUtVTE05UWsyZzNITEtDVGJ6VFBUaThpdFd3cTQ3T254QzRhelB0NVFtb19rczVkY0NoTHdoV2M4dFNCQXQ5Rm5PdHdTRE5CM1pXVnlXQWJueGNoNmVqZi1ycXJ1SUhoM1Uya0dKTElrcVBqOVdMbGVKdGM2bWRGdzZRQ0RFQ28zUFpWbDFGRG4tVFJjMU5qOGVpc0xzSE8xRnJVOWxZUFd2WUVXdzh5U2c?oc=5",
+      "publishedAt": "2026-07-15T12:23:50+00:00",
+      "fetchedAt": "2026-07-16T11:28:02.349096+00:00"
     },
     {
-      "id": "cognyte-pr-cognyte-wins--5m-contract-with-nato-nation-securit",
+      "id": "cognyte-rss-cognyte-wins--5-million-nato-intelligence-contract",
       "companyId": "cognyte",
       "companyName": "Cognyte",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Cognyte wins $5M contract with NATO nation security agency - Investing.com",
-      "description": "Press release / announcement from Cognyte",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEtRYzlHUFppYmIzeW5UNDNjdzZvZExBXzhOZE4xMGhzNEJFOGprY0VOYm5nSVhGeWRwT1J4X3R3VWVvY2xBaE1FeGdIMTFKV1RhV0EzX3I0Q0FTYWNGb0dnamV0LXZ0NnFlYzV5MDZSY09QSjM4MnlTb21CdEs3dEZDUlJfR0ZGeHFhVk1RaE1fdjVlVVl6YU8wdU1lQjJQSVlUaS1LSnZ2TlBnVGJMY3Ayc3M?oc=5",
-      "publishedAt": "2026-07-14T13:45:02+00:00",
-      "fetchedAt": "2026-07-15T11:25:30.305044+00:00"
-    },
-    {
-      "id": "babel-street-rss-babel-street-named-security-executive-council-solu",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
-      "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Babel Street Named Security Executive Council Solution Innovation Partner, Providing Mission-Grade Risk Intelligence for Corporate Security Practitioners - Business Wire",
-      "description": "Babel Street Named Security Executive Council Solution Innovation Partner, Providing Mission-Grade Risk Intelligence for Corporate Security Practitioners&nbsp;&nbsp;Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdzZKeHFHMkhMeGUxVGh3aW5RV0F2c1dlSkZvSllYa1BpYnVvOC1ScjJzOFVCd1piMnUwbHZTT2tMRTBsZGpneHVDbzVBTEI1QnBsOGNYcEQtMzh6RUxTSEdWS25tX1JCVEpRTjhhRjlpd1EyRkVyXzhzb25GZjR3MUFVREk3SXduSHExNjJMVFVXVW9RaWkwVWwyNmpIS2tsRTBuc01kRmt0Rkg5WE1NdkNxREpwb2tsOVhielBIU240b05LYUZ1M3JldVBDVmZmSldOWVBEZkhEeFF4TFBzRV9ybUNzSHRfd1FfZ1h6T2U3c1lSX3otX2tjZm1sZ3BxS2ZNRFRfaklIVDA5SUVhNUJpRlNJNU9QNkxHTXdYcE9PbUJiQ0VkNDY1bjVwNXdmNW40?oc=5",
-      "publishedAt": "2026-07-14T13:00:00+00:00",
-      "fetchedAt": "2026-07-15T11:24:57.048553+00:00"
+      "title": "Cognyte Wins $5 Million NATO Intelligence Contract as AI Reshapes SIGINT - Israel Defense",
+      "description": "Cognyte Wins $5 Million NATO Intelligence Contract as AI Reshapes SIGINT&nbsp;&nbsp;Israel Defense",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZkhWMzh2dHBjQUh3aHJqVVloOFdXb0ZuMGRIUXNYS1pLU0VoNmRKY3JhVU12cTQtaHpVTmhlWmV3bDBnZExxM0l2MDJnUkJycmdDV2ZGR0Y?oc=5",
+      "publishedAt": "2026-07-15T11:40:16+00:00",
+      "fetchedAt": "2026-07-16T11:28:37.556611+00:00"
     }
   ],
-  "generatedAt": "2026-07-15T11:27:50.120732+00:00",
+  "generatedAt": "2026-07-16T11:30:45.366166+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 2
 }
