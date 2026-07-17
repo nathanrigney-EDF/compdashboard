@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "palantir-pr-palantir-stock-climbs-after-confirming-q2-earnings",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
+      "id": "blacksky-pr-blacksky-technology-to-announce-q2-2026-results-on",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Palantir Stock Climbs After Confirming Q2 Earnings Release - TradingView",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFo2eDFkZEZobUtVTE05UWsyZzNITEtDVGJ6VFBUaThpdFd3cTQ3T254QzRhelB0NVFtb19rczVkY0NoTHdoV2M4dFNCQXQ5Rm5PdHdTRE5CM1pXVnlXQWJueGNoNmVqZi1ycXJ1SUhoM1Uya0dKTElrcVBqOVdMbGVKdGM2bWRGdzZRQ0RFQ28zUFpWbDFGRG4tVFJjMU5qOGVpc0xzSE8xRnJVOWxZUFd2WUVXdzh5U2c?oc=5",
-      "publishedAt": "2026-07-15T12:23:50+00:00",
-      "fetchedAt": "2026-07-16T11:28:02.349096+00:00"
-    },
-    {
-      "id": "cognyte-rss-cognyte-wins--5-million-nato-intelligence-contract",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Cognyte Wins $5 Million NATO Intelligence Contract as AI Reshapes SIGINT - Israel Defense",
-      "description": "Cognyte Wins $5 Million NATO Intelligence Contract as AI Reshapes SIGINT&nbsp;&nbsp;Israel Defense",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZkhWMzh2dHBjQUh3aHJqVVloOFdXb0ZuMGRIUXNYS1pLU0VoNmRKY3JhVU12cTQtaHpVTmhlWmV3bDBnZExxM0l2MDJnUkJycmdDV2ZGR0Y?oc=5",
-      "publishedAt": "2026-07-15T11:40:16+00:00",
-      "fetchedAt": "2026-07-16T11:28:37.556611+00:00"
+      "title": "BlackSky Technology to announce Q2 2026 results on August 6 - scanx.trade",
+      "description": "Press release / announcement from BlackSky Technology",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY184cW4wMmN1UFdPQVJiOS1MbW9SY3ZMSDZTaWs4WmtkQXVEYTRjVVZTSVJSREdEU3dvaGJpWkUwMzEwWml2NXdjalhMTVdBQTE2bkd1eEJPend3R2pRd05sZ2p1TksybXVITGNzOVUtdGU0VlY3emwxRklBVkZibFJHVlZCWVVPZE8yemZsVV9ZcmhoMmF3M3paYzdqZllVX2FrRkNpT29SSFktaDlFQl92bDlOeDA?oc=5",
+      "publishedAt": "2026-07-16T12:35:33+00:00",
+      "fetchedAt": "2026-07-17T11:19:12.834528+00:00"
     }
   ],
-  "generatedAt": "2026-07-16T11:30:45.366166+00:00",
+  "generatedAt": "2026-07-17T11:20:53.285616+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
