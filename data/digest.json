@@ -1,46 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "leidos-rss-general-dynamics-protests-disa-s-enclave-contract",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "General Dynamics protests DISA\u2019s Enclave contract expansion - Federal News Network",
-      "description": "General Dynamics protests DISA\u2019s Enclave contract expansion&nbsp;&nbsp;Federal News Network",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXNaNHdQRlBDOGRsZXRFZEFwUjJyTDByWXdZSHlvT3NQU1Y3QThEZVJUX2k2eUIwRXozNVRMX0tiQ3BadTZXZGpGS2pOZWgwSHJlTWFuWF9iWmRvWlJQU2pSc1AwSnpya3J5WVNncVdqRkRneFRzcWk2TXp6TFJLWnRqNG1mRVVkN2pKUnpXYWtqR2VqV04zcGxEbjk0Tm8wT2ZvNVZZSnVUbGNaUEo0?oc=5",
-      "publishedAt": "2026-07-17T22:48:12+00:00",
-      "fetchedAt": "2026-07-18T10:57:48.701096+00:00"
-    },
-    {
-      "id": "satellogic-rss-planet-labs-vs--satellogic--which-earth-observatio",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Planet Labs vs. Satellogic: Which Earth Observation Stock Has an Edge? - The Globe and Mail",
-      "description": "Planet Labs vs. Satellogic: Which Earth Observation Stock Has an Edge?&nbsp;&nbsp;The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTW1XVkxDa1RGQm1PU2JDaHZFNTVWcGtwQnNXNVVsQUlxQVpvV0Zld1NvZFk2WE5IWlpxNEY2eGpfRkNZdDVJU1dpRm5RWjdCX1VpR1RiN0xRY2lrYkJIU1RHTlplNFE4RGxyaG8ycUlNdUdJalRiUVhOck1VcDhBcmVjRWU2c2FqMWRXVWZ1ck1pRWtKOWlic1duMjNLNXhUZ0hDMFMzTVZla0Vnd0JMNkFyanFIM3hRMnkyOThtSEx4ZjA0X29QS3phR2U1WHBLc1pLNnNSOXlOX0haSElOUlJfMldJbEE?oc=5",
-      "publishedAt": "2026-07-17T18:58:00+00:00",
-      "fetchedAt": "2026-07-18T10:59:10.016378+00:00"
-    },
-    {
-      "id": "recorded-future-a-unified-front-against-fraud--securing-the-uk-s-p",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "TechRadar",
-      "title": "A unified front against fraud: Securing the UK's payments future",
-      "description": "As sophisticated scams escalate, can a unified front finally secure the UK\u2019s payments?",
-      "url": "https://www.techradar.com/pro/a-unified-front-against-fraud-securing-the-uks-payments-future",
-      "publishedAt": "2026-07-17T10:16:04Z",
-      "fetchedAt": "2026-07-18T10:56:58.420643+00:00"
-    }
-  ],
-  "generatedAt": "2026-07-18T10:59:55.841745+00:00",
+  "articles": [],
+  "generatedAt": "2026-07-19T11:16:16.477914+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 0
 }
