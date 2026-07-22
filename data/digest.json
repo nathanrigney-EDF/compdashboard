@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-doubles-down-with--2m-lobbying-push---leg",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "booz-allen-rss-booz-allen-hamilton-stock-trades-steadily-as-recor",
+      "companyId": "booz-allen",
+      "companyName": "Booz Allen Hamilton",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Palantir Doubles Down With $2M Lobbying Push - Legis1",
-      "description": "Palantir Doubles Down With $2M Lobbying Push&nbsp;&nbsp;Legis1",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VY21VRm1HR1o2Wkl6S0owakpaOUVEckNrYU1fYXlkT0ZLRzF0VTJ0eUVCOE5QVldRWmZuTm9uMUJzNzFubUg0MkpYaDZoWmYtUWF6M2FvSGpRT0t6MFBnZXRuSmhVR19TTEd6b0JEQVRveXNsRkJmTw?oc=5",
-      "publishedAt": "2026-07-20T18:59:47+00:00",
-      "fetchedAt": "2026-07-21T11:43:06.558266+00:00"
-    },
-    {
-      "id": "recorded-future-before-q-day--the-race-to-quantum-first",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "War on the Rocks",
-      "title": "Before Q-Day: The Race to Quantum First",
-      "description": "Somewhere, a hard drive is filling up with secrets no one can read yet, and its owner is waiting for the machine that opens them all at once. On March 30, 2026, that wait got shorter.Two independent research teams lowered the public estimates for breaking the\u2026",
-      "url": "https://warontherocks.com/cogs-of-war/before-q-day-the-race-to-quantum-first/",
-      "publishedAt": "2026-07-20T08:00:11Z",
-      "fetchedAt": "2026-07-21T11:43:12.844897+00:00"
+      "title": "Booz Allen Hamilton stock trades steadily as record fiscal 2026 revenue and AI demand underpin outlo - Ad-hoc-news.de",
+      "description": "Booz Allen Hamilton stock trades steadily as record fiscal 2026 revenue and AI demand underpin outlo&nbsp;&nbsp;Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjl3WHhPZkdGYlVxNTZnUzBiMmt6MGlUc2dzUTVfUHBfN3RzU1loMXhXU1VMbWJBVHZycXdmQ0QzSDNvU0hPVDVJOENBTzJreUdodkdUSks0a3JkclUxMnZZaTI4bjZnelJHRUFVR1UzWkZQUGNzdXJhZm1zYWREVllqaHN4eV9VS1JSZkRoZFM4a2JzMlFHcUk1SXVEZ0lLdWE3MDZKT2Q0cmgwRGg3MGlRWGhvcG5XUGdOQlZsM3B1OVhMLW45Rkln?oc=5",
+      "publishedAt": "2026-07-21T20:15:16+00:00",
+      "fetchedAt": "2026-07-22T11:44:17.012667+00:00"
     }
   ],
-  "generatedAt": "2026-07-21T11:46:49.018980+00:00",
+  "generatedAt": "2026-07-22T11:45:37.495913+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
