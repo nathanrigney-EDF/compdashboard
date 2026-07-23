@@ -1,20 +1,46 @@
 {
   "articles": [
     {
-      "id": "booz-allen-rss-booz-allen-hamilton-stock-trades-steadily-as-recor",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
+      "id": "spire-global-pr-spire-global-partners-with-sate-on-esa-supported-r",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Spire Global Partners with SATE on ESA-Supported Research Program to Advance AI-Driven Autonomous Constellation Operations - Yahoo Finance Singapore",
+      "description": "Press release / announcement from Spire Global",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVU4d0tJcm9kZ3JCcE5scEllMWcweGRwMmVzMEZ3dVpQTWk0R3pDWDY1UWxoSUFMRGtraF9UX2pCWEFsNDUyMm5RWDlOWTJCdXh3ZHlVWHJDRFhoSmZFS0Z5LW03VVVCVnJuN18yeUlDLXdaMW9LRU9EZVgwUVhSR1FHbElUZw?oc=5",
+      "publishedAt": "2026-07-23T09:30:00+00:00",
+      "fetchedAt": "2026-07-23T11:49:19.383279+00:00"
+    },
+    {
+      "id": "airbus-defence-pr-drdo-inks-two-major-contracts-with-industry-partne",
+      "companyId": "airbus-defence",
+      "companyName": "Airbus Defence & Space",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "DRDO inks two major contracts with Industry partners as part of AEW&C MK-II programme - PIB",
+      "description": "Press release / announcement from Airbus Defence & Space",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rekp4M19yWTJOR3NUa3FYVVQtVEplN1ltcGZmWFhyb3IwQjVjY1NCV3RfRHpReUVvLTJZUVVXZWNZM3I3eFpCVXlzSVRUaE1aQmFnUUFIOW4zanY3ZGZvNFVJSE93ZnMyanJkc0hrcjJTUDgwTVFlUDV3?oc=5",
+      "publishedAt": "2026-07-22T14:49:00+00:00",
+      "fetchedAt": "2026-07-23T11:49:01.887232+00:00"
+    },
+    {
+      "id": "satellogic-rss-zacks-industry-outlook-highlights-gilat-satellite",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Booz Allen Hamilton stock trades steadily as record fiscal 2026 revenue and AI demand underpin outlo - Ad-hoc-news.de",
-      "description": "Booz Allen Hamilton stock trades steadily as record fiscal 2026 revenue and AI demand underpin outlo&nbsp;&nbsp;Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjl3WHhPZkdGYlVxNTZnUzBiMmt6MGlUc2dzUTVfUHBfN3RzU1loMXhXU1VMbWJBVHZycXdmQ0QzSDNvU0hPVDVJOENBTzJreUdodkdUSks0a3JkclUxMnZZaTI4bjZnelJHRUFVR1UzWkZQUGNzdXJhZm1zYWREVllqaHN4eV9VS1JSZkRoZFM4a2JzMlFHcUk1SXVEZ0lLdWE3MDZKT2Q0cmgwRGg3MGlRWGhvcG5XUGdOQlZsM3B1OVhMLW45Rkln?oc=5",
-      "publishedAt": "2026-07-21T20:15:16+00:00",
-      "fetchedAt": "2026-07-22T11:44:17.012667+00:00"
+      "title": "Zacks Industry Outlook Highlights Gilat Satellite Networks, Telesat and Satellogic - TradingView",
+      "description": "Zacks Industry Outlook Highlights Gilat Satellite Networks, Telesat and Satellogic&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGF2N1RNT2owZGltQld3Z2lOODB3MUdiLW1BaVBsSWZ6Skx6N2xpZ1hubXJ4UjNoa0dCd0dYMGFueW9CR3ZjcG1yS3NRU2N2V2I0cTVBWEtfZ1kzQjl1TjdiQ2Y3NGNsOUNGMFBiLTZzbXdBamdtb1htY1QxamdZZE1nVFptX3U4RG5NaWFXcXRQZ3A5TGs3ZUN6aEZ5SWx5cHVnb0dWdWEyYzIyTVJKaFBkRGtkN09oTk9QNFJwc2hOZElHWmhIUHFLUzZGa1A4X2hj?oc=5",
+      "publishedAt": "2026-07-22T14:33:00+00:00",
+      "fetchedAt": "2026-07-23T11:48:38.637081+00:00"
     }
   ],
-  "generatedAt": "2026-07-22T11:45:37.495913+00:00",
+  "generatedAt": "2026-07-23T11:50:06.878587+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 3
 }
