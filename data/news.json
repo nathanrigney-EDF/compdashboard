@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "booz-allen-pr-booz-allen-hamilton-announces-first-quarter-fiscal",
+      "companyId": "booz-allen",
+      "companyName": "Booz Allen Hamilton",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Booz Allen Hamilton Announces First Quarter Fiscal Year 2027 Results - marketscreener.com",
+      "description": "Press release / announcement from Booz Allen Hamilton",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWttRWl5dTZlMkJpbFR2bFZPbXF6bDJKMm1ZU0ZIV1hubDJhWUZuWG96bkZvZk5obTFpMGNRTE1EZy1xNFdJby1nZFlraWt3cnljdTEwdTRZeGJGUENULWRWMkIyTFN1NkRQaVZqVldlRlJnTmw1YTY3ZEduaUpwamIwaGx4TWZ4Q0hfNks4VU5za2Q1SjFabzdITzlBamZyOHRtZFpMLUZjMDhxUm5rYTBmcl9CRm9Td2R0VnVR?oc=5",
+      "publishedAt": "2026-07-24T10:46:05+00:00",
+      "fetchedAt": "2026-07-24T11:38:28.503053+00:00"
+    },
+    {
+      "id": "bigbear-ai-pr-bigbear-ai--nyse--bbai--schedules-second-quarter-2",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai (NYSE: BBAI) Schedules Second Quarter 2026 Earnings Release And Investor Call For July 30 - foreignpolicyjournal.com",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSVdCTXdpTXQ3S1JkbXdBOEgxX2ZuRFZQdjdZOHVVMHlVTzM3TG9xd2lKTDRtZU5SdWUxQXV0TlRaNTM3RXNqbmVDZ3hrZWN2RS1hUHdWN3JJOUtyM3pWaWJjcnBOdmZrNEhUR1lqN1J3OGc1UFp0Rjgzd3Z5TGM2RTBrU0RMYjNUUDVpZjFfcjQweTlpS3d4TmlGRVNRSWNyOUN0R3hHLTNfNlh3dldYWEFKNjZ0VU1tYVNqUnZkMWlHLXY3eTduZWs1NlNHTDRaenZIMU9rZGlUbzJrZXVn?oc=5",
+      "publishedAt": "2026-07-23T20:40:00+00:00",
+      "fetchedAt": "2026-07-24T11:37:47.693278+00:00"
+    },
+    {
+      "id": "recorded-future-sensex-today---stock-market-highlights--markets-sl",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "BusinessLine",
+      "title": "Sensex today | Stock Market Highlights: Markets slip for 4th straight day as crude rises; Sensex drops 363 pts, Nifty ends below 23,870",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for July 23, 2026.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-july-2026/article71253376.ece",
+      "publishedAt": "2026-07-23T11:07:42Z",
+      "fetchedAt": "2026-07-24T11:37:33.606947+00:00"
+    },
+    {
       "id": "spire-global-pr-spire-global-partners-with-sate-on-esa-supported-r",
       "companyId": "spire-global",
       "companyName": "Spire Global",
@@ -11,7 +50,33 @@
       "description": "Press release / announcement from Spire Global",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVU4d0tJcm9kZ3JCcE5scEllMWcweGRwMmVzMEZ3dVpQTWk0R3pDWDY1UWxoSUFMRGtraF9UX2pCWEFsNDUyMm5RWDlOWTJCdXh3ZHlVWHJDRFhoSmZFS0Z5LW03VVVCVnJuN18yeUlDLXdaMW9LRU9EZVgwUVhSR1FHbElUZw?oc=5",
       "publishedAt": "2026-07-23T09:30:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:19.383279+00:00"
+      "fetchedAt": "2026-07-24T11:39:14.040051+00:00"
+    },
+    {
+      "id": "recorded-future-the-state-of-humanities-education-in-nigeria",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The Punch",
+      "title": "The state of humanities education in Nigeria",
+      "description": "Explore the declining relevance of humanities education in Nigeria amidst the rise of STEM and AI. Discover challenges and potential solutions for its futu\n\nRead More: https://punchng.com/the-state-of-humanities-education-in-nigeria/",
+      "url": "https://punchng.com/the-state-of-humanities-education-in-nigeria/",
+      "publishedAt": "2026-07-22T23:36:15Z",
+      "fetchedAt": "2026-07-24T11:37:33.606966+00:00"
+    },
+    {
+      "id": "recorded-future-biosecurity--trade-deals-and-water-storage-top-kpm",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "New Zealand Herald",
+      "title": "Biosecurity, trade deals and water storage top KPMG agribusiness priorities",
+      "description": "Biosecurity remains the sector\u2019s top priority, scoring 9.40 out of 10 this year.",
+      "url": "https://www.nzherald.co.nz/business/business-reports/agribusiness-report/biosecurity-trade-deals-and-water-storage-top-kpmg-agribusiness-priorities/premium/7DBL4PAIFNBZ7LA26K7W7BR2EA/",
+      "publishedAt": "2026-07-22T17:00:00Z",
+      "fetchedAt": "2026-07-24T11:37:33.606973+00:00"
     },
     {
       "id": "airbus-defence-pr-drdo-inks-two-major-contracts-with-industry-partne",
@@ -22,9 +87,9 @@
       "sourceName": "Press Release",
       "title": "DRDO inks two major contracts with Industry partners as part of AEW&C MK-II programme - PIB",
       "description": "Press release / announcement from Airbus Defence & Space",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rekp4M19yWTJOR3NUa3FYVVQtVEplN1ltcGZmWFhyb3IwQjVjY1NCV3RfRHpReUVvLTJZUVVXZWNZM3I3eFpCVXlzSVRUaE1aQmFnUUFIOW4zanY3ZGZvNFVJSE93ZnMyanJkc0hrcjJTUDgwTVFlUDV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DcHlCNUZ2THhHUFA2aHJZRWw5SE5tRTd3amxlak16VFFvLUJSV0NjbFhnQy11dy05TlhCQ29NamZiV1FpR1llcFduakFlT2RnTGJuVGZ6TXprQ0tVclNrZHpyUDBhTDBx?oc=5",
       "publishedAt": "2026-07-22T14:49:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:01.887232+00:00"
+      "fetchedAt": "2026-07-24T11:39:11.387804+00:00"
     },
     {
       "id": "satellogic-rss-zacks-industry-outlook-highlights-gilat-satellite",
@@ -37,7 +102,20 @@
       "description": "Zacks Industry Outlook Highlights Gilat Satellite Networks, Telesat and Satellogic&nbsp;&nbsp;TradingView",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGF2N1RNT2owZGltQld3Z2lOODB3MUdiLW1BaVBsSWZ6Skx6N2xpZ1hubXJ4UjNoa0dCd0dYMGFueW9CR3ZjcG1yS3NRU2N2V2I0cTVBWEtfZ1kzQjl1TjdiQ2Y3NGNsOUNGMFBiLTZzbXdBamdtb1htY1QxamdZZE1nVFptX3U4RG5NaWFXcXRQZ3A5TGs3ZUN6aEZ5SWx5cHVnb0dWdWEyYzIyTVJKaFBkRGtkN09oTk9QNFJwc2hOZElHWmhIUHFLUzZGa1A4X2hj?oc=5",
       "publishedAt": "2026-07-22T14:33:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:38.637081+00:00"
+      "fetchedAt": "2026-07-24T11:39:01.982741+00:00"
+    },
+    {
+      "id": "recorded-future-pentera-and-recorded-future-partner-to-deliver-thr",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "PRNewswire",
+      "title": "Pentera and Recorded Future Partner to Deliver Threat-Led Exposure Validation",
+      "description": "New integration turns threat intelligence into validated, prioritized exposure reduction BOSTON, July 22, 2026 /PRNewswire/ -- Pentera, the leader in AI-powered Security Validation, announces a strategic partnership with Recorded Future, the world's largest t\u2026",
+      "url": "https://www.prnewswire.com/news-releases/pentera-and-recorded-future-partner-to-deliver-threat-led-exposure-validation-302830692.html",
+      "publishedAt": "2026-07-22T12:00:00Z",
+      "fetchedAt": "2026-07-24T11:37:33.606978+00:00"
     },
     {
       "id": "booz-allen-rss-booz-allen-hamilton-stock-trades-steadily-as-recor",
@@ -50,7 +128,7 @@
       "description": "Booz Allen Hamilton stock trades steadily as record fiscal 2026 revenue and AI demand underpin outlo&nbsp;&nbsp;Ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjl3WHhPZkdGYlVxNTZnUzBiMmt6MGlUc2dzUTVfUHBfN3RzU1loMXhXU1VMbWJBVHZycXdmQ0QzSDNvU0hPVDVJOENBTzJreUdodkdUSks0a3JkclUxMnZZaTI4bjZnelJHRUFVR1UzWkZQUGNzdXJhZm1zYWREVllqaHN4eV9VS1JSZkRoZFM4a2JzMlFHcUk1SXVEZ0lLdWE3MDZKT2Q0cmgwRGg3MGlRWGhvcG5XUGdOQlZsM3B1OVhMLW45Rkln?oc=5",
       "publishedAt": "2026-07-21T20:15:16+00:00",
-      "fetchedAt": "2026-07-23T11:47:22.158925+00:00"
+      "fetchedAt": "2026-07-24T11:38:27.135924+00:00"
     },
     {
       "id": "recorded-future-zions-bancorporation--national-association-reports",
@@ -76,7 +154,7 @@
       "description": "Palantir Doubles Down With $2M Lobbying Push&nbsp;&nbsp;Legis1",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VY21VRm1HR1o2Wkl6S0owakpaOUVEckNrYU1fYXlkT0ZLRzF0VTJ0eUVCOE5QVldRWmZuTm9uMUJzNzFubUg0MkpYaDZoWmYtUWF6M2FvSGpRT0t6MFBnZXRuSmhVR19TTEd6b0JEQVRveXNsRkJmTw?oc=5",
       "publishedAt": "2026-07-20T18:59:47+00:00",
-      "fetchedAt": "2026-07-23T11:46:39.951415+00:00"
+      "fetchedAt": "2026-07-24T11:37:26.998878+00:00"
     },
     {
       "id": "palantir-coffee-break--the-worst-people-on-earth-have-big-p",
@@ -154,7 +232,7 @@
       "description": "General Dynamics protests DISA\u2019s Enclave contract expansion&nbsp;&nbsp;Federal News Network",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXNaNHdQRlBDOGRsZXRFZEFwUjJyTDByWXdZSHlvT3NQU1Y3QThEZVJUX2k2eUIwRXozNVRMX0tiQ3BadTZXZGpGS2pOZWgwSHJlTWFuWF9iWmRvWlJQU2pSc1AwSnpya3J5WVNncVdqRkRneFRzcWk2TXp6TFJLWnRqNG1mRVVkN2pKUnpXYWtqR2VqV04zcGxEbjk0Tm8wT2ZvNVZZSnVUbGNaUEo0?oc=5",
       "publishedAt": "2026-07-17T22:48:12+00:00",
-      "fetchedAt": "2026-07-23T11:47:19.690901+00:00"
+      "fetchedAt": "2026-07-24T11:38:09.336395+00:00"
     },
     {
       "id": "satellogic-rss-planet-labs-vs--satellogic--which-earth-observatio",
@@ -167,7 +245,7 @@
       "description": "Planet Labs vs. Satellogic: Which Earth Observation Stock Has an Edge?&nbsp;&nbsp;Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0FWZHNpY3hldDRGblFjenhoU045OXhXSDJmSDNYTUFqRUo3TWEyYlNCM28wX2FJNTVPa3VQWmxVZVAtWlJZUFRWTXlnNGlERk5HRmN4RzVjSUZUZS1PLUhWdXhwOTBJQTdPam1nZ0hVdlItcG1kQm9SdDY0Zy14TTlUNDVwMnA0bEhwQ2pLR1BZNnlDV09VazY2Qmc?oc=5",
       "publishedAt": "2026-07-17T17:52:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:38.637108+00:00"
+      "fetchedAt": "2026-07-24T11:39:01.982766+00:00"
     },
     {
       "id": "recorded-future-a-unified-front-against-fraud--securing-the-uk-s-p",
@@ -202,11 +280,11 @@
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "CACI wins $113M Navy contract for fleet systems modernization By Investing.com - Investing.com South Africa",
+      "title": "CACI wins $113M Navy contract for fleet systems modernization - Investing.com",
       "description": "Press release / announcement from CACI International",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORnJESXNqNHRTSkxkVzRteEZ4X2t6SnIzWFpWU25BNTg2NHJBLUl3R0NtLW9wNHVtTXdBeVpRMVl1VTE5NDBOZ1Y0SmUxQmw0UUJ2QjJMcm1DWVk5a1lGOXJoSjZMTDhhcGVfNXU5ZEtMclVIdnQ5OHI2dEd2NDdwZk1HamlybVJuTGREVUxwbkhaUGVEQjhxcU5QVzdDb1R6dUhJajl2RW1DQVdCWmwtWmdibVBaTWxXUVJEZWx0ckZIaUJBVXV4QTZ3N0hQZw?oc=5",
-      "publishedAt": "2026-07-17T03:00:53+00:00",
-      "fetchedAt": "2026-07-23T11:47:18.524159+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVN2aXlEdkx4Z0VHd0Y0cGwwNVB0UUs1Y2tVQTBQakZoUHRwYkUtQmdGLTlIdnJhVEdDV0wwQjdzbjhfdEFneWFvZGx4UmtGTlcwNDN0UTJ4QWllQU42WnFiQ1N1UHd2TlBHQmRLRFVoT0tkMEFGU0hPT2dpMVNIc0xTZ0lUcWRRNlJ6ZW9vVGt3S1JDUFEzN2lMbkcybUxEc1pxMzJfNG5SakNHOS1WcHVMLVlVYVRj?oc=5",
+      "publishedAt": "2026-07-16T20:44:42+00:00",
+      "fetchedAt": "2026-07-24T11:38:07.975801+00:00"
     },
     {
       "id": "blacksky-pr-blacksky-technology-to-announce-q2-2026-results-on",
@@ -261,6 +339,19 @@
       "fetchedAt": "2026-07-18T10:56:52.841480+00:00"
     },
     {
+      "id": "bigbear-ai-pr-bigbear-ai-launches-expanded-generative-ai-platfor",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai Launches Expanded Generative AI Platform and Capabilities for Department of War Missions - Yahoo Finance",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGpId0VYV2dkeDN2bEJNcHhrelM5TUVjdFpEdmc1R3BwUHR2WnJ2Q0puN3hMck1FcWxJNS1VcTBhd05FYmpLdE5xU0R6NUVHRUUwazAxNWl0a1pJM0Q2Q1NsZzlBd0tfUEhXUDNscVozNk5OMHhnVTd3VmRfTlotZl9nYzMyNUNFMmpHQjhRN0FCcDhuc0FCYVFscmpSMjZUTi1hYmtB?oc=5",
+      "publishedAt": "2026-07-15T13:15:00+00:00",
+      "fetchedAt": "2026-07-24T11:37:47.693322+00:00"
+    },
+    {
       "id": "palantir-pr-palantir-stock-climbs-after-confirming-q2-earnings",
       "companyId": "palantir",
       "companyName": "Palantir Technologies",
@@ -310,7 +401,7 @@
       "description": "Press release / announcement from Palantir Technologies",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01b2x5aWo2YkZkelNyUjlOckY4TVA3aWs4ZlhLd0xXMGhLRGNFTXgzX1JISHkzVV9tb2NOR1Q2SEpMQ0dIdkUyemE5UDl4T19CNXNWLW8tVC1nVHRwWFdrM2ZmaE8wUTlFMnhOUEtB?oc=5",
       "publishedAt": "2026-07-14T17:38:29+00:00",
-      "fetchedAt": "2026-07-21T11:43:07.995407+00:00"
+      "fetchedAt": "2026-07-24T11:37:28.462172+00:00"
     },
     {
       "id": "esper-pr-esper-achieves-zebra-technologies--premier-isv-par",
@@ -362,7 +453,7 @@
       "description": "Babel Street Named Security Executive Council Solution Innovation Partner, Providing Mission-Grade Risk Intelligence for Corporate Security Practitioners&nbsp;&nbsp;Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdzZKeHFHMkhMeGUxVGh3aW5RV0F2c1dlSkZvSllYa1BpYnVvOC1ScjJzOFVCd1piMnUwbHZTT2tMRTBsZGpneHVDbzVBTEI1QnBsOGNYcEQtMzh6RUxTSEdWS25tX1JCVEpRTjhhRjlpd1EyRkVyXzhzb25GZjR3MUFVREk3SXduSHExNjJMVFVXVW9RaWkwVWwyNmpIS2tsRTBuc01kRmt0Rkg5WE1NdkNxREpwb2tsOVhielBIU240b05LYUZ1M3JldVBDVmZmSldOWVBEZkhEeFF4TFBzRV9ybUNzSHRfd1FfZ1h6T2U3c1lSX3otX2tjZm1sZ3BxS2ZNRFRfaklIVDA5SUVhNUJpRlNJNU9QNkxHTXdYcE9PbUJiQ0VkNDY1bjVwNXdmNW40?oc=5",
       "publishedAt": "2026-07-14T13:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:42.945475+00:00"
+      "fetchedAt": "2026-07-24T11:37:30.104521+00:00"
     },
     {
       "id": "cognyte-pr-cognyte-wins--5m-contract-with-nato-nation-securit",
@@ -436,11 +527,11 @@
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Zignal Labs Expands Protective Intelligence Capabilities Through Strategic Partnership with Reality Defender - The Manila Times",
+      "title": "Zignal Labs Expands Protective Intelligence Capabilities Through Strategic Partnership with Reality Defender - Yahoo Finance",
       "description": "Press release / announcement from Zignal Labs",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdXF3eGZEQWR1dFNmU3JUWDE3YkZwV3p1c0xHSWlyMXcyRHVxa1pNamxkRVQ4cUZmbTVkeE5qRFJfR09nc1ZpVE1TN3lrWW03amRRc2VxMnlsRGoxUzJlTy1YOGV2MUQzdV9YYVFCZ0xRbFlQamxFeGp1a0RLTzFfeHBOeDJ2d0RzZmJQRG4xelRLYU5Ta2V4VlJYX2ltMEY0Ti1UWVVrSkFENkRfeVc3ek8tTFpFY1VJUzNWYlJLN3ROZUxINGFtMElJZWY4V2hJQU5BRVR1UXV2emFSY3pObGt2dFVNajJHRjhZbjF1MGlLakt2VjBUdmR3UkRHaG5BVE0zcEpHMVY4UDM5cmpB0gGUAkFVX3lxTE9Hdlh0cmNLWUhwNlRzcXpEZVMzWVRFdkkyUmlQNE0xVVZTb3M3QWFsTTFiZU9WcUk0Z1BUZnBEdlhRaG1laF8xUUJiWDduU0VCbkhIdW13dFRreUpkalMxWFF2VXIwY2g5a2pGcHVZN0JRUEVKc205MUFFby1hZDBwTW42R3dGMTNBQ2JrTGpZaTljVWNEdXl3Z2o3cjl3RjlURTlVbkN1MV9KT3pYY1psTU5wdWswLURXYzZnYm45UWhWWWF2MWdCRWdYM0FadFloeHdUb2J3cXlmQ3lRUjZaVzhoaGQ0Zmx1aENNMVJFc21KMGRZYW8zdWxacGRETEhWY0FHamJkS2J0b3VuREFXTFJzeg?oc=5",
-      "publishedAt": "2026-07-13T12:17:32+00:00",
-      "fetchedAt": "2026-07-23T11:48:05.085076+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUZuYngydnhGaVRZUTVPRWRJYmJ4a29KRGpaTTlwWlNVREp3RGNWQkhnY3kyLU1xVUdBNVNYOTlKZTRGY3FQZHRtek81WENmZ2hVaC15cURaNS1fTkNETlFTY05Td1ctcFVfY1AydkNTMUVOUmZlS3gtWXYxRVpyZ0U4cUEwTjVRSFBQRFdRMk41Q0dCZVpSMkQ2VWJzb0Z2b0U1WFpEVXZjVmc?oc=5",
+      "publishedAt": "2026-07-13T07:00:00+00:00",
+      "fetchedAt": "2026-07-24T11:38:41.505594+00:00"
     },
     {
       "id": "palantir-pr-palantir-announces-date-of-second-quarter-2026-ear",
@@ -449,11 +540,11 @@
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Palantir Announces Date of Second Quarter 2026 Earnings Release and Webcast - Barchart.com",
+      "title": "Palantir Announces Date of Second Quarter 2026 Earnings Release and Webcast - Palantir",
       "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDhOOXdiVnMwamE4a1NYT3VGSUVGLVdpVUVyOFZPOEc5NUtkVlFNTmFaT2ZTMDYwSmZ3eVhVY2g5TE9IVUVPLWxKUU0weXNrWFlkQ0dsV1NxOVhfRm0wYzI1Sk5aWU5NWjdaWUF3dms3b2J1Q3Z0T0ZSMDJ6ZzRzczYwR0lSLUtZVkl4SjZlcVBNLUctYV9LNFQzSy1WRS1xX1QxaDA1bWhkQ0pXT2lZQzNta1JsaHdYaVBF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakV3WVNfX1NIYjN5V2tYaV9lcnpfZDM4bnJPb0hXOXVULWNobVpaR0hTejhBeDItbG44QTJnWGVoR21FU1NYSGlhSkt4OXVtWmhrQzdIVG05QjBHcHBuVWRtaFdmcnJhc1hJbk5KT0RJQTJ2UWxlNlBsM1ZEWUhkeXhSOW5XMUx4RTlpNEoxR2o3YkRUaUZ6SjdSNmdfREZ1MEJNTjE4MXNVRVJJaE5Lc0dudV81Z25GMGFobmRRZEIyQmc?oc=5",
       "publishedAt": "2026-07-13T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:41.396742+00:00"
+      "fetchedAt": "2026-07-24T11:37:28.457929+00:00"
     },
     {
       "id": "l3harris-pr-space-development-agency-issues-awards-to-build-36",
@@ -466,7 +557,7 @@
       "description": "Press release / announcement from L3Harris Technologies",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT2ZCeEMxSXF4T2NORHpVRmNQNEhRWmFOeGhjb1N4dU0xRWZWUHc5b1h2TTMwNVFRc2xGOGdBcWhrWm9rbVpTYlpZZ3hDcjZHZ1VjWGY1aFlpaEM3b1M4Z2dpUEdRTldEcU5MRTJoOGxBTldVb0VCUU45MDZmazZsVXA2bU9wXzMtWEJYV1ZzSzM1NEVJY2tMU1VtTThVNGtTOXduOVNMRlBjenBJZy1OeDg2LTBlcG5nd01DSmVKZVBIQkQzMnJ2ekhhaE5DUGhsa28tMUE2ZnM2VElZazNpY2toUWlqQXRBMjNUX2xydnFuWlBNazdGZS00LTl0eUdJV3hCOEx2ajE?oc=5",
       "publishedAt": "2026-07-13T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:44.524912+00:00"
+      "fetchedAt": "2026-07-24T11:39:08.680196+00:00"
     },
     {
       "id": "cognyte-rss-israel-s-palantir-rival-is-selling--1-million-spy",
@@ -479,7 +570,7 @@
       "description": "Israel\u2019s Palantir Rival Is Selling $1 Million Spy Vans To U.S. Cops&nbsp;&nbsp;Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUtSUmFQOVZCWWRnXzJTTl91NHBLVUM0bUtGYS1KUE12RnVyeVRhMEpTWEtsWDZUTXFMM1JDenotbUFJZUxFMDAwajl3Z192eGpQQ2xfaVJTSnVkT1lBUXpSNFkzQ3VZU0NnTmdtZnFFRDkyRWRVVTN0OFU5b0dGMkg2MnJBNFZhNl9ncy0yWkFEckVwMU9Mb0N0c3dlczhOakhmUFlJYWVjVVB4NHFERmJDZGpscTJSUkdN?oc=5",
       "publishedAt": "2026-07-13T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:14.921526+00:00"
+      "fetchedAt": "2026-07-24T11:38:04.131057+00:00"
     },
     {
       "id": "leidos-rss-the-challenges--opportunities-of-open-source-intel",
@@ -492,7 +583,7 @@
       "description": "The challenges, opportunities of open source intelligence for cyber defenders&nbsp;&nbsp;Federal News Network",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlZ5NnV4ZkM2RlMxc1pURXNRZWM0bnFhczNZRmk2Y2JFRHRxMU1xenNJQkttNUZVMHVMcGZnNFJyMGFrWUJBYWoxLVVvZ0VKZ0lVOXZ6b2U4cExiTExrTmRYWEhpSllSM3g3VUFsT2hKeWxwOEVheXhETldrcnk4UGxRWmhBcXdJa0piR1pGMGZ3MmNmVDhPSXV4MDIwb0RwZ1FwbjZvd3VHOHlQQU1UaDM4bjNaZHFXdzl0cEpyQ19DNTBQRUJITk94aVhjQQ?oc=5",
       "publishedAt": "2026-07-13T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:19.690928+00:00"
+      "fetchedAt": "2026-07-24T11:38:09.336312+00:00"
     },
     {
       "id": "recorded-future-are-we-already-living-in-trump-s-police-state",
@@ -557,7 +648,7 @@
       "description": "Ukraine\u2019s \u201cPeople\u2019s Satellite\u201d: Crowdfunded Intelligence and the Commercialization of Modern War&nbsp;&nbsp;Defense.info",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajVFTFo5MzNadnpJZDctaTRKT2s5dnFLUHJwZkpISVpqYU9pZ3JGN2xYOGRBQzhqNkNBNVRhcEdwUXdaRklkcks3WVE0M2ZISnBvWHJ0X3BDOVZHd19rajl4YXB3M0cySVBxMHl1NC1VdlRCamhXWUlORDZ3WUI5T3lsNzE4Uzc2bmhZWmdPc1E0LWNGbEVWRDNYbHJKdXB6Rkd3NUtRMHcwSk5YSUtWT0M1ZG5fQ3prMTV6cjZPaTlmWGZQOGZVZUxldThpVjlEeFRz?oc=5",
       "publishedAt": "2026-07-10T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:36.191403+00:00"
+      "fetchedAt": "2026-07-24T11:38:58.989167+00:00"
     },
     {
       "id": "booz-allen-rss-post-advana-rebrand--accenture-selected-for--821m",
@@ -856,7 +947,7 @@
       "description": "Press release / announcement from L3Harris Technologies",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXRibGZveWVIZGFvYkVJdEpDY1IwX1FONk1OTXBxUnR6UUw5SXdQREt1b2N0NkdGZ2Q3Y1VuZW1ibTAwbndPWHBpQUVYRWViU0tJYlBBeVU5QXV4dmtDUjViVG55TW80Wlo3XzRvTG9NRHZMd082ZGNIUzVrMEJFc1ZDd3F1X3pIelpKSFp2dFFrQUZOdVBUZEdta3BTajA?oc=5",
       "publishedAt": "2026-07-06T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:44.524928+00:00"
+      "fetchedAt": "2026-07-24T11:39:08.680217+00:00"
     },
     {
       "id": "recorded-future-blue-wave--how-israel--washington-and-a-guernsey-s",
@@ -908,7 +999,7 @@
       "description": "Planet Labs: Buy The Pullback As Revenue Acceleration Takes Flight (NYSE:PL)&nbsp;&nbsp;Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOak10eTR0dnNhWExTWVNzRVNlSksxVVM0a1lQVG9zQU92MjVGTGlkZ2RYVFpBQ2hfenNfZ1JGVW1OTzVLeFZSaGE5eFdsNkdZS0NGOFdEeFJFeVhzNHRsWUppUkFfMHpyNkZ3cVBHbUc2SENYamNNMTRJUmF4NGNOR3N1LVNSTEVDVV9uUHhCWkh2cWdYOE0wMTlYMHRwclMyb3lzLVlMMmRQUQ?oc=5",
       "publishedAt": "2026-07-03T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:00.703496+00:00"
+      "fetchedAt": "2026-07-24T11:39:10.053003+00:00"
     },
     {
       "id": "recorded-future-50-days-after-orire-kidnap-saga--hope-of-rescue-be",
@@ -1012,7 +1103,7 @@
       "description": "Booz Allen Hamilton expands its role in tech-driven defense consulting. BAH stock reflects the compa&nbsp;&nbsp;Ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3RuU1RKWkZELTZUV3poSHhPbTVSWGhVeV90MDhsXzNvT3MweXFUcHBfM1U3bXBndTVheV9RTVdDOXk2Um9XVzROckVtNmh4WFNBODVQTGxBWXNhaUU4Q0I3cXV3NTJZUDgyZ2I2YmhLbGN5cV9VNmtaTmZiMWdVZGZwYUVhMHRFNkZfUlNjTVJ6R1QwdjN3N290Q0VWb0pZNkNfdklQVTFWTnd4RmNEa1B0Mmh5VTNTQ3NxaWFQNXNNR3Yyem14Mg?oc=5",
       "publishedAt": "2026-07-02T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:22.159031+00:00"
+      "fetchedAt": "2026-07-24T11:38:27.136038+00:00"
     },
     {
       "id": "planet-labs-pr-planet-and-isar-aerospace-partner-to-launch-first",
@@ -1025,7 +1116,7 @@
       "description": "Press release / announcement from Planet Labs",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0UyMUYtZDNKamRVVldFdnNlb1NQZDZia2l1REQ3RlpUZWlpNHF1RlpKZ1I5YzlTcWVMYktoRHk1cVJ0UUQ3WkY0NWpYejg1V1R1YXdZTjA5Sno5NHZvNDFwaHlTbWNlM3ZyNUVIRHhHVnp0UVdHa2pXYndkRVlEcVJtamNqZ1NWdFFqUS14M2cxRWNsT1dZdzhkbGRlTzlWcXl5T2NWdnlRcUEwVXdKbmt1emdfUnNvZ05yV1RXbTA?oc=5",
       "publishedAt": "2026-07-02T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:27.391793+00:00"
+      "fetchedAt": "2026-07-24T11:38:49.352466+00:00"
     },
     {
       "id": "planet-labs-forget-spacex--this-high-margin-space-data-king-is",
@@ -1090,7 +1181,7 @@
       "description": "Press release / announcement from Vantor",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOEI0UWRvakNYdzlXUmE4MmxsdXFyanktc1FLZFFla2J0YW9FMTU1T2ZSdUNJXzViT2hhUGRvQThtWFN3OVl4eDF0SlprUGFTaGZ2WGRYd1Q3cm1aN1FldGVCVk5hR0tHUE9nM0plVWtyQkhkNzlQTjg4UHQ3VkkyTDlwUFhicERPekZEREk1QWJWbkVJMU1BNW5KcDJvN09QUDZ0eUdNQUNQSVZlc1gtZzZqdFBma1hrU19OVmFoeXVJVkh3X25LcVhBTmRnTzE5eUVsZWwwQmtBc2lJNWdPOWlGRjltSE5JWEdVM09sOVpOSmFTLTg4U05jcDNBSDRXc1Nz?oc=5",
       "publishedAt": "2026-07-01T07:00:00+00:00",
-      "fetchedAt": "2026-07-21T11:46:30.627868+00:00"
+      "fetchedAt": "2026-07-24T11:39:45.234353+00:00"
     },
     {
       "id": "recorded-future-rss-iran-nexus-tag-182-disseminates-markirat-surveilla",
@@ -1480,7 +1571,7 @@
       "description": "Where Expertise Meets Algorithm: The Insikt Group\u00ae Intelligence Edge&nbsp;&nbsp;Recorded Future",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjc5eUIyZm1QOVpkU0dMODRxajczV0dmb0pnaXFBVk94MFRldjhDd1BGdGlSX3JGaFBfU0ZELUdzdS1GMDRyRzFUbno5dk1FSENpb1B0d1JLTmNWR0huX2d2SjNhNTk0QVBQWlJ5NTI5Q0l0cGJJWjM2ZDdUSklRanZwU1VIdw?oc=5",
       "publishedAt": "2026-06-25T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:45.457541+00:00"
+      "fetchedAt": "2026-07-24T11:37:32.950026+00:00"
     },
     {
       "id": "recorded-future-rss-evaluating-mexico-s-new-cybersecurity-plan---recor",
@@ -1597,7 +1688,7 @@
       "description": "FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems&nbsp;&nbsp;Recorded Future",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KY1V2ejB4T1hvRkFzZ05aLWZNNTRtMGZ6Z2M3MEFsdlotM09ORThTVkItbXFkSXA5RnNmU01yb2htT3pLX1ZRUHJvZHNmSVJWTl9OWTBSWTZQRUlodHFnMTZVRU1ObVFndU41aFRmVnd2UQ?oc=5",
       "publishedAt": "2026-06-24T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:45.457602+00:00"
+      "fetchedAt": "2026-07-24T11:37:32.950118+00:00"
     },
     {
       "id": "cognyte-rss-cognyte-secures---5-million-agreement-with-nationa",
@@ -1870,7 +1961,7 @@
       "description": "Press release / announcement from Vantor",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmJJck1NckI5UmtNWWJWYnJxSHdjTGNkYm5XbjB0T3lpSThqVlJIM05uTzZxN1pVX0xHenVEelJVc0FjdmtESUhZbWNtaFIxMTlhRG9mbTE4aW81eVk0YnhCSUpRdVZXbzFVVUNGOG4tWmthcDNjaGtwNTRNVzV3VXJHV2FBb0FRZmxJb0lDWVFldUdEbGVQcWJCSC1LQWg0MHRyd1NVNGMwMWQ2QnBKN3NRU0ZTWXFndnU3UVJRSnQxTFhTaXNSSnBiOVVUalNxU0lvcW5peEVqb214aGozTA?oc=5",
       "publishedAt": "2026-06-18T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:50:03.525743+00:00"
+      "fetchedAt": "2026-07-24T11:39:45.234383+00:00"
     },
     {
       "id": "palantir-why-this-analyst-says-palantir-stock-is--too-big-t",
@@ -1896,7 +1987,7 @@
       "description": "State Digital Surveillance Risk Landscape&nbsp;&nbsp;Recorded Future",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemdfSmx2NjRSMHJzTUlLYkdoalV6RVNrdGpoNURfbmFrOTR4bFAxdGxCQWFlaWctRkg0NnpDSzR0Z3k4SXFKTkxYcFRnU1J1bGxPT1NiT1BvZk51N2FWYk9rakpqLWZqUHExdjk2eG52Y3pRaW1HYnJ0NkRmdVJsb3o5LTItN0dP?oc=5",
       "publishedAt": "2026-06-17T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:45.457567+00:00"
+      "fetchedAt": "2026-07-24T11:37:32.950051+00:00"
     },
     {
       "id": "cognyte-rss-cognyte-vs-palantir--which-ai-intelligence-stock-i",
@@ -1909,7 +2000,7 @@
       "description": "Cognyte vs Palantir: Which AI Intelligence Stock Is the Better Buy?&nbsp;&nbsp;TradingView",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGZRN2FGVjJ1QmYxTi1NREN5VGFGaDlDbzZ6TXRiSkVmTmdKMzd4MzhkTjhQSmpVRHRUTzRaOXg3UFl1X0NjUWFSM25UWlBlN0JVX3dROFJWS09xcUdnb1FNQTlvRHgzQVloeXhNYUhCaDJGOVcxZW9vNG1IMFA2djc4ZlptaXhRaEhiZ1d1MV93Q1o3SlhaTXNEUm9Dc2tEZEd4aTNhMnNaa3k5cU1nam9uTUNyNU9tNl9jYzJR?oc=5",
       "publishedAt": "2026-06-17T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:14.921489+00:00"
+      "fetchedAt": "2026-07-24T11:38:04.131099+00:00"
     },
     {
       "id": "palantir-visionwave-holdings--inc--announces-filing-of-u-s",
@@ -1948,7 +2039,7 @@
       "description": "Palantir Technologies (NASDAQ: PLTR) Set To End French Intelligence Contract, Prime Minister Confirms&nbsp;&nbsp;foreignpolicyjournal.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmFzbnhQTDlxS19vOHFwRnRoU1dPLUJjSGozOFAzaEtOdkp2d3kwNGJQWF9FdS01T0ZGc3p1TmR4dTVia0JoY3lHZG55bjNlSUhWSW1jQ1gyV0U3RTZFel9tcG5DOWlPaE9ER0NGeVFJcUNtTVNKcFd6enZTY21yaVFzb2tJRGtKeFZNcDJoNjFHYlZIUG1VNDJUamY2aHVEOFlJaC02c2hzNXFHODYwdHNzUVhHSjE2YWFveWFZRmJYOWFPU0x3LVVRWTlWTWFmUWxldlZPdkh6YjhXd2pz?oc=5",
       "publishedAt": "2026-06-16T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:39.951546+00:00"
+      "fetchedAt": "2026-07-24T11:37:26.998999+00:00"
     },
     {
       "id": "recorded-future-vandals-destroy-14-power-tower-spans-in-niger--tcn",
@@ -1987,7 +2078,7 @@
       "description": "BigBear.ai (NYSE: BBAI) Reaffirms 2026 Revenue Guidance Backed By Backlog Growth And Defense Contract Wins&nbsp;&nbsp;foreignpolicyjournal.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdzdwQ1lmNTh4NmJWQkhZV3BDTl9CaHZPNFQ3RU9nNGs3ejE5cXB4MWJfNy1TcGpkd3ZId09lSEo1RHlBVG4xemRBTkFFX0IycEdjSTU3cHBhQlA4UFdCRElkQWUwbnlfWk82RUU5b0xLbjQzeFNIbDE4T240Nl9tR0lYakhXT0dRczZUUkE3Qm1FMlItRWdIbTlJaWN3U091cW9RWjRJdkRFWHU1LWFGTjB2QTNZVjRPY0lPQjRkdXNTSlpoMGFxLTg4LVE4b3hIT190WEJfQnpDakJtWFRGVEhCYkZiTlU?oc=5",
       "publishedAt": "2026-06-14T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:57.540023+00:00"
+      "fetchedAt": "2026-07-24T11:37:46.388427+00:00"
     },
     {
       "id": "planet-labs-pr-planet-labs-stock-plunged-following-its-recent-ear",
@@ -2039,7 +2130,7 @@
       "description": "BlackSky Technology Stock Draws Focus After NRO Contract Update&nbsp;&nbsp;Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1prYWQ4X3R1UW5MNWFGWlJ6SVc4MXdfNUtkVmlka3hrdXNNV2J4TFBMVjh5dzFNRU02eDB6ZHRLSHZTWDZsTDNWbGtvT2NJS1FwTTRSem0zVklYNkwybGRlYllmaURGUkJjSWMxMFIwSFhCRS1qMzVTREdaRmVOS1JMWlBiTHV4QVJkSkJPcGp0d2RacUdFLU5ybGhxUFd5RGluR0xtTEFjYklxYUE?oc=5",
       "publishedAt": "2026-06-12T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:28.654040+00:00"
+      "fetchedAt": "2026-07-24T11:38:50.857294+00:00"
     },
     {
       "id": "booz-allen-pr-booz-allen-falls-ahead-of-q1-announcement---tradin",
@@ -2169,7 +2260,7 @@
       "description": "TD SYNNEX to Offer Dataminr Cyber Defense Platform to Enterprise, Public Sector Customers&nbsp;&nbsp;ExecutiveBiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGxfRHJyMDZvSkk0dnlfWUE4V1IzRHRZVWctTTF2THpYT1lCdXd6YjdBQUQ4d0ZFUkxwT2dXaFRHVGdkSTA5ZDBoYUtpWENmYlZoOS1nemFocHRuVzhxMnhhNmhwYkFYYXI5TGRSZWVhVjcwdU1mY1gtekEzdWpMT1dISWtzS19k?oc=5",
       "publishedAt": "2026-06-10T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:50.501299+00:00"
+      "fetchedAt": "2026-07-24T11:37:38.444872+00:00"
     },
     {
       "id": "palantir-rss-palantir-hires-northern-compass-for-defense-lobbyi",
@@ -2221,7 +2312,7 @@
       "description": "Up 270% this year: The company building satellites in Uruguay has quietly become the world\u2019s hottest space stock.&nbsp;&nbsp;Moomoo",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1JXT1lfc0JMaHdnVEp5T0xpYWp0WlZKbnVpV2VuaWZDT21LQmswS3BjbllnRHgzWmt1Y2hlUEZralRRT0YzT3UzRVBxQjJKRGdwZjVmR0pRZXhOS1lBZnRZOW9rNTdIamE4TkxMUHBzUWlwWGgxekJpMm9feE5FVzgxcUhES2xMWWJyd0REMzZTU2tVRjA3dUQ2THk1N1JTNnlF?oc=5",
       "publishedAt": "2026-06-09T07:00:00+00:00",
-      "fetchedAt": "2026-07-22T11:45:05.906356+00:00"
+      "fetchedAt": "2026-07-24T11:39:01.982820+00:00"
     },
     {
       "id": "dataminr-rss-dataminr-announces-strategic-partnership-with-td-s",
@@ -2234,7 +2325,7 @@
       "description": "Dataminr Announces Strategic Partnership with TD SYNNEX to Accelerate AI-Powered Cyber Defense&nbsp;&nbsp;PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHoycHVXUV9jTzRFVlFrZWltald2djhGTERNbHNaU2MtNFJEZTZ0YThlRkM1LXp3clNjYmpFWF9iQzBycHUzZW1pc2IzNGUybFZWSjA5WnhMSE5vc19BcXRyN1VISnA5WUFWMVRlNmFhdktTTnN1Tm0tWnlKZGIzelRoSkVuVVVtYnpCMDNNVERpYm1ScVl6aEczaVMzdXJaMHcteWVfbGJnMVFMOUxIdm1OS1Q2NUZnd1p6S2ZHNTVJS3laTExZUHluTnN1TS1NSG9YQW1sWHJDSlVmQUxfQ3g4bGs?oc=5",
       "publishedAt": "2026-06-09T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:50.501197+00:00"
+      "fetchedAt": "2026-07-24T11:37:38.444765+00:00"
     },
     {
       "id": "blacksky-rss-blacksky-awarded-nro-contract-modification-to-acce",
@@ -2247,7 +2338,7 @@
       "description": "BlackSky Awarded NRO Contract Modification to Accelerate Development of AROS as Critical Commercial Alternative for Foundation Imaging&nbsp;&nbsp;Business Wire",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaW1QeEZPSnoyNENtVURvaHl5N1N1bjdPZW9hcTg4WEkzZ3UtRGZhQllKZDFNVjRPbXhpUUhobTBVOURxcGlPdEJscWFNdEVyaExReE9yZnZPUzdFZ2oxeUhJcllsWDV1aDBkWG5mYlhPTmxTeS1GbWNOamFEZzBlYmhsVHRreGJDVUJvRmgtYUxCLWk2ZXpaYll4amQzeTBoTHJoRVY0a3dOYTNFdng5dkY2WG9NWmZ1MHRfWjN2TzVrY3Nva2J0ZDdscjJMUHNvMlM5ZFYwZklEZ3N1am9lTEk3bGNWQnBSYnc4a1cta0hwWl9qMTROcnFSNHJtY1lmajVneGhoUDFYN29wWlhrWTlDYVA0bjZqMGxR?oc=5",
       "publishedAt": "2026-06-09T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:28.654026+00:00"
+      "fetchedAt": "2026-07-24T11:38:50.857250+00:00"
     },
     {
       "id": "blacksky-pr-blacksky-receives-nro-contract-for-satellite-devel",
@@ -2273,7 +2364,7 @@
       "description": "Press release / announcement from BlackSky Technology",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcE51bjYyZ085T2ZTS2E0Q2FudGl4c0UxeDFNTzVGSDByVVhuMmJTdHBNN2NrQlo2azRZYWxuQ1luMFFYdzJPcjFlZjg4T3pKSXFVaFJULWJiZ3h5UEk5TDlEcXYzX3A1S3F2MFY1YTU3c2dpR2h2SVhReHFYMlVsWUZjRnNucGcxSzJtU2pRQXlOd1RrbVVnNUdqLXBOb000MnU2ek9Rbw?oc=5",
       "publishedAt": "2026-06-09T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:30.172239+00:00"
+      "fetchedAt": "2026-07-24T11:38:52.132411+00:00"
     },
     {
       "id": "blacksky-pr-blacksky-awarded-nro-contract-modification-to-acce",
@@ -2286,7 +2377,7 @@
       "description": "Press release / announcement from BlackSky Technology",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZi1UczgwVEZ2bm04YlFJTHNfTUZEOURNVC0zZkNhdTZnS2dIZ2hZbkVDRDFmNEViNFdZelpRMWRRS2Y2RDN2N25yby1WTjRzN0FTa01LMXhHak50alN1d19kd191YXdRQjJxdVl3QXhUMUR3OXZlY1BoTl9oZV94YVJEWEt2Yjl0aU1ObVJ1T1FvOUNCcHVKQXJnYUcycUlKa012UVNudE1fc0k2UDFQNHFRQ1pvUHF1c3lVeXZJSlpzb3l4ZW1uYUpyOEwyVFBlM1B5dlZuZ29WUGVyQ3pSaVhjVE5iaWFkWVIyNW1uVlZTeU90czVNd0QxcnludTlh?oc=5",
       "publishedAt": "2026-06-09T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:30.172207+00:00"
+      "fetchedAt": "2026-07-24T11:38:52.132387+00:00"
     },
     {
       "id": "dataminr-pr-dataminr-announces-strategic-partnership-with-td-s",
@@ -2390,7 +2481,7 @@
       "description": "Press release / announcement from Satellogic",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGpreXppOU41dTJ1UjNQUjVJU3BtbGxnMXZfbkkyR0R1VFpCY2U4VUxfd2IxMGdiMmZCbS0wN2pIY01VNWV1NzJac1pZdUJwOW9OUkY1TnlROHB5S1NjYnBoMVd1aHRMT043aFpTc00xVzRlT293eHRBZHcyMDJVUWV5YmFSaVBoM1NMZTh4Y2szMmRnSWNoNjFORjFGaFg0TDhXMTJibVpPOEl2MFdzUTBSbWRDOUdmQ1NURElR?oc=5",
       "publishedAt": "2026-06-08T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:39.819706+00:00"
+      "fetchedAt": "2026-07-24T11:39:03.306972+00:00"
     },
     {
       "id": "lgnd-ai-pr-snowflake-summit-2026-recap--rebrands--acquisition",
@@ -2403,7 +2494,7 @@
       "description": "Press release / announcement from Lgnd.AI",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhdENpOW45VjFvUlIxazR5aTJ3SmlkR18tSTFzWVFNWnpGdzE1X1A0Y05WV05hWklkR2tUOVZVZU5PMS1Gd1ZyZG4wQTdtZENlU3VXTHd1MmhEWloxM2RPVDF4eW92OFZYakpzOXQzZHYzZw?oc=5",
       "publishedAt": "2026-06-08T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:00.584230+00:00"
+      "fetchedAt": "2026-07-24T11:38:36.490160+00:00"
     },
     {
       "id": "palantir--only-engineers-keen-on-solving-code---inside-the",
@@ -2468,7 +2559,7 @@
       "description": "Press release / announcement from Umbra",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94OXo4Skc0VzRpX0dwTGg1RFI1d1B2X18wSlN5OUFyOE9QVldRX0Fnek1pd0thc3c0dnlNZS14VjFNR1FycGt5NTBmbjFPUnJHUTFMeXV1WGlPaDVMQTlCSHRKRTJRT2M?oc=5",
       "publishedAt": "2026-06-06T09:45:10+00:00",
-      "fetchedAt": "2026-07-23T11:48:34.912458+00:00"
+      "fetchedAt": "2026-07-24T11:38:57.528708+00:00"
     },
     {
       "id": "recorded-future-new-party-secretary-kostas-kyranakis--voridis-for",
@@ -2494,7 +2585,7 @@
       "description": "Is BigBear.ai Emerging as a Key Homeland Security AI Stock?&nbsp;&nbsp;Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZHZzLTFrZzhxWHV2aXktd0xMMXR2eEp2TmVwRFMwRmdhVWdJT3NRcG5OWU9FajRXdUJQczlTVC1PaE56cFVabGNuNllkelEzVEdQZEI1dURyQXFoOEJENnhZX3ZwMG01eDNxVmdrdW80cU1fSGlSUGFqZ2RGRy1ZUkVzM3NfZGVOakExS2lZdGxxTVJiUUlCdTJtc0c2UQ?oc=5",
       "publishedAt": "2026-06-05T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:57.539980+00:00"
+      "fetchedAt": "2026-07-24T11:37:46.388382+00:00"
     },
     {
       "id": "satellogic-rss-why-satellogic--satl--is-down-17-4--after-landing",
@@ -2516,11 +2607,11 @@
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Why are European governments breaking up with Palantir? - Euronews",
-      "description": "Why are European governments breaking up with Palantir?&nbsp;&nbsp;Euronews",
+      "title": "Why are European governments breaking up with Palantir? - Euronews.com",
+      "description": "Why are European governments breaking up with Palantir?&nbsp;&nbsp;Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVQ5T0NydncxTnE3UXdKejdPN0VuWFNiZXpUbjg5SEVNMmVTQW1fZDRoVHpCMzhBc09qSnNlMnpmZ2E2N0RxTW1aVXBvU0NDaDV2dkR5RTgxUEk5c1hScHlTbFNKWnlmOWFEU0VlWG5QOHZUV3l3WURuQm1rMWZ2dzBpeFhBWnhSeDFNdTVWcFFld3VLLUhoUjIyNjZqY3B0YmRyWDV5YXlyb1lYcS1EQ0hVTEl2SDZfSUJybWFELTd4aTVEdEY4MHZ2MA?oc=5",
       "publishedAt": "2026-06-05T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:39.951476+00:00"
+      "fetchedAt": "2026-07-24T11:37:26.998942+00:00"
     },
     {
       "id": "lgnd-ai-pr-lgnd-ai-wins-snowflake-startup-challenge---startup",
@@ -2624,7 +2715,7 @@
       "description": "A Look At Cognyte Software (CGNT) Valuation After First Quarter Results And Government Contract Wins&nbsp;&nbsp;Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1o4ajBrd0I3Nk5BTzJVd3NiNm9OTjd3dTJPSFNuTXM3M1Y2UEk2R0ZrbUl1MGlvaEJ2ZWs1RWFIaVllMUIyUVRJMzNEcE82SVRtWE1La2h1RmZYSnY0TzZ3cld6UFQ5MjlHa0pXTEFwV3V2TzNqYUQzVG1VeHFSTlJha01yZ3o4Xy1uWlkxdDQ1Wko3X0FDQUQwN0xUYk1qTVJv?oc=5",
       "publishedAt": "2026-06-04T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:14.921448+00:00"
+      "fetchedAt": "2026-07-24T11:38:04.131129+00:00"
     },
     {
       "id": "recorded-future-why-amazon-has-struggled-to-crack-the-indian-marke",
@@ -2793,7 +2884,7 @@
       "description": "Press release / announcement from Cognyte",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTTM0RGx1WVEySzVlRkxZSkM1ZkNZbzkxYjR2YXlxZ2tLcC1BQzdPMDhIOVBMTzNrb1U4VHZPUDczRmV5NWZPeHZBbFJ4bGFFR0lPbUlla0dkZy1FdHNYOHFFbVlGTTliZ08xM3lVUE1mMWtraFAzWmFtRFZKcWlnQ3ozSm1JXzlxWms5cEo4T0wzakYzVU5hNkZBVVU3bVJfNnJ2Z0ZKN240V1BrS3lCTUc1LUlXUVhKalFNbkxDOGtBWGk5Q2NlN2lTTHFZZlB4a3ZLX3VjRl9xZzR5dGw3eUw3Z3FMdHN5X29QTGUzX1FIVktEUFN2bm5raEVqZ0p6S3cyN2drMURVWFBjazQ1UjYzS3ZmWEUwaTB2Y1lWQVhXSkN4SHhCSGdTTnFOZw?oc=5",
       "publishedAt": "2026-06-02T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:16.039569+00:00"
+      "fetchedAt": "2026-07-24T11:38:05.330056+00:00"
     },
     {
       "id": "seerist-rss-seerist-recognized-in-frost---sullivan-s-2026-fros",
@@ -2806,7 +2897,7 @@
       "description": "Seerist Recognized in Frost & Sullivan's 2026 Frost Radar\u2122 for Risk Intelligence Solutions&nbsp;&nbsp;PRWeb",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXJxWG80UHBoUVV2ajZLRG5oM1ptN3NHVkJHUktfSEE4bzBTemVQOUNvaUtoaG1yN2l5andOd0NkRmd1VXhtYXVRQi1JdHJMeGdRbm9CTG9lem1LaEVYQ2NSSE53T0owRGhyMWp6aUtMMzFlajNGZEtGU1hxQUxhQWd2c0NIdkVmQnc1OFRuVTZ2Rjc4VHFTUkRwUFpDdkUxckNHMDgxRzBfdHNvRS1Ia2RCRFVNVHdOSy1Tb3h2OWNROVoxM0Vfazl3LW5TZw?oc=5",
       "publishedAt": "2026-06-02T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:39.586755+00:00"
+      "fetchedAt": "2026-07-24T11:38:29.894364+00:00"
     },
     {
       "id": "palantir-rss-palantir-hires-anchor---arrow-for-defense-lobbying",
@@ -2819,7 +2910,7 @@
       "description": "Palantir Hires Anchor & Arrow for Defense Lobbying&nbsp;&nbsp;Legis1",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MWVBBT19DQWFpcjhiWHdsR1MweWVxWGhDNEp5V01sQ0MzWkdjOWZwQk16VTNxaHFjdl9tV0lfZUFKV3g4OTNqR2VmS0llcmxfOFNzem9fdHNsbWpRaUhpS0JsdHhFRV9IeGx4d1BCbnJSYl9ScGxZLVN3UGQ?oc=5",
       "publishedAt": "2026-06-02T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:39.951512+00:00"
+      "fetchedAt": "2026-07-24T11:37:26.998982+00:00"
     },
     {
       "id": "spire-global-rss-spire--spir--q4-2025-earnings-call-transcript---th",
@@ -2858,7 +2949,7 @@
       "description": "Iran Expands Handala Brand to Physical Threats&nbsp;&nbsp;Recorded Future",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iOERsUnY1Ny1jZ0JSRENDMmU1OTBLZ1FqU3dUaFhKamdPbXgtUzh1ZU9KVTFDT01MVEF5NVZlTWtiOHk1QVlnZHotc0hjVnpXN3JBU0RGeW1Lem45ZjZnZnBLWWRSOWlaOGVHZWdmeXo0Q2x1RFVBMg?oc=5",
       "publishedAt": "2026-06-02T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:45.457615+00:00"
+      "fetchedAt": "2026-07-24T11:37:32.950087+00:00"
     },
     {
       "id": "vantor-geoint-rss-ai-in-geospatial-imaging-and-aerial-imagery-platfo",
@@ -2871,7 +2962,7 @@
       "description": "AI in Geospatial Imaging and Aerial Imagery Platforms: Technology, Market, and Developer Guide&nbsp;&nbsp;Medium",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFR0bzdQRGVWelJtdVdVZVdiTTJ4Tm1SSmozNUw0STR5V2RWTFZBRUlJWFRycTlRZTFfSU5lWGJKMENGV1ZRLVE3S2ZZeWFpQk5fOHByd2QxLW1NZE1BRk16aHVRRzFleGNJY2dnMG52b2pGMjdaMVJRYUpuTTNISUxjM2FjTEV3dzhTeGx1MzRIRWE0V0pxV1pZZ1dVMEkzRW1GOEl3VEdVUllZVHRLQmRWcXNpRkM2SXQtNUJQQU1jS2pxRWFHem5rOEx0SXJFNUE?oc=5",
       "publishedAt": "2026-06-02T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:50:02.294583+00:00"
+      "fetchedAt": "2026-07-24T11:39:43.882301+00:00"
     },
     {
       "id": "palantir-the-rise-of-the-military-retail-industrial-complex",
@@ -2923,7 +3014,7 @@
       "description": "Poland\u2019s Satellite Constellation Signals a New Era of Sovereign Space-Based Intelligence&nbsp;&nbsp;The Baltic Sentinel",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDAzd2hxQWRJa0RoNEUzUXluc0k5T2VJVHBIUl9ZaElKeGVPV2FrTVhwT091Mk5xM3I4RmMwTG8wWTVLTDFZUUVfTTJCZG1ZTlAyT1FnNVJZU2hmemk2aTJwRzFXbWJaaFBwNnhnZ2luaHJHZGF2N3FHNkJ6NDFnT1R0Y1pnV1dvLW1FX1hIRG9CaFlsNmotZ1ExLTh5RDJJYzFOVHRCV184QzBZMFBqWG8yTUdqREhWVzdFSnNRVQ?oc=5",
       "publishedAt": "2026-05-31T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:36.191273+00:00"
+      "fetchedAt": "2026-07-24T11:38:58.989049+00:00"
     },
     {
       "id": "cognyte-pr-press-release--cognyte-to-announce-first-quarter-f",
@@ -3105,7 +3196,7 @@
       "description": "Why I Added to Rocket Lab and Planet Labs Following Today's Space Sector Selloff&nbsp;&nbsp;Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjBCRjJGaE91dHRsQ2F3RmVRQTRfOVZjNWtERmhqTm5ibnN0N3lfQnFnZTlld0ZQQmtLbzNSVzY4LVJOd0pCZlN4Y2hTS3FaaG5OMTVZX1JZa2RfSEJrM3lWeFBLalR3OWVRNWNMRjlxUUpLWnNhb0g4OGw1eEhfRURRSXI?oc=5",
       "publishedAt": "2026-05-29T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:37.904899+00:00"
+      "fetchedAt": "2026-07-24T11:39:33.214636+00:00"
     },
     {
       "id": "palantir-counter-drone-procurement-goes-generational",
@@ -3157,7 +3248,7 @@
       "description": "BlackSky Advances Non-Earth Imaging Business With 7-Figure Renewal&nbsp;&nbsp;Via Satellite",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2lpel9QeFdIcVQxWXhDd2lLTko0V2hWMUhocHJrMGg1b2xqdkphVjhRWE1LYUJ1SmUzMV94elZwY0dqMFdfWHFObUhYTEdzTUVISUJUY3NxNjJHN2o1NEQ1dUVqOUFjS3c5M1RNV0s2ck96VVFvaUU0RC1qSnhROFFjdENDWVRHZ2RsUVh2R0FXRDB0Ml95aFJGUkQ1WGRhS29IZlFBUkJXbUJTcFlSWlAySE42bnppNEo4eXgxVXhDY29yY0E3Qw?oc=5",
       "publishedAt": "2026-05-28T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:40.937021+00:00"
+      "fetchedAt": "2026-07-24T11:39:04.629116+00:00"
     },
     {
       "id": "blacksky-rss-why-blacksky-s--bksy--gen-2-constellation-continue",
@@ -3378,7 +3469,7 @@
       "description": "Why is Russell 1000 Index tracking Booz Allen Hamilton activity shift?&nbsp;&nbsp;Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUxJSXBzenNSTHlxTU1oTzc1SmFrLU15RE55eEliVmpDdDB2OXBERGE5c2RwOGhYQkNkZ05CQ2U5UTlXR1BETklqdnlYQW96R1Z2VXY2Q01KSnNUVkx2RTU5bS1OQkk0SFBHZ1JTc2dlY3lxc2FJYzZ6MGE3MmFnVjFYSDN5bENhcVZmdXRXelViUDZNNU53ZUE0bzgxNDNyR1VFdDBmOXllamliS3U3WGpLTHQ5dw?oc=5",
       "publishedAt": "2026-05-26T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:22.159019+00:00"
+      "fetchedAt": "2026-07-24T11:38:27.136024+00:00"
     },
     {
       "id": "cognyte-pr-cognyte-to-announce-first-quarter-fye27-financial",
@@ -3404,7 +3495,7 @@
       "description": "Satellogic secures $18M defense contract for Earth observation&nbsp;&nbsp;Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTh1akp5bmpDeHZuV0djOTh5QnBmQWZKdl9hd1VUZm5sVEVYUDRIMTVCcmtUTjhRMnhmUkZTcTUzTGduRXhmdXBlaXJxbGhsVk44RVhHeWhEeEhzdWdoS0Y2UExydk5Nb09kOWhlZjBXMm9tMk9DOWlDLTBfT3pDUTc5NXFudUl3UVN0LV9RNGdOTnJnQU1EQnNsRGtCeDB1b3Y3Q015aHVkNmMxbjNiZ0l2UVRqOHZ2MkE?oc=5",
       "publishedAt": "2026-05-26T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:38.637164+00:00"
+      "fetchedAt": "2026-07-24T11:39:01.982850+00:00"
     },
     {
       "id": "satellogic-rss-from-trial-to--18m--defense-buyer-locks-in-daily-s",
@@ -3417,7 +3508,7 @@
       "description": "From trial to $18M: defense buyer locks in daily satellite watch&nbsp;&nbsp;Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVdGcE84QjV0eHVIYWlnZVMyTS12bTkzU0puMWRjUXVESF92WWFvS3RLMDJNa2QyX0s1S1V4Vk56dDVEZndIVml2LUZLSnNJbm5ZbHpTa21jZUdUTTVYTHdpaXBIc2NVejZPSllKUTdQZ0F2MHQtYlJxTy1vQ2VqN0tQLXQzVzFEMG9SOFVseXdkNUJBOURFakxsOGh4OVdCN2tKQlpsenRTWXZud3FxdHNoaDE?oc=5",
       "publishedAt": "2026-05-26T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:38.637138+00:00"
+      "fetchedAt": "2026-07-24T11:39:01.982800+00:00"
     },
     {
       "id": "bigbear-ai-pr-bbai-stock-climbs-to--4-22-as-bigbear-ai-expands-b",
@@ -3430,7 +3521,7 @@
       "description": "Press release / announcement from BigBear.ai",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1k1SElfdnpMMDBnVTJzOXJiSjZBT1JBLTd1TUVVZTdXNjRHdS1kWnExREE3bE1wUHlnYnZpZWVldXVtZ1hGMzVwVmtqTWsxMzdycF9wUWpiY1VlaDExSkRxemwtTEEyM04tVEYzVmE1MWc4UHZpdlBBQTN0U2lYTzl4NmIzWGhBMVV6NXZ0UGdsSlB1MUZwRko2aGdvNklGQ3pRNGlXbUF3Mk0?oc=5",
       "publishedAt": "2026-05-26T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:58.747424+00:00"
+      "fetchedAt": "2026-07-24T11:37:47.693352+00:00"
     },
     {
       "id": "booz-allen-rss-booz-allen-hamilton--bah--gains-1-56---defense-con",
@@ -3508,7 +3599,7 @@
       "description": "Palantir\u2019s DIA Contract Challenge And What It Means For PLTR Valuation&nbsp;&nbsp;Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVllnOGFFXzlqZ2R6dUYyQmtqVm5pVzl0SjhJOU9kZlp6MHNBNjF4Ukl3ZTgwMGp1SkVnSllsMG5ocHF3RHQ2aXZOS0pGRHF0T1A5LXJmNmRVVkszSGF5ZHhmYmJDRVZRQXBwZDUtcFpiU0dVUU1Sc3JTNE93UUhEVi0tRzY1MnVsdzllTDlKT25Nd0haYlJiam9xWm1oeVBQYzdtNQ?oc=5",
       "publishedAt": "2026-05-24T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:39.951457+00:00"
+      "fetchedAt": "2026-07-24T11:37:26.998920+00:00"
     },
     {
       "id": "bigbear-ai-pr-bigbear-ai--nyse--bbai--stock-price-holds-near--4",
@@ -3690,7 +3781,7 @@
       "description": "Can Cognyte's $5M APAC Security Deal Strengthen its Revenue Pipeline?&nbsp;&nbsp;TradingView",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlR2eVgtclgyREZfWG5mN3laWjhEVGhnZU1reV9Ya3ZzLWNiWnlUR0xBVlFxNHQ4enRaWnZqaVY4X0FQY2JSODhDSG1FSFI1VlRrQkpOSXJkNHk3NU11ZXhyU09UU0l6MDUyVTBGVmJhOS1nU0ktUEtjR0tPNzBnaW9SaHI4WlNSdU5ZRnMzN2stMlJTd281TDhTNmRjUGFrOHo5YWI4SjhXbm00SkdoeE1HbTRDRjUySkVRYmJOb2w?oc=5",
       "publishedAt": "2026-05-21T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:47:14.921504+00:00"
+      "fetchedAt": "2026-07-24T11:38:04.131114+00:00"
     },
     {
       "id": "babel-street-rss-babel-street-unveils-agentic-ai-platform-for-intel",
@@ -3716,7 +3807,7 @@
       "description": "PL Versus BKSY: Which Satellite Imaging Stock Has More Upside?&nbsp;&nbsp;TradingView",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFgzZElFNmVQZTRxdEwzVi1GQmh1am1WbFZxWUZBdWd6ZlE1M3ltcUJZSzd4WDY5ZVJxbGFjV09LeU9zd045SE0zMXlYTV9wUVJ4dVdNUTZURDlVMGZ0bFFwVURPZGZIUS1zTFhKSThQaUo5dnlLMEFheTBwaHE5WmF4VjVxdHlqS1NzdXpFaUNTcVhuRjJ4bFhESlFXWUF4bVlOSGdfVmpMQl9xRkp2ZWRBOTBjb1E?oc=5",
       "publishedAt": "2026-05-21T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:37.904848+00:00"
+      "fetchedAt": "2026-07-24T11:39:33.214579+00:00"
     },
     {
       "id": "recorded-future-final-results-for-the-financial-year-ended-31-marc",
@@ -3846,7 +3937,7 @@
       "description": "Press release / announcement from Zignal Labs",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQX0FZdW8yaTc1eVdkYmpZVzhUTEczbGpVOXFTZms1ZF8zQVpxSzRFalN2Nkd1dUhNNHR5b3Q2M3dwcUdYb2tXUTNYX2Y3R3UtQ081UElfUnFjRWlacV9xM1pqN2pYR3JEcXlGM19mOGhYbi1jeUhDdEJXakxxaGk1X3lVTS1VcnZtWUF4SU5WZHA0Y2xZUlFWVFR4SUhjQWdFeTVzWmhFenFYcXk0U0lwUEx3MUF4YXktSzFiRUxXd1V3OUZBbFdlMGw5M3NxZ3V3eElaWXIwSTZZeV9obk9WaXNiTEpWOFhJTjNkdkI3dzBNOVJ3cDFCampuclk0VVFlekEzclZCWmU2RVFDVTloMHZaQ2xxSWZLUW5CN1Vn?oc=5",
       "publishedAt": "2026-05-18T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:05.085050+00:00"
+      "fetchedAt": "2026-07-24T11:38:41.505563+00:00"
     },
     {
       "id": "dataminr-rss-michael-diorio---dataminr---defense-daily",
@@ -3872,7 +3963,7 @@
       "description": "Babel Street Launches Agentic Risk Intelligence to Empower Analysts to Outpace AI-Fueled Threats&nbsp;&nbsp;Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHUyVjl0U2wxTi1Bbk1RdnNEZ2MtVmd3X2Q2Q2VkOVlyVTRwalZ5RkRmeGJybDhGX1htcUZTV0hNMXhreXRBbVJBS0dhamp6QkV2OHkyUVo3aVhXMDlYTXhmVU10LXkzMWVyYWJYUUQ3emNDdTFpUl9oV0JkcG42Y0ROYUdXcGZ1TV9fWjFoal9oZmU4c1pjXzVMLVRxbmd1VXRrOTItQ08yUTRndlR0UklaT3h2YWtoZmc1M3VkaC1VQlFuUTFRX2R3cW5fVm9TekM0MW5SVW9la3Q3eHRYTVVJd0c3S2J2?oc=5",
       "publishedAt": "2026-05-18T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:42.945532+00:00"
+      "fetchedAt": "2026-07-24T11:37:30.104579+00:00"
     },
     {
       "id": "babel-street-pr-babel-street-launches-agentic-risk-intelligence-to",
@@ -3885,7 +3976,7 @@
       "description": "Press release / announcement from Babel Street",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHUyVjl0U2wxTi1Bbk1RdnNEZ2MtVmd3X2Q2Q2VkOVlyVTRwalZ5RkRmeGJybDhGX1htcUZTV0hNMXhreXRBbVJBS0dhamp6QkV2OHkyUVo3aVhXMDlYTXhmVU10LXkzMWVyYWJYUUQ3emNDdTFpUl9oV0JkcG42Y0ROYUdXcGZ1TV9fWjFoal9oZmU4c1pjXzVMLVRxbmd1VXRrOTItQ08yUTRndlR0UklaT3h2YWtoZmc1M3VkaC1VQlFuUTFRX2R3cW5fVm9TekM0MW5SVW9la3Q3eHRYTVVJd0c3S2J2?oc=5",
       "publishedAt": "2026-05-18T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:44.110125+00:00"
+      "fetchedAt": "2026-07-24T11:37:31.372162+00:00"
     },
     {
       "id": "bigbear-ai-rss-bigbear-ai-holdings--nyse--bbai--stock-price-trade",
@@ -4158,7 +4249,7 @@
       "description": "Press release / announcement from Planet Labs",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU2JxOTVLQWxUZzhycmFCLTJEcTJsOU8tOU1YMnJBMHl6UWgteWhSanlNcUhIajRaOThuUk43UHVnaWJwRTBBc1FaemM0OWJleFZsWHpYa2RUdFNUVXRfcGtlSjVHbVN1eWF1QUhxZGJJMkc3OGs3ZHpwUVo1dVAzTEh6cDZETmZHOXFNTE5QWTRSQ21TVlFPLThPMnFiemgtMXh1ajducGptNjhRVnluS2huVF85X3VuRWhUYzJ0eHhidElRek5XWGlwLWhmaGp4djFSYUtudDl1TTltbHcxNHJRU0dubkVqTDBiSTV1M0EtbFgtaF85bzk0N2c?oc=5",
       "publishedAt": "2026-05-14T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:27.391826+00:00"
+      "fetchedAt": "2026-07-24T11:38:49.352503+00:00"
     },
     {
       "id": "spire-global-rss-spire--spir--q1-2026-earnings-call-transcript---th",
@@ -4184,7 +4275,7 @@
       "description": "BlackSky Technology (BKSY) Lands New Government AI Imagery Deal Is Its Platform Strategy Gaining Traction?&nbsp;&nbsp;Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDZINkxmaFpwb2tZQkllU1pxWDNVdXpWVXVBZXp0cVR5RnEzcENHRFAyOHNjZWpPZGREaWd6M1FDMGc2RjAtUHRGWC1QalRkd253TjZ6aUZhdExTWVd6SmJ2cHNXWUY2X1RyUktTMnVEYVFwdDl5ekdXaFp3ZlNrUFhESkxjQWhNblFsTVEyakF3TWwxLWlWUlVEdTBlcDROTkVsUTQ3R2o5dw?oc=5",
       "publishedAt": "2026-05-14T07:00:00+00:00",
-      "fetchedAt": "2026-07-22T11:44:40.495567+00:00"
+      "fetchedAt": "2026-07-24T11:38:50.857307+00:00"
     },
     {
       "id": "babel-street-the-border-is-everywhere",
@@ -4301,7 +4392,7 @@
       "description": "The emerging AI battlespace: Counter-AI threats to AI-powered satellite remote sensing analysis&nbsp;&nbsp;Bulletin of the Atomic Scientists",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNTRHTnp5ZHllOUx4eTJqTGhXeC1ZZ0FTaDk0THAzc3g1c09wQU1idVJ0Z0ktTl84S0JDbVg2ZDVhd1l4NHZ2VllxUEdIeXJCR2FlQUNzakRJU1RQN09ON3BkSFBZRDVZVm1QSDFfbGg3MUtibFBqZ1VfN1l0NXpQdHNUMzMtdU1YQ1JCaExJdjdaRzlYbktoYU1XT3h3YkRjLXhNRWZTcWZfaFhlVkRPRjhmX2dKRGFsWUJ1WmF3ZTNGNG80LWVzWkJpQVlnUG9p?oc=5",
       "publishedAt": "2026-05-13T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:37.904782+00:00"
+      "fetchedAt": "2026-07-24T11:39:33.214514+00:00"
     },
     {
       "id": "satellogic-rss-satellogic-q1-earnings-call-highlights---tradingvi",
@@ -4483,7 +4574,7 @@
       "description": "How is Satellogic's NextGen Satellite Platform Changing Earth Observation&nbsp;&nbsp;Kavout | AI",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzZrYW5SdXhJbzFDby1rbWNNa29lQ3VWUFdhWDBHTndNZXVDbTNhRnRBajN1c0ZvY2VoQVhhbDVZQTNyYzRvY0FxSV9scVlGOS1OVTY5MFlhckN4WmZzMVo1QjAyN05PTGpZWGpiUl90ZElfdnNwWUpKWm1XVW1uVGNCN0hwZTJpTEYyV2FUOHVvcUhHTlFGOThJM2pFVjV4RWpwQXRLLW1RaS1l?oc=5",
       "publishedAt": "2026-05-10T03:03:11+00:00",
-      "fetchedAt": "2026-07-23T11:48:38.637151+00:00"
+      "fetchedAt": "2026-07-24T11:39:01.982836+00:00"
     },
     {
       "id": "blacksky-blacksky-technology-q1-earnings-call-highlights",
@@ -5016,7 +5107,7 @@
       "description": "Spire Global rebounds from near-collapse with new funding and investor backing&nbsp;&nbsp;The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1JwaFFmaXl2VEkwYjdONzNIR0hqUHJhLTNOdmF4NTlnbS1ENUJoYlRBSURyRFpGUXRGbjViY0lTOVBzV2Q5SmxlbFZXeERSN2k1TERfaXZTQ2xMNFUxaWhycTREZkdkeXZYb2JQd1hzZ3h5dG9ySDV2U3BXVnAtS083ODdGaEllWFRkYlFuTDdUbTY4b3kwQjQtb1drR3oyOTNRb2E1Y0hLZw?oc=5",
       "publishedAt": "2026-05-04T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:18.180058+00:00"
+      "fetchedAt": "2026-07-24T11:39:12.744973+00:00"
     },
     {
       "id": "vantor-geoint-rss-nga-awards-vantor--70m-option-year-contract-to-ope",
@@ -5029,7 +5120,7 @@
       "description": "NGA Awards Vantor $70M Option Year Contract to Operate and Enhance Government\u2019s Primary Commercial GEOINT Platform&nbsp;&nbsp;Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdlF5YlJsak5FT0NuWWxRQ2MwY2NLNC1uZFc5RXktOHVVWFRoODY4UGd4VzBtWDFIa0pidURqR1lIM2UyOW1ncFFnTDU0THQzZENlT0VtNENyTm9hUFNqdjFvS3gzTy1fNzBYdm50dlkwaFloUDEzWFVmM1BXM25ydFFrOThZdE9CcUVVNDktdjNIX3MzQ1puWndRVXFyWXVadFRSVmxLSkpQOVpYZVRHMndxY3Y2LVVaZ1pQLVMxdFk0clZZM0Q1ZmU5TU5BWF85OS1hemZLX0ZDQnVTdjUwUjNjLXQwR1NORXpRcjBRRmJ2NC1LT2hJbG9hVUJhSHpHV1E?oc=5",
       "publishedAt": "2026-05-04T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:50:02.294519+00:00"
+      "fetchedAt": "2026-07-24T11:39:43.882199+00:00"
     },
     {
       "id": "vantor-geoint-rss-financialcontent---nga-awards-vantor--70m-option-y",
@@ -5068,7 +5159,7 @@
       "description": "Vantor Nabs $70 Million NGA Award For GEOINT Portal Use&nbsp;&nbsp;Via Satellite",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVl4NVhwbEFrUmhBUnFRZ3lRbi1CandiZVE4cU1nYmFQbkY4cUFGU01EUHEtTmFlTndyczdMVEFJT3ItVEpEeWpzU05tM29wZEpfMm9FVE9mdjF5aDlXRlduMkRfS01oUTFBSjRPdTRVT0tjNGYtcjZ4LVB4aUFWTkIxbnQ4SEhlSGdES1d0RHFWV3UyTENaRFplWFZCS2lsLTc4akRHQ00tMC1iOU5NUkhhU1lQUQ?oc=5",
       "publishedAt": "2026-05-04T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:08.648104+00:00"
+      "fetchedAt": "2026-07-24T11:38:45.437545+00:00"
     },
     {
       "id": "palantir-rss-palantir-stock-at--145--five-risks-worth-tracking",
@@ -5081,7 +5172,7 @@
       "description": "Palantir Stock At $145: Five Risks Worth Tracking&nbsp;&nbsp;Trefis",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl9ldmNJRHZ2eVUzMGF4WHdwNUJTZ3dKc0thMFlqUzBQM1VkRVhRN0R3RHo4RkFZSm8tTVFrMDhLMzI5bVBhXzBzWlg4eW8wZUhKOURDOENOb1JqVzdVLUdVOVhoWVJWVWdCaVQ3U1VDNFJSbHdhcmNiWXNrTVhsRTlNenl4M3lXWmNIallTaUxBN2kxRVMtSE5Ddl9IY3c4Nk1qRGtob0F3cXNt?oc=5",
       "publishedAt": "2026-05-04T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:39.951577+00:00"
+      "fetchedAt": "2026-07-24T11:37:26.999047+00:00"
     },
     {
       "id": "recorded-future-rss-recorded-future-named-a-leader-in-the-2026-gartner",
@@ -5094,7 +5185,7 @@
       "description": "Recorded Future Named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cyberthreat Intelligence Technologies&nbsp;&nbsp;Recorded Future",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcF9EbjF5UURFNjl5a2xQOGFkOUNYeDdmZ2psRzkxZnBCSFNmSnNLVVotSVNMVWZHM3VBZ2tTRkpzNHZoNFJOYjF5YkV6cllvemtia1Vzc2I2WlZqVjN6Z2VLQ0s2UnREa0lGV3BraUpqYktrVGhoZEpTSjEtUjFLbHJ2OWRGZy1XNGg1aFVmRXBnQnNRTWc?oc=5",
       "publishedAt": "2026-05-04T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:45.457587+00:00"
+      "fetchedAt": "2026-07-24T11:37:32.950072+00:00"
     },
     {
       "id": "caci-rss-dia-issues-presolicitation--draft-rfp-for-potentia",
@@ -5432,7 +5523,7 @@
       "description": "Calls grow to ban Palantir in Australia after manifesto described by UK MP as \u2018ramblings of a supervillain\u2019&nbsp;&nbsp;The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkhSUy0wUnp5Z3pTNkpTNnROYzdQWVJTTndUZU9CVkduVDR4RmE4MzlrY05kbjJpbENYakc2ckNpUVphTnlRcEd3WFJKQk1zU21pWG1Ja1l5c284aVo2dV8tQmNsbFJ5c0h4cVpRcUplN2dBQ3JiQUZYYjRycEVDVHRaLU84RHRuLUc2NnJNZ2JIckpEaU9hbVJ6OW5rdl9aVEE?oc=5",
       "publishedAt": "2026-04-30T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:39.951528+00:00"
+      "fetchedAt": "2026-07-24T11:37:26.999016+00:00"
     },
     {
       "id": "satellogic-pr-satellogic-announces--12-million-agreement-for-in",
@@ -5640,7 +5731,7 @@
       "description": "Stock Market Today, April 28: BigBear.ai Rises on Heavy Volume Ahead of Earnings as AI Defense Stocks See Increased Trading Activity&nbsp;&nbsp;The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZEFSU1pVVmNPLUg3eEV1MkxVYkNsa3BSRVYtcFFpVlVTcGRlc1ZhV1ZVOXloRjRfZ3VCNVppcllOb3lna09oVENYNmNydGRFdWw1TV9PNkFLN2d1N0l4bV9Jd1dSZmR6Z0lWMzB5YXpNM0tNSW84cWtNakp1Q3dxRDM3RmFIM1p5d05GNFdiZHl4R3dxREZkN3Exa2RJcEF5WXlNNURqVVU3dFNmRnR4ejM5WkMzLWlxMy1GM1diSk00YjNXUTVuV01kYWtBMkxCVmZNenQ0dTRfS0UyUzZ4ZVFoeXZZdVRRZVM0UlBVNGdNS3hUZFlPb29TbXhIV3RqUzNfWVQzYVJwUDNnN3FfOEE5b1JEa3doZThN?oc=5",
       "publishedAt": "2026-04-28T07:00:00+00:00",
-      "fetchedAt": "2026-07-23T11:46:57.540036+00:00"
+      "fetchedAt": "2026-07-24T11:37:46.388468+00:00"
     },
     {
       "id": "recorded-future-hbt-financial--inc--announces-first-quarter-2026-f",
@@ -5719,47 +5810,8 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFdtU1lhSUlyVG96YW4wTTRKclpKRGZsMjY1NXdPdFkwc0NSV010M0t3WEI3ajJIcHpocE03MGlEd1FzcFZoY3pBaDBjQWZGVDBXTUJyZTRxbTZqeVMtdzd1VG1OaWlPRVVITmlTckY0elQwUTFTRzJOWkhYSDROb29aek5GYVA0b01SMlk3TWVuWkRrRHFFLWpEd2hqa0VwRG9XLTdqRVUta3lTbmJ3WnZ3bVR3VkR5UnJYa1E4U0E1d0g0Y2Q3Vw?oc=5",
       "publishedAt": "2026-04-26T07:00:00+00:00",
       "fetchedAt": "2026-07-22T11:43:35.174794+00:00"
-    },
-    {
-      "id": "palantir-rss-palantir-expands-government-contracts-amid-defense",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Expands Government Contracts Amid Defense Technology Growth - HarianBasis.co",
-      "description": "Palantir Expands Government Contracts Amid Defense Technology Growth&nbsp;&nbsp;HarianBasis.co",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EN0JkZm5uSmVOcWxJaVQ2UUUydWtXakxwdjVsUTdqazJ1eEdhN2FEa3k2Xzdzamd4TlBnUEVUNExFRXVZT0N6UF90clFiZThNbnVtcnlOTnpvN19UUVBiTVcxOE01ZUxsSFl2SVlfdDRYTk5ERjl3U1Bn?oc=5",
-      "publishedAt": "2026-04-25T10:35:36+00:00",
-      "fetchedAt": "2026-04-29T11:25:37.242983+00:00"
-    },
-    {
-      "id": "orbital-insight-rss-aerial-surveys-int-l-and-global-marketing-insights",
-      "companyId": "orbital-insight",
-      "companyName": "Orbital Insight",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Aerial Surveys Int\u2019l and Global Marketing Insights to Present GEOINT 2026 Workshop on Multi-Domain Geospatial Fusion for Automated Infrastructure Monitoring - The American Surveyor",
-      "description": "Aerial Surveys Int\u2019l and Global Marketing Insights to Present GEOINT 2026 Workshop on Multi-Domain Geospatial Fusion for Automated Infrastructure Monitoring&nbsp;&nbsp;The American Surveyor",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNU5HTWdXdmR2ai1FNTViSXI3aUlvdUVhR08xc2JlT1JUX0JJNnJlM0lPQ3ZzWTIyZVluU3FXb2sxSmJuR0RGUUxTb09rUHZOaVRvdlFfTXc0Q3JfVHY1R2ZQaV9YWXBmWldpamlPeGp0OUp4ZU8tSm44eFVXelhjd0xSOU1fSF9QSG1RS1FtXzVjRk9wY0hjbEdQVVJkYkNmYkltZTk1S0dSejctWmg5M3BBTHdDME5TcGFJZlF1UzNkVDdSM0VrR1l1V3R5djJ2VkJjcG15M0Q4NHJFOVlvU1lHZmVGeHNtWG5ZZXlOMlZvc2NLdlFSRklyNGxsS3dSd3Nud1l1RWt0OVhnWG5wREIzRi1wQ0x0?oc=5",
-      "publishedAt": "2026-04-24T18:48:36+00:00",
-      "fetchedAt": "2026-06-27T11:25:48.031010+00:00"
-    },
-    {
-      "id": "recorded-future-how-the-corporate-media-helped-fuel-israel-s-genoc",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Mondoweiss",
-      "title": "How the corporate media helped fuel Israel\u2019s genocide in Gaza",
-      "description": "Mondoweiss speaks with media critic Adam Johnson about his new book detailing how cable shows, newspapers, and online news sites helped build support for the mass killing of Palestinians.",
-      "url": "https://mondoweiss.net/2026/04/how-the-corporate-media-helped-fuel-israels-genocide-in-gaza/",
-      "publishedAt": "2026-04-24T15:15:00Z",
-      "fetchedAt": "2026-04-27T11:41:13.996599+00:00"
     }
   ],
-  "lastUpdated": "2026-07-23T11:50:06.872545+00:00",
-  "totalArticles": 443
+  "lastUpdated": "2026-07-24T11:39:48.974385+00:00",
+  "totalArticles": 447
 }

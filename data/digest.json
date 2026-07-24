@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "booz-allen-pr-booz-allen-hamilton-announces-first-quarter-fiscal",
+      "companyId": "booz-allen",
+      "companyName": "Booz Allen Hamilton",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Booz Allen Hamilton Announces First Quarter Fiscal Year 2027 Results - marketscreener.com",
+      "description": "Press release / announcement from Booz Allen Hamilton",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWttRWl5dTZlMkJpbFR2bFZPbXF6bDJKMm1ZU0ZIV1hubDJhWUZuWG96bkZvZk5obTFpMGNRTE1EZy1xNFdJby1nZFlraWt3cnljdTEwdTRZeGJGUENULWRWMkIyTFN1NkRQaVZqVldlRlJnTmw1YTY3ZEduaUpwamIwaGx4TWZ4Q0hfNks4VU5za2Q1SjFabzdITzlBamZyOHRtZFpMLUZjMDhxUm5rYTBmcl9CRm9Td2R0VnVR?oc=5",
+      "publishedAt": "2026-07-24T10:46:05+00:00",
+      "fetchedAt": "2026-07-24T11:38:28.503053+00:00"
+    },
+    {
+      "id": "bigbear-ai-pr-bigbear-ai--nyse--bbai--schedules-second-quarter-2",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai (NYSE: BBAI) Schedules Second Quarter 2026 Earnings Release And Investor Call For July 30 - foreignpolicyjournal.com",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSVdCTXdpTXQ3S1JkbXdBOEgxX2ZuRFZQdjdZOHVVMHlVTzM3TG9xd2lKTDRtZU5SdWUxQXV0TlRaNTM3RXNqbmVDZ3hrZWN2RS1hUHdWN3JJOUtyM3pWaWJjcnBOdmZrNEhUR1lqN1J3OGc1UFp0Rjgzd3Z5TGM2RTBrU0RMYjNUUDVpZjFfcjQweTlpS3d4TmlGRVNRSWNyOUN0R3hHLTNfNlh3dldYWEFKNjZ0VU1tYVNqUnZkMWlHLXY3eTduZWs1NlNHTDRaenZIMU9rZGlUbzJrZXVn?oc=5",
+      "publishedAt": "2026-07-23T20:40:00+00:00",
+      "fetchedAt": "2026-07-24T11:37:47.693278+00:00"
+    },
+    {
+      "id": "recorded-future-sensex-today---stock-market-highlights--markets-sl",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "BusinessLine",
+      "title": "Sensex today | Stock Market Highlights: Markets slip for 4th straight day as crude rises; Sensex drops 363 pts, Nifty ends below 23,870",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for July 23, 2026.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-july-2026/article71253376.ece",
+      "publishedAt": "2026-07-23T11:07:42Z",
+      "fetchedAt": "2026-07-24T11:37:33.606947+00:00"
+    },
+    {
       "id": "spire-global-pr-spire-global-partners-with-sate-on-esa-supported-r",
       "companyId": "spire-global",
       "companyName": "Spire Global",
@@ -11,36 +50,10 @@
       "description": "Press release / announcement from Spire Global",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVU4d0tJcm9kZ3JCcE5scEllMWcweGRwMmVzMEZ3dVpQTWk0R3pDWDY1UWxoSUFMRGtraF9UX2pCWEFsNDUyMm5RWDlOWTJCdXh3ZHlVWHJDRFhoSmZFS0Z5LW03VVVCVnJuN18yeUlDLXdaMW9LRU9EZVgwUVhSR1FHbElUZw?oc=5",
       "publishedAt": "2026-07-23T09:30:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:19.383279+00:00"
-    },
-    {
-      "id": "airbus-defence-pr-drdo-inks-two-major-contracts-with-industry-partne",
-      "companyId": "airbus-defence",
-      "companyName": "Airbus Defence & Space",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "DRDO inks two major contracts with Industry partners as part of AEW&C MK-II programme - PIB",
-      "description": "Press release / announcement from Airbus Defence & Space",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rekp4M19yWTJOR3NUa3FYVVQtVEplN1ltcGZmWFhyb3IwQjVjY1NCV3RfRHpReUVvLTJZUVVXZWNZM3I3eFpCVXlzSVRUaE1aQmFnUUFIOW4zanY3ZGZvNFVJSE93ZnMyanJkc0hrcjJTUDgwTVFlUDV3?oc=5",
-      "publishedAt": "2026-07-22T14:49:00+00:00",
-      "fetchedAt": "2026-07-23T11:49:01.887232+00:00"
-    },
-    {
-      "id": "satellogic-rss-zacks-industry-outlook-highlights-gilat-satellite",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Zacks Industry Outlook Highlights Gilat Satellite Networks, Telesat and Satellogic - TradingView",
-      "description": "Zacks Industry Outlook Highlights Gilat Satellite Networks, Telesat and Satellogic&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGF2N1RNT2owZGltQld3Z2lOODB3MUdiLW1BaVBsSWZ6Skx6N2xpZ1hubXJ4UjNoa0dCd0dYMGFueW9CR3ZjcG1yS3NRU2N2V2I0cTVBWEtfZ1kzQjl1TjdiQ2Y3NGNsOUNGMFBiLTZzbXdBamdtb1htY1QxamdZZE1nVFptX3U4RG5NaWFXcXRQZ3A5TGs3ZUN6aEZ5SWx5cHVnb0dWdWEyYzIyTVJKaFBkRGtkN09oTk9QNFJwc2hOZElHWmhIUHFLUzZGa1A4X2hj?oc=5",
-      "publishedAt": "2026-07-22T14:33:00+00:00",
-      "fetchedAt": "2026-07-23T11:48:38.637081+00:00"
+      "fetchedAt": "2026-07-24T11:39:14.040051+00:00"
     }
   ],
-  "generatedAt": "2026-07-23T11:50:06.878587+00:00",
+  "generatedAt": "2026-07-24T11:39:48.980289+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 4
 }
