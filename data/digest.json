@@ -1,59 +1,33 @@
 {
   "articles": [
     {
+      "id": "orbital-insight-rss-is-blacksky-technology-s-rapid-gen-3-rollout-a-gam",
+      "companyId": "orbital-insight",
+      "companyName": "Orbital Insight",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Is BlackSky Technology's Rapid Gen-3 Rollout a Game Changer for Investors - Kavout | AI",
+      "description": "Is BlackSky Technology's Rapid Gen-3 Rollout a Game Changer for Investors&nbsp;&nbsp;Kavout | AI",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWU5NjV1QmFOR0lIVGI2cHFnX3JmZDFRdWFEZF9vanc3NzMxVXgwblNEQWxNd05VQzRqeEMzUWNNM2I1UUtBNU94MkZtNnVUMHVNWHppNlkzMTRVTDktUlZnSGNZX1hod1ZSWlJaVWF0SFNyN092ZGpwcW1KRkxFbXBzNmxYQ29RalZaU1ZFOWUtS1JERmk3WEcwZ0lLOUZSSWFNdER1OHpsbUVl?oc=5",
+      "publishedAt": "2026-07-25T07:28:54+00:00",
+      "fetchedAt": "2026-07-25T11:06:46.617802+00:00"
+    },
+    {
       "id": "booz-allen-pr-booz-allen-hamilton-announces-first-quarter-fiscal",
       "companyId": "booz-allen",
       "companyName": "Booz Allen Hamilton",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Booz Allen Hamilton Announces First Quarter Fiscal Year 2027 Results - marketscreener.com",
+      "title": "Booz Allen Hamilton Announces First Quarter Fiscal Year 2027 Results - Business Wire",
       "description": "Press release / announcement from Booz Allen Hamilton",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWttRWl5dTZlMkJpbFR2bFZPbXF6bDJKMm1ZU0ZIV1hubDJhWUZuWG96bkZvZk5obTFpMGNRTE1EZy1xNFdJby1nZFlraWt3cnljdTEwdTRZeGJGUENULWRWMkIyTFN1NkRQaVZqVldlRlJnTmw1YTY3ZEduaUpwamIwaGx4TWZ4Q0hfNks4VU5za2Q1SjFabzdITzlBamZyOHRtZFpMLUZjMDhxUm5rYTBmcl9CRm9Td2R0VnVR?oc=5",
-      "publishedAt": "2026-07-24T10:46:05+00:00",
-      "fetchedAt": "2026-07-24T11:38:28.503053+00:00"
-    },
-    {
-      "id": "bigbear-ai-pr-bigbear-ai--nyse--bbai--schedules-second-quarter-2",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai (NYSE: BBAI) Schedules Second Quarter 2026 Earnings Release And Investor Call For July 30 - foreignpolicyjournal.com",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSVdCTXdpTXQ3S1JkbXdBOEgxX2ZuRFZQdjdZOHVVMHlVTzM3TG9xd2lKTDRtZU5SdWUxQXV0TlRaNTM3RXNqbmVDZ3hrZWN2RS1hUHdWN3JJOUtyM3pWaWJjcnBOdmZrNEhUR1lqN1J3OGc1UFp0Rjgzd3Z5TGM2RTBrU0RMYjNUUDVpZjFfcjQweTlpS3d4TmlGRVNRSWNyOUN0R3hHLTNfNlh3dldYWEFKNjZ0VU1tYVNqUnZkMWlHLXY3eTduZWs1NlNHTDRaenZIMU9rZGlUbzJrZXVn?oc=5",
-      "publishedAt": "2026-07-23T20:40:00+00:00",
-      "fetchedAt": "2026-07-24T11:37:47.693278+00:00"
-    },
-    {
-      "id": "recorded-future-sensex-today---stock-market-highlights--markets-sl",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "BusinessLine",
-      "title": "Sensex today | Stock Market Highlights: Markets slip for 4th straight day as crude rises; Sensex drops 363 pts, Nifty ends below 23,870",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for July 23, 2026.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-july-2026/article71253376.ece",
-      "publishedAt": "2026-07-23T11:07:42Z",
-      "fetchedAt": "2026-07-24T11:37:33.606947+00:00"
-    },
-    {
-      "id": "spire-global-pr-spire-global-partners-with-sate-on-esa-supported-r",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Spire Global Partners with SATE on ESA-Supported Research Program to Advance AI-Driven Autonomous Constellation Operations - Yahoo Finance Singapore",
-      "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVU4d0tJcm9kZ3JCcE5scEllMWcweGRwMmVzMEZ3dVpQTWk0R3pDWDY1UWxoSUFMRGtraF9UX2pCWEFsNDUyMm5RWDlOWTJCdXh3ZHlVWHJDRFhoSmZFS0Z5LW03VVVCVnJuN18yeUlDLXdaMW9LRU9EZVgwUVhSR1FHbElUZw?oc=5",
-      "publishedAt": "2026-07-23T09:30:00+00:00",
-      "fetchedAt": "2026-07-24T11:39:14.040051+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXliakZWc2ZWVFA4ckFsaVNpSldJT0R2VkxCUnNLZURXWjBKQjAyQlpHbDhwQVJOSERNUmo0bncwaXFBLW1uc05nWGVlazE3SE1faVlKd1pycWNXOXB1ODh5WDJLcTUyR05CYmhHckstUXpRalV3TDVwcXVxM0xpcXkxMTRQRXBpemQtRk1oNW15NEY0T01Zazh1RGlJYzN6Sy1YX0hsbDRqaXhJUVNpUHJ2MDR1VnJmNm5vMG1BRWdCN0k?oc=5",
+      "publishedAt": "2026-07-24T10:45:00+00:00",
+      "fetchedAt": "2026-07-25T11:05:16.557521+00:00"
     }
   ],
-  "generatedAt": "2026-07-24T11:39:48.980289+00:00",
+  "generatedAt": "2026-07-25T11:07:15.918760+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 2
 }
