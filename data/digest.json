@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "bigbear-ai-pr-bigbear-ai-holdings--nyse--bbai--stock-price-slips",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai Holdings (NYSE: BBAI) Stock Price Slips As Earnings Release Approaches - foreignpolicyjournal.com",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGI4UW4xbEoxdFNYQkJXaXRJN1BNR2FkeEFGcnViX01vRktJaFdCWVpQWUhqZEJfYXAwUXo3QUdNRmNWMXVzOUhhY0NSQ0c4dk5GQWkxOEFWM05LTG90ZTBSSmZCMXdQQzFldkotNl9nZlVTdWNzTGdKWUs1dzE4LV8za0hzWlhYSV9hUmEyQjZoMFRkZHc5NDY0SmFGeV9vZDdRcDBPdDd6WnJ5czlMZ1MxYnF1UzR6N3ZsWGhrTmFEdHNUdlE?oc=5",
+      "publishedAt": "2026-07-25T18:38:00+00:00",
+      "fetchedAt": "2026-07-26T11:15:26.295986+00:00"
+    },
+    {
       "id": "orbital-insight-rss-is-blacksky-technology-s-rapid-gen-3-rollout-a-gam",
       "companyId": "orbital-insight",
       "companyName": "Orbital Insight",
@@ -11,23 +24,10 @@
       "description": "Is BlackSky Technology's Rapid Gen-3 Rollout a Game Changer for Investors&nbsp;&nbsp;Kavout | AI",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWU5NjV1QmFOR0lIVGI2cHFnX3JmZDFRdWFEZF9vanc3NzMxVXgwblNEQWxNd05VQzRqeEMzUWNNM2I1UUtBNU94MkZtNnVUMHVNWHppNlkzMTRVTDktUlZnSGNZX1hod1ZSWlJaVWF0SFNyN092ZGpwcW1KRkxFbXBzNmxYQ29RalZaU1ZFOWUtS1JERmk3WEcwZ0lLOUZSSWFNdER1OHpsbUVl?oc=5",
       "publishedAt": "2026-07-25T07:28:54+00:00",
-      "fetchedAt": "2026-07-25T11:06:46.617802+00:00"
-    },
-    {
-      "id": "booz-allen-pr-booz-allen-hamilton-announces-first-quarter-fiscal",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Booz Allen Hamilton Announces First Quarter Fiscal Year 2027 Results - Business Wire",
-      "description": "Press release / announcement from Booz Allen Hamilton",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXliakZWc2ZWVFA4ckFsaVNpSldJT0R2VkxCUnNLZURXWjBKQjAyQlpHbDhwQVJOSERNUmo0bncwaXFBLW1uc05nWGVlazE3SE1faVlKd1pycWNXOXB1ODh5WDJLcTUyR05CYmhHckstUXpRalV3TDVwcXVxM0xpcXkxMTRQRXBpemQtRk1oNW15NEY0T01Zazh1RGlJYzN6Sy1YX0hsbDRqaXhJUVNpUHJ2MDR1VnJmNm5vMG1BRWdCN0k?oc=5",
-      "publishedAt": "2026-07-24T10:45:00+00:00",
-      "fetchedAt": "2026-07-25T11:05:16.557521+00:00"
+      "fetchedAt": "2026-07-26T11:16:38.810918+00:00"
     }
   ],
-  "generatedAt": "2026-07-25T11:07:15.918760+00:00",
+  "generatedAt": "2026-07-26T11:17:08.938383+00:00",
   "periodHours": 28,
   "count": 2
 }
