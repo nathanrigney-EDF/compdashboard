@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "bigbear-ai-pr-bigbear-ai-holdings--nyse--bbai--stock-price-slips",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai Holdings (NYSE: BBAI) Stock Price Slips As Earnings Release Approaches - foreignpolicyjournal.com",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGI4UW4xbEoxdFNYQkJXaXRJN1BNR2FkeEFGcnViX01vRktJaFdCWVpQWUhqZEJfYXAwUXo3QUdNRmNWMXVzOUhhY0NSQ0c4dk5GQWkxOEFWM05LTG90ZTBSSmZCMXdQQzFldkotNl9nZlVTdWNzTGdKWUs1dzE4LV8za0hzWlhYSV9hUmEyQjZoMFRkZHc5NDY0SmFGeV9vZDdRcDBPdDd6WnJ5czlMZ1MxYnF1UzR6N3ZsWGhrTmFEdHNUdlE?oc=5",
-      "publishedAt": "2026-07-25T18:38:00+00:00",
-      "fetchedAt": "2026-07-26T11:15:26.295986+00:00"
-    },
-    {
-      "id": "orbital-insight-rss-is-blacksky-technology-s-rapid-gen-3-rollout-a-gam",
-      "companyId": "orbital-insight",
-      "companyName": "Orbital Insight",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Is BlackSky Technology's Rapid Gen-3 Rollout a Game Changer for Investors - Kavout | AI",
-      "description": "Is BlackSky Technology's Rapid Gen-3 Rollout a Game Changer for Investors&nbsp;&nbsp;Kavout | AI",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWU5NjV1QmFOR0lIVGI2cHFnX3JmZDFRdWFEZF9vanc3NzMxVXgwblNEQWxNd05VQzRqeEMzUWNNM2I1UUtBNU94MkZtNnVUMHVNWHppNlkzMTRVTDktUlZnSGNZX1hod1ZSWlJaVWF0SFNyN092ZGpwcW1KRkxFbXBzNmxYQ29RalZaU1ZFOWUtS1JERmk3WEcwZ0lLOUZSSWFNdER1OHpsbUVl?oc=5",
-      "publishedAt": "2026-07-25T07:28:54+00:00",
-      "fetchedAt": "2026-07-26T11:16:38.810918+00:00"
-    }
-  ],
-  "generatedAt": "2026-07-26T11:17:08.938383+00:00",
+  "articles": [],
+  "generatedAt": "2026-07-27T12:54:17.491033+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
