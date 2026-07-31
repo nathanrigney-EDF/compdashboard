@@ -1,46 +1,46 @@
 {
   "articles": [
     {
-      "id": "spire-global-pr-press-release--spire-global-schedules-second-quart",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Press Release: Spire Global Schedules Second Quarter 2026 Results Conference Call - Moomoo",
-      "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0xXckRTRlBnWGZBcDFpWWtlWjBhLWNMLUZOZ1E3RWsyRHl4UEVUeFRBQzl3MzFEdjY5YlN3X2xhc1Fab1hwQi0xcnVaR0tYVTJWRjh2T1ZYN2pDa24xekhVNEY0dnlBcHBWS1pwazNodVg5NUk1THc3T05pdVZ6c19QOHdVM2cwRUhJeWlnU0ExUWdjRVFMb3BVUWk4OFNXZDR3QW1aS25jWGFmeVIxVksyWXNvWjZDaDNpRUhaay1xS2xYbG9yRnNxZFp1UDJtbWJ5dVYtdHMwUHUwaF9oclhsLWREWlk?oc=5",
-      "publishedAt": "2026-07-29T20:44:00+00:00",
-      "fetchedAt": "2026-07-30T11:48:28.444159+00:00"
-    },
-    {
-      "id": "danti-ai-rss-exclusive--danti-gets-a-makeover--scores-us-air-fo",
-      "companyId": "danti-ai",
-      "companyName": "Danti.AI",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Exclusive: Danti Gets a Makeover, Scores US Air Force Contract - Tectonic Defense",
-      "description": "Exclusive: Danti Gets a Makeover, Scores US Air Force Contract&nbsp;&nbsp;Tectonic Defense",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVNReWpfem83SlVkOXNDSUNkV2pEazJzT2wzX3BJWDlaNmNVUEotWGFiYUlwQW1nZUMwNlZEbW03OFlXaGFHaUJyYWlRVWl0ZnAxSE9uLXhNRVBoRXYzVENFamQ4VWV3cFlwM25yNWMyeEViUWo2ZVlNUEZlRUJfRndoMlowaE5qaXN1NU9wNTRocHBzN0lzRQ?oc=5",
-      "publishedAt": "2026-07-29T14:17:37+00:00",
-      "fetchedAt": "2026-07-30T11:47:33.716831+00:00"
-    },
-    {
-      "id": "bigbear-ai-rss-bigbear-ai-stock--bbai--opinions-on-ai-defense-con",
+      "id": "bigbear-ai-pr-bigbear-ai-announces-second-quarter-2026-results",
       "companyId": "bigbear-ai",
       "companyName": "BigBear.ai",
       "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BigBear.ai Stock (BBAI) Opinions on AI Defense Contracts and Platform Upgrades - Quiver Quantitative",
-      "description": "BigBear.ai Stock (BBAI) Opinions on AI Defense Contracts and Platform Upgrades&nbsp;&nbsp;Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHRXY3VEbGdpYXBmY0hBU2tlVXZqSDdGdDhOR2U3WTJCejRkbG50aGZjVEFRd3JYQmc2RU1venZoSzdKbC1BeDh5Vy1zc0tFWWRDVHl1V0ppS1RMOHBsN3M3bWFnQUxPdmxPYmRVUnRsWDRzOXgxaG8zRWNnT0I1OXlqS2xhenBNMnRHOTAzdmVtTk5Yb3ZIQjh1UXhNTjVUZE5Cem9wOS15VFd5YTRScmJ2d3REUQ?oc=5",
-      "publishedAt": "2026-07-29T14:04:00+00:00",
-      "fetchedAt": "2026-07-30T11:47:18.492432+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai Announces Second Quarter 2026 Results; Delivers 13% Growth, 20+ New Contract Wins, and Expanded Margins; Affirms Full Year Revenue Guidance - Yahoo Finance",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVTQlF5SGRWenZtTXZ4d0F6VzhaSk5xTWhzSkhOT0prWTlHamlXenktVWhxUVY2QkZVX3RINmNoSEdMOWFYdlY0aW1WNzRQTmFLS0NGcWs0UWVMYU93SURyMHBKMVNHcmxwdnRQTmRMU0lkMHJRV0xibmNMLVJVYm9UdTF5VGhLRXFqS2ZaZ0FwdENUdzA0eHFJOUEzbEJi?oc=5",
+      "publishedAt": "2026-07-30T20:15:00+00:00",
+      "fetchedAt": "2026-07-31T11:54:07.936517+00:00"
+    },
+    {
+      "id": "leidos-pr-coreweave-surges-16--after-announcing-leidos-partn",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "CoreWeave surges 16% after announcing Leidos partnership for federal AI services - eciks.org",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tZzdJZjJwbU40cVpKRHlTZ2ZkUGVuMXFEMFNZR01lNWlPTjk3QnhEMVVyVzlHNGFRbktobm5MbEcxM3c3NlVKYkxPYTZhd3g1c0I1ODk3a1NQWGtIcFo4MWo5YUU4Y1JQZUNVempjQU0?oc=5",
+      "publishedAt": "2026-07-30T17:20:18+00:00",
+      "fetchedAt": "2026-07-31T11:54:30.520352+00:00"
+    },
+    {
+      "id": "leidos-pr-coreweave-stock-surges-17--after-leidos-defense-pa",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "CoreWeave stock surges 17% after Leidos defense partnership announced - eciks.org",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DcjNSU3NWSm42dlNDcTM4SkZtRzdkZGhtdE51VHVfcDlMcHNqRjdfbms2MUNsS3VOYzBvQXF4OTVoOW1uZXdZRWdqaEdhWEFPN1NacXBOVnQtaGFuX0JjZThoNkpLVFRfWnVj?oc=5",
+      "publishedAt": "2026-07-30T13:59:15+00:00",
+      "fetchedAt": "2026-07-31T11:54:30.520396+00:00"
     }
   ],
-  "generatedAt": "2026-07-30T11:48:47.326897+00:00",
+  "generatedAt": "2026-07-31T11:56:19.840265+00:00",
   "periodHours": 28,
   "count": 3
 }
