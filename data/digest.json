@@ -1,46 +1,20 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-pr-bigbear-ai-announces-second-quarter-2026-results",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai Announces Second Quarter 2026 Results; Delivers 13% Growth, 20+ New Contract Wins, and Expanded Margins; Affirms Full Year Revenue Guidance - Yahoo Finance",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnVTQlF5SGRWenZtTXZ4d0F6VzhaSk5xTWhzSkhOT0prWTlHamlXenktVWhxUVY2QkZVX3RINmNoSEdMOWFYdlY0aW1WNzRQTmFLS0NGcWs0UWVMYU93SURyMHBKMVNHcmxwdnRQTmRMU0lkMHJRV0xibmNMLVJVYm9UdTF5VGhLRXFqS2ZaZ0FwdENUdzA0eHFJOUEzbEJi?oc=5",
-      "publishedAt": "2026-07-30T20:15:00+00:00",
-      "fetchedAt": "2026-07-31T11:54:07.936517+00:00"
-    },
-    {
-      "id": "leidos-pr-coreweave-surges-16--after-announcing-leidos-partn",
+      "id": "leidos-rss-leidos--coreweave-partner-on-secure-ai-for-nationa",
       "companyId": "leidos",
       "companyName": "Leidos",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "CoreWeave surges 16% after announcing Leidos partnership for federal AI services - eciks.org",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tZzdJZjJwbU40cVpKRHlTZ2ZkUGVuMXFEMFNZR01lNWlPTjk3QnhEMVVyVzlHNGFRbktobm5MbEcxM3c3NlVKYkxPYTZhd3g1c0I1ODk3a1NQWGtIcFo4MWo5YUU4Y1JQZUNVempjQU0?oc=5",
-      "publishedAt": "2026-07-30T17:20:18+00:00",
-      "fetchedAt": "2026-07-31T11:54:30.520352+00:00"
-    },
-    {
-      "id": "leidos-pr-coreweave-stock-surges-17--after-leidos-defense-pa",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "CoreWeave stock surges 17% after Leidos defense partnership announced - eciks.org",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DcjNSU3NWSm42dlNDcTM4SkZtRzdkZGhtdE51VHVfcDlMcHNqRjdfbms2MUNsS3VOYzBvQXF4OTVoOW1uZXdZRWdqaEdhWEFPN1NacXBOVnQtaGFuX0JjZThoNkpLVFRfWnVj?oc=5",
-      "publishedAt": "2026-07-30T13:59:15+00:00",
-      "fetchedAt": "2026-07-31T11:54:30.520396+00:00"
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Leidos, CoreWeave Partner on Secure AI for National Security Missions - ExecutiveBiz",
+      "description": "Leidos, CoreWeave Partner on Secure AI for National Security Missions&nbsp;&nbsp;ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM05ONnVVQ2NKbXNwSEEySDduc244Q01EYU1nZjg1NS1OMTYwNmMwZVlkVy1kd3VOcFFqdjZ0QWV0bi1BaG8tME52LXRpR09USC1DQWhpTHpUZXpMRDI0RDNFWUdQMW52TFZVZnV4bTJKUkItNHRLY2VZS1hQMDhpb0xfYkJyUVctR1liVmFDVnk5bHk3NzZZ?oc=5",
+      "publishedAt": "2026-07-31T14:02:24+00:00",
+      "fetchedAt": "2026-08-01T11:13:11.033642+00:00"
     }
   ],
-  "generatedAt": "2026-07-31T11:56:19.840265+00:00",
+  "generatedAt": "2026-08-01T11:15:45.373992+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 1
 }
