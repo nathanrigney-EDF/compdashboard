@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-08-02T11:15:25.558939+00:00",
+  "articles": [
+    {
+      "id": "caci-pr-caci-wins--500-million-counter-uas-contract-with-s",
+      "companyId": "caci",
+      "companyName": "CACI International",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "CACI Wins $500 Million Counter-UAS Contract with SkyValor Selected for First Task Order - uasweekly.com",
+      "description": "Press release / announcement from CACI International",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRThGdzRkck5KMzNHczFybDFJTjF0WHBMaExaYXRqT0ZZTl82U0ZDWEZMUWkzbmh1OTliVEp4LWdja0R3b1F4UzNKeU5KZ1Rqc1NNQXA3aV9fWldlV2EzbFhkWFBmdVVtZUk2Um84cHdjYnU2NDVHeHh3dHBhM2puOGpxVEtfV0ZKMlZ1RmZNQjR5WTdSNjI5bmVadHJ4UUFRYUxyOWd3ak95bmN3YmR1SDczMG9pdE5Jd0lFZg?oc=5",
+      "publishedAt": "2026-08-03T11:11:41+00:00",
+      "fetchedAt": "2026-08-03T12:52:15.631191+00:00"
+    }
+  ],
+  "generatedAt": "2026-08-03T12:54:48.663458+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
