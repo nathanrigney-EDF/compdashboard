@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": "caci-pr-caci-joins-oracle-on--400m-federal-hr-modernizatio",
+      "companyId": "caci",
+      "companyName": "CACI International",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "CACI joins Oracle on $400M federal HR modernization contract By Investing.com - Investing.com UK",
+      "description": "Press release / announcement from CACI International",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXhuUlJkc01OMDBKLVVDMWxTaUFIZUtrdmQwYnFqSHJGRFRpWUNBQldzR3RXVV9SXzhTQ2xBOFBlUFc0TTZYSjdDLVE1VlhPbGl0VVFvWkxFOHpfZkpGUFItcmVDNVZHeDZLUmNHSjVyS1FiWVowRDZKYTk4MWlsTF9MLXRieHoyMnBiamFJS1ZZb2ZTdDdyRFB0SGJSUTk5QmJZTWdiR0xucnpQVHZVMWFOMnRSMzlkaE9PdFY5UldIX0x5M3pEUldybU4?oc=5",
+      "publishedAt": "2026-08-03T21:40:31+00:00",
+      "fetchedAt": "2026-08-04T11:59:56.562256+00:00"
+    },
+    {
+      "id": "palantir-pr-palantir-technologies---q2-2026-earnings-earnings",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Palantir Technologies : Q2 2026 Earnings Earnings Release - marketscreener.com",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWZCa2RKM3RYNUtDTjdHYkRXOWd3bnA4ZVNFWXc3Q243MnlUQ1R6Z1NvY0JNcWo3dEJlTURzZXFIUXhXcy1UOVU3X2M5ODQ0V0hCVi1nelAzZEFOUjQ4b0tSX0xqUUk2T3hZbEFVZ3BFUHBYQjFsYTlzdXpkYXlCT3lmaHFmLTJzejNWVE1sZkdKdmJzbFZiR2ttTERDQWtYb1VHVU56SDRMNWhH?oc=5",
+      "publishedAt": "2026-08-03T21:28:12+00:00",
+      "fetchedAt": "2026-08-04T11:59:03.780824+00:00"
+    },
+    {
       "id": "caci-pr-caci-wins--500-million-counter-uas-contract-with-s",
       "companyId": "caci",
       "companyName": "CACI International",
@@ -10,11 +36,24 @@
       "title": "CACI Wins $500 Million Counter-UAS Contract with SkyValor Selected for First Task Order - uasweekly.com",
       "description": "Press release / announcement from CACI International",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRThGdzRkck5KMzNHczFybDFJTjF0WHBMaExaYXRqT0ZZTl82U0ZDWEZMUWkzbmh1OTliVEp4LWdja0R3b1F4UzNKeU5KZ1Rqc1NNQXA3aV9fWldlV2EzbFhkWFBmdVVtZUk2Um84cHdjYnU2NDVHeHh3dHBhM2puOGpxVEtfV0ZKMlZ1RmZNQjR5WTdSNjI5bmVadHJ4UUFRYUxyOWd3ak95bmN3YmR1SDczMG9pdE5Jd0lFZg?oc=5",
-      "publishedAt": "2026-08-03T11:11:41+00:00",
-      "fetchedAt": "2026-08-03T12:52:15.631191+00:00"
+      "publishedAt": "2026-08-03T14:00:22+00:00",
+      "fetchedAt": "2026-08-04T11:59:56.562236+00:00"
+    },
+    {
+      "id": "recorded-future-sensex-today---stock-market-highlights--nifty-jump",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "BusinessLine",
+      "title": "Sensex today | Stock Market Highlights: Nifty jumps 391 points to reclaim 24,750; Sensex gains 544 as IT, banks lead rally",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Indian benchmark indices ended sharply higher on Monday, with the BSE Sensex rising 544.39 points (0.70%) to close at 78,639.03, while the Nifty 50 surged 390.70 points (1.60%) to settle at 24,774.30.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-3rd-august-2026/article71298312.ece",
+      "publishedAt": "2026-08-03T10:58:20Z",
+      "fetchedAt": "2026-08-04T11:59:08.566174+00:00"
     }
   ],
-  "generatedAt": "2026-08-03T12:54:48.663458+00:00",
+  "generatedAt": "2026-08-04T12:01:49.830317+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 4
 }
