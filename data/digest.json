@@ -1,59 +1,72 @@
 {
   "articles": [
     {
-      "id": "caci-pr-caci-joins-oracle-on--400m-federal-hr-modernizatio",
-      "companyId": "caci",
-      "companyName": "CACI International",
+      "id": "spire-global-rss-spire-global-awarded--3m-noaa-contract-extension-f",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Spire Global Awarded $3M NOAA Contract Extension for Hyperspectral Microwave Sounder Data - asdnews.com",
+      "description": "Spire Global Awarded $3M NOAA Contract Extension for Hyperspectral Microwave Sounder Data&nbsp;&nbsp;asdnews.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlJ3OUZBamZJdGFSMWhIb1pLcElkazF5SVFHRTlSdE9wdnlwM3VsMWVzZG1YcWVTdFd6M08wUHpQRUxjYmo5REo3dnozTldySjVmNVNjU21pLXlOVzRTeEpiS3BHSUNIaDNqbkhycU1Ub013NUtWdUhEdE1GN0drbWJveXFEV2RXN1lJVmRMdUhkUDMtdnFMZmFsUWhKSlVDVmhxLTAwZlpiYi0zUnBhV25DdmpwcVd3V3BlVFE1SG91ZHhDTVBnQmVZZ0U?oc=5",
+      "publishedAt": "2026-08-04T20:05:00+00:00",
+      "fetchedAt": "2026-08-05T11:55:25.645451+00:00"
+    },
+    {
+      "id": "spire-global-pr-spire-global-awarded--3-million-noaa-contract-exte",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Spire Global Awarded $3 Million NOAA Contract Extension for Hyperspectral Microwave Sounder Data - uk.finance.yahoo.com",
+      "description": "Press release / announcement from Spire Global",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUU1mRnNKOU82YUpKaWZuV3h1YU84bk1GbGdoOW1hNWFVZGJhbkVFc196VDZxSVNiSXlFUzBmWFVZbU5TMHAwREExaC1sY0VMSjh6QmE0M091UmdqSFFmNnRiMjNHdDIzcklCcWZRYzJCNS1QNWgyb3hwbTRPQ1gySnZ6bW9RQQ?oc=5",
+      "publishedAt": "2026-08-04T20:05:00+00:00",
+      "fetchedAt": "2026-08-05T11:55:27.031895+00:00"
+    },
+    {
+      "id": "seerist-rss-seerist-and-authentic8-partnership-brings-ai-power",
+      "companyId": "seerist",
+      "companyName": "Seerist",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Seerist and Authentic8 Partnership Brings AI-Powered Risk Intelligence to the Silo Marketplace - PRWeb",
+      "description": "Seerist and Authentic8 Partnership Brings AI-Powered Risk Intelligence to the Silo Marketplace&nbsp;&nbsp;PRWeb",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUYzRHB3bkRJLWVjdlRDbWlfZHNZUF9wQVlqUTJmUnNwWHZYaHRka25KeWQ2elZpekM0Y2JTeHZQOGdZT2tvSjNNbVBhckpZM1JKVnQ4OHNDTVo4SEEybS1MSE9WRlJlTlJMaWdYU285LVZ5N1NIdVVEQXljLW43V1NKR1VWSWpDdXY2Z1dPU0VqUDNaazhjYnZ0NnI1Si01SC0zWWhpcXdkakR5Z1dUN2kzdkV4WEtfQzdmM2NoS09iZThBTm5qZktqbEhvaDhqbVAtWVVQNA?oc=5",
+      "publishedAt": "2026-08-04T13:50:00+00:00",
+      "fetchedAt": "2026-08-05T11:53:59.426833+00:00"
+    },
+    {
+      "id": "seerist-pr-seerist-and-authentic8-partnership-brings-ai-power",
+      "companyId": "seerist",
+      "companyName": "Seerist",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "CACI joins Oracle on $400M federal HR modernization contract By Investing.com - Investing.com UK",
-      "description": "Press release / announcement from CACI International",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXhuUlJkc01OMDBKLVVDMWxTaUFIZUtrdmQwYnFqSHJGRFRpWUNBQldzR3RXVV9SXzhTQ2xBOFBlUFc0TTZYSjdDLVE1VlhPbGl0VVFvWkxFOHpfZkpGUFItcmVDNVZHeDZLUmNHSjVyS1FiWVowRDZKYTk4MWlsTF9MLXRieHoyMnBiamFJS1ZZb2ZTdDdyRFB0SGJSUTk5QmJZTWdiR0xucnpQVHZVMWFOMnRSMzlkaE9PdFY5UldIX0x5M3pEUldybU4?oc=5",
-      "publishedAt": "2026-08-03T21:40:31+00:00",
-      "fetchedAt": "2026-08-04T11:59:56.562256+00:00"
+      "title": "Seerist and Authentic8 Partnership Brings AI-Powered Risk Intelligence to the Silo Marketplace - PRWeb",
+      "description": "Press release / announcement from Seerist",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUYzRHB3bkRJLWVjdlRDbWlfZHNZUF9wQVlqUTJmUnNwWHZYaHRka25KeWQ2elZpekM0Y2JTeHZQOGdZT2tvSjNNbVBhckpZM1JKVnQ4OHNDTVo4SEEybS1MSE9WRlJlTlJMaWdYU285LVZ5N1NIdVVEQXljLW43V1NKR1VWSWpDdXY2Z1dPU0VqUDNaazhjYnZ0NnI1Si01SC0zWWhpcXdkakR5Z1dUN2kzdkV4WEtfQzdmM2NoS09iZThBTm5qZktqbEhvaDhqbVAtWVVQNA?oc=5",
+      "publishedAt": "2026-08-04T13:50:00+00:00",
+      "fetchedAt": "2026-08-05T11:54:00.550074+00:00"
     },
     {
-      "id": "palantir-pr-palantir-technologies---q2-2026-earnings-earnings",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Palantir Technologies : Q2 2026 Earnings Earnings Release - marketscreener.com",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWZCa2RKM3RYNUtDTjdHYkRXOWd3bnA4ZVNFWXc3Q243MnlUQ1R6Z1NvY0JNcWo3dEJlTURzZXFIUXhXcy1UOVU3X2M5ODQ0V0hCVi1nelAzZEFOUjQ4b0tSX0xqUUk2T3hZbEFVZ3BFUHBYQjFsYTlzdXpkYXlCT3lmaHFmLTJzejNWVE1sZkdKdmJzbFZiR2ttTERDQWtYb1VHVU56SDRMNWhH?oc=5",
-      "publishedAt": "2026-08-03T21:28:12+00:00",
-      "fetchedAt": "2026-08-04T11:59:03.780824+00:00"
-    },
-    {
-      "id": "caci-pr-caci-wins--500-million-counter-uas-contract-with-s",
-      "companyId": "caci",
-      "companyName": "CACI International",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "CACI Wins $500 Million Counter-UAS Contract with SkyValor Selected for First Task Order - uasweekly.com",
-      "description": "Press release / announcement from CACI International",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRThGdzRkck5KMzNHczFybDFJTjF0WHBMaExaYXRqT0ZZTl82U0ZDWEZMUWkzbmh1OTliVEp4LWdja0R3b1F4UzNKeU5KZ1Rqc1NNQXA3aV9fWldlV2EzbFhkWFBmdVVtZUk2Um84cHdjYnU2NDVHeHh3dHBhM2puOGpxVEtfV0ZKMlZ1RmZNQjR5WTdSNjI5bmVadHJ4UUFRYUxyOWd3ak95bmN3YmR1SDczMG9pdE5Jd0lFZg?oc=5",
-      "publishedAt": "2026-08-03T14:00:22+00:00",
-      "fetchedAt": "2026-08-04T11:59:56.562236+00:00"
-    },
-    {
-      "id": "recorded-future-sensex-today---stock-market-highlights--nifty-jump",
+      "id": "recorded-future-leidos-delivers-strong-second-quarter-and-enhances",
       "companyId": "recorded-future",
       "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "BusinessLine",
-      "title": "Sensex today | Stock Market Highlights: Nifty jumps 391 points to reclaim 24,750; Sensex gains 544 as IT, banks lead rally",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Indian benchmark indices ended sharply higher on Monday, with the BSE Sensex rising 544.39 points (0.70%) to close at 78,639.03, while the Nifty 50 surged 390.70 points (1.60%) to settle at 24,774.30.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-3rd-august-2026/article71298312.ece",
-      "publishedAt": "2026-08-03T10:58:20Z",
-      "fetchedAt": "2026-08-04T11:59:08.566174+00:00"
+      "sourceName": "PRNewswire",
+      "title": "Leidos Delivers Strong Second Quarter and Enhances Full-Year Guidance",
+      "description": "Revenues of $4.6 billion, up 7% year-over-year Net income of $356 million or $2.81 per diluted share Adjusted EBITDA (non-GAAP) of $631 million and Adjusted EBITDA margin (non-GAAP) of 13.8% Non-GAAP Diluted Earnings per Share of $3.26, up 2% year-over-year C\u2026",
+      "url": "https://www.prnewswire.com/news-releases/leidos-delivers-strong-second-quarter-and-enhances-full-year-guidance-302841544.html",
+      "publishedAt": "2026-08-04T10:00:00Z",
+      "fetchedAt": "2026-08-05T11:53:18.704857+00:00"
     }
   ],
-  "generatedAt": "2026-08-04T12:01:49.830317+00:00",
+  "generatedAt": "2026-08-05T11:56:16.105835+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 5
 }
