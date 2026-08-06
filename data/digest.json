@@ -1,72 +1,33 @@
 {
   "articles": [
     {
-      "id": "spire-global-rss-spire-global-awarded--3m-noaa-contract-extension-f",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Spire Global Awarded $3M NOAA Contract Extension for Hyperspectral Microwave Sounder Data - asdnews.com",
-      "description": "Spire Global Awarded $3M NOAA Contract Extension for Hyperspectral Microwave Sounder Data&nbsp;&nbsp;asdnews.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlJ3OUZBamZJdGFSMWhIb1pLcElkazF5SVFHRTlSdE9wdnlwM3VsMWVzZG1YcWVTdFd6M08wUHpQRUxjYmo5REo3dnozTldySjVmNVNjU21pLXlOVzRTeEpiS3BHSUNIaDNqbkhycU1Ub013NUtWdUhEdE1GN0drbWJveXFEV2RXN1lJVmRMdUhkUDMtdnFMZmFsUWhKSlVDVmhxLTAwZlpiYi0zUnBhV25DdmpwcVd3V3BlVFE1SG91ZHhDTVBnQmVZZ0U?oc=5",
-      "publishedAt": "2026-08-04T20:05:00+00:00",
-      "fetchedAt": "2026-08-05T11:55:25.645451+00:00"
-    },
-    {
-      "id": "spire-global-pr-spire-global-awarded--3-million-noaa-contract-exte",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
+      "id": "capella-space-pr-ionq-s-space-division-awarded-nro-radar-commercial",
+      "companyId": "capella-space",
+      "companyName": "Capella Space",
       "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Spire Global Awarded $3 Million NOAA Contract Extension for Hyperspectral Microwave Sounder Data - uk.finance.yahoo.com",
-      "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUU1mRnNKOU82YUpKaWZuV3h1YU84bk1GbGdoOW1hNWFVZGJhbkVFc196VDZxSVNiSXlFUzBmWFVZbU5TMHAwREExaC1sY0VMSjh6QmE0M091UmdqSFFmNnRiMjNHdDIzcklCcWZRYzJCNS1QNWgyb3hwbTRPQ1gySnZ6bW9RQQ?oc=5",
-      "publishedAt": "2026-08-04T20:05:00+00:00",
-      "fetchedAt": "2026-08-05T11:55:27.031895+00:00"
+      "title": "IonQ\u2019s Space Division Awarded NRO Radar Commercial Augmentation Contract - The Quantum Insider",
+      "description": "Press release / announcement from Capella Space",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTFNMkc4a2RhUGtvRGYxc2dweU1kMFZMWE52WEJEZDlrRjBydVhHcWU0MWsyZnVmVndiUXl1NTJUelpZRmF4VXNtdXk2Q3p2c09vd2Zadk1jMERwcC1aenVucy1qeUc3UnBLdHdDOHFGTUFBTThwdUFfQXo0ZHFFU2laUlJSZTM3bkZkN3hmenRfU3RVYzduVkJXZ1VFcEs5ZURqY056VQ?oc=5",
+      "publishedAt": "2026-08-06T07:57:48+00:00",
+      "fetchedAt": "2026-08-06T12:00:27.260424+00:00"
     },
     {
-      "id": "seerist-rss-seerist-and-authentic8-partnership-brings-ai-power",
-      "companyId": "seerist",
-      "companyName": "Seerist",
-      "category": "osint",
+      "id": "capella-space-rss-nro-issues-3-sar-satellite-data-providers--rigorou",
+      "companyId": "capella-space",
+      "companyName": "Capella Space",
+      "category": "satellite",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Seerist and Authentic8 Partnership Brings AI-Powered Risk Intelligence to the Silo Marketplace - PRWeb",
-      "description": "Seerist and Authentic8 Partnership Brings AI-Powered Risk Intelligence to the Silo Marketplace&nbsp;&nbsp;PRWeb",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUYzRHB3bkRJLWVjdlRDbWlfZHNZUF9wQVlqUTJmUnNwWHZYaHRka25KeWQ2elZpekM0Y2JTeHZQOGdZT2tvSjNNbVBhckpZM1JKVnQ4OHNDTVo4SEEybS1MSE9WRlJlTlJMaWdYU285LVZ5N1NIdVVEQXljLW43V1NKR1VWSWpDdXY2Z1dPU0VqUDNaazhjYnZ0NnI1Si01SC0zWWhpcXdkakR5Z1dUN2kzdkV4WEtfQzdmM2NoS09iZThBTm5qZktqbEhvaDhqbVAtWVVQNA?oc=5",
-      "publishedAt": "2026-08-04T13:50:00+00:00",
-      "fetchedAt": "2026-08-05T11:53:59.426833+00:00"
-    },
-    {
-      "id": "seerist-pr-seerist-and-authentic8-partnership-brings-ai-power",
-      "companyId": "seerist",
-      "companyName": "Seerist",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Seerist and Authentic8 Partnership Brings AI-Powered Risk Intelligence to the Silo Marketplace - PRWeb",
-      "description": "Press release / announcement from Seerist",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUYzRHB3bkRJLWVjdlRDbWlfZHNZUF9wQVlqUTJmUnNwWHZYaHRka25KeWQ2elZpekM0Y2JTeHZQOGdZT2tvSjNNbVBhckpZM1JKVnQ4OHNDTVo4SEEybS1MSE9WRlJlTlJMaWdYU285LVZ5N1NIdVVEQXljLW43V1NKR1VWSWpDdXY2Z1dPU0VqUDNaazhjYnZ0NnI1Si01SC0zWWhpcXdkakR5Z1dUN2kzdkV4WEtfQzdmM2NoS09iZThBTm5qZktqbEhvaDhqbVAtWVVQNA?oc=5",
-      "publishedAt": "2026-08-04T13:50:00+00:00",
-      "fetchedAt": "2026-08-05T11:54:00.550074+00:00"
-    },
-    {
-      "id": "recorded-future-leidos-delivers-strong-second-quarter-and-enhances",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "PRNewswire",
-      "title": "Leidos Delivers Strong Second Quarter and Enhances Full-Year Guidance",
-      "description": "Revenues of $4.6 billion, up 7% year-over-year Net income of $356 million or $2.81 per diluted share Adjusted EBITDA (non-GAAP) of $631 million and Adjusted EBITDA margin (non-GAAP) of 13.8% Non-GAAP Diluted Earnings per Share of $3.26, up 2% year-over-year C\u2026",
-      "url": "https://www.prnewswire.com/news-releases/leidos-delivers-strong-second-quarter-and-enhances-full-year-guidance-302841544.html",
-      "publishedAt": "2026-08-04T10:00:00Z",
-      "fetchedAt": "2026-08-05T11:53:18.704857+00:00"
+      "title": "NRO issues 3 SAR satellite data providers \u2018rigorous\u2019 new contracts - Breaking Defense",
+      "description": "NRO issues 3 SAR satellite data providers \u2018rigorous\u2019 new contracts&nbsp;&nbsp;Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0N4OGhjSEdGVlJzdXl5RE92QWwwV2FaNV9VcFUxQnBtX2gwVEtDNER5aXFKYzUwV0N2Y2FaZS1vLTB5UWQ2SUxYSGg5WU83aHhycDR5ZzV5X3hmX1FrM1dhbUtoX0tKT2pVcktBOUkyWUxBWUo5ZGNhb0Y0WWtjdnI1dFptTlYyaHZQbDZSYl9WUDZRNnB6RWwwb1NsekRkUmN3?oc=5",
+      "publishedAt": "2026-08-05T20:30:57+00:00",
+      "fetchedAt": "2026-08-06T12:00:26.092377+00:00"
     }
   ],
-  "generatedAt": "2026-08-05T11:56:16.105835+00:00",
+  "generatedAt": "2026-08-06T12:01:47.592500+00:00",
   "periodHours": 28,
-  "count": 5
+  "count": 2
 }
