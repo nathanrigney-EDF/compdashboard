@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "satellogic-pr-satellogic-cfo-rick-dunn-to-step-down-following-tr",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Satellogic CFO Rick Dunn to step down following transition period - Investing.com",
+      "description": "Press release / announcement from Satellogic",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGpreXppOU41dTJ1UjNQUjVJU3BtbGxnMXZfbkkyR0R1VFpCY2U4VUxfd2IxMGdiMmZCbS0wN2pIY01VNWV1NzJac1pZdUJwOW9OUkY1TnlROHB5S1NjYnBoMVd1aHRMT043aFpTc00xVzRlT293eHRBZHcyMDJVUWV5YmFSaVBoM1NMZTh4Y2szMmRnSWNoNjFORjFGaFg0TDhXMTJibVpPOEl2MFdzUTBSbWRDOUdmQ1NURElR?oc=5",
+      "publishedAt": "2026-08-06T23:19:31+00:00",
+      "fetchedAt": "2026-08-07T10:47:27.373047+00:00"
+    },
+    {
+      "id": "wyvern-pr-airsprint-maintains-wyvern-wingman-pro-status---pr",
+      "companyId": "wyvern",
+      "companyName": "Wyvern",
+      "category": "geoint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "AirSprint maintains Wyvern Wingman Pro status - privatejetcardcomparisons.com",
+      "description": "Press release / announcement from Wyvern",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVYzRkI0SWY3UUtCbjdOZE1kNmQ4NVozRFg4S2UzS1ZxbU8yMDNaTVF4cWVnaW9NRDRiXy1tRGNfOUdFUDIzUzFXdFRaOFREZEI0cnU0Zl8xYk9DTVg1WWlxZmFMV0FyZUtidzl3MlNyak9tR0hZTjN5eWdqaVd0cEd1R2c4b21Z?oc=5",
+      "publishedAt": "2026-08-06T14:31:40+00:00",
+      "fetchedAt": "2026-08-07T10:48:03.958552+00:00"
+    },
+    {
+      "id": "blacksky-pr-press-release--blacksky-reports-second-quarter-202",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Press Release: BlackSky Reports Second Quarter 2026 Results - Moomoo",
+      "description": "Press release / announcement from BlackSky Technology",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGVGQ19CZFpjT0hBSVI3MjU1SGJHenZxZ2thNC1pOHdFa3NfWXQ5TDRXRGE3UWtST09yN2tjM0hSbkl3Ti1yeHdialVKc2EtN3BVRzVIWGE2LVQzSFI3RUkxSTc0ZHFvNTJfR3lfRmhKSzdRVzZUOW44b0RXTk5JVi10NGswMGR2Ry1ZX2pLU0pVcW5DcFZQSzE4UHcyelZJeUtNcVZuODhDYS1Xci16ZGlNVXVIMDZ2aXdTTnFHNjhCMnNfMGg4dHdSUktxUFVf?oc=5",
+      "publishedAt": "2026-08-06T11:00:00+00:00",
+      "fetchedAt": "2026-08-07T10:47:17.587261+00:00"
+    },
+    {
+      "id": "recorded-future-space-systems-as-targets-and-tools-for-cyberattack",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Kaspersky.com",
+      "title": "Space systems as\u00a0targets and tools for\u00a0cyberattacks",
+      "description": "A retrospective analysis of incidents related to information security of space systems provides valuable information for identifying hidden vulnerabilities and improving the resilience of space infrastructure.",
+      "url": "https://ics-cert.kaspersky.com/publications/reports/2026/08/06/space-systems-as-targets-and-tools-for-cyberattacks/?utm_source=ics-cert.kaspersky.com&utm_mediumrss&utm_campaignmain",
+      "publishedAt": "2026-08-06T09:00:00Z",
+      "fetchedAt": "2026-08-07T10:46:04.238416+00:00"
+    },
+    {
       "id": "capella-space-pr-ionq-s-space-division-awarded-nro-radar-commercial",
       "companyId": "capella-space",
       "companyName": "Capella Space",
@@ -11,23 +63,10 @@
       "description": "Press release / announcement from Capella Space",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTFNMkc4a2RhUGtvRGYxc2dweU1kMFZMWE52WEJEZDlrRjBydVhHcWU0MWsyZnVmVndiUXl1NTJUelpZRmF4VXNtdXk2Q3p2c09vd2Zadk1jMERwcC1aenVucy1qeUc3UnBLdHdDOHFGTUFBTThwdUFfQXo0ZHFFU2laUlJSZTM3bkZkN3hmenRfU3RVYzduVkJXZ1VFcEs5ZURqY056VQ?oc=5",
       "publishedAt": "2026-08-06T07:57:48+00:00",
-      "fetchedAt": "2026-08-06T12:00:27.260424+00:00"
-    },
-    {
-      "id": "capella-space-rss-nro-issues-3-sar-satellite-data-providers--rigorou",
-      "companyId": "capella-space",
-      "companyName": "Capella Space",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "NRO issues 3 SAR satellite data providers \u2018rigorous\u2019 new contracts - Breaking Defense",
-      "description": "NRO issues 3 SAR satellite data providers \u2018rigorous\u2019 new contracts&nbsp;&nbsp;Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0N4OGhjSEdGVlJzdXl5RE92QWwwV2FaNV9VcFUxQnBtX2gwVEtDNER5aXFKYzUwV0N2Y2FaZS1vLTB5UWQ2SUxYSGg5WU83aHhycDR5ZzV5X3hmX1FrM1dhbUtoX0tKT2pVcktBOUkyWUxBWUo5ZGNhb0Y0WWtjdnI1dFptTlYyaHZQbDZSYl9WUDZRNnB6RWwwb1NsekRkUmN3?oc=5",
-      "publishedAt": "2026-08-05T20:30:57+00:00",
-      "fetchedAt": "2026-08-06T12:00:26.092377+00:00"
+      "fetchedAt": "2026-08-07T10:47:19.956519+00:00"
     }
   ],
-  "generatedAt": "2026-08-06T12:01:47.592500+00:00",
+  "generatedAt": "2026-08-07T10:48:24.721937+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 5
 }
