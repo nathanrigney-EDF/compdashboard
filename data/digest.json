@@ -1,72 +1,33 @@
 {
   "articles": [
     {
-      "id": "satellogic-pr-satellogic-cfo-rick-dunn-to-step-down-following-tr",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Satellogic CFO Rick Dunn to step down following transition period - Investing.com",
-      "description": "Press release / announcement from Satellogic",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGpreXppOU41dTJ1UjNQUjVJU3BtbGxnMXZfbkkyR0R1VFpCY2U4VUxfd2IxMGdiMmZCbS0wN2pIY01VNWV1NzJac1pZdUJwOW9OUkY1TnlROHB5S1NjYnBoMVd1aHRMT043aFpTc00xVzRlT293eHRBZHcyMDJVUWV5YmFSaVBoM1NMZTh4Y2szMmRnSWNoNjFORjFGaFg0TDhXMTJibVpPOEl2MFdzUTBSbWRDOUdmQ1NURElR?oc=5",
-      "publishedAt": "2026-08-06T23:19:31+00:00",
-      "fetchedAt": "2026-08-07T10:47:27.373047+00:00"
-    },
-    {
-      "id": "wyvern-pr-airsprint-maintains-wyvern-wingman-pro-status---pr",
-      "companyId": "wyvern",
-      "companyName": "Wyvern",
-      "category": "geoint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "AirSprint maintains Wyvern Wingman Pro status - privatejetcardcomparisons.com",
-      "description": "Press release / announcement from Wyvern",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVYzRkI0SWY3UUtCbjdOZE1kNmQ4NVozRFg4S2UzS1ZxbU8yMDNaTVF4cWVnaW9NRDRiXy1tRGNfOUdFUDIzUzFXdFRaOFREZEI0cnU0Zl8xYk9DTVg1WWlxZmFMV0FyZUtidzl3MlNyak9tR0hZTjN5eWdqaVd0cEd1R2c4b21Z?oc=5",
-      "publishedAt": "2026-08-06T14:31:40+00:00",
-      "fetchedAt": "2026-08-07T10:48:03.958552+00:00"
-    },
-    {
-      "id": "blacksky-pr-press-release--blacksky-reports-second-quarter-202",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Press Release: BlackSky Reports Second Quarter 2026 Results - Moomoo",
-      "description": "Press release / announcement from BlackSky Technology",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGVGQ19CZFpjT0hBSVI3MjU1SGJHenZxZ2thNC1pOHdFa3NfWXQ5TDRXRGE3UWtST09yN2tjM0hSbkl3Ti1yeHdialVKc2EtN3BVRzVIWGE2LVQzSFI3RUkxSTc0ZHFvNTJfR3lfRmhKSzdRVzZUOW44b0RXTk5JVi10NGswMGR2Ry1ZX2pLU0pVcW5DcFZQSzE4UHcyelZJeUtNcVZuODhDYS1Xci16ZGlNVXVIMDZ2aXdTTnFHNjhCMnNfMGg4dHdSUktxUFVf?oc=5",
-      "publishedAt": "2026-08-06T11:00:00+00:00",
-      "fetchedAt": "2026-08-07T10:47:17.587261+00:00"
-    },
-    {
-      "id": "recorded-future-space-systems-as-targets-and-tools-for-cyberattack",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "bigbear-ai-rss-can-bigbear-ai--nyse-bbai--turn-ai-defense-wins-in",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
       "category": "osint",
       "source": "news",
-      "sourceName": "Kaspersky.com",
-      "title": "Space systems as\u00a0targets and tools for\u00a0cyberattacks",
-      "description": "A retrospective analysis of incidents related to information security of space systems provides valuable information for identifying hidden vulnerabilities and improving the resilience of space infrastructure.",
-      "url": "https://ics-cert.kaspersky.com/publications/reports/2026/08/06/space-systems-as-targets-and-tools-for-cyberattacks/?utm_source=ics-cert.kaspersky.com&utm_mediumrss&utm_campaignmain",
-      "publishedAt": "2026-08-06T09:00:00Z",
-      "fetchedAt": "2026-08-07T10:46:04.238416+00:00"
+      "sourceName": "Google News",
+      "title": "Can BigBear.ai (NYSE:BBAI) turn AI defense wins into lasting momentum? - Kalkine Media",
+      "description": "Can BigBear.ai (NYSE:BBAI) turn AI defense wins into lasting momentum?&nbsp;&nbsp;Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0RmN0JVS0lmVnphSzE2NWFvQmx0ZW1fS3BSOUpOdU5OaFBDUWxrSzhWWTF2VVNJNDZyTlhDS3pUU1M3cWRPVm4zTG5kUjV0MkEzN191MjlvcDRBSzdmOVJrUFM5NFROYmZZbGo2RnNYRldtV016OVNGcEZoRGNvdHlZNjBHZU9iSUxrSEVsWURUUnlCX0xnQWlHMjgxdGo1bEF0SXZESm9oZw?oc=5",
+      "publishedAt": "2026-08-07T17:18:00+00:00",
+      "fetchedAt": "2026-08-08T10:24:50.636774+00:00"
     },
     {
-      "id": "capella-space-pr-ionq-s-space-division-awarded-nro-radar-commercial",
-      "companyId": "capella-space",
-      "companyName": "Capella Space",
+      "id": "umbra-rss-nro-selects-capella--iceye-us--umbra-for-commercia",
+      "companyId": "umbra",
+      "companyName": "Umbra",
       "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "IonQ\u2019s Space Division Awarded NRO Radar Commercial Augmentation Contract - The Quantum Insider",
-      "description": "Press release / announcement from Capella Space",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTFNMkc4a2RhUGtvRGYxc2dweU1kMFZMWE52WEJEZDlrRjBydVhHcWU0MWsyZnVmVndiUXl1NTJUelpZRmF4VXNtdXk2Q3p2c09vd2Zadk1jMERwcC1aenVucy1qeUc3UnBLdHdDOHFGTUFBTThwdUFfQXo0ZHFFU2laUlJSZTM3bkZkN3hmenRfU3RVYzduVkJXZ1VFcEs5ZURqY056VQ?oc=5",
-      "publishedAt": "2026-08-06T07:57:48+00:00",
-      "fetchedAt": "2026-08-07T10:47:19.956519+00:00"
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "NRO selects Capella, ICEYE US, Umbra for commercial radar augmentation program - Military Aerospace",
+      "description": "NRO selects Capella, ICEYE US, Umbra for commercial radar augmentation program&nbsp;&nbsp;Military Aerospace",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3htTUtiMEJ6VFBCcW5nTHFfbEowQUFyRFA2cUVEbmZFdk4tdDNfQ3lTaU1qd2NsTkc4TXVPRzcyUEcxcEthOGtvX05fUXdCQ1lKaVNfSER1ejRxWDhjeE95LTFpZGJjaDZuZkRxdVdodk9WVm9iWEZDelN0SDB0WUFhY2hFdkV5ZFB5RVhDRTRiRl95aXc1WmtPNFhVa283enZ6VDdHRXdJWUJ5ODRsdC1QOE03YWlBWjFWTjh6emxYNllxZ2FqQVh2Tko?oc=5",
+      "publishedAt": "2026-08-07T08:01:53+00:00",
+      "fetchedAt": "2026-08-08T10:25:55.259590+00:00"
     }
   ],
-  "generatedAt": "2026-08-07T10:48:24.721937+00:00",
+  "generatedAt": "2026-08-08T10:26:57.838284+00:00",
   "periodHours": 28,
-  "count": 5
+  "count": 2
 }
