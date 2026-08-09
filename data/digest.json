@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "bigbear-ai-rss-can-bigbear-ai--nyse-bbai--turn-ai-defense-wins-in",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Can BigBear.ai (NYSE:BBAI) turn AI defense wins into lasting momentum? - Kalkine Media",
-      "description": "Can BigBear.ai (NYSE:BBAI) turn AI defense wins into lasting momentum?&nbsp;&nbsp;Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0RmN0JVS0lmVnphSzE2NWFvQmx0ZW1fS3BSOUpOdU5OaFBDUWxrSzhWWTF2VVNJNDZyTlhDS3pUU1M3cWRPVm4zTG5kUjV0MkEzN191MjlvcDRBSzdmOVJrUFM5NFROYmZZbGo2RnNYRldtV016OVNGcEZoRGNvdHlZNjBHZU9iSUxrSEVsWURUUnlCX0xnQWlHMjgxdGo1bEF0SXZESm9oZw?oc=5",
-      "publishedAt": "2026-08-07T17:18:00+00:00",
-      "fetchedAt": "2026-08-08T10:24:50.636774+00:00"
-    },
-    {
-      "id": "umbra-rss-nro-selects-capella--iceye-us--umbra-for-commercia",
-      "companyId": "umbra",
-      "companyName": "Umbra",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "NRO selects Capella, ICEYE US, Umbra for commercial radar augmentation program - Military Aerospace",
-      "description": "NRO selects Capella, ICEYE US, Umbra for commercial radar augmentation program&nbsp;&nbsp;Military Aerospace",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3htTUtiMEJ6VFBCcW5nTHFfbEowQUFyRFA2cUVEbmZFdk4tdDNfQ3lTaU1qd2NsTkc4TXVPRzcyUEcxcEthOGtvX05fUXdCQ1lKaVNfSER1ejRxWDhjeE95LTFpZGJjaDZuZkRxdVdodk9WVm9iWEZDelN0SDB0WUFhY2hFdkV5ZFB5RVhDRTRiRl95aXc1WmtPNFhVa283enZ6VDdHRXdJWUJ5ODRsdC1QOE03YWlBWjFWTjh6emxYNllxZ2FqQVh2Tko?oc=5",
-      "publishedAt": "2026-08-07T08:01:53+00:00",
-      "fetchedAt": "2026-08-08T10:25:55.259590+00:00"
-    }
-  ],
-  "generatedAt": "2026-08-08T10:26:57.838284+00:00",
+  "articles": [],
+  "generatedAt": "2026-08-09T10:30:10.312631+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
