@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": "2026-08-09T10:30:10.312631+00:00",
+  "articles": [
+    {
+      "id": "bigbear-ai-pr-bigbear-ai-announces-appointments-of-jo-ann-bjorns",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai Announces Appointments of Jo Ann Bjornson as Chief Hum - The National Law Review",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUG5sLVZQVE1CZDlVZ0pkVEhyMktyblAzTFktdHRCam9HY0t4NS1QdURldFljc0hfZXJPaFY0OWpiS21IVlVXSHFWYW9KUmhjTG14dHFYYW15X2ZWSlFUY0V4cllqcXRjamFqWVQtLVV3SXNtYjloZXhjNGhVMHJTSTV3aU41SkV6Tjhid3VFZFNUM2dJRWVUTW95ak9URXEzVzc2LTBQRmtyX3NOOE9tVUY1YWg?oc=5",
+      "publishedAt": "2026-08-09T10:41:01+00:00",
+      "fetchedAt": "2026-08-10T11:01:59.642350+00:00"
+    },
+    {
+      "id": "recorded-future-week-in-review--cisco-fixes-imc-bug--patch-tuesday",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Help Net Security",
+      "title": "Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026",
+      "description": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Mapping the malware blast radius a single alert won\u2019t show you In this interview with Help Net Security, Mike Wiacek, founder and CTO of Stairwell, explains Back\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/08/09/week-in-review-cisco-fixes-imc-bug-patch-tuesday-forecast-black-hat-usa-2026/",
+      "publishedAt": "2026-08-09T08:00:30Z",
+      "fetchedAt": "2026-08-10T11:01:45.847846+00:00"
+    }
+  ],
+  "generatedAt": "2026-08-10T11:03:43.317142+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
