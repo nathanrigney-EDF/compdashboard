@@ -1,46 +1,46 @@
 {
   "articles": [
     {
-      "id": "blacksky-pr-blacksky-wins-seven-figure--multi-year-internation",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
+      "id": "spire-global-rss-spire-global-inc--spir---q2-2026--earnings-call-hi",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
       "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BlackSky Wins Seven-Figure, Multi-Year International Contract for Combined Assured and On-Demand Subscriptions - Business Wire",
-      "description": "Press release / announcement from BlackSky Technology",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObDM3amxQNXRGeTk0cDBNbmFEYlhsQnJTeFpyelA2Snk5RVhvLVdtbmZndDRHaDJaX21NRzZsYzN5eHd6NUl3RjVzb2prbG5OSFR6alN4SFlHN1p3MndMMl9kR2ZpWUhMcVFBblc4RDR5SUxEVjNCN0ZCNng4b1B4SXFDVGZMbkdMNkdNcVhZdS1jTXkwanNDTzBnWGwyZXVZa3RhWl91aFJfS2l5TmRQTnNOU2QydlpISlN0RzRjQzVpNnJrNWtKTy15SzJHbENKYmdjb2t4NEhsaEFHSzZKb01HRHdoNGVoNjNMRFNneHQwRkY5dTBQV2xn?oc=5",
-      "publishedAt": "2026-08-11T12:30:00+00:00",
-      "fetchedAt": "2026-08-12T10:57:04.620320+00:00"
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Spire Global Inc (SPIR) (Q2 2026) Earnings Call Highlights: Strong Core Revenue Growth and ... - Yahoo Finance UK",
+      "description": "Spire Global Inc (SPIR) (Q2 2026) Earnings Call Highlights: Strong Core Revenue Growth and ...&nbsp;&nbsp;Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xYWF0Z1VUdEpFdHhJVlZFaU9RSVA3TFpDMEZBaS1aOVVQZHAwUTFvU2I5eFhybXgwX2Q5TzlYMzhxUVczY3R0SXgtUkhzejl2elBySDNBdG83VGp3QjJTR0dDbUFzaUFWUzU1OG1YZ3JIcXJURUtkdEpkczZwZw?oc=5",
+      "publishedAt": "2026-08-13T05:01:00+00:00",
+      "fetchedAt": "2026-08-13T10:58:27.725065+00:00"
     },
     {
-      "id": "satellogic-rss-satellogic-satellite-seller-turns-profitable---new",
+      "id": "spire-global-rss-earnings-call-transcript--spire-global-posts-mixed",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Earnings call transcript: Spire Global posts mixed Q2 2026 results as stock falls - Investing.com",
+      "description": "Earnings call transcript: Spire Global posts mixed Q2 2026 results as stock falls&nbsp;&nbsp;Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTgwQ1lSUVJZX1FWYmZHSUlyUTNDdFVYTGh1TV8xcjdwOXFSOHdoSjZCdmIwX0pBMVZNXzRhTmpkQTlfSTVieS0tUE9WWHIxaU1mcFl1UnBxdUNEN0p3RVBaQlhCaUZiVXJhTFpaYWJweUNzbEpJUmVDUktzOXpXTEYtVEgwQVpYUzk2bUlBbElfWXlqeDEybkR0S0xfc3JGRzJnZ1dZV2hpdlc2ZkJ2dExlbXE5eDhQdXR1ejNmUFZVSHQ0WUFNSDN0RVFRcEg0NGc?oc=5",
+      "publishedAt": "2026-08-12T22:11:22+00:00",
+      "fetchedAt": "2026-08-13T10:58:27.725091+00:00"
+    },
+    {
+      "id": "satellogic-rss-satellogic-reaches-financial-turnaround-with-first",
       "companyId": "satellogic",
       "companyName": "Satellogic",
       "category": "satellite",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Satellogic satellite seller turns profitable - News Freedom Broker - Freedom Broker",
-      "description": "Satellogic satellite seller turns profitable - News Freedom Broker&nbsp;&nbsp;Freedom Broker",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFAwanNHV1FhWGJZbF9RcWwtYnRld0x2NFF3VC1aUW0yQm1sVXdDaHdBZFQ0UFpBVVh0WkNDdm5sZlkxdFBZR2x5NXNubGxadGE1cEM2MkVMUUVUYVRYQzlzNHlGZUFLWnZqMkZzbEFQREwtcl84SkFYTGg3cHkxS0F1TUhOcThmMEFIVXVlcVRLc3JIU0NKeTUxWTNXdw?oc=5",
-      "publishedAt": "2026-08-11T10:22:41+00:00",
-      "fetchedAt": "2026-08-12T10:57:43.471627+00:00"
-    },
-    {
-      "id": "recorded-future-inturai-expands-critical-infrastructure-security-c",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "PRNewswire",
-      "title": "INTURAI EXPANDS CRITICAL INFRASTRUCTURE SECURITY CAPABILITIES THROUGH PROPOSED DOMECOMMAND ACQUISITION AS GLOBAL COUNTER-UAS FOCUS INTENSIFIES",
-      "description": "(CSE: URAI / OTC: URAIF / FSE: 3QG0) investor@inturai.com Highlights German authorities are investigating an explosives-laden drone discovered at Leipzig/Halle Airport, one of Europe's largest cargo and logistics hubs, an incident that officials have describe\u2026",
-      "url": "https://www.prnewswire.com/news-releases/inturai-expands-critical-infrastructure-security-capabilities-through-proposed-domecommand-acquisition-as-global-counter-uas-focus-intensifies-302847777.html",
-      "publishedAt": "2026-08-11T07:01:00Z",
-      "fetchedAt": "2026-08-12T10:55:20.880884+00:00"
+      "title": "Satellogic Reaches Financial Turnaround with First Positive Q2 Operating Income and EBITDA - satnews.com",
+      "description": "Satellogic Reaches Financial Turnaround with First Positive Q2 Operating Income and EBITDA&nbsp;&nbsp;satnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVdNdjQ5R0FmUmJ5cjdWVWhDcW9vSE9LMmsxejFUTmFNY2dRTDhvVWNucGpEV01TWFNoWmdNOGtXRTgySmpqSmdmcnhmWVVsOXBGeVVZLWdMZElUczF6MHhqVl9RUkNORjlMRWxoMTJJYm9fNmVwdEt4SnYtaWIxN2FlQVlwOGVLQ0p4bG5XU281MUl1YUlhc3B2YVZDOWs1eGtZR01BS0V3MUp0d0h0dXNQbFV1QXBLQ0c3ekR6UQ?oc=5",
+      "publishedAt": "2026-08-12T14:15:44+00:00",
+      "fetchedAt": "2026-08-13T10:58:02.997651+00:00"
     }
   ],
-  "generatedAt": "2026-08-12T10:58:27.284002+00:00",
+  "generatedAt": "2026-08-13T10:59:16.458947+00:00",
   "periodHours": 28,
   "count": 3
 }
