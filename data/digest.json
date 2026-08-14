@@ -1,46 +1,20 @@
 {
   "articles": [
     {
-      "id": "spire-global-rss-spire-global-inc--spir---q2-2026--earnings-call-hi",
+      "id": "spire-global-pr-spire-global-awarded--3-7-million-noaa-contract-fo",
       "companyId": "spire-global",
       "companyName": "Spire Global",
       "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Spire Global Inc (SPIR) (Q2 2026) Earnings Call Highlights: Strong Core Revenue Growth and ... - Yahoo Finance UK",
-      "description": "Spire Global Inc (SPIR) (Q2 2026) Earnings Call Highlights: Strong Core Revenue Growth and ...&nbsp;&nbsp;Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xYWF0Z1VUdEpFdHhJVlZFaU9RSVA3TFpDMEZBaS1aOVVQZHAwUTFvU2I5eFhybXgwX2Q5TzlYMzhxUVczY3R0SXgtUkhzejl2elBySDNBdG83VGp3QjJTR0dDbUFzaUFWUzU1OG1YZ3JIcXJURUtkdEpkczZwZw?oc=5",
-      "publishedAt": "2026-08-13T05:01:00+00:00",
-      "fetchedAt": "2026-08-13T10:58:27.725065+00:00"
-    },
-    {
-      "id": "spire-global-rss-earnings-call-transcript--spire-global-posts-mixed",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Earnings call transcript: Spire Global posts mixed Q2 2026 results as stock falls - Investing.com",
-      "description": "Earnings call transcript: Spire Global posts mixed Q2 2026 results as stock falls&nbsp;&nbsp;Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTgwQ1lSUVJZX1FWYmZHSUlyUTNDdFVYTGh1TV8xcjdwOXFSOHdoSjZCdmIwX0pBMVZNXzRhTmpkQTlfSTVieS0tUE9WWHIxaU1mcFl1UnBxdUNEN0p3RVBaQlhCaUZiVXJhTFpaYWJweUNzbEpJUmVDUktzOXpXTEYtVEgwQVpYUzk2bUlBbElfWXlqeDEybkR0S0xfc3JGRzJnZ1dZV2hpdlc2ZkJ2dExlbXE5eDhQdXR1ejNmUFZVSHQ0WUFNSDN0RVFRcEg0NGc?oc=5",
-      "publishedAt": "2026-08-12T22:11:22+00:00",
-      "fetchedAt": "2026-08-13T10:58:27.725091+00:00"
-    },
-    {
-      "id": "satellogic-rss-satellogic-reaches-financial-turnaround-with-first",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic Reaches Financial Turnaround with First Positive Q2 Operating Income and EBITDA - satnews.com",
-      "description": "Satellogic Reaches Financial Turnaround with First Positive Q2 Operating Income and EBITDA&nbsp;&nbsp;satnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVdNdjQ5R0FmUmJ5cjdWVWhDcW9vSE9LMmsxejFUTmFNY2dRTDhvVWNucGpEV01TWFNoWmdNOGtXRTgySmpqSmdmcnhmWVVsOXBGeVVZLWdMZElUczF6MHhqVl9RUkNORjlMRWxoMTJJYm9fNmVwdEt4SnYtaWIxN2FlQVlwOGVLQ0p4bG5XU281MUl1YUlhc3B2YVZDOWs1eGtZR01BS0V3MUp0d0h0dXNQbFV1QXBLQ0c3ekR6UQ?oc=5",
-      "publishedAt": "2026-08-12T14:15:44+00:00",
-      "fetchedAt": "2026-08-13T10:58:02.997651+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Spire Global Awarded $3.7 Million NOAA Contract for Satellite Weather Data - Yahoo Finance Singapore",
+      "description": "Press release / announcement from Spire Global",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xXzljLU15b1F0SjRaVVJCdklBOF9FTGE1cHZPQzhUUGRnYWN6alBHY3ZHcktta1Z6emZFb2swTVZIZXl1WlJPMDFPa0lEdjVhUUJRWXJWaXJab2FFVmU0Q0kxbGd6M2NMdVZtbE41N29zMkdIS3E4S01GQkNGZw?oc=5",
+      "publishedAt": "2026-08-14T10:45:00+00:00",
+      "fetchedAt": "2026-08-14T10:54:23.757129+00:00"
     }
   ],
-  "generatedAt": "2026-08-13T10:59:16.458947+00:00",
+  "generatedAt": "2026-08-14T10:54:42.707014+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 1
 }
