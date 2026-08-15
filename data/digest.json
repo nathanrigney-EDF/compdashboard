@@ -11,10 +11,23 @@
       "description": "Press release / announcement from Spire Global",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xXzljLU15b1F0SjRaVVJCdklBOF9FTGE1cHZPQzhUUGRnYWN6alBHY3ZHcktta1Z6emZFb2swTVZIZXl1WlJPMDFPa0lEdjVhUUJRWXJWaXJab2FFVmU0Q0kxbGd6M2NMdVZtbE41N29zMkdIS3E4S01GQkNGZw?oc=5",
       "publishedAt": "2026-08-14T10:45:00+00:00",
-      "fetchedAt": "2026-08-14T10:54:23.757129+00:00"
+      "fetchedAt": "2026-08-15T10:17:42.376671+00:00"
+    },
+    {
+      "id": "spire-global-rss-spire-global--spir--q2-2026-earnings-call--guidanc",
+      "companyId": "spire-global",
+      "companyName": "Spire Global",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Spire Global (SPIR) Q2 2026 Earnings Call: Guidance Reaffirmed as NOAA Pipeline Advances - TradingKey",
+      "description": "Spire Global (SPIR) Q2 2026 Earnings Call: Guidance Reaffirmed as NOAA Pipeline Advances&nbsp;&nbsp;TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZT003OERiVTBLWV9md3VNUjE0RTNSejBNNlVWS3RYcm1obDdNU2YzLU9aODN4YkJlemdQUDBXTEc3M3pPcXdkSkZQNWQ2YVk4UDhyUTlZRjJPbjBkUXBPQ0RKZXFQQ0R5VmZQZmdLZUZ3UQ?oc=5",
+      "publishedAt": "2026-08-14T08:38:58+00:00",
+      "fetchedAt": "2026-08-15T10:17:41.170629+00:00"
     }
   ],
-  "generatedAt": "2026-08-14T10:54:42.707014+00:00",
+  "generatedAt": "2026-08-15T10:18:16.502288+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
