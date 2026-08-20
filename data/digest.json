@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "l3harris-pr-l3harris-appoints-sam-mehta-as-president-and-ceo-f",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris appoints Sam Mehta as president and CEO following Kubasik\u2019s exit - Defensehere",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0ZVdXc0cnpSczFzMnFnRWJqaDBpbmM0TkhFRHoxamt5V1NkVS1KV21TNzJWc05kN3VRczRldVFrOUdicE5iVFNhQzFnTXR6T2NlcFRmRGlIY0lSRGVaal9hSDFLdjZXVWdlTE55Tm96NmxZRkZIVnpVVFVsUHZmNjBXVnFJTkVQQnFR?oc=5",
-      "publishedAt": "2026-08-18T21:34:37+00:00",
-      "fetchedAt": "2026-08-19T10:23:18.545098+00:00"
-    }
-  ],
-  "generatedAt": "2026-08-19T10:23:41.174550+00:00",
+  "articles": [],
+  "generatedAt": "2026-08-20T10:25:26.208101+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
