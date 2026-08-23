@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "heo-pr-cyber-gear-launches-report-on-hybrid-engine-optimi",
-      "companyId": "heo",
-      "companyName": "HEO",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Cyber Gear Launches Report On Hybrid Engine Optimization - Press Release Network",
-      "description": "Press release / announcement from HEO",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEtqUDVjTDJVWGZ4aGt0YnB6NXljUGNYeWE3NjB1dVFOdlZnMnZrYXdJdE11aHZTYlRVUU9GaENGVF8tZmJ0UTd4N3l0WlB1RmlNZW5neGcwa2xxblpfRUNJQ3UyWnhzVE80R1dfOXVVVE5ON2dvVDZOQTZlQXd4a2k4N2x0T3dzVld6dUdvaW1NNU4weWpSVmlLek5oaTBoQ1U1akF1UHU?oc=5",
-      "publishedAt": "2026-08-21T08:45:18+00:00",
-      "fetchedAt": "2026-08-21T10:24:53.394979+00:00"
-    }
-  ],
-  "generatedAt": "2026-08-22T10:19:18.607883+00:00",
+  "articles": [],
+  "generatedAt": "2026-08-23T10:19:28.531321+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
