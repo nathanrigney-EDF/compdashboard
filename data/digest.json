@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-08-24T10:33:40.788390+00:00",
+  "articles": [
+    {
+      "id": "heo-pr-maisonje-launches-the-heo-edition--reimagined-work",
+      "companyId": "heo",
+      "companyName": "HEO",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Maisonje Launches The Heo Edition: Reimagined Workday Essentials for the Petite Professional - The National Law Review",
+      "description": "Press release / announcement from HEO",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzdKYUppUDF1UDlsd1lQenBuQUs3V0c0WC1tdFBSRlNjeGVyMDZybnJPbDk0ejhrUFl0VDdjNEo3cU5fdFhRQU5pZmRWbHNxcVdRWjNHaWZScFk0eTRtUDB1V3phSFp0RGs4UlJNUlU4QTBsU2ExSUVGX21HX0xzalAyQWhJTThkRFZsc3R2a294dFFjQmdjZEdSOFhXQkpXV0tYX0JadU15dw?oc=5",
+      "publishedAt": "2026-08-24T18:24:42+00:00",
+      "fetchedAt": "2026-08-25T10:25:49.592539+00:00"
+    }
+  ],
+  "generatedAt": "2026-08-25T10:26:58.733435+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
