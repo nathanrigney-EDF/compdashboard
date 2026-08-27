@@ -1,46 +1,59 @@
 {
   "articles": [
     {
-      "id": "satellogic-pr-satellogic-to-meet-with-media--investors--and-part",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Satellogic to Meet with Media, Investors, and Partners in New York, Washington, D.C., San Francisco, London, and Paris Ahead of World Space Business Week - The Manila Times",
-      "description": "Press release / announcement from Satellogic",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNRlFia01jLTUycU82UGZsRm8tVjZsYkdsQ0daeXc1RjZubmZBNG0wbnN2QTRNcGwwcWhfOUhzQjZ2UmtUZGpURVM2U2VLZFROTmIyMVB1SnpBTzV1SDItSVJxN21JWkVKR2lyUzNzekUxSmYtZVlIZTNDVkR6NUhEMDY5cE1LNzZiQ1NmaG8zdnN2TmQxakxjdEg2WkNYRHNCWUM0dmd3OGhiV1lTZTB0ZGNCQnZXcXNpQkxpeFQ3c0hleWJGRF9GQzJ6b0RoTFUtbnJrUVplbU1LZk1XakZyLVFydDlMeWY5ZnBQT1pWbnBpMFpYV25fRDF2WGdONXM0VldFdTIzRHVid2RhWXRrY0hncHdLbVJYa3VpXzEycHdmNHRYMnU0MmlhNWRnc0JkNl9zUC1SUnZfQ05oV1pn0gHEAkFVX3lxTFBneTRZS0pzLVkwSldMMlB4SGVBTHNhdTBJZm0xdkdLcDdiQU41MXlfazFwN3JCVkJBS202QjRJekRvX0sxZmFjU3lGSHN2SlVjaTJPcmRid1BNaGZ2c2VzNkRIUDNVbUdBSHpMTGpiUS0zcmU4aVEyc3VtWF9yVi1qS0xXclhzQXN3VC1UR1F5WlRXalFzLU03SUpXYk1uQTR0ZjlKSGRVZzllNVJnZVNfMV9jakdsVVZUc1czNzh6NUxveG41dGJHZTRiOGR6WGZWeXZmcmk1N1lkTlZOQVR6ZW1fR0R6VHptalFSRjVtRGtwLUNJdmI2UlhUZlpWWmx2Mm1udnIyZlAydVNJTTVxem1NcnNqM3RrWjBCNlJ3bi04dks1UlZfQ2otaDdJeVpFem1rYjlfUGpVbjdVTFN6ZHZ3Yg?oc=5",
-      "publishedAt": "2026-08-25T12:48:32+00:00",
-      "fetchedAt": "2026-08-26T10:30:19.559597+00:00"
-    },
-    {
-      "id": "spire-global-pr-eumetsat-awards-spire-global--4-million-one-year-c",
-      "companyId": "spire-global",
-      "companyName": "Spire Global",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "EUMETSAT Awards Spire Global \u20ac4 Million One-Year Contract Renewal and Expansion for Satellite Weather Data - Yahoo Finance Singapore",
-      "description": "Press release / announcement from Spire Global",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzdmUE9NWHBGcVlCTUlTc2ZNNFBhSlZyMWk4eDdXQUdiRGpOVXdxLW5CZGRBb0lobFJOUnBiNlBGQ0diUlREaEV2aEM2TVlZdFBmZUxjR0NPeUdzX1NmWHlJQk02OHAwN3dxTnYxdG1fZ0FlZjJhRkVpZWN6OEJ4Qm5PZUdTdw?oc=5",
-      "publishedAt": "2026-08-25T10:45:00+00:00",
-      "fetchedAt": "2026-08-26T10:30:46.403060+00:00"
-    },
-    {
-      "id": "recorded-future-bmo-financial-group-reports-third-quarter-2026-res",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "dataminr-rss-dataminr-launches-ai-powered-intelligence-platform",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
       "category": "osint",
       "source": "news",
-      "sourceName": "PRNewswire",
-      "title": "BMO Financial Group Reports Third Quarter 2026 Results",
-      "description": "BMO's Third Quarter 2026 Report to Shareholders, including the unaudited interim consolidated financial statements for the period ended July 31, 2026, are available online at www.bmo.com/investorrelations, on the Canadian Securities Administrators' website at\u2026",
-      "url": "https://www.prnewswire.com/news-releases/bmo-financial-group-reports-third-quarter-2026-results-302859268.html",
-      "publishedAt": "2026-08-25T09:30:00Z",
-      "fetchedAt": "2026-08-26T10:28:31.436365+00:00"
+      "sourceName": "Google News",
+      "title": "Dataminr Launches AI-Powered Intelligence Platform and Wins $318M War Department Contract - Homeland Security Today",
+      "description": "Dataminr Launches AI-Powered Intelligence Platform and Wins $318M War Department Contract&nbsp;&nbsp;Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnF2SnpRMnhYVXhfQ0txdDlyZTRSSkVTSnZOY2xBZElpdjc2ZFRmb2VCTnB5bW1XekNtaFZaaW1JNWhoc2RxN3BmeVpPS1hXbVhMejNhNmtpN1A2ZXlzNkl2cVRsT1BoZTN0Zk9lTWJHVWhPOHlYdmgzbWxjSUF4eDBySU9DYVpqQW5QeGZWNmNQNk80alhzN2N2X3JfN2lpa3pYaTg2OHhUeGN2dmZwWDQ3TnpPd25mV1J4cGQwT1NOUzJ0Z29CeDk0a2d5MVE3?oc=5",
+      "publishedAt": "2026-08-27T16:06:30+00:00",
+      "fetchedAt": "2026-08-27T20:05:48.760893+00:00"
+    },
+    {
+      "id": "dataminr-rss-pentagon-awards--318m-contract-for-dataminr-alerti",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Pentagon awards $318M contract for Dataminr alerting services technology - DefenseScoop",
+      "description": "Pentagon awards $318M contract for Dataminr alerting services technology&nbsp;&nbsp;DefenseScoop",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmJYYi1NS1BvaUlZVDhtOFc1cW9TeDQ1YzFlUF9FTXVXMVE5Q3QyNUljRnEyVk9PcWd1c0VnYm0ySEU2MDhrVThycWE3ZnhJcTlVbjJXaVRQdWVCU2lPTzlPOXVMNFdtTERYOUx3cHhoMWVWZTFWbDZkTnJkaWlLNA?oc=5",
+      "publishedAt": "2026-08-27T15:51:55+00:00",
+      "fetchedAt": "2026-08-27T20:05:48.760868+00:00"
+    },
+    {
+      "id": "dataminr-pr-pentagon-awards--318m-contract-for-dataminr-alerti",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Pentagon awards $318M contract for Dataminr alerting services technology - DefenseScoop",
+      "description": "Press release / announcement from Dataminr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmJYYi1NS1BvaUlZVDhtOFc1cW9TeDQ1YzFlUF9FTXVXMVE5Q3QyNUljRnEyVk9PcWd1c0VnYm0ySEU2MDhrVThycWE3ZnhJcTlVbjJXaVRQdWVCU2lPTzlPOXVMNFdtTERYOUx3cHhoMWVWZTFWbDZkTnJkaWlLNA?oc=5",
+      "publishedAt": "2026-08-27T15:51:55+00:00",
+      "fetchedAt": "2026-08-27T20:05:49.939224+00:00"
+    },
+    {
+      "id": "dataminr-rss-air-force-pays--318m-for-dataminr-ai-that-pre-warn",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Air Force Pays $318M for Dataminr AI That Pre-Warned Police of Protests: No Oversight - Tech Times",
+      "description": "Air Force Pays $318M for Dataminr AI That Pre-Warned Police of Protests: No Oversight&nbsp;&nbsp;Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3l0VVFtNktfR0NNN3k2NVd5THNscnl3OUJIems1bEV4RnczY1BzTDFVN1dMbVFRM1o1QUlXTUkyLUdlWDRyNlZzbVUwVU9tdXhvSzg0bEhaMHJRbE1TbjZ1YUVsSEdJREhkbmVfaHo4WnR0b1U5RkY0aEpLNF9jUDZpaUZFaTdfbjRRcmJKUGdiczJyR1FhemJURzM2cEtCdUlqY0tud2MyQnNtcmVfWGlEUGZXMy02amxKU1J3M2ZBQ24xY0JTbmxRcw?oc=5",
+      "publishedAt": "2026-08-27T13:36:12+00:00",
+      "fetchedAt": "2026-08-27T20:05:48.760911+00:00"
     }
   ],
-  "generatedAt": "2026-08-26T10:31:22.392128+00:00",
+  "generatedAt": "2026-08-27T20:08:24.123007+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 4
 }
