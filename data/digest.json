@@ -1,59 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "dataminr-rss-dataminr-launches-ai-powered-intelligence-platform",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Dataminr Launches AI-Powered Intelligence Platform and Wins $318M War Department Contract - Homeland Security Today",
-      "description": "Dataminr Launches AI-Powered Intelligence Platform and Wins $318M War Department Contract&nbsp;&nbsp;Homeland Security Today",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnF2SnpRMnhYVXhfQ0txdDlyZTRSSkVTSnZOY2xBZElpdjc2ZFRmb2VCTnB5bW1XekNtaFZaaW1JNWhoc2RxN3BmeVpPS1hXbVhMejNhNmtpN1A2ZXlzNkl2cVRsT1BoZTN0Zk9lTWJHVWhPOHlYdmgzbWxjSUF4eDBySU9DYVpqQW5QeGZWNmNQNk80alhzN2N2X3JfN2lpa3pYaTg2OHhUeGN2dmZwWDQ3TnpPd25mV1J4cGQwT1NOUzJ0Z29CeDk0a2d5MVE3?oc=5",
-      "publishedAt": "2026-08-27T16:06:30+00:00",
-      "fetchedAt": "2026-08-27T20:05:48.760893+00:00"
-    },
-    {
-      "id": "dataminr-rss-pentagon-awards--318m-contract-for-dataminr-alerti",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Pentagon awards $318M contract for Dataminr alerting services technology - DefenseScoop",
-      "description": "Pentagon awards $318M contract for Dataminr alerting services technology&nbsp;&nbsp;DefenseScoop",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmJYYi1NS1BvaUlZVDhtOFc1cW9TeDQ1YzFlUF9FTXVXMVE5Q3QyNUljRnEyVk9PcWd1c0VnYm0ySEU2MDhrVThycWE3ZnhJcTlVbjJXaVRQdWVCU2lPTzlPOXVMNFdtTERYOUx3cHhoMWVWZTFWbDZkTnJkaWlLNA?oc=5",
-      "publishedAt": "2026-08-27T15:51:55+00:00",
-      "fetchedAt": "2026-08-27T20:05:48.760868+00:00"
-    },
-    {
-      "id": "dataminr-pr-pentagon-awards--318m-contract-for-dataminr-alerti",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Pentagon awards $318M contract for Dataminr alerting services technology - DefenseScoop",
-      "description": "Press release / announcement from Dataminr",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmJYYi1NS1BvaUlZVDhtOFc1cW9TeDQ1YzFlUF9FTXVXMVE5Q3QyNUljRnEyVk9PcWd1c0VnYm0ySEU2MDhrVThycWE3ZnhJcTlVbjJXaVRQdWVCU2lPTzlPOXVMNFdtTERYOUx3cHhoMWVWZTFWbDZkTnJkaWlLNA?oc=5",
-      "publishedAt": "2026-08-27T15:51:55+00:00",
-      "fetchedAt": "2026-08-27T20:05:49.939224+00:00"
-    },
-    {
-      "id": "dataminr-rss-air-force-pays--318m-for-dataminr-ai-that-pre-warn",
-      "companyId": "dataminr",
-      "companyName": "Dataminr",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Air Force Pays $318M for Dataminr AI That Pre-Warned Police of Protests: No Oversight - Tech Times",
-      "description": "Air Force Pays $318M for Dataminr AI That Pre-Warned Police of Protests: No Oversight&nbsp;&nbsp;Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3l0VVFtNktfR0NNN3k2NVd5THNscnl3OUJIems1bEV4RnczY1BzTDFVN1dMbVFRM1o1QUlXTUkyLUdlWDRyNlZzbVUwVU9tdXhvSzg0bEhaMHJRbE1TbjZ1YUVsSEdJREhkbmVfaHo4WnR0b1U5RkY0aEpLNF9jUDZpaUZFaTdfbjRRcmJKUGdiczJyR1FhemJURzM2cEtCdUlqY0tud2MyQnNtcmVfWGlEUGZXMy02amxKU1J3M2ZBQ24xY0JTbmxRcw?oc=5",
-      "publishedAt": "2026-08-27T13:36:12+00:00",
-      "fetchedAt": "2026-08-27T20:05:48.760911+00:00"
-    }
-  ],
-  "generatedAt": "2026-08-27T20:08:24.123007+00:00",
+  "articles": [],
+  "generatedAt": "2026-08-28T21:05:00.592957+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 0
 }
