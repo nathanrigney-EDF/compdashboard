@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-08-28T21:05:00.592957+00:00",
+  "articles": [
+    {
+      "id": "recorded-future-russian-apt-bluedelta-uses-hookedge-to-target-defe",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Securityaffairs.com",
+      "title": "Russian APT BlueDelta Uses HOOKEDGE to Target Defense and Diplomatic Organizations",
+      "description": "BlueDelta (APT28) uses webhook.site and Microsoft Edge to hide HOOKEDGE espionage traffic targeting European governments. Recorded Future\u2019s Insikt Group documented a campaign by BlueDelta, the Russian GRU-linked group that overlaps with the group APT28, runni\u2026",
+      "url": "https://securityaffairs.com/197996/apt/russian-apt-bluedelta-uses-hookedge-to-target-defense-and-diplomatic-organizations.html",
+      "publishedAt": "2026-08-28T11:26:50Z",
+      "fetchedAt": "2026-08-29T14:53:08.393985+00:00"
+    }
+  ],
+  "generatedAt": "2026-08-29T14:56:15.774446+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
