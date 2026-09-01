@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "flashpoint-rss-recorded-future-vs-gti-vs-threatconnect--25x-gap",
-      "companyId": "flashpoint",
-      "companyName": "Flashpoint",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Recorded Future vs GTI vs ThreatConnect: 25x Gap [2026] - tech-insider.org",
-      "description": "Recorded Future vs GTI vs ThreatConnect: 25x Gap [2026]&nbsp;&nbsp;tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOWW9Cby1kUUp1Z291OEpQLXJfSjNLUksyQlVmeURqWUVOQ1dwSlFOa1M2bVpfWXpieTBDWmpPcDNPdW5RcHd2Y2d0Y0xNWkRqUVkxZUh3NkkwaDVDUVVNdlAzLXlETDhBWTRQSEZkWGNuSHlGX2VSdmtB?oc=5",
-      "publishedAt": "2026-08-30T20:13:35+00:00",
-      "fetchedAt": "2026-08-31T17:20:32.255193+00:00"
-    }
-  ],
-  "generatedAt": "2026-08-31T17:24:03.459722+00:00",
+  "articles": [],
+  "generatedAt": "2026-09-01T14:29:33.513563+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
