@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-09-01T14:29:33.513563+00:00",
+  "articles": [
+    {
+      "id": "dataminr-rss-dataminr-ai-tech-to-go-live-on-nato-maven-system",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Dataminr AI tech to go live on NATO Maven system: CEO - Breaking Defense",
+      "description": "Dataminr AI tech to go live on NATO Maven system: CEO&nbsp;&nbsp;Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXJWaU1nNGFPMmpTMlhIcjlwZkI3WUJWcUxmYWpNOHIxVmZlZ0ViQWFNSFdMU1RfWHM2YlYweVFNSm5mSjZJZDZfNzZaWHhTYmk1Y01FbU1QYkJyOVh6OWNlcDN0VVVvcHFHWjliUndxYk81ZC16X011NFdfaWo0QWZOMGd2OW5KSkthaXNKUHMwNXM?oc=5",
+      "publishedAt": "2026-09-01T16:16:07+00:00",
+      "fetchedAt": "2026-09-02T14:00:06.124274+00:00"
+    }
+  ],
+  "generatedAt": "2026-09-02T14:02:33.729279+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
