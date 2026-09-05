@@ -1,59 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "satellogic-rss-synmax-secures-exclusive-maritime-channel-deal-for",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "SynMax Secures Exclusive Maritime Channel Deal for Satellogic\u2019s Upcoming Merlin Satellite Constellation - satnews.com",
-      "description": "SynMax Secures Exclusive Maritime Channel Deal for Satellogic\u2019s Upcoming Merlin Satellite Constellation&nbsp;&nbsp;satnews.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOHBBX296aWhSMEFDNlc0R1EySm5qaGJFZEhzaDR1eHd6a2dVQVJXOXZualJFa0prd3lzZW1NZTIwZmltOVBSd1BNMHZHSzNwU0k0WEVKNDU1UEVtUDB2MHMzRmZVNW4tY0V1RnVESXFtWF9IWkZ1MFdGWEZMNVo0bmpGY1BSZFFWMXR2RkQ1aVRlTFhrMEVJTTkyLV9rRUJ6RjlrWnZSaEF0SHlvZjJMNDZkSDE5T2Z1dHN3d0J5Yl8wR0FwcVZPY3N0V0ItdEk?oc=5",
-      "publishedAt": "2026-09-03T15:50:33+00:00",
-      "fetchedAt": "2026-09-04T13:57:10.390419+00:00"
-    },
-    {
-      "id": "primer-ai-pr-medical-test-results-can-be-generated-without-inte",
-      "companyId": "primer-ai",
-      "companyName": "Primer AI",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Medical test results can be generated without internet in India. Co-Diagnostics launched the system. - Stock Titan",
-      "description": "Press release / announcement from Primer AI",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVlTWGhRWmU0Q1NrM2RmdmxGemNfNlJEazNZOVVjekhmbGpicUpycjdEUV9DaVBqZnRlT0xwRVhuRmd2OUVlR0FUVk9COVJ3eG5QNWw0bVJoVFhNWFo4aTFKUXREdFF5dU5DNElvQzk0Y2F0aUdZRHVzOGUwMEZhVTRaTWZ4MjluVXlTdF9jbjU0NEhIek1HQ2VfQ0cyUmMzUFp6cTlGUFJpdlctTk40cVJXTW4ycUdOZnF0NENn?oc=5",
-      "publishedAt": "2026-09-03T13:00:00+00:00",
-      "fetchedAt": "2026-09-04T13:55:36.885986+00:00"
-    },
-    {
-      "id": "recorded-future-what-the-flock--exposing-big-tech-s-surveillance-s",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Common Dreams",
-      "title": "What the Flock? Exposing Big Tech\u2019s Surveillance State",
-      "description": "For many, Labor Day signifies a time of transition, the end of summer and the return to business as usual, whether it be school or work. But the holiday weekend was born out of a more radical past, and at a place charged with a history of protest and free exp\u2026",
-      "url": "https://www.commondreams.org/opinion/flock-big-tech-surveillance",
-      "publishedAt": "2026-09-03T12:14:01Z",
-      "fetchedAt": "2026-09-04T13:55:28.226643+00:00"
-    },
-    {
-      "id": "satellogic-pr-satellogic-and-synmax-announce-exclusive-maritime",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Satellogic and SynMax Announce Exclusive Maritime Intelligence Channel for Merlin Constellation via Theia Platform - Quiver Quantitative",
-      "description": "Press release / announcement from Satellogic",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWS1KRndFcjREckRLT3Nmc3FXbTdqM0NPcFNFbjBpV0tLWDA2NWprS1oxam1CX2RwWXRGeDNtRXFlTnU3aF9kSHZYV0hIZHhDYXhHUFpzSW1EMk4tN0RhRVIwbnNtTHAtbFhiR3pjUG1IU09FdHA1VDg4SUsxU1Y5dlNSSFYyeGRZVEhueHBLQWdDdzB0ZmRyaU9MQWVhWlR3QWlBWkNZdnVDRFBSSFlLZ0RCZ3Q0UGd6MVd1b0ZHRENRWm1WNkRmc0pvUXVrclVnUnBWRVRJcmpodnNLN1lCMw?oc=5",
-      "publishedAt": "2026-09-03T12:12:00+00:00",
-      "fetchedAt": "2026-09-04T13:57:11.589549+00:00"
-    }
-  ],
-  "generatedAt": "2026-09-04T13:57:56.620421+00:00",
+  "articles": [],
+  "generatedAt": "2026-09-05T13:14:18.039723+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 0
 }
