@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-09-05T13:14:18.039723+00:00",
+  "articles": [
+    {
+      "id": "blacksky-rss-blacksky-develops-automated-orbital-imaging-for-ge",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BlackSky develops automated orbital imaging for Gen-3 satellites, targeting emerging space surveillance and awareness missions - Defence Industry Europe",
+      "description": "BlackSky develops automated orbital imaging for Gen-3 satellites, targeting emerging space surveillance and awareness missions&nbsp;&nbsp;Defence Industry Europe",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcFBfNmJudUJZNEdFOS1qbjJTVUZibVczOEhuRExNaEJvOThUY3FpSEI4Z0lDLW81Zk1yQWRsWWpDdFhzVWxULXVNRzU2aW5xc3VlUU1CcEtqY2hxS2lHZGNFVTloc1diV2xYYkE1TXUxWGwwcklVYWpDbVJ2c3I0T2hxUGM1UXRyeDlxUkxjYnVoYkJWMWI0VzNEbkxwbVc5c3hRVmduV0VaQVhOUVpYODFHeGVVbkowTVFaWmxZRVBkRGdyeEFBX0RzMS1sOXZULUhSNElmTVozd1NGVzlQR3V5Y1JlbFdya0E?oc=5",
+      "publishedAt": "2026-09-05T21:18:35+00:00",
+      "fetchedAt": "2026-09-06T13:22:16.101365+00:00"
+    }
+  ],
+  "generatedAt": "2026-09-06T13:23:55.113352+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
