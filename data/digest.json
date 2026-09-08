@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": "2026-09-07T15:30:01.108930+00:00",
+  "articles": [
+    {
+      "id": "recorded-future-monday--hili-dialogue",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Whyevolutionistrue.com",
+      "title": "Monday: Hili dialogue",
+      "description": "Welcome to Monday, September 7, 2026, and since it\u2019s the first Monday in September, it\u2019s Labor Day, an official government holiday.\u00a0 Here\u2019s a brief history of the one day a year dedicated to celebrating workers: It\u2019s also Grandma Moses Day, celebrating the pa\u2026",
+      "url": "https://whyevolutionistrue.com/2026/09/07/monday-hili-dialogue-585/",
+      "publishedAt": "2026-09-07T11:45:43Z",
+      "fetchedAt": "2026-09-08T14:02:55.807850+00:00"
+    },
+    {
+      "id": "recorded-future-the--genocide--lie--2026-update",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Freerepublic.com",
+      "title": "The \"genocide\" LIE (2026 Update)",
+      "description": "[Updated frequently]The genocide lieThe \"Genocide\" lie isn't a debate over facts\u2014it's a coldly orchestrated political weapon: funded, coordinated, and laser-focused on forcing one toxic smear-word into every mouth, every headline, every official statement, th\u2026",
+      "url": "https://freerepublic.com/focus/f-bloggers/4394531/posts",
+      "publishedAt": "2026-09-07T10:32:39Z",
+      "fetchedAt": "2026-09-08T14:02:55.807860+00:00"
+    }
+  ],
+  "generatedAt": "2026-09-08T14:05:40.288542+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
