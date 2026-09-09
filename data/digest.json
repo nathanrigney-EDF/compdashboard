@@ -1,33 +1,46 @@
 {
   "articles": [
     {
-      "id": "recorded-future-monday--hili-dialogue",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Whyevolutionistrue.com",
-      "title": "Monday: Hili dialogue",
-      "description": "Welcome to Monday, September 7, 2026, and since it\u2019s the first Monday in September, it\u2019s Labor Day, an official government holiday.\u00a0 Here\u2019s a brief history of the one day a year dedicated to celebrating workers: It\u2019s also Grandma Moses Day, celebrating the pa\u2026",
-      "url": "https://whyevolutionistrue.com/2026/09/07/monday-hili-dialogue-585/",
-      "publishedAt": "2026-09-07T11:45:43Z",
-      "fetchedAt": "2026-09-08T14:02:55.807850+00:00"
+      "id": "heo-pr--photo--director-heo-jin-ho-readies-assassins-for",
+      "companyId": "heo",
+      "companyName": "HEO",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "[Photo] Director Heo Jin-ho readies Assassins for Chuseok release - CHOSUNBIZ - Chosunbiz",
+      "description": "Press release / announcement from HEO",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV05IbjJodjMyVFY3OXdibkFhTUkyNmZnZ2laMkVmME9oNUxYNUdKT0tvbFRySkR6LTNFSjRwUlRuT2YzdEptZ1NHcUluVHEyZ19FdUNtbE1qaFROMmFhUlFablVOMld2YldpbFpZVVhWU29NWEotR3lYdVFUQVE5MFZLUdIBlwFBVV95cUxNSW55alhIX0tTY1J6azFISUFrVXNmb2V6NXQ0bXE0bGJlczVDN3laM0Z5THlrR2tobndjR3lWVlJpMHBKMEFFMkM1U1lfbGpZYU1Xa1c0S1gzQlpkQl85di1yNUdkSTZYMklwUnpZNEFrbHJRVUxkLUhjb0ltdjFEMlBYMjZoR1hQSFBHWmc4akF1MWVkVTFZ?oc=5",
+      "publishedAt": "2026-09-08T14:20:00+00:00",
+      "fetchedAt": "2026-09-09T14:06:51.485356+00:00"
     },
     {
-      "id": "recorded-future-the--genocide--lie--2026-update",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "palantir-investors-are-buying-palantir-for-a-story-that-is",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Freerepublic.com",
-      "title": "The \"genocide\" LIE (2026 Update)",
-      "description": "[Updated frequently]The genocide lieThe \"Genocide\" lie isn't a debate over facts\u2014it's a coldly orchestrated political weapon: funded, coordinated, and laser-focused on forcing one toxic smear-word into every mouth, every headline, every official statement, th\u2026",
-      "url": "https://freerepublic.com/focus/f-bloggers/4394531/posts",
-      "publishedAt": "2026-09-07T10:32:39Z",
-      "fetchedAt": "2026-09-08T14:02:55.807860+00:00"
+      "sourceName": "24/7 Wall St.",
+      "title": "Investors Are Buying Palantir for a Story That Is Not Quite True",
+      "description": "Palantir's blowout growth numbers look like pure software success, but a closer look at how the company actually wins its deals reveals a business model that...",
+      "url": "https://247wallst.com/investing/2026/09/08/investors-are-buying-palantir-for-a-story-that-is-not-quite-true/",
+      "publishedAt": "2026-09-08T13:39:31Z",
+      "fetchedAt": "2026-09-09T14:05:17.390724+00:00"
+    },
+    {
+      "id": "l3harris-pr-l3harris-receives-landmark-pac-3-mse-propulsion-co",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Receives Landmark PAC\u20113 MSE Propulsion Contract to Power America\u2019s Arsenal of Freedom - Business Wire",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYkZhdG1WamoyT21EcE5EWmRPTlBWME9iRU53UFhLYXhzSmFzTEEzRHh4QUtNWG9uQTZqbmstM29qRlh0SEJVVEFDRE51c29TMGV5Yk1hNFBoX3pVU3lqQTJwM3BOc01HTi14dFNndGxyZzlvZkFVZlJCdFNzbU1FcFo2ZUpKTXp2VWd6QkIwWXJXY1c1cVFGTzg2NW11ZUtQZ0l3c3pUbVBqQWQ1V1NpVTF6R0lTM3NrVWMxRmJkZGg2MXd2REEtbkFvdXpQZzhFUTV6WE5RZ05BSUVYWVlkQjBqZw?oc=5",
+      "publishedAt": "2026-09-08T12:30:39+00:00",
+      "fetchedAt": "2026-09-09T14:06:54.046185+00:00"
     }
   ],
-  "generatedAt": "2026-09-08T14:05:40.288542+00:00",
+  "generatedAt": "2026-09-09T14:07:46.781343+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 3
 }
