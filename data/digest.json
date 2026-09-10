@@ -1,46 +1,33 @@
 {
   "articles": [
     {
-      "id": "heo-pr--photo--director-heo-jin-ho-readies-assassins-for",
-      "companyId": "heo",
-      "companyName": "HEO",
+      "id": "satellogic-rss-new-leaders-take-charge-at-the-army--space-force",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
       "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "[Photo] Director Heo Jin-ho readies Assassins for Chuseok release - CHOSUNBIZ - Chosunbiz",
-      "description": "Press release / announcement from HEO",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV05IbjJodjMyVFY3OXdibkFhTUkyNmZnZ2laMkVmME9oNUxYNUdKT0tvbFRySkR6LTNFSjRwUlRuT2YzdEptZ1NHcUluVHEyZ19FdUNtbE1qaFROMmFhUlFablVOMld2YldpbFpZVVhWU29NWEotR3lYdVFUQVE5MFZLUdIBlwFBVV95cUxNSW55alhIX0tTY1J6azFISUFrVXNmb2V6NXQ0bXE0bGJlczVDN3laM0Z5THlrR2tobndjR3lWVlJpMHBKMEFFMkM1U1lfbGpZYU1Xa1c0S1gzQlpkQl85di1yNUdkSTZYMklwUnpZNEFrbHJRVUxkLUhjb0ltdjFEMlBYMjZoR1hQSFBHWmc4akF1MWVkVTFZ?oc=5",
-      "publishedAt": "2026-09-08T14:20:00+00:00",
-      "fetchedAt": "2026-09-09T14:06:51.485356+00:00"
-    },
-    {
-      "id": "palantir-investors-are-buying-palantir-for-a-story-that-is",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
       "source": "news",
-      "sourceName": "24/7 Wall St.",
-      "title": "Investors Are Buying Palantir for a Story That Is Not Quite True",
-      "description": "Palantir's blowout growth numbers look like pure software success, but a closer look at how the company actually wins its deals reveals a business model that...",
-      "url": "https://247wallst.com/investing/2026/09/08/investors-are-buying-palantir-for-a-story-that-is-not-quite-true/",
-      "publishedAt": "2026-09-08T13:39:31Z",
-      "fetchedAt": "2026-09-09T14:05:17.390724+00:00"
+      "sourceName": "Google News",
+      "title": "New Leaders Take Charge at the Army, Space Force, ASRC Federal, and Defense Tech Firms - Clearance Jobs",
+      "description": "New Leaders Take Charge at the Army, Space Force, ASRC Federal, and Defense Tech Firms&nbsp;&nbsp;Clearance Jobs",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGpESFMzUnU2VGFwY1lNeFFlMGJvVEVlSVowaVhPeThsV3N1dXhiLXBnYzRPNUFVRHlyLTlKdTBHSVA5ekJUaGRLcHJqZUEzQTV1N2RpbUZGSk9Ka1ZqNzRpR2liSTdjSHkwdGpXOEZoUkcxbDVvbk5IQ1dzNVUwOVJoTU82dnRYV2lnYXBzUG1KejlhdkdtOXZkMXFSRkZTYlMySmpsbUprR2tIcVVrS203eDB4U24zU0JmckhRVk8tZlBJ?oc=5",
+      "publishedAt": "2026-09-09T19:30:19+00:00",
+      "fetchedAt": "2026-09-10T14:02:06.419392+00:00"
     },
     {
-      "id": "l3harris-pr-l3harris-receives-landmark-pac-3-mse-propulsion-co",
+      "id": "l3harris-pr-us-navy-selects-l3harris-vampire-for-littoral-coun",
       "companyId": "l3harris",
       "companyName": "L3Harris Technologies",
       "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "L3Harris Receives Landmark PAC\u20113 MSE Propulsion Contract to Power America\u2019s Arsenal of Freedom - Business Wire",
+      "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense - navalnews.com",
       "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYkZhdG1WamoyT21EcE5EWmRPTlBWME9iRU53UFhLYXhzSmFzTEEzRHh4QUtNWG9uQTZqbmstM29qRlh0SEJVVEFDRE51c29TMGV5Yk1hNFBoX3pVU3lqQTJwM3BOc01HTi14dFNndGxyZzlvZkFVZlJCdFNzbU1FcFo2ZUpKTXp2VWd6QkIwWXJXY1c1cVFGTzg2NW11ZUtQZ0l3c3pUbVBqQWQ1V1NpVTF6R0lTM3NrVWMxRmJkZGg2MXd2REEtbkFvdXpQZzhFUTV6WE5RZ05BSUVYWVlkQjBqZw?oc=5",
-      "publishedAt": "2026-09-08T12:30:39+00:00",
-      "fetchedAt": "2026-09-09T14:06:54.046185+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUNXdUoxVzhxTW9mY2FuS2FoUU0wQ1hFRkp1Zk1lN1VKZV9RT1FvNkMydkc5UktoUExqV2J5eURvR01ISDBoZTZZbUUtYXh6dzR5VVFCZGVXRXhhcy0zd21SdGt1QjBFaXJZNHFBekFzemYwRElBU3dhWGxucjJHRXJ4TjdiYkZtTE1vOA?oc=5",
+      "publishedAt": "2026-09-09T14:37:28+00:00",
+      "fetchedAt": "2026-09-10T14:02:29.190209+00:00"
     }
   ],
-  "generatedAt": "2026-09-09T14:07:46.781343+00:00",
+  "generatedAt": "2026-09-10T14:03:55.766722+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 2
 }
