@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-09-11T14:01:32.276027+00:00",
+  "articles": [
+    {
+      "id": "recorded-future-osama-bin-laden-won",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The Intercept",
+      "title": "Osama Bin Laden Won",
+      "description": "The architect of the September 11 attacks dreamed of the destruction of America. In the last 25 years, his wish has come true.\nThe post Osama Bin Laden Won appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
+      "publishedAt": "2026-09-11T10:00:00Z",
+      "fetchedAt": "2026-09-12T13:17:52.418715+00:00"
+    }
+  ],
+  "generatedAt": "2026-09-12T13:21:28.240437+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
