@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "id": "recorded-future-osama-bin-laden-won",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "palantir-the-nerd-reich--nation-states",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "The Intercept",
-      "title": "Osama Bin Laden Won",
-      "description": "The architect of the September 11 attacks dreamed of the destruction of America. In the last 25 years, his wish has come true.\nThe post Osama Bin Laden Won appeared first on The Intercept.",
-      "url": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
-      "publishedAt": "2026-09-11T10:00:00Z",
-      "fetchedAt": "2026-09-12T13:17:52.418715+00:00"
+      "sourceName": "Energyskeptic.com",
+      "title": "The Nerd Reich: Nation States",
+      "description": "Introduction This is a book review of part of Gil Duran\u2019s \u201cNetwork States and the Rise of Cryptocurrency to end democratic governments.\u201d\u00a0 Which is mainly about Peter Thiel, who has had the greatest effect, more even than Elon Musk, in \u2026 Continue reading \u2192",
+      "url": "https://energyskeptic.com/2026/the-nerd-reich-nation-states/",
+      "publishedAt": "2026-09-12T11:04:56Z",
+      "fetchedAt": "2026-09-13T14:00:51.914394+00:00"
     }
   ],
-  "generatedAt": "2026-09-12T13:21:28.240437+00:00",
+  "generatedAt": "2026-09-13T14:03:51.054944+00:00",
   "periodHours": 28,
   "count": 1
 }
