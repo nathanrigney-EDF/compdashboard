@@ -1,20 +1,46 @@
 {
   "articles": [
     {
-      "id": "palantir-the-nerd-reich--nation-states",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
+      "id": "satellogic-rss-three-satellogic-satellites-will-launch-in-october",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
       "source": "news",
-      "sourceName": "Energyskeptic.com",
-      "title": "The Nerd Reich: Nation States",
-      "description": "Introduction This is a book review of part of Gil Duran\u2019s \u201cNetwork States and the Rise of Cryptocurrency to end democratic governments.\u201d\u00a0 Which is mainly about Peter Thiel, who has had the greatest effect, more even than Elon Musk, in \u2026 Continue reading \u2192",
-      "url": "https://energyskeptic.com/2026/the-nerd-reich-nation-states/",
-      "publishedAt": "2026-09-12T11:04:56Z",
-      "fetchedAt": "2026-09-13T14:00:51.914394+00:00"
+      "sourceName": "Google News",
+      "title": "Three Satellogic satellites will launch in October; two will share information in orbit. - Stock Titan",
+      "description": "Three Satellogic satellites will launch in October; two will share information in orbit.&nbsp;&nbsp;Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeEVTM3lPc3UtT2hfazdPT0JFSW9ZU1JLbEROcHc1Mi1ab0Q0eTJXTE1mdFVtSS1mOU1paTFMTnpiMVFWZ054b1cxemwyVzdKR3FoRnNSMmpPanlCcjdfR19SME90LXBVaXV3OHpleHlLV0RGMklzTV9hekc5VTVUMUM3ZVRKejllN0I5dFQ0WXg2UXJxZEZSNU0wVjFVbkU1NkdYUmJrd3RRTkFNNHpVWm1yRjZEQWRTWjNJZmQydw?oc=5",
+      "publishedAt": "2026-09-14T12:00:00+00:00",
+      "fetchedAt": "2026-09-14T16:07:40.039960+00:00"
+    },
+    {
+      "id": "satellogic-pr-2026-09-14---satellogic-supports-heo-rpo-mission-o",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "2026-09-14 | Satellogic Supports HEO RPO Mission Operations | NDAQ:SATL | Press Release - Stockhouse",
+      "description": "Press release / announcement from Satellogic",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmYxMHV3RVV1bXUwclFtMTZ2RGQzU2tzYllrcGhwTjk4Q2VBRDZoU0FDUDVMdDdycjNCUUZDOTZMMlZxelJvU1FxeHJ6V0lBQWhhbDlFQWdUUzl5bThEb19RU1U2RnBuX29FRENnLVlSN2dxYXFzM2p0d0w2UVRfM1lXTE1qNTlsckg3bTFtcGVRdERHa1NrNE5obGtQUWhCbFE?oc=5",
+      "publishedAt": "2026-09-14T12:00:00+00:00",
+      "fetchedAt": "2026-09-14T16:07:41.316888+00:00"
+    },
+    {
+      "id": "heo-pr-2026-09-14---satellogic-supports-heo-rpo-mission-o",
+      "companyId": "heo",
+      "companyName": "HEO",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "2026-09-14 | Satellogic Supports HEO RPO Mission Operations | NDAQ:SATL | Press Release - Stockhouse",
+      "description": "Press release / announcement from HEO",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmYxMHV3RVV1bXUwclFtMTZ2RGQzU2tzYllrcGhwTjk4Q2VBRDZoU0FDUDVMdDdycjNCUUZDOTZMMlZxelJvU1FxeHJ6V0lBQWhhbDlFQWdUUzl5bThEb19RU1U2RnBuX29FRENnLVlSN2dxYXFzM2p0d0w2UVRfM1lXTE1qNTlsckg3bTFtcGVRdERHa1NrNE5obGtQUWhCbFE?oc=5",
+      "publishedAt": "2026-09-14T12:00:00+00:00",
+      "fetchedAt": "2026-09-14T16:07:43.870819+00:00"
     }
   ],
-  "generatedAt": "2026-09-13T14:03:51.054944+00:00",
+  "generatedAt": "2026-09-14T16:08:56.388761+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 3
 }
