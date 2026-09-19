@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-09-18T14:04:34.606814+00:00",
+  "articles": [
+    {
+      "id": "palantir-ex-labour-deputy-leader-tom-watson-joins-palantir",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "BBC News",
+      "title": "Ex-Labour deputy leader Tom Watson joins Palantir",
+      "description": "Lord Watson praises his new employers but says there are \"legitimate questions\" about big tech firms that \"require answers\".",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ed1d2p3eo",
+      "publishedAt": "2026-09-18T11:23:18Z",
+      "fetchedAt": "2026-09-19T13:37:56.007152+00:00"
+    }
+  ],
+  "generatedAt": "2026-09-19T13:41:29.634027+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
