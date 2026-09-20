@@ -11,7 +11,7 @@
       "description": "Lord Watson praises his new employers but says there are \"legitimate questions\" about big tech firms that \"require answers\".",
       "url": "https://www.bbc.co.uk/news/articles/cj62ed1d2p3eo",
       "publishedAt": "2026-09-18T11:23:18Z",
-      "fetchedAt": "2026-09-19T13:37:56.007152+00:00"
+      "fetchedAt": "2026-09-20T13:52:21.416669+00:00"
     },
     {
       "id": "recorded-future-china--not-iran--is-trump-s-real-foreign-policy-de",
@@ -24,7 +24,7 @@
       "description": "In 19 months, Washington has lost ground to Beijing on every conceivable front.",
       "url": "http://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/",
       "publishedAt": "2026-09-17T15:50:31Z",
-      "fetchedAt": "2026-09-19T13:38:01.793600+00:00"
+      "fetchedAt": "2026-09-20T13:52:53.032524+00:00"
     },
     {
       "id": "recorded-future-china-officially-stands-for-world-peace-yet-cooper",
@@ -37,7 +37,7 @@
       "description": "[Parts I and II of Ron Ridenour\u2019s China series can be read here and here.\u2014Editors] Part Three: Artificial Intelligence = Alienation Instructors I am conscious of being alienated. Feeling, knowing we have no real control over our lives, or over what happens ar\u2026",
       "url": "https://covertactionmagazine.com/2026/09/15/china-officially-stands-for-world-peace-yet-cooperates-with-u-s-war-making-and-promotes-alienation-2/",
       "publishedAt": "2026-09-17T15:16:05Z",
-      "fetchedAt": "2026-09-19T13:38:01.793620+00:00"
+      "fetchedAt": "2026-09-20T13:52:53.032543+00:00"
     },
     {
       "id": "recorded-future-recorded-future-named-a-leader-in-external-threat",
@@ -50,7 +50,7 @@
       "description": "Company Received the Highest Score Possible in Twelve Criteria and Above Average Customer Feedback BOSTON, Sept. 17, 2026 /PRNewswire/ -- Recorded Future, the world's largest threat intelligence company, today announced that it has been named a Leader in The \u2026",
       "url": "https://www.prnewswire.com/news-releases/recorded-future-named-a-leader-in-external-threat-intelligence-by-independent-research-firm-302882267.html",
       "publishedAt": "2026-09-17T15:16:00Z",
-      "fetchedAt": "2026-09-19T13:38:01.793626+00:00"
+      "fetchedAt": "2026-09-20T13:52:53.032552+00:00"
     },
     {
       "id": "vantor-geoint-pr-vantor-selects-endurosat-and-caci-to-build-high-re",
@@ -5498,47 +5498,8 @@
       "url": "https://www.globenewswire.com/news-release/2026/06/22/3315534/28124/en/Medium-Earth-Orbit-MEO-Remote-Sensing-Imagery-Data-Services-to-Nearly-Triple-in-Size-by-2032.html",
       "publishedAt": "2026-06-22T17:02:00Z",
       "fetchedAt": "2026-06-25T12:15:21.112003+00:00"
-    },
-    {
-      "id": "recorded-future-vulnerability-summary-for-the-week-of-june-15--202",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Cisa.gov",
-      "title": "Vulnerability Summary for the Week of June 15, 2026",
-      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>10Web--Form Maker by 10Web</td>\n<td>Unauthenticated SQL Injection in Form Maker by 10Web\u2026",
-      "url": "https://www.cisa.gov/news-events/bulletins/sb26-173",
-      "publishedAt": "2026-06-22T11:36:49Z",
-      "fetchedAt": "2026-06-25T12:13:05.925492+00:00"
-    },
-    {
-      "id": "recorded-future-sensex-today---stock-market-highlights--sensex-ris",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "BusinessLine",
-      "title": "Sensex today | Stock Market Highlights: Sensex rises 291 points, Nifty above 24,100; markets rebound on global cues",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Stock markets rebounded on Monday, with benchmark indices ending higher amid easing crude oil prices and supportive global cues following hopes of progress in US\u2013Iran diplomatic talks. The BSE Sensex rose 291.\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-june-2026/article71129135.ece",
-      "publishedAt": "2026-06-22T10:56:47Z",
-      "fetchedAt": "2026-06-25T12:13:05.925500+00:00"
-    },
-    {
-      "id": "orbital-insight-rss-medium-earth-orbit--meo--remote-sensing--imagery",
-      "companyId": "orbital-insight",
-      "companyName": "Orbital Insight",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Medium Earth Orbit (MEO) Remote Sensing, Imagery & Data Services to Nearly Triple in Size by 2032 - GlobeNewswire",
-      "description": "Medium Earth Orbit (MEO) Remote Sensing, Imagery & Data Services to Nearly Triple in Size by 2032&nbsp;&nbsp;GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOURhOGRMRzR4Q1NrUjQwOFN4NWdRUHZoMjZxeVJ0djd2UkoyQXpVaThNZTFhc2N4ZEJ1Z3VWSEtyTVBTdW1SeWx2OUlzR0FtVVdsNW9KZHVOODBvMnNvWVFTS25QQ3V3d1pSNVZINHRvSi1HajVBMTdydF82S3NqVHluZlNqcXZxeVRKTEJxYzhVMTNwQ1FFbWZEdDBVTTd2UXExU2ZFcXBiUVBlTzFGbElBbmNRTWhEQklZdWhMRURGdjl2elJuR0ZRZXJNUk1GVXR1MV9hZjZBZjRmaGZvd2VmdjJLSEVJNG1MTVBXVW1kQjd0bnZF?oc=5",
-      "publishedAt": "2026-06-22T07:00:00+00:00",
-      "fetchedAt": "2026-07-07T12:26:02.157642+00:00"
     }
   ],
-  "lastUpdated": "2026-09-19T13:41:29.629369+00:00",
-  "totalArticles": 426
+  "lastUpdated": "2026-09-20T14:03:05.009105+00:00",
+  "totalArticles": 423
 }
