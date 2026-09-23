@@ -1,59 +1,46 @@
 {
   "articles": [
     {
-      "id": "satellogic-rss-satellogic--a-mispriced-cost-moat---sovereign-dema",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic: A Mispriced Cost Moat & Sovereign Demand Play (NASDAQ:SATL) - Seeking Alpha",
-      "description": "Satellogic: A Mispriced Cost Moat & Sovereign Demand Play (NASDAQ:SATL)&nbsp;&nbsp;Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYU1kUjB3M3NTTWRJNUhmNUd1WGhfejJrQVZGR0hlcWlQT1BlNnRaN0o5R0ZHeG5tU2tRRVBfeEs5OGdwZUZyWFIyZFpaQmI4eGI3YkpjV1A5Z3ZqMWVqZnZTeFJ1QVZERXZXZ2EzMWZkZXpnSXZJanhVV0RtVjZ4dlFNN1FzOG8yVEJId01Ybzk5ZUhsN0IyZk44Z3lZUUdn?oc=5",
-      "publishedAt": "2026-09-22T08:42:43+00:00",
-      "fetchedAt": "2026-09-22T14:19:13.286410+00:00"
-    },
-    {
-      "id": "heo-rss-heo-raises-us-25-million-to-extend-non-earth-imagi",
-      "companyId": "heo",
-      "companyName": "HEO",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "HEO raises US$25 million to extend non-Earth imaging network into geostationary orbit - space & defense",
-      "description": "HEO raises US$25 million to extend non-Earth imaging network into geostationary orbit&nbsp;&nbsp;space & defense",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0NNYnptZW1nQWNHWC1YalZKdFBRUV95UGFCczlCTVhXdHh6ckd0dzdISnJ0dmh6dVBZT2pXNGkxNlE1REswaEd1b05DUHRjbXV6YkJGWDM3d1ktYXJIREF6dmx3MVN6OHFTMlE4WXY5UUhTZHdRUnRSb2pfMU1IcXFhQTRkQk16TWUtZEZabWtvSlhrY0dUdm4tNW5MZGpqSGJhaGp1cHJSbGhYRXhYWnZR?oc=5",
-      "publishedAt": "2026-09-22T05:57:34+00:00",
-      "fetchedAt": "2026-09-22T14:19:30.870925+00:00"
-    },
-    {
-      "id": "palantir-the-us-spent-billions-on-border-surveillance--why",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "leidos-pr-leidos-holdings--inc---ldos--wins-up-to--127m-army",
+      "companyId": "leidos",
+      "companyName": "Leidos",
       "category": "osint",
-      "source": "news",
-      "sourceName": "MIT Technology Review",
-      "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
-      "description": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.\u00a0 As he walked through the desert in southern New Mexico that m\u2026",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "fetchedAt": "2026-09-22T14:17:11.610187+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Leidos Holdings, Inc. (LDOS) Wins Up To $127M Army ISR Contract Extension - tradingview.com",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVkJ1WjI4cjFybDRDdW1ubVZpRUhkY0xqaWo2ZmZqWkc4a1EybzdQcXA5NmN5RkRQY2JCRHdRSGVQR0lPb255NlJNUXF0QXNvUFZLUkhKZG9CcUVkSFZNYjkzV09Yc0FoYVhJM2hhNzYxZ1ZiRlFOc0YyeVZuNmo4ZUZJRS1UeWpLRmczZk83OHpGNzhQR1VfN3BORldMaGdvNERRNWg3b3V4ZTFMaThxT3ZZc3BBcm51RzBQN0hjUmREUUpBVTB6aE5R?oc=5",
+      "publishedAt": "2026-09-22T16:33:00+00:00",
+      "fetchedAt": "2026-09-23T14:37:00.972320+00:00"
     },
     {
-      "id": "recorded-future-vulnerability-summary-for-the-week-of-september-14",
+      "id": "recorded-future-climate-activists-target-ai-data-centers---amazon",
       "companyId": "recorded-future",
       "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Cisa.gov",
-      "title": "Vulnerability Summary for the Week of September 14, 2026",
-      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>03-lovepreetSingh--MCP</td>\n<td>A vulnerability was identified in 03-lovepreetSingh MCP \u2026",
-      "url": "https://www.cisa.gov/news-events/bulletins/sb26-264",
-      "publishedAt": "2026-09-21T11:58:01Z",
-      "fetchedAt": "2026-09-22T14:17:17.589930+00:00"
+      "sourceName": "Democracy Now!",
+      "title": "Climate Activists Target AI Data Centers & Amazon's Plan to Build Largest U.S. Gas Power Plant",
+      "description": "World leaders are in New York this week for the United Nations General Assembly, which coincides with Climate Week. It comes after months of climate-fueled extreme weather around the world, including heat waves in North America and Europe, wildfires in Africa\u2026",
+      "url": "https://www.democracynow.org/2026/9/22/un_climate_week",
+      "publishedAt": "2026-09-22T12:13:02Z",
+      "fetchedAt": "2026-09-23T14:36:08.764596+00:00"
+    },
+    {
+      "id": "babel-street-israel-can-t-postpone-its-reckoning-forever",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The Atlantic",
+      "title": "Israel Can\u2019t Postpone Its Reckoning Forever",
+      "description": "Intractable divides between the secular and the religious pose a bigger problem for the country than any external threat.",
+      "url": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/",
+      "publishedAt": "2026-09-22T11:00:00Z",
+      "fetchedAt": "2026-09-23T14:36:05.621233+00:00"
     }
   ],
-  "generatedAt": "2026-09-22T14:19:57.867863+00:00",
+  "generatedAt": "2026-09-23T14:39:09.217888+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 3
 }
