@@ -1,46 +1,72 @@
 {
   "articles": [
     {
-      "id": "leidos-pr-leidos-holdings--inc---ldos--wins-up-to--127m-army",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Leidos Holdings, Inc. (LDOS) Wins Up To $127M Army ISR Contract Extension - tradingview.com",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVkJ1WjI4cjFybDRDdW1ubVZpRUhkY0xqaWo2ZmZqWkc4a1EybzdQcXA5NmN5RkRQY2JCRHdRSGVQR0lPb255NlJNUXF0QXNvUFZLUkhKZG9CcUVkSFZNYjkzV09Yc0FoYVhJM2hhNzYxZ1ZiRlFOc0YyeVZuNmo4ZUZJRS1UeWpLRmczZk83OHpGNzhQR1VfN3BORldMaGdvNERRNWg3b3V4ZTFMaThxT3ZZc3BBcm51RzBQN0hjUmREUUpBVTB6aE5R?oc=5",
-      "publishedAt": "2026-09-22T16:33:00+00:00",
-      "fetchedAt": "2026-09-23T14:37:00.972320+00:00"
-    },
-    {
-      "id": "recorded-future-climate-activists-target-ai-data-centers---amazon",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Democracy Now!",
-      "title": "Climate Activists Target AI Data Centers & Amazon's Plan to Build Largest U.S. Gas Power Plant",
-      "description": "World leaders are in New York this week for the United Nations General Assembly, which coincides with Climate Week. It comes after months of climate-fueled extreme weather around the world, including heat waves in North America and Europe, wildfires in Africa\u2026",
-      "url": "https://www.democracynow.org/2026/9/22/un_climate_week",
-      "publishedAt": "2026-09-22T12:13:02Z",
-      "fetchedAt": "2026-09-23T14:36:08.764596+00:00"
-    },
-    {
-      "id": "babel-street-israel-can-t-postpone-its-reckoning-forever",
+      "id": "babel-street-rss-babel-street-named-a-disruptor-in-risk-intelligenc",
       "companyId": "babel-street",
       "companyName": "Babel Street",
       "category": "osint",
       "source": "news",
-      "sourceName": "The Atlantic",
-      "title": "Israel Can\u2019t Postpone Its Reckoning Forever",
-      "description": "Intractable divides between the secular and the religious pose a bigger problem for the country than any external threat.",
-      "url": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/",
-      "publishedAt": "2026-09-22T11:00:00Z",
-      "fetchedAt": "2026-09-23T14:36:05.621233+00:00"
+      "sourceName": "Google News",
+      "title": "Babel Street Named a Disruptor in Risk Intelligence and Data Management in the Chartis Research RiskTech100 2027 Report - Business Wire",
+      "description": "Babel Street Named a Disruptor in Risk Intelligence and Data Management in the Chartis Research RiskTech100 2027 Report&nbsp;&nbsp;Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZTZuSnNxa2xvSVQ2cEI3YVBmQldNMGRxeTh0SEZTeHhINjdXeDdscHk0T0NQQTN2alVIM2Yxb2dfYnEwbURfT0dzdmFFQ0p4Y19pSk9BY3dfY3JFNnpIWGpTNmE0clRzYkZoMC1oMEF4QjFKVU1SWXZXdWg5WlcteXdWQzRjeFA1eGlEajNuNmlKN1pXMHBfQTN6WF90eF9sTWUtSkpZSkJzU2RReExPQnJWSUUtUjRnbkVPMXp0M19yZXNRUUhsdWZVVWZiNnVZRVRyb0RhMVdLVkZ4REd3a0Y1VHBCTVJ3Q2NkUjcySi1Xa3dSWDR3VWY4OHFZOVJfbVNIbXR2cw?oc=5",
+      "publishedAt": "2026-09-24T14:00:00+00:00",
+      "fetchedAt": "2026-09-24T14:34:07.876497+00:00"
+    },
+    {
+      "id": "recorded-future-the-africanist-reflex-behind-spain-s-ceuta-crisis",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Fair Observer",
+      "title": "The Africanist Reflex Behind Spain\u2019s Ceuta Crisis",
+      "description": "Ceuta, one of two Spanish-administered cities located on the North African coast in Moroccan territory, became the center of an unprecedented migration emergency on July 30. The pressure had already been building: About 1,500 people had reached the city by sw\u2026",
+      "url": "https://www.fairobserver.com/region/europe/the-africanist-reflex-behind-spains-ceuta-crisis/",
+      "publishedAt": "2026-09-23T13:33:47Z",
+      "fetchedAt": "2026-09-24T14:34:11.920944+00:00"
+    },
+    {
+      "id": "palantir-american-shipyards-are-backlogged-and-washington-i",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Financial Post",
+      "title": "American Shipyards Are Backlogged and Washington Is Buying Software",
+      "description": "Issued on behalf of Edge Total Intelligence Inc. ARLINGTON, Va., Sept. 23, 2026 (GLOBE NEWSWIRE) \u2014 USA News Group News Commentary \u2013 Huntington Ingalls finished its second quarter with a total backlog of approximately $57.3 billion. That is not a sales figure,\u2026",
+      "url": "https://financialpost.com/globe-newswire/american-shipyards-are-backlogged-and-washington-is-buying-software",
+      "publishedAt": "2026-09-23T13:05:54Z",
+      "fetchedAt": "2026-09-24T14:34:05.192148+00:00"
+    },
+    {
+      "id": "recorded-future-as-xi-meets-trump--who-s-winning-their-trade-war",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Al Jazeera English",
+      "title": "As Xi meets Trump, who\u2019s winning their trade war?",
+      "description": "Trade war has been central to Trump's presidency, but it didn't slash US deficits. Meanwhile, China recorded a surplus.",
+      "url": "https://www.aljazeera.com/features/2026/9/23/as-xi-meets-trump-whos-winning-their-trade-war",
+      "publishedAt": "2026-09-23T12:20:40Z",
+      "fetchedAt": "2026-09-24T14:34:11.920998+00:00"
+    },
+    {
+      "id": "recorded-future-sensex-today---stock-market-highlights--nifty-clos",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "BusinessLine",
+      "title": "Sensex today | Stock Market Highlights: Nifty closes at 23,446, gains 118 points, Sensex ends at 74,828 on stronger domestic growth momentum",
+      "description": "Sensex, Nifty, Stock Price Highlights: Indian equity markets closed higher on Wednesday, with the Nifty 50 gaining 117.80 points, or 0.50%, to close at 23,446.80, while the BSE Sensex rose 299.17 points, or 0.40%, to close at 74,828.25, as signs of stronger d\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-september-2026/article71495500.ece",
+      "publishedAt": "2026-09-23T10:49:05Z",
+      "fetchedAt": "2026-09-24T14:34:11.921016+00:00"
     }
   ],
-  "generatedAt": "2026-09-23T14:39:09.217888+00:00",
+  "generatedAt": "2026-09-24T14:38:01.116109+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 5
 }
