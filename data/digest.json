@@ -11,62 +11,23 @@
       "description": "Press release / announcement from Umbra",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa3BrQ2NEYlg0NTlobllXYXFjd1lRbllienNjVGJyYnFNaG5hV25FekNYVkptQ25naEJ1akFRUG40NU5UYXo3THNTY0poS3VIeHBJbTlhd1JlMkdIVExjbWdzMGtUVUpfQ1k5WVZpWWhzd3g4eGFIcGRsMWxid1VGZDRiY1A5TWRmVVltYlJOc0E0d3ZIU2FNNlFvVXpzeEJXc3dqRDByajJXeHRsVWNjYlZvRl9SVkI5cEQwQzNRRzZsMFk2ejN6NzQ5cFlJa2IydTE1V3ZGT292SW40czB2enBkUGVuU2I5OTNIVW84bVFST082NlZJQXlIY2xsNWNMNVIw0gGIAkFVX3lxTE5UZTExVTJ5MGFJeFRjU1J3RXp2NEJEOGRjQU5aenFHQ2d2MHduQkxEaWk3d28yZkJCT29tTXh6anZCNlpLaVFDbVZ5ek53ZUhnRE5Gbnk0NHBobzlrNGotOVl0bWpIMzBmOTRlRjhtNDBaTUp0SHYxTXBEZzdseHdnQVU4Z1R5cUk5YlljM2tTYWVKN01NZlpaOTdiT1EtTHZBUVBLcHpZWE82Yko5cHFhR2llSEQ4R1ZKSVA3Q3JFX0o1NW9uQmRlNWJmLVJ1QTlFZzRhejBFVkJZdW5XUVRFSXpLQmg5X29qV01sdnJXR2RQdUloZlp0bGVzSFpUTDFrbU9YNDZ2YQ?oc=5",
       "publishedAt": "2026-09-25T13:10:54+00:00",
-      "fetchedAt": "2026-09-25T14:56:46.817448+00:00"
+      "fetchedAt": "2026-09-26T14:01:31.074346+00:00"
     },
     {
-      "id": "palantir-rss-palantir-breaks--190-to-12-month-high-as-defense-d",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir Breaks $190 to 12-Month High as Defense Deals and AI Adoption Fuel 69% Rally - finance.biggo.com",
-      "description": "Palantir Breaks $190 to 12-Month High as Defense Deals and AI Adoption Fuel 69% Rally&nbsp;&nbsp;finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4YWpoWUtTa3hJWXVKby11YUc1UWVUSVdMdzVEdzR3Q05odkE5bHpWeXBEZFo2dFVJWk1iMS1YMEhGbkgySlBXS0RlUEZxSEhUV0YtSERnbE14ZG9rMEJVMW1sallPbkZSa3VON0pCa2toWXZ2Smc?oc=5",
-      "publishedAt": "2026-09-24T18:16:00+00:00",
-      "fetchedAt": "2026-09-25T14:54:45.285145+00:00"
-    },
-    {
-      "id": "babel-street-rss-babel-street-named-a-disruptor-in-risk-intelligenc",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Babel Street Named a Disruptor in Risk Intelligence and Data Management in the Chartis Research RiskTech100 2027 Report - 01net",
-      "description": "Babel Street Named a Disruptor in Risk Intelligence and Data Management in the Chartis Research RiskTech100 2027 Report&nbsp;&nbsp;01net",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHRYYThYdDBWYnpxVU9DalNyZUFlc2lZa1VqSmt2N0YxNG9uTGFvWXVXSlN6YXRXX1FqV0NmcFQ0RDkzVXVvMmtDWG9ORHUzajNVTi1KcHhpb2pxNzRHRWctdDJTTU9yZnAxMjlmaG16RnM5UHpMMzVvbXc0Z0hrSFRHTXVuUEE3Tm81V0Ztb2hFSnVERHQ2Mm5LRmtTVzBVNzNnODh0azVNb3hXN3Bwc3BmNzI5MkhiSnUyOWNNeFBIUEpGY01rdDBWQ0JyRlVHRDRjbWV3WVc?oc=5",
-      "publishedAt": "2026-09-24T17:00:00+00:00",
-      "fetchedAt": "2026-09-25T14:54:48.260673+00:00"
-    },
-    {
-      "id": "wyvern-pr-paramount-business-jets-earns-wyvern-wingman-broke",
-      "companyId": "wyvern",
-      "companyName": "Wyvern",
-      "category": "geoint",
+      "id": "planet-labs-pr-planet-s-pelican-12-satellite-arrives-at-launch-si",
+      "companyId": "planet-labs",
+      "companyName": "Planet Labs",
+      "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Paramount Business Jets Earns WYVERN WINGMAN Broker Certification - GlobeNewswire",
-      "description": "Press release / announcement from Wyvern",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDdOOURfaUZVTFVpTDMwZTJPaEFyb09nYTRzd1J4V2dFSlpLRlZJZWpWcEI1dm92R1lWWXV0cDVJR1VMdDhYdWNaRVRrQ1M2T1VnTllrZ2Zsd19Xd041OGRkN01UZmxlV0cwakhnRU5fTU0yZ3VZMGlWcGF2c0dtRERHZGw3MWhGOXBXbU1LaHVWNFNORlM0M1A1U2RZdjVVSkcyanQ5aEFMQUNuZHZLcXp0TXRuTlpiMDYtNmg2bWFWZ0Z1cjVjaEdVZ1NmeGdfZHdB?oc=5",
-      "publishedAt": "2026-09-24T15:00:00+00:00",
-      "fetchedAt": "2026-09-25T14:57:46.735860+00:00"
-    },
-    {
-      "id": "palantir-billions-behind-the-autonomous-machine-boom-as-unm",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "PRNewswire",
-      "title": "Billions Behind the Autonomous Machine Boom as Unmanned Ground Vehicles Disrupts the Defense Industry",
-      "description": "From battlefield logistics to mining and infrastructure, unmanned ground vehicles are moving rapidly toward real-world deployment NEW YORK, Sept. 24, 2026 /PRNewswire/ -- Platinum Trade Alerts News Commentary - Unmanned Ground Vehicles (UGVs) are quickly beco\u2026",
-      "url": "https://www.prnewswire.com/news-releases/billions-behind-the-autonomous-machine-boom-as-unmanned-ground-vehicles-disrupts-the-defense-industry-302889050.html",
-      "publishedAt": "2026-09-24T12:45:00Z",
-      "fetchedAt": "2026-09-25T14:54:45.936315+00:00"
+      "title": "Planet's Pelican-12 Satellite Arrives at Launch Site \u2013 Company Announcement - Financial Times",
+      "description": "Press release / announcement from Planet Labs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUlBbHpvMnJ4VFV5SVVUdTBPVlJiRDlRV05oS0JEN01zTzhlT2NHYWZBaUhYWHhldUJQMFRNaUVPWU85X2hLQURQNzk0VU1zUktZcmpDcEhMcWJNQWZDQ0ZUZ19XTkNmd2ZHLXRWMDlTMWRhVkFlZFJQNENBczhINEpvWGt6YXBoNGZhRHZ5WTZhZTJTMmMzX2RDZEg0Y2JQZWo4?oc=5",
+      "publishedAt": "2026-09-25T13:03:00+00:00",
+      "fetchedAt": "2026-09-26T14:01:23.665172+00:00"
     }
   ],
-  "generatedAt": "2026-09-25T14:58:08.250136+00:00",
+  "generatedAt": "2026-09-26T14:02:48.386872+00:00",
   "periodHours": 28,
-  "count": 5
+  "count": 2
 }
