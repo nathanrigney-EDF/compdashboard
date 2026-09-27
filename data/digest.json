@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "umbra-pr-umbra-companies-inc---ucix--announces-intention-to",
-      "companyId": "umbra",
-      "companyName": "Umbra",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Umbra Companies Inc. (UCIX) Announces Intention to Become Fully Reporting and File an S-1 with the SEC - The Manila Times",
-      "description": "Press release / announcement from Umbra",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa3BrQ2NEYlg0NTlobllXYXFjd1lRbllienNjVGJyYnFNaG5hV25FekNYVkptQ25naEJ1akFRUG40NU5UYXo3THNTY0poS3VIeHBJbTlhd1JlMkdIVExjbWdzMGtUVUpfQ1k5WVZpWWhzd3g4eGFIcGRsMWxid1VGZDRiY1A5TWRmVVltYlJOc0E0d3ZIU2FNNlFvVXpzeEJXc3dqRDByajJXeHRsVWNjYlZvRl9SVkI5cEQwQzNRRzZsMFk2ejN6NzQ5cFlJa2IydTE1V3ZGT292SW40czB2enBkUGVuU2I5OTNIVW84bVFST082NlZJQXlIY2xsNWNMNVIw0gGIAkFVX3lxTE5UZTExVTJ5MGFJeFRjU1J3RXp2NEJEOGRjQU5aenFHQ2d2MHduQkxEaWk3d28yZkJCT29tTXh6anZCNlpLaVFDbVZ5ek53ZUhnRE5Gbnk0NHBobzlrNGotOVl0bWpIMzBmOTRlRjhtNDBaTUp0SHYxTXBEZzdseHdnQVU4Z1R5cUk5YlljM2tTYWVKN01NZlpaOTdiT1EtTHZBUVBLcHpZWE82Yko5cHFhR2llSEQ4R1ZKSVA3Q3JFX0o1NW9uQmRlNWJmLVJ1QTlFZzRhejBFVkJZdW5XUVRFSXpLQmg5X29qV01sdnJXR2RQdUloZlp0bGVzSFpUTDFrbU9YNDZ2YQ?oc=5",
-      "publishedAt": "2026-09-25T13:10:54+00:00",
-      "fetchedAt": "2026-09-26T14:01:31.074346+00:00"
-    },
-    {
-      "id": "planet-labs-pr-planet-s-pelican-12-satellite-arrives-at-launch-si",
-      "companyId": "planet-labs",
-      "companyName": "Planet Labs",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Planet's Pelican-12 Satellite Arrives at Launch Site \u2013 Company Announcement - Financial Times",
-      "description": "Press release / announcement from Planet Labs",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUlBbHpvMnJ4VFV5SVVUdTBPVlJiRDlRV05oS0JEN01zTzhlT2NHYWZBaUhYWHhldUJQMFRNaUVPWU85X2hLQURQNzk0VU1zUktZcmpDcEhMcWJNQWZDQ0ZUZ19XTkNmd2ZHLXRWMDlTMWRhVkFlZFJQNENBczhINEpvWGt6YXBoNGZhRHZ5WTZhZTJTMmMzX2RDZEg0Y2JQZWo4?oc=5",
-      "publishedAt": "2026-09-25T13:03:00+00:00",
-      "fetchedAt": "2026-09-26T14:01:23.665172+00:00"
-    }
-  ],
-  "generatedAt": "2026-09-26T14:02:48.386872+00:00",
+  "articles": [],
+  "generatedAt": "2026-09-27T14:58:57.982848+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
