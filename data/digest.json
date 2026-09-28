@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": "2026-09-27T14:58:57.982848+00:00",
+  "articles": [
+    {
+      "id": "zignal-pr-prometheus-security-group-global-and-zignal-labs-s",
+      "companyId": "zignal",
+      "companyName": "Zignal Labs",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Prometheus Security Group Global and Zignal Labs Selected for AFWERX SBIR Phase I Award - globenewswire.com",
+      "description": "Press release / announcement from Zignal Labs",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ2pzUGFyWHRld0tha0VoUm1KY2k2cmFReEdmM3pSU3QzazR1SkNLWDBLRkxGVHR3OW1GamlGRFkzY0h3UUxEOVJHOTExYVlZc3V5eFdQWUdQX1BoV0ZfWXhZMkgya2pjUmlNRVcwYXA3SmpQeFBxcGZwamYyMmJPaGt2bzhla2xEb1ZoMXlfSnJnRTI4MTR2cGNLcnY2Z3dqMko0LS1LZXFKNGNmNWhLMmkyYnYyMU1td3JiZHcyVGFYWU1lRHRHbFp1TTF6Q2NXQmZHeDRrbFpkeDFMQl85VVRvSHBHZzM0aWtJT2dqZHU?oc=5",
+      "publishedAt": "2026-09-28T14:00:00+00:00",
+      "fetchedAt": "2026-09-28T17:56:10.832402+00:00"
+    },
+    {
+      "id": "satellogic-rss-zacks-industry-outlook-highlights-planet-labs--sat",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite - tradingview.com",
+      "description": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite&nbsp;&nbsp;tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVUdkTkZQQXE5ZHdWaW9QYjJoVEJLQ0dXWmduRGpjY1JYS2R5c01TYWFSNG84MHNqcDJkby1MeVRHOVZnQVA3dExhRTdtcnR0dkFpeWJXWk9GczFtbWwzeUZoRTREN1FURDZvdU1hR25NQWRPZlRHSDFWY2Vmc0NaejVQVncwbWtNY0xnYTRuQVVieWFkWUFucDBvVGtkbmFxN2owdFBIamZMV3p6LUhEejlsQlpCcy1EZjl6QlN0QjBzZnNCcVRrRUp3eGo?oc=5",
+      "publishedAt": "2026-09-28T05:48:00+00:00",
+      "fetchedAt": "2026-09-28T17:56:45.200823+00:00"
+    }
+  ],
+  "generatedAt": "2026-09-28T17:57:15.578512+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
