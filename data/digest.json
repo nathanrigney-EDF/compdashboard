@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": "l3harris-pr-l3harris-receives-thaad-propulsion-contract-valued",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Receives THAAD Propulsion Contract Valued at $6 Billion - l3harris.com",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXc1Rnc2LWFnX2JaTDc4bUNRUE9jVWFvSlhXQ29XZ1ppTkE3U0RhdW9JVnBSa2oxb0xheTVXa0psNWRWaDdybzRLYjd4MkZaX18xNXFGU2tfSlRDTHZuMURkZkJrbDFjcmUxdEg1aXhndDNPcEpCc2VmSEQ2bXY5UjdBMmItR3lvem50ckhpUF96dEQ2WHpPMjd5VzlNeUY3em1PeDVuR3lEWEhjQ0o2OF9JMlZ3bVE?oc=5",
+      "publishedAt": "2026-09-29T14:06:11+00:00",
+      "fetchedAt": "2026-09-29T16:20:08.774341+00:00"
+    },
+    {
+      "id": "seerist-rss-seerist-and-janes-bring-real-time-global-risk-sign",
+      "companyId": "seerist",
+      "companyName": "Seerist",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Seerist and Janes Bring Real-Time Global Risk Signals and Validated Military Intelligence into One Workflow - globenewswire.com",
+      "description": "Seerist and Janes Bring Real-Time Global Risk Signals and Validated Military Intelligence into One Workflow&nbsp;&nbsp;globenewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM3VqQ19UeW1vMzZGc3lWOEdRU3B3QlV0cTlzX3V0d2VaclhmMEpubENYYzB1dXh5WTFyRW1kVUxWMDNhVU9NNXhlTWVWNWtmbEZZQllnWVFZRlJZUWpKNnpmOXB4cGhBX3Z6Z0NEOGUzTldBQTA4Z0w4b0h3eVcxQ3RDMnR4eXVydzRZLTlGX043NzBKWkUtOVpxdGRVaHBHQW4tZ0k0SUZHR2M2aWFqUWpNVVg4ZkhNejBOR25tcGpjTVBoRUlyXzRua3VIREdFdWtLOXRWcFh4a0dsNXZXNnVjZW9NVF9qX1BCUi1oYkhXYlBwazMybXR0QkhXbzdOQXlFQ0UzVWNsa1U?oc=5",
+      "publishedAt": "2026-09-29T12:01:00+00:00",
+      "fetchedAt": "2026-09-29T16:18:28.928388+00:00"
+    },
+    {
       "id": "zignal-pr-prometheus-security-group-global-and-zignal-labs-s",
       "companyId": "zignal",
       "companyName": "Zignal Labs",
@@ -11,23 +37,10 @@
       "description": "Press release / announcement from Zignal Labs",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ2pzUGFyWHRld0tha0VoUm1KY2k2cmFReEdmM3pSU3QzazR1SkNLWDBLRkxGVHR3OW1GamlGRFkzY0h3UUxEOVJHOTExYVlZc3V5eFdQWUdQX1BoV0ZfWXhZMkgya2pjUmlNRVcwYXA3SmpQeFBxcGZwamYyMmJPaGt2bzhla2xEb1ZoMXlfSnJnRTI4MTR2cGNLcnY2Z3dqMko0LS1LZXFKNGNmNWhLMmkyYnYyMU1td3JiZHcyVGFYWU1lRHRHbFp1TTF6Q2NXQmZHeDRrbFpkeDFMQl85VVRvSHBHZzM0aWtJT2dqZHU?oc=5",
       "publishedAt": "2026-09-28T14:00:00+00:00",
-      "fetchedAt": "2026-09-28T17:56:10.832402+00:00"
-    },
-    {
-      "id": "satellogic-rss-zacks-industry-outlook-highlights-planet-labs--sat",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite - tradingview.com",
-      "description": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite&nbsp;&nbsp;tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVUdkTkZQQXE5ZHdWaW9QYjJoVEJLQ0dXWmduRGpjY1JYS2R5c01TYWFSNG84MHNqcDJkby1MeVRHOVZnQVA3dExhRTdtcnR0dkFpeWJXWk9GczFtbWwzeUZoRTREN1FURDZvdU1hR25NQWRPZlRHSDFWY2Vmc0NaejVQVncwbWtNY0xnYTRuQVVieWFkWUFucDBvVGtkbmFxN2owdFBIamZMV3p6LUhEejlsQlpCcy1EZjl6QlN0QjBzZnNCcVRrRUp3eGo?oc=5",
-      "publishedAt": "2026-09-28T05:48:00+00:00",
-      "fetchedAt": "2026-09-28T17:56:45.200823+00:00"
+      "fetchedAt": "2026-09-29T16:18:55.875719+00:00"
     }
   ],
-  "generatedAt": "2026-09-28T17:57:15.578512+00:00",
+  "generatedAt": "2026-09-29T16:20:34.703136+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 3
 }
