@@ -1,46 +1,46 @@
 {
   "articles": [
     {
+      "id": "seerist-rss-seerist-integrates-janes-military-intelligence---e",
+      "companyId": "seerist",
+      "companyName": "Seerist",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Seerist Integrates Janes Military Intelligence - ExecutiveBiz",
+      "description": "Seerist Integrates Janes Military Intelligence&nbsp;&nbsp;ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR01WVjZRUHF3T0UxVXR4WDNjQ1F2RzE1MHRLc2pUUC1ZLU1rZS1RWjI5ZHhIYXBhOGZZSTN6cXMxRkJSUWFXeHZ4NERWOVdaVjRtaTVQazJ2SlJ3WkwzVE9MQmp6OVFoay16blBYTWs1S2dBaXBLU290YS0tU1pHQWN3?oc=5",
+      "publishedAt": "2026-09-30T15:51:18+00:00",
+      "fetchedAt": "2026-09-30T16:13:35.441129+00:00"
+    },
+    {
       "id": "l3harris-pr-l3harris-receives-thaad-propulsion-contract-valued",
       "companyId": "l3harris",
       "companyName": "L3Harris Technologies",
       "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "L3Harris Receives THAAD Propulsion Contract Valued at $6 Billion - l3harris.com",
+      "title": "L3Harris Receives THAAD Propulsion Contract Valued at $6 Billion - L3Harris\u00ae Fast. Forward.",
       "description": "Press release / announcement from L3Harris Technologies",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXc1Rnc2LWFnX2JaTDc4bUNRUE9jVWFvSlhXQ29XZ1ppTkE3U0RhdW9JVnBSa2oxb0xheTVXa0psNWRWaDdybzRLYjd4MkZaX18xNXFGU2tfSlRDTHZuMURkZkJrbDFjcmUxdEg1aXhndDNPcEpCc2VmSEQ2bXY5UjdBMmItR3lvem50ckhpUF96dEQ2WHpPMjd5VzlNeUY3em1PeDVuR3lEWEhjQ0o2OF9JMlZ3bVE?oc=5",
-      "publishedAt": "2026-09-29T14:06:11+00:00",
-      "fetchedAt": "2026-09-29T16:20:08.774341+00:00"
+      "publishedAt": "2026-09-29T14:06:12+00:00",
+      "fetchedAt": "2026-09-30T16:14:52.834472+00:00"
     },
     {
-      "id": "seerist-rss-seerist-and-janes-bring-real-time-global-risk-sign",
-      "companyId": "seerist",
-      "companyName": "Seerist",
+      "id": "recorded-future-trump-meets-ai-executives-as-recorded-future-ceo-c",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Seerist and Janes Bring Real-Time Global Risk Signals and Validated Military Intelligence into One Workflow - globenewswire.com",
-      "description": "Seerist and Janes Bring Real-Time Global Risk Signals and Validated Military Intelligence into One Workflow&nbsp;&nbsp;globenewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM3VqQ19UeW1vMzZGc3lWOEdRU3B3QlV0cTlzX3V0d2VaclhmMEpubENYYzB1dXh5WTFyRW1kVUxWMDNhVU9NNXhlTWVWNWtmbEZZQllnWVFZRlJZUWpKNnpmOXB4cGhBX3Z6Z0NEOGUzTldBQTA4Z0w4b0h3eVcxQ3RDMnR4eXVydzRZLTlGX043NzBKWkUtOVpxdGRVaHBHQW4tZ0k0SUZHR2M2aWFqUWpNVVg4ZkhNejBOR25tcGpjTVBoRUlyXzRua3VIREdFdWtLOXRWcFh4a0dsNXZXNnVjZW9NVF9qX1BCUi1oYkhXYlBwazMybXR0QkhXbzdOQXlFQ0UzVWNsa1U?oc=5",
-      "publishedAt": "2026-09-29T12:01:00+00:00",
-      "fetchedAt": "2026-09-29T16:18:28.928388+00:00"
-    },
-    {
-      "id": "zignal-pr-prometheus-security-group-global-and-zignal-labs-s",
-      "companyId": "zignal",
-      "companyName": "Zignal Labs",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Prometheus Security Group Global and Zignal Labs Selected for AFWERX SBIR Phase I Award - globenewswire.com",
-      "description": "Press release / announcement from Zignal Labs",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ2pzUGFyWHRld0tha0VoUm1KY2k2cmFReEdmM3pSU3QzazR1SkNLWDBLRkxGVHR3OW1GamlGRFkzY0h3UUxEOVJHOTExYVlZc3V5eFdQWUdQX1BoV0ZfWXhZMkgya2pjUmlNRVcwYXA3SmpQeFBxcGZwamYyMmJPaGt2bzhla2xEb1ZoMXlfSnJnRTI4MTR2cGNLcnY2Z3dqMko0LS1LZXFKNGNmNWhLMmkyYnYyMU1td3JiZHcyVGFYWU1lRHRHbFp1TTF6Q2NXQmZHeDRrbFpkeDFMQl85VVRvSHBHZzM0aWtJT2dqZHU?oc=5",
-      "publishedAt": "2026-09-28T14:00:00+00:00",
-      "fetchedAt": "2026-09-29T16:18:55.875719+00:00"
+      "sourceName": "Crypto Briefing",
+      "title": "Trump meets AI executives as Recorded Future CEO calls for pragmatic AI approach",
+      "description": "The meeting underscores the urgent need for balanced AI policies to ensure technological advancement without compromising safety or ethics.\nThe post Trump meets AI executives as Recorded Future CEO calls for pragmatic AI approach appeared first on Crypto Brie\u2026",
+      "url": "https://cryptobriefing.com/trump-ai-executives-recorded-future-pragmatism/",
+      "publishedAt": "2026-09-29T13:18:08Z",
+      "fetchedAt": "2026-09-30T16:12:33.417324+00:00"
     }
   ],
-  "generatedAt": "2026-09-29T16:20:34.703136+00:00",
+  "generatedAt": "2026-09-30T16:15:21.741616+00:00",
   "periodHours": 28,
   "count": 3
 }
