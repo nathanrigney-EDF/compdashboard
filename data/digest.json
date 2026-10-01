@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": "babel-street-rss-babel-street-adds-former-navy-official-victor-mine",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Babel Street Adds Former Navy Official Victor Minella to Advisory Board - citybiz",
+      "description": "Babel Street Adds Former Navy Official Victor Minella to Advisory Board&nbsp;&nbsp;citybiz",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlFwUFBZQW1NbEM1b3ZwRVc5dlNUa29LbjNnTlRKek5VM29acVpRS3hHQWNfOEd3Xy0taXROb2RPckFoMW1pcXpiU29KeEswUnM5dWJMNjhRNG12RklsUVlxR3FCM0NZdTJ3Qkh6eEJMaXMyMzNkclZyNHBkQ1U1a2UyRnBFTkQyM29TaW1naFMwZWRRamYyMlY2Tml6cW1YcjJyX1pyNi1mRWNybFRv?oc=5",
+      "publishedAt": "2026-10-01T13:55:08+00:00",
+      "fetchedAt": "2026-10-01T16:49:32.927700+00:00"
+    },
+    {
+      "id": "babel-street-rss-victor-minella--former-senior-department-of-the-na",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Victor Minella, Former Senior Department of the Navy Official, Joins Babel Street Advisory Board - Business Wire",
+      "description": "Victor Minella, Former Senior Department of the Navy Official, Joins Babel Street Advisory Board&nbsp;&nbsp;Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHhVZTlKNUczOWpPNFJ6RGZMaXhkOV91RFhyMFR2OWJENkFNOVd0ckRuTTVvY0FWRnZyWVV6Y2lmR3hhZk42amVOeVJmWXdic2dpMHNVdE9KelhaczQwQlZhXzRFaDRYNDM2N3d4NjgyTE45eUZXWEM4M1dRbjctbk1SVTFjRTUwM2JJSmxnWk9VUW9aUWZ3MndIUmRENGZtWUV0RGFLSndMb3Z0cHdYbmN5anhIUE4ySHJsMm9XT3FHS3ZISGVQSU00M1ZFUTQxUDdJT2wyNXFEUno2WGY4NTdRaXpPdw?oc=5",
+      "publishedAt": "2026-10-01T13:00:00+00:00",
+      "fetchedAt": "2026-10-01T16:49:32.927679+00:00"
+    },
+    {
+      "id": "iceye-pr-iceye-and-nokia-partner-to-launch-secure-and-sover",
+      "companyId": "iceye",
+      "companyName": "ICEYE",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "ICEYE and Nokia partner to launch secure and sovereign satellite communications for governments and defense customers - nokia.com",
+      "description": "Press release / announcement from ICEYE",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX09Qek53WkZUenZqSVZWY0plNlRVdUEzSW5QMVV1ZDB0RzZTckJBbW11cXZXNm9zX2R2blFLcWZpNkRIalhQbkJTWmVEYUowMU1kdVBaN0JCTHNPaTdkNzZPbXVFVGhZTlBZeXlMeEI3WVpnMTVieUZZYjF1UVNqVGlEcC1iSy11V24ycnVvaHU5UHFqMWpVUDZyT1JzSFBMVEd4X2NMMzQ1ZG41Ynl3VTloRV9mcDd3Qi1LRjVwOEh4UUtUYmRYZWs3YWF1X1lQZjRfVEo0VHk3bjIwbE9sR25YWQ?oc=5",
+      "publishedAt": "2026-10-01T06:57:00+00:00",
+      "fetchedAt": "2026-10-01T16:52:18.486982+00:00"
+    },
+    {
       "id": "seerist-rss-seerist-integrates-janes-military-intelligence---e",
       "companyId": "seerist",
       "companyName": "Seerist",
@@ -14,33 +53,20 @@
       "fetchedAt": "2026-09-30T16:13:35.441129+00:00"
     },
     {
-      "id": "l3harris-pr-l3harris-receives-thaad-propulsion-contract-valued",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Receives THAAD Propulsion Contract Valued at $6 Billion - L3Harris\u00ae Fast. Forward.",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXc1Rnc2LWFnX2JaTDc4bUNRUE9jVWFvSlhXQ29XZ1ppTkE3U0RhdW9JVnBSa2oxb0xheTVXa0psNWRWaDdybzRLYjd4MkZaX18xNXFGU2tfSlRDTHZuMURkZkJrbDFjcmUxdEg1aXhndDNPcEpCc2VmSEQ2bXY5UjdBMmItR3lvem50ckhpUF96dEQ2WHpPMjd5VzlNeUY3em1PeDVuR3lEWEhjQ0o2OF9JMlZ3bVE?oc=5",
-      "publishedAt": "2026-09-29T14:06:12+00:00",
-      "fetchedAt": "2026-09-30T16:14:52.834472+00:00"
-    },
-    {
-      "id": "recorded-future-trump-meets-ai-executives-as-recorded-future-ceo-c",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "seerist-rss-seerist-adds-janes-military-data-to-risk-intellige",
+      "companyId": "seerist",
+      "companyName": "Seerist",
       "category": "osint",
       "source": "news",
-      "sourceName": "Crypto Briefing",
-      "title": "Trump meets AI executives as Recorded Future CEO calls for pragmatic AI approach",
-      "description": "The meeting underscores the urgent need for balanced AI policies to ensure technological advancement without compromising safety or ethics.\nThe post Trump meets AI executives as Recorded Future CEO calls for pragmatic AI approach appeared first on Crypto Brie\u2026",
-      "url": "https://cryptobriefing.com/trump-ai-executives-recorded-future-pragmatism/",
-      "publishedAt": "2026-09-29T13:18:08Z",
-      "fetchedAt": "2026-09-30T16:12:33.417324+00:00"
+      "sourceName": "Google News",
+      "title": "Seerist Adds Janes Military Data to Risk Intelligence Offering - ExecutiveBiz",
+      "description": "Seerist Adds Janes Military Data to Risk Intelligence Offering&nbsp;&nbsp;ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR01WVjZRUHF3T0UxVXR4WDNjQ1F2RzE1MHRLc2pUUC1ZLU1rZS1RWjI5ZHhIYXBhOGZZSTN6cXMxRkJSUWFXeHZ4NERWOVdaVjRtaTVQazJ2SlJ3WkwzVE9MQmp6OVFoay16blBYTWs1S2dBaXBLU290YS0tU1pHQWN3?oc=5",
+      "publishedAt": "2026-09-30T15:51:18+00:00",
+      "fetchedAt": "2026-10-01T16:50:49.953443+00:00"
     }
   ],
-  "generatedAt": "2026-09-30T16:15:21.741616+00:00",
+  "generatedAt": "2026-10-01T16:53:48.381003+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 5
 }
