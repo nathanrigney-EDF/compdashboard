@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "babel-street-rss-babel-street-adds-former-navy-official-victor-mine",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
+      "id": "palantir--hands-off-our-nhs-data--inside-the-nationwide-mov",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Babel Street Adds Former Navy Official Victor Minella to Advisory Board - citybiz",
-      "description": "Babel Street Adds Former Navy Official Victor Minella to Advisory Board&nbsp;&nbsp;citybiz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlFwUFBZQW1NbEM1b3ZwRVc5dlNUa29LbjNnTlRKek5VM29acVpRS3hHQWNfOEd3Xy0taXROb2RPckFoMW1pcXpiU29KeEswUnM5dWJMNjhRNG12RklsUVlxR3FCM0NZdTJ3Qkh6eEJMaXMyMzNkclZyNHBkQ1U1a2UyRnBFTkQyM29TaW1naFMwZWRRamYyMlY2Tml6cW1YcjJyX1pyNi1mRWNybFRv?oc=5",
-      "publishedAt": "2026-10-01T13:59:34+00:00",
-      "fetchedAt": "2026-10-02T16:02:58.202563+00:00"
-    },
-    {
-      "id": "babel-street-rss-victor-minella--former-senior-department-of-the-na",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Victor Minella, Former Senior Department of the Navy Official, Joins Babel Street Advisory Board - Business Wire",
-      "description": "Victor Minella, Former Senior Department of the Navy Official, Joins Babel Street Advisory Board&nbsp;&nbsp;Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHhVZTlKNUczOWpPNFJ6RGZMaXhkOV91RFhyMFR2OWJENkFNOVd0ckRuTTVvY0FWRnZyWVV6Y2lmR3hhZk42amVOeVJmWXdic2dpMHNVdE9KelhaczQwQlZhXzRFaDRYNDM2N3d4NjgyTE45eUZXWEM4M1dRbjctbk1SVTFjRTUwM2JJSmxnWk9VUW9aUWZ3MndIUmRENGZtWUV0RGFLSndMb3Z0cHdYbmN5anhIUE4ySHJsMm9XT3FHS3ZISGVQSU00M1ZFUTQxUDdJT2wyNXFEUno2WGY4NTdRaXpPdw?oc=5",
-      "publishedAt": "2026-10-01T13:00:00+00:00",
-      "fetchedAt": "2026-10-02T16:02:58.202538+00:00"
+      "sourceName": "TechRadar",
+      "title": "'Hands off our NHS data:'Inside the nationwide movement against Palantir\u2019s \u00a3330m NHS deal",
+      "description": "We speak to health workers and campaigners on the ground in Bristol to unpack the technical flaws, privacy fears, and growing political pressure facing Prime Minister Andy Burnham to scrap the deal before the 2027 break clause.",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/hands-off-our-nhs-data-inside-the-nationwide-revolt-against-palantirs-gbp330m-nhs-deal",
+      "publishedAt": "2026-10-02T12:23:13Z",
+      "fetchedAt": "2026-10-03T14:30:09.581684+00:00"
     }
   ],
-  "generatedAt": "2026-10-02T16:05:26.506102+00:00",
+  "generatedAt": "2026-10-03T14:33:00.788179+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
