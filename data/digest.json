@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "palantir--hands-off-our-nhs-data--inside-the-nationwide-mov",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "TechRadar",
-      "title": "'Hands off our NHS data:'Inside the nationwide movement against Palantir\u2019s \u00a3330m NHS deal",
-      "description": "We speak to health workers and campaigners on the ground in Bristol to unpack the technical flaws, privacy fears, and growing political pressure facing Prime Minister Andy Burnham to scrap the deal before the 2027 break clause.",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/hands-off-our-nhs-data-inside-the-nationwide-revolt-against-palantirs-gbp330m-nhs-deal",
-      "publishedAt": "2026-10-02T12:23:13Z",
-      "fetchedAt": "2026-10-03T14:30:09.581684+00:00"
-    }
-  ],
-  "generatedAt": "2026-10-03T14:33:00.788179+00:00",
+  "articles": [],
+  "generatedAt": "2026-10-04T15:08:30.198335+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
