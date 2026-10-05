@@ -1,6 +1,33 @@
 {
-  "articles": [],
-  "generatedAt": "2026-10-04T15:08:30.198335+00:00",
+  "articles": [
+    {
+      "id": "l3harris-pr-l3harris-technologies-sets-q3fy26-earnings-release",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Technologies sets Q3FY26 earnings release for October 29 - scanx.trade",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamg2SE9FeVZ4Zkp5OERxWk01X05YVkVCc051a2NIR2dZTUZQS0hMY091MVc1T3dZYnFiNW41NFpCZ24tLW1SSWE2YllTUjJBcnNScU9YUFJRVGdZMEVMaHZDYmVIdmotTDAxdzY0aW14Ny10ZTVOQWpBR3RxOGFzODBrY2o2RmM2UXJsRDNUWUEzWVM2RXROQTdsNnJEQ0FmT2g0T2QySklnTDNlWWNjM3NxbmxYc2ZJRHc?oc=5",
+      "publishedAt": "2026-10-05T16:44:54+00:00",
+      "fetchedAt": "2026-10-05T19:02:27.842781+00:00"
+    },
+    {
+      "id": "l3harris-pr-l3harris-sets-date-for-third-quarter-2026-earnings",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Sets Date for Third Quarter 2026 Earnings Release - L3Harris\u00ae Fast. Forward.",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1pmQ29YUXQ4dGQxV21PUWlfNkhvSUc3NXEwN0NXVVlyeHFlQWI5cmlWTkgwaTNFanJUQi1TVnE5SjB3Z281cU9DQVh5Z1dveDBvOHNRRk93a0xHOTZXc2tDalVQMXN5TlllSENLVUdJMWJ1V3R5Y1VJcUF0NkhNTDNRTzEyQldISzFkUGlrdlNGZHl2aTRyS3ZHVUstY0RydjNMdmpSdWlDX09ydDk4?oc=5",
+      "publishedAt": "2026-10-05T14:25:56+00:00",
+      "fetchedAt": "2026-10-05T19:02:27.842760+00:00"
+    }
+  ],
+  "generatedAt": "2026-10-05T19:03:08.350025+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 2
 }
