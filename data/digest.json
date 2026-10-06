@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "leidos-pr-third-quarter-earnings-release-planned-before-leid",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Third-quarter earnings release planned before Leidos' Nov. 3 call - Stock Titan",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmxaM3dycTZ4SG5SOUl1ajRhbkpZbWpjcjBaZXAyRmhxZHFZT2wyOXhscWwzZWdOeHN1bUJpUm1XMlY0dGJmSnhXWjhSYXVQY0hEQUZBdnRZbVgyc0c1TlpNd1ZLamRaclcySk16Rncwd3A3cUE1X0RnTm5Sa1pSTGxYX2x2ODhiSmxaSW9PQUxBcDY1U0dwVEhjbWtfM3NBYU85MTBRV0oxV2ZHYzFqdGtCa3VZYnpDX3lV?oc=5",
+      "publishedAt": "2026-10-06T12:06:47+00:00",
+      "fetchedAt": "2026-10-06T16:26:42.036070+00:00"
+    },
+    {
       "id": "l3harris-pr-l3harris-technologies-sets-q3fy26-earnings-release",
       "companyId": "l3harris",
       "companyName": "L3Harris Technologies",
@@ -20,14 +33,14 @@
       "category": "satellite",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "L3Harris Sets Date for Third Quarter 2026 Earnings Release - L3Harris\u00ae Fast. Forward.",
+      "title": "L3Harris Sets Date for Third Quarter 2026 Earnings Release - Business Wire",
       "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1pmQ29YUXQ4dGQxV21PUWlfNkhvSUc3NXEwN0NXVVlyeHFlQWI5cmlWTkgwaTNFanJUQi1TVnE5SjB3Z281cU9DQVh5Z1dveDBvOHNRRk93a0xHOTZXc2tDalVQMXN5TlllSENLVUdJMWJ1V3R5Y1VJcUF0NkhNTDNRTzEyQldISzFkUGlrdlNGZHl2aTRyS3ZHVUstY0RydjNMdmpSdWlDX09ydDk4?oc=5",
-      "publishedAt": "2026-10-05T14:25:56+00:00",
-      "fetchedAt": "2026-10-05T19:02:27.842760+00:00"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUY0T3NzMWMtZWNyWGprTVpjNWVvN18zN1B2RjlCZDNnOFYyZ1RGRlZMSzhlSnB2ejhNaFl5Y1dfQzE1d0ZlQ3JITWIzci14OWRRMDJObWFKOWtEdzRrbjlWUUQwNjFIcG9lbF9Qa3doemtDX2R3c2hZWmh2SHltZHFMZWlZSUxINDVtUjBYcEgyN1JuVThWRUVPS0FPd0ViXzljTVFwdzRwUEFpY0dsblYzeWpIdw?oc=5",
+      "publishedAt": "2026-10-05T14:00:00+00:00",
+      "fetchedAt": "2026-10-06T16:28:06.270066+00:00"
     }
   ],
-  "generatedAt": "2026-10-05T19:03:08.350025+00:00",
+  "generatedAt": "2026-10-06T16:29:00.002483+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 3
 }
