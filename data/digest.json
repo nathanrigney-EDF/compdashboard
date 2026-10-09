@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "bigbear-ai-rss-can-bigbear-ai-build-stronger-growth-heading-into",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Can BigBear.ai Build Stronger Growth Heading Into 2027? - TradingView",
+      "description": "Can BigBear.ai Build Stronger Growth Heading Into 2027?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmh2RkNxV2tCNXhxX1VKenZ0WHhQQ3AzYzZ6S29vbFdtR25zQVYyNlQ2QlBpRXZ4aFJzYnZUMkJXMWozZ2tSdEQ0T1dmTG0zTVo3SkNhMU5HOUFPaUN5TFVsYXVIYnczLUNlLWtYR0FXOTVqMjZ5Y0lmcW5Kc0dlcV9EN2xabjlyaWk1SnI5ajB3MWZOQmVOS09rT1VFTjBaZWtQS1BOUUliY2VUWEdZ?oc=5",
+      "publishedAt": "2026-10-09T13:17:00+00:00",
+      "fetchedAt": "2026-10-09T16:45:41.286068+00:00"
+    },
+    {
       "id": "orbital-insight-rss-geospatial-analytics-market-to-expand-at-19--cagr",
       "companyId": "orbital-insight",
       "companyName": "Orbital Insight",
@@ -11,36 +24,23 @@
       "description": "Geospatial Analytics Market to Expand at 19% CAGR, Exceeding $243 billion by 2030, with Asia Pacific Leading&nbsp;&nbsp;EIN News",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUlN5dW5DV1dGM2NKeXlzMFJ1R1BLMzQwTGdKNVE5VG5DYnZ3NnpJM2tydlRjVV9wc0VnS0lILWNfMnNCVlhoMkVaQnRUMXJQYkpmb3YyRERsY2lUdEplek5ETllkZ0NyVS1qbjI0bnRmbjZoVU9KNUkwcUh3U1lNT3c4cEJ4bkNzdzhQMVdTM2poMXkxVFNjMjFfU3VPRm5FOTNlVTJRWDNOVThodUJXNDBoWEYxc3NaZW9iVE5ab3g4NndUcDgzV1BiN2tFeGhWLXl4WkFhY1J2ZFRxNVdB?oc=5",
       "publishedAt": "2026-10-08T14:45:00+00:00",
-      "fetchedAt": "2026-10-08T17:08:51.448939+00:00"
+      "fetchedAt": "2026-10-09T16:47:59.884315+00:00"
     },
     {
-      "id": "recorded-future-ai-cybersecurity-market-worth--95-25-billion-by-20",
+      "id": "recorded-future-the-case-for-economic-espionage",
       "companyId": "recorded-future",
       "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "PRNewswire",
-      "title": "AI Cybersecurity Market worth $95.25 billion by 2031 - Report by MarketsandMarkets\u2122",
-      "description": "DELRAY BEACH, Fla., Oct. 7, 2026 /PRNewswire/ -- According to MarketsandMarkets\u2122, the AI Cybersecurity Market is projected to grow from USD 31.25 billion in 2026 to USD 95.25 billion by 2031 at a CAGR of 25.0% during the forecast period. Browse 500 market dat\u2026",
-      "url": "https://www.prnewswire.com/news-releases/ai-cybersecurity-market-worth-95-25-billion-by-2031--report-by-marketsandmarkets-302900898.html",
-      "publishedAt": "2026-10-07T14:01:00Z",
-      "fetchedAt": "2026-10-08T17:06:46.403976+00:00"
-    },
-    {
-      "id": "recorded-future-potential-health-impacts-and-costs-of-active-case",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Plos.org",
-      "title": "Potential health impacts and costs of active case finding guided by Mycobacterium tuberculosis immunoreactivity survey results in Blantyre, Malawi: A mathematical modeling study",
-      "description": "In this modelling study, Sun Kim and colleagues explore whether tuberculosis active case finding can be more efficiently targeted using local Mycobacterium tuberculosis immunoreactivity survey data from children in Blantyre, Malawi. Their findings suggest tha\u2026",
-      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005272",
-      "publishedAt": "2026-10-07T14:00:00Z",
-      "fetchedAt": "2026-10-08T17:06:46.404008+00:00"
+      "sourceName": "Foreign Affairs",
+      "title": "The Case for Economic Espionage",
+      "description": "America should spy on foreign companies to help its own.",
+      "url": "https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen",
+      "publishedAt": "2026-10-08T12:59:17Z",
+      "fetchedAt": "2026-10-09T16:45:12.891155+00:00"
     }
   ],
-  "generatedAt": "2026-10-08T17:09:23.382666+00:00",
+  "generatedAt": "2026-10-09T16:48:15.390608+00:00",
   "periodHours": 28,
   "count": 3
 }
