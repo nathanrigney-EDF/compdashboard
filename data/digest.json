@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "recorded-future-the-seditionist--the-rise-and-fall-of-an-american",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Dallas Observer",
-      "title": "The seditionist: The rise and fall of an American white nationalist",
-      "description": "Louis Beam spent decades elevating violence to new heights in the white nationalist movement, then disappeared from public life.",
-      "url": "http://www.dallasobserver.com/opinion/the-seditionist-the-rise-and-fall-of-an-american-white-nationalist-40721518/",
-      "publishedAt": "2026-10-09T14:00:00Z",
-      "fetchedAt": "2026-10-10T15:39:26.702040+00:00"
-    },
-    {
-      "id": "bigbear-ai-rss-can-bigbear-ai-build-stronger-growth-heading-into",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Can BigBear.ai Build Stronger Growth Heading Into 2027? - TradingView",
-      "description": "Can BigBear.ai Build Stronger Growth Heading Into 2027?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmh2RkNxV2tCNXhxX1VKenZ0WHhQQ3AzYzZ6S29vbFdtR25zQVYyNlQ2QlBpRXZ4aFJzYnZUMkJXMWozZ2tSdEQ0T1dmTG0zTVo3SkNhMU5HOUFPaUN5TFVsYXVIYnczLUNlLWtYR0FXOTVqMjZ5Y0lmcW5Kc0dlcV9EN2xabjlyaWk1SnI5ajB3MWZOQmVOS09rT1VFTjBaZWtQS1BOUUliY2VUWEdZ?oc=5",
-      "publishedAt": "2026-10-09T13:17:00+00:00",
-      "fetchedAt": "2026-10-10T15:40:09.905531+00:00"
-    }
-  ],
-  "generatedAt": "2026-10-10T15:42:26.882329+00:00",
+  "articles": [],
+  "generatedAt": "2026-10-11T16:08:36.002074+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
