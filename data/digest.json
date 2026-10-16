@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "booz-allen-pr-booz-allen-hamilton--bah--expected-to-release-quar",
+      "companyId": "booz-allen",
+      "companyName": "Booz Allen Hamilton",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Booz Allen Hamilton (BAH) Expected to Release Quarterly Earnings on Friday - MarketBeat",
+      "description": "Press release / announcement from Booz Allen Hamilton",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlF1Ry1JelJrYjMtNXBicmdHek9OTUR5RVgySkZJRi1DaDZxdlQ3elk4MDhZUl9SLS05LTk5TmFsajdfeEhGTWl4WjFJQTZCaF82WVZackhxZEE3d0tXdGRHUFdPWjZPaUtnLWhjZ3lvRDZ5M0ZOZGdETmZQeUh5MUpITURMMHYtbWNwSHJHYjB0czZKeVZuLXJQd2ZqaFhvUVdvYXB6d0JuSEFCNDYyUWEyNVBKTWtUX0h0UkJYeHU3QzB6aEZ1aDVZamE2Ml9z?oc=5",
+      "publishedAt": "2026-10-16T06:08:53+00:00",
+      "fetchedAt": "2026-10-16T14:28:16.422698+00:00"
+    },
+    {
       "id": "blacksky-rss-blacksky-extends-heo-space-domain-awareness-agreem",
       "companyId": "blacksky",
       "companyName": "BlackSky Technology",
@@ -11,49 +24,49 @@
       "description": "BlackSky Extends HEO Space Domain Awareness Agreement with New Seven-Figure Non-Earth Imaging Contract Featuring Gen-3&nbsp;&nbsp;Business Wire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT05yYS04OGRXdlBMaGlWZE9NYWwxeTJzSG15VURmUDRNRzNSc29LYUIyYk81MlZ4UUFuc3FqVmRXc1NIRkRFeFFDMUtjeHg2dGNDWElESmMwbHlEUEJBTTYyblEzMjRPTk9ieGJFWk85Q1RUbVNKY21uM1BucU5JMW1DMmxTSno1eVhfNGgzQXc5Z1RwREh1TU1LRVRCTnY1MFJROE1tNmdZVk93bGhGLWZDMWRTVHY1ZDMxbkI5dlJXeGtkQ2lvTUVVRWRRR3pmbFhEbmtTN3lFamlVYjNGNUt4S3JwUzBKRmtnUk5FTjRPb3NscXhOV09BYUVadDhEVVpTQzBB?oc=5",
       "publishedAt": "2026-10-15T12:30:00+00:00",
-      "fetchedAt": "2026-10-15T14:37:29.833100+00:00"
+      "fetchedAt": "2026-10-16T14:29:22.644873+00:00"
     },
     {
-      "id": "bigbear-ai-pr-bigbear-ai-secures-more-than--225m-in-contract-awa",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
+      "id": "heo-rss-blacksky-extends-heo-space-domain-awareness-agreem",
+      "companyId": "heo",
+      "companyName": "HEO",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BlackSky Extends HEO Space Domain Awareness Agreement with New Seven-Figure Non-Earth Imaging Contract Featuring Gen-3 - Yahoo Finance",
+      "description": "BlackSky Extends HEO Space Domain Awareness Agreement with New Seven-Figure Non-Earth Imaging Contract Featuring Gen-3&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzhrOFZLMVE5bWkxZjJkRERWUkJ2UEs3aktrR1RobC01Ymk0TGpZU0xtVmI0SVJ0UmRrVnFWSnZZM2dMOS11TmdOZTVGZ3R2Ry1DdWtBTF9pOXFVdXd5bFNia2pLY3l2ZktHc1I3Z0VEd0pabkVtNlVXQmFqNzltTHdNdTFtckZyVWp2X1ZMMDhZdnQtZGptTUdR?oc=5",
+      "publishedAt": "2026-10-15T12:30:00+00:00",
+      "fetchedAt": "2026-10-16T14:29:35.569939+00:00"
+    },
+    {
+      "id": "palantir-the-plot-to-delete-democracy",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai Secures More Than $225M in Contract Awards Across Homeland Security, Defense, Intelligence and Federal Civilian Agencies - AI Insider",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNDJwSFFqM2JPRmhxN0x5Y2c0ZGhkWGlBYnBBZTcwZ25rblYtbVpMeWhjczlydTZKWGIyVjBSeWU2RUxuV3JQeko5UmxjR0liWnBVb2Fudlo3QWRUSzlPUzE3MllpeXJjc2tpUVZDTWNuWDJweFczWEZBa1hNRGlhb05VSS1DMGthR3hXaUhhcmdHc01sZThvVmdRWHktVmlrZEQ5c2t0aVVpck9ZMmxuOEZNTWMxMVFyZ2llcmphOVBJMlFFekFvVVlvYVFqb0dnWExWbnJzRVppZ2JIR0Z1enlkNHpTaURvOXRxQzNKcDNVSUt3MzZwaURB?oc=5",
-      "publishedAt": "2026-10-14T17:09:27+00:00",
-      "fetchedAt": "2026-10-15T14:36:39.978134+00:00"
+      "source": "news",
+      "sourceName": "The New York Review of Books",
+      "title": "The Plot to Delete Democracy",
+      "description": "In The Nerd Reich Gil Dur\u00e1n shows how Silicon Valley billionaires have pushed a fringe ideology\u2014what is popularly called techno-fascism but is closer in aspiration to straight-up totalitarianism\u2014into the affairs of state.",
+      "url": "https://www.nybooks.com/articles/2026/11/05/the-plot-to-delete-democracy-nerd-reich-duran/",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "fetchedAt": "2026-10-16T14:27:17.270033+00:00"
     },
     {
-      "id": "recorded-future-break-the-silence--kazakhstan-nexus-uat-6275-targe",
+      "id": "recorded-future-zero-click-spyware-delivered-via-targeted-ads--adf",
       "companyId": "recorded-future",
       "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Talosintelligence.com",
-      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
-      "description": "Talos and Recorded Future identified UAT-6275 activity targeting government organizations across the Commonwealth of Independent States. Recovered artifacts show additional interest in water resources and energy.",
-      "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
-      "publishedAt": "2026-10-14T14:00:00Z",
-      "fetchedAt": "2026-10-15T14:35:54.630964+00:00"
-    },
-    {
-      "id": "bigbear-ai-rss-bbai-secures--225m--in-federal-contract-awards-acr",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BBAI Secures $225M+ in Federal Contract Awards Across Key Markets - TradingView",
-      "description": "BBAI Secures $225M+ in Federal Contract Awards Across Key Markets&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXFLNnJhbE9mRS02N2tjQW9JZkRoN0NER0RoWlRoWmNySm5tOHlIVVBocjUwS29VWHkwaEZfQmZ3ZG1OeVVfWHZ6NHo2ZWdnMHNuM1ZER0FDRVpMVDJxeWs3dmRzUVpoMWROODBnYXMwTUJDZnZOX21XQV9ZUnFSSjl2blhiRlJPQnpFTjBDbkhDQXJDc05jcmdPUUdxNzRlMDFURDN5MjEwS1prV20xNVNneG9ZdGV2NFFv?oc=5",
-      "publishedAt": "2026-10-14T13:52:00+00:00",
-      "fetchedAt": "2026-10-15T14:36:38.444028+00:00"
+      "sourceName": "Citizenlab.ca",
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "description": "This is the first-ever public confirmation of zero-click mercenary spyware delivered via targeted ads. We call the technique AdFection, and show how it was used to infect devices at Al Jazeera with Candiru\u2019s spyware. We also uncover Discover-Tech, and show ho\u2026",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "publishedAt": "2026-10-15T10:43:36Z",
+      "fetchedAt": "2026-10-16T14:27:23.048253+00:00"
     }
   ],
-  "generatedAt": "2026-10-15T14:38:43.894786+00:00",
+  "generatedAt": "2026-10-16T14:30:17.915033+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 5
 }
