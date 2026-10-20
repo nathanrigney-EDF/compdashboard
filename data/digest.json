@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-10-19T16:47:37.343824+00:00",
+  "articles": [
+    {
+      "id": "bigbear-ai-pr-bigbear-ai--bbai--projected-to-release-earnings-on",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai (BBAI) Projected to Release Earnings on Tuesday - MarketBeat",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2VUa1BZYldqaW1DT3lkbkFQR0hfQ1E3Vlp4YkVBZmVxRG5wU3FEQzA0b2lhZVA4U1I5SnVmazJGdEpqZ2FDdWMwWGVnRHpFdjBHS2lsZW9wVldjR2RDbU55RWVTUG50VHNya2syRUY2ZGNhR2lvcUNOMVVWYkdZT0l4UE43VGJHOG9fRkVGQTRvM0lVbExSNkZ6Z2lqYnZNNDNVZUszY3FpT2pleTFGTGVNSG0xUHptUFE?oc=5",
+      "publishedAt": "2026-10-20T10:19:25+00:00",
+      "fetchedAt": "2026-10-20T14:36:57.516062+00:00"
+    }
+  ],
+  "generatedAt": "2026-10-20T14:39:49.004814+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
