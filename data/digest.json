@@ -1,20 +1,46 @@
 {
   "articles": [
     {
-      "id": "bigbear-ai-pr-bigbear-ai--bbai--projected-to-release-earnings-on",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
+      "id": "cognyte-rss-cognyte--cgnt--secures--20m--defense-contract-with",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai (BBAI) Projected to Release Earnings on Tuesday - MarketBeat",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2VUa1BZYldqaW1DT3lkbkFQR0hfQ1E3Vlp4YkVBZmVxRG5wU3FEQzA0b2lhZVA4U1I5SnVmazJGdEpqZ2FDdWMwWGVnRHpFdjBHS2lsZW9wVldjR2RDbU55RWVTUG50VHNya2syRUY2ZGNhR2lvcUNOMVVWYkdZT0l4UE43VGJHOG9fRkVGQTRvM0lVbExSNkZ6Z2lqYnZNNDNVZUszY3FpT2pleTFGTGVNSG0xUHptUFE?oc=5",
-      "publishedAt": "2026-10-20T10:19:25+00:00",
-      "fetchedAt": "2026-10-20T14:36:57.516062+00:00"
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Cognyte (CGNT) Secures $20M+ Defense Contract with NATO Ministry - GuruFocus",
+      "description": "Cognyte (CGNT) Secures $20M+ Defense Contract with NATO Ministry&nbsp;&nbsp;GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDlyNk5lWEFtSk16WWFDWDZ4djJvN1ZJNGpfRjZUM1pnZE9JWkU5Y1d6R2NyWnEzV1lxcFBEZWk5SVJXYS1rRlRUWGZxR2hUbm02ckQ5akUxVUM2RUdUSzFzUVZBczBJcU16Q2pZVlc2a1FYOTl0XzBYM3lIdU5rSDJjYjFjbGZQNDRjaVZBaUREZnBaYlBUaU05UWdhcFZGWkZkU2dIRkJxX2lQVDRv?oc=5",
+      "publishedAt": "2026-10-21T12:40:35+00:00",
+      "fetchedAt": "2026-10-21T14:48:14.907112+00:00"
+    },
+    {
+      "id": "cognyte-rss-cognyte-secures--20m--defense-contract-with-nato-n",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Cognyte secures $20M+ defense contract with NATO nation By Investing.com - Investing.com Canada",
+      "description": "Cognyte secures $20M+ defense contract with NATO nation By Investing.com&nbsp;&nbsp;Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVgtNDFZNlJ5NVh0TXAwZnNJTGkwSU1iNWR6Q2pVZ3NYTW1sRFZlZjNZd1Fob2l1dGd1bmJtUEwycXJVdHBMbzgyWS15OVdkclg5NEdNZ2JDMm1EdHJXVzJZR3JUQU9MQmx1ZV9GN3FqaU9RMldIdXJBdnJNX3FBSXBFaEhoOUdxVmxITjc2dWZtSjNqZzFBYjJ3XzFuWjNSRkRMM1pJUmdGYVRjVU1FUlk3Wnc?oc=5",
+      "publishedAt": "2026-10-21T12:13:39+00:00",
+      "fetchedAt": "2026-10-21T14:48:14.907228+00:00"
+    },
+    {
+      "id": "recorded-future-russian-apt28-breaches-nato-naval-shipbuilder-in-n",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Internet",
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "description": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO).\n\nThe Symantec Threat Hunter Team, whi\u2026",
+      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "publishedAt": "2026-10-20T11:06:25Z",
+      "fetchedAt": "2026-10-21T14:47:45.301700+00:00"
     }
   ],
-  "generatedAt": "2026-10-20T14:39:49.004814+00:00",
+  "generatedAt": "2026-10-21T14:50:28.007432+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 3
 }
