@@ -1,46 +1,59 @@
 {
   "articles": [
     {
-      "id": "cognyte-rss-cognyte-secures--20m--defense-contract-with-nato-n",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
+      "id": "booz-allen-pr-booz-allen-hamilton-announces-second-quarter-fisca",
+      "companyId": "booz-allen",
+      "companyName": "Booz Allen Hamilton",
       "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Cognyte secures $20M+ defense contract with NATO nation By Investing.com - Investing.com Nigeria",
-      "description": "Cognyte secures $20M+ defense contract with NATO nation By Investing.com&nbsp;&nbsp;Investing.com Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWdKS3ZBMkhhOWN3NEhyNFdKWXFmeS1nMjlXb1hBRkFzRnFZMmJFVGV3MUY5eUNxWFFqeDl0YnZZZEtWQTdGOG1Xa2RRTXljdjcyWmJKTFZLQkpGQ0pZRWl4TFNObnE3WmpCemgxaW9obVR1Q3c2ZGk1X1FBdUlHLUpnd2l5SzhHLVJZMkNxczBFZ2g3cnBpN0pyT0NwZWpETWRQbFJLVHJPd2FieGhnS1RUNWg?oc=5",
-      "publishedAt": "2026-10-21T15:34:06+00:00",
-      "fetchedAt": "2026-10-22T14:49:04.853918+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Booz Allen Hamilton Announces Second Quarter Fiscal Year 2027 Results - Voice of Alexandria",
+      "description": "Press release / announcement from Booz Allen Hamilton",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdjdBbVFFS0Q5TVdIbFhTMnNQamRzTFBzVTJLcGZpRVEwY28tSzlnbmNjTXFSS3NwTVA4NFRxMW5helJGOXlBUEhQMk9jSEdJbUg5MDhBM05xa3VGYVZnNzV1UXM1RDdrR0RJN2lsUEYzaE1KbUt0eDM5Sy12V29neXZmYWRWYnZyQTdWWUlYaktnajFVSThHTEV1dmV2SmMzYXlZRWFPYnFrRXIyX3Z4WW83cnBMUGgxeUNJcGRIVFBTQTNyOW5jdkJpZjNSa2M0NDg5MnFackVvYnV6MHdKc1lvNmVOenJVd3h4NDFjcWprZktiQzF5T0paYkZGWnBKNVF2SjdLLS0tRDkyWmc?oc=5",
+      "publishedAt": "2026-10-23T10:46:04+00:00",
+      "fetchedAt": "2026-10-23T14:35:43.380542+00:00"
     },
     {
-      "id": "leidos-pr-leidos-holdings--inc---ldos--wins--160m-u-s--cyber",
+      "id": "iceye-pr-amid-starlink-crisis--finnish-tech-giants-announce",
+      "companyId": "iceye",
+      "companyName": "ICEYE",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system - The Kyiv Independent",
+      "description": "Press release / announcement from ICEYE",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVDVLWW42MUJjc2dvbldXMkhnVnNJcnhzQVB1enhueG11UlNaWi1IMG1rNUtJY2RuMlFvTEFpVklWMXBIUE1jbEUxVk1IOXBMeUJ5bWdnN1R0V3RsWVpUWU1RWkM1U0t0dzNKejRuTHdLMnBsZXNmZUJaWHl3eGFlaHJUcDVvYWZyVG9jV0h2ckcwd3hXZUNNS1dLM2dWQmYwNzVYeTZNSlBBeWN3bTNMSlBkN3gwSm5VS2FYcTB5LXBYakI4a205Y0pUWjFEY3JwMElsWnJybw?oc=5",
+      "publishedAt": "2026-10-22T23:29:32+00:00",
+      "fetchedAt": "2026-10-23T14:36:31.794684+00:00"
+    },
+    {
+      "id": "leidos-pr-leidos-holdings--inc---ldos--wins--95m-dla-contrac",
       "companyId": "leidos",
       "companyName": "Leidos",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Leidos Holdings, Inc. (LDOS) Wins $160M U.S. Cyber Command Award - TradingView",
+      "title": "Leidos Holdings, Inc. (LDOS) Wins $95M DLA Contract - TradingView",
       "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWXRrUFFJTmxMaGJ1eXpTMFVHcUdhMDZmS1lWVThld1RNWnhiOXg0djZfd1FJMmtfa05KX2hBNS1IMS1BdnVOWUlIeldNSC1XVUFYNGpxYVRnd0x1YVJ3RXZEVldHb3dCTkZ2d3l1OHVMYmw1YUcxdTVuUE5QRlVjYmVFcllDekVteFk5MWQ4WE5DM2liV1ZpZndGbFdmY2h4a0xPRXd2RENqczVlVzJxaWZCTTZFU2NRMVhNWg?oc=5",
-      "publishedAt": "2026-10-21T13:32:00+00:00",
-      "fetchedAt": "2026-10-22T14:49:11.346089+00:00"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXc3cHJuXzN4eUM0QTk2Zm9OYWZteUNWRzltR2ZPY3NYdEZwMnRiWlZZWFU2UERDaV9QQUhsWTlBeTBoSVZXQ2x5RVc3WlNGZkxQeDNQamRfN1NqcXdLRFlZT25tQlVBQ01CZFVvWVMyV0NSa21ZeXZhWlBXYnNYZTkwaWs5bEE3YTREV3hQV2dFbTV5OFd0cUlfMG5TX2VJX2Zkbl9jUHlTRHcz?oc=5",
+      "publishedAt": "2026-10-22T16:00:00+00:00",
+      "fetchedAt": "2026-10-23T14:35:39.858736+00:00"
     },
     {
-      "id": "cognyte-rss-cognyte--cgnt--secures--20m--defense-contract-with",
-      "companyId": "cognyte",
-      "companyName": "Cognyte",
+      "id": "recorded-future-the-bloodlines-beneath-the-vatican",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Google News",
-      "title": "Cognyte (CGNT) Secures $20M+ Defense Contract with NATO Ministry - GuruFocus",
-      "description": "Cognyte (CGNT) Secures $20M+ Defense Contract with NATO Ministry&nbsp;&nbsp;GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDlyNk5lWEFtSk16WWFDWDZ4djJvN1ZJNGpfRjZUM1pnZE9JWkU5Y1d6R2NyWnEzV1lxcFBEZWk5SVJXYS1rRlRUWGZxR2hUbm02ckQ5akUxVUM2RUdUSzFzUVZBczBJcU16Q2pZVlc2a1FYOTl0XzBYM3lIdU5rSDJjYjFjbGZQNDRjaVZBaUREZnBaYlBUaU05UWdhcFZGWkZkU2dIRkJxX2lQVDRv?oc=5",
-      "publishedAt": "2026-10-21T12:40:35+00:00",
-      "fetchedAt": "2026-10-22T14:49:04.853781+00:00"
+      "sourceName": "Globalresearch.ca",
+      "title": "The Bloodlines Beneath the Vatican",
+      "description": "The Colonna and the Orsini, two of Rome\u2019s oldest families, have both claimed Julius Caesar as an ancestor. \nThe Massimo say they descend from Quintus Fabius Maximus, the general who wore Hannibal down in the third century BCE.1 \nWhen \u2026\nThe post The Bloodlines\u2026",
+      "url": "https://www.globalresearch.ca/bloodlines-beneath-vatican/5944192",
+      "publishedAt": "2026-10-22T14:24:18Z",
+      "fetchedAt": "2026-10-23T14:34:46.454057+00:00"
     }
   ],
-  "generatedAt": "2026-10-22T14:51:20.829630+00:00",
+  "generatedAt": "2026-10-23T14:37:22.202223+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 4
 }
