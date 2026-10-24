@@ -1,59 +1,59 @@
 {
   "articles": [
     {
+      "id": "iceye-pr-iceye-partners-with-ororatech-to-deliver-full-life",
+      "companyId": "iceye",
+      "companyName": "ICEYE",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "ICEYE Partners with OroraTech to Deliver Full-lifecycle Wildfire Intelligence - AerialFire",
+      "description": "Press release / announcement from ICEYE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHltN1lWc1dhR3FMQ2Y1dzZVN2dVMk9jdllKVVpmTHdCNHVNYjJIcG5VVk85dkpCb3FHVmxwdDJmMzJBRHU5ZmxxNThyMEx4azZQMDBNYjl6cXZ0VE83ajlpb1NKLW1nUGtBLUJXd0xmNTR0RHhfcGMyWXA0Ql9oT0k0bms4VW1GRmE1N042LUNoUC16VGJlaGRZbnFjU3pKNXRURVNEWWhRWmZlYTVGSDNvYkhxQQ?oc=5",
+      "publishedAt": "2026-10-23T23:52:21+00:00",
+      "fetchedAt": "2026-10-24T13:48:28.250837+00:00"
+    },
+    {
+      "id": "l3harris-pr-l3harris-receives-contract-to-develop-long-range-d",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Receives Contract to Develop Long-Range Drone Interceptor - L3Harris\u00ae Fast. Forward.",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnVqcFRWWUdIajJIbFl1UWszbF9vS0sySkthQ3dCYjdZRnVqcXlKRjdMTjVPbzBiNkkzbUFDRDgwbEZaSEtOTVRNRjFfLVh0MWFoZ1NONkRMSmt3a0JsdjQ5NHBiaVM2czRQSUNZeWNWaWF1R0ljUUMxU1F6LVN1YmlKSVA1SVJrelFjdEk0MVVuWTd1bXl2VTI0bUdHdjlXanJQNjM2SklsSnEyZ0g4VGJHY0d4QWZLNXpR?oc=5",
+      "publishedAt": "2026-10-23T18:04:44+00:00",
+      "fetchedAt": "2026-10-24T13:48:36.178009+00:00"
+    },
+    {
+      "id": "recorded-future-germany-s-private-spy-bazaar",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Activistpost.com",
+      "title": "Germany\u2019s Private Spy Bazaar",
+      "description": "On New Year\u2019s Eve 2023, Christina Block\u2019s two youngest children, aged ten and thirteen, stood with their father near the harbour in Gr\u00e5sten, a Danish town close to the German border. Masked men attacked their father, forced the children into a vehicle and too\u2026",
+      "url": "https://activistpost.com/germanys-private-spy-bazaar/",
+      "publishedAt": "2026-10-23T13:00:00Z",
+      "fetchedAt": "2026-10-24T13:46:46.383212+00:00"
+    },
+    {
       "id": "booz-allen-pr-booz-allen-hamilton-announces-second-quarter-fisca",
       "companyId": "booz-allen",
       "companyName": "Booz Allen Hamilton",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Booz Allen Hamilton Announces Second Quarter Fiscal Year 2027 Results - Voice of Alexandria",
+      "title": "Booz Allen Hamilton Announces Second Quarter Fiscal Year 2027 Results - Business Wire",
       "description": "Press release / announcement from Booz Allen Hamilton",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdjdBbVFFS0Q5TVdIbFhTMnNQamRzTFBzVTJLcGZpRVEwY28tSzlnbmNjTXFSS3NwTVA4NFRxMW5helJGOXlBUEhQMk9jSEdJbUg5MDhBM05xa3VGYVZnNzV1UXM1RDdrR0RJN2lsUEYzaE1KbUt0eDM5Sy12V29neXZmYWRWYnZyQTdWWUlYaktnajFVSThHTEV1dmV2SmMzYXlZRWFPYnFrRXIyX3Z4WW83cnBMUGgxeUNJcGRIVFBTQTNyOW5jdkJpZjNSa2M0NDg5MnFackVvYnV6MHdKc1lvNmVOenJVd3h4NDFjcWprZktiQzF5T0paYkZGWnBKNVF2SjdLLS0tRDkyWmc?oc=5",
-      "publishedAt": "2026-10-23T10:46:04+00:00",
-      "fetchedAt": "2026-10-23T14:35:43.380542+00:00"
-    },
-    {
-      "id": "iceye-pr-amid-starlink-crisis--finnish-tech-giants-announce",
-      "companyId": "iceye",
-      "companyName": "ICEYE",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system - The Kyiv Independent",
-      "description": "Press release / announcement from ICEYE",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVDVLWW42MUJjc2dvbldXMkhnVnNJcnhzQVB1enhueG11UlNaWi1IMG1rNUtJY2RuMlFvTEFpVklWMXBIUE1jbEUxVk1IOXBMeUJ5bWdnN1R0V3RsWVpUWU1RWkM1U0t0dzNKejRuTHdLMnBsZXNmZUJaWHl3eGFlaHJUcDVvYWZyVG9jV0h2ckcwd3hXZUNNS1dLM2dWQmYwNzVYeTZNSlBBeWN3bTNMSlBkN3gwSm5VS2FYcTB5LXBYakI4a205Y0pUWjFEY3JwMElsWnJybw?oc=5",
-      "publishedAt": "2026-10-22T23:29:32+00:00",
-      "fetchedAt": "2026-10-23T14:36:31.794684+00:00"
-    },
-    {
-      "id": "leidos-pr-leidos-holdings--inc---ldos--wins--95m-dla-contrac",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Leidos Holdings, Inc. (LDOS) Wins $95M DLA Contract - TradingView",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXc3cHJuXzN4eUM0QTk2Zm9OYWZteUNWRzltR2ZPY3NYdEZwMnRiWlZZWFU2UERDaV9QQUhsWTlBeTBoSVZXQ2x5RVc3WlNGZkxQeDNQamRfN1NqcXdLRFlZT25tQlVBQ01CZFVvWVMyV0NSa21ZeXZhWlBXYnNYZTkwaWs5bEE3YTREV3hQV2dFbTV5OFd0cUlfMG5TX2VJX2Zkbl9jUHlTRHcz?oc=5",
-      "publishedAt": "2026-10-22T16:00:00+00:00",
-      "fetchedAt": "2026-10-23T14:35:39.858736+00:00"
-    },
-    {
-      "id": "recorded-future-the-bloodlines-beneath-the-vatican",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Globalresearch.ca",
-      "title": "The Bloodlines Beneath the Vatican",
-      "description": "The Colonna and the Orsini, two of Rome\u2019s oldest families, have both claimed Julius Caesar as an ancestor. \nThe Massimo say they descend from Quintus Fabius Maximus, the general who wore Hannibal down in the third century BCE.1 \nWhen \u2026\nThe post The Bloodlines\u2026",
-      "url": "https://www.globalresearch.ca/bloodlines-beneath-vatican/5944192",
-      "publishedAt": "2026-10-22T14:24:18Z",
-      "fetchedAt": "2026-10-23T14:34:46.454057+00:00"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1ZyWmtpb0M0LTlrRW5nR01fcFRyN0tTTi04LTB0dm5Wbk5QLXlnYmtPZGNzeE8xdUJ3SXMtSTh5SkxheC0yM1V6dVZCaUhDVGNoSGRDSlFwQWpSMDcwVWt2cHhoNkZzM2g2bFRwTjhHcjdFV3hIalExdVpabkFpS3k4Y3pmc3pkM3ByeXJmTmp2QlFuWE1VWnB5UFZiYXFSOE9HNnpJX0tEX2dQUUdkdWRBV0JsNGltTlZiWjRIYXEzQ2Z2?oc=5",
+      "publishedAt": "2026-10-23T10:45:00+00:00",
+      "fetchedAt": "2026-10-24T13:47:42.025485+00:00"
     }
   ],
-  "generatedAt": "2026-10-23T14:37:22.202223+00:00",
+  "generatedAt": "2026-10-24T13:49:00.729857+00:00",
   "periodHours": 28,
   "count": 4
 }
