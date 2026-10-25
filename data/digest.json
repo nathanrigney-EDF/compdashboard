@@ -1,59 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "iceye-pr-iceye-partners-with-ororatech-to-deliver-full-life",
-      "companyId": "iceye",
-      "companyName": "ICEYE",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "ICEYE Partners with OroraTech to Deliver Full-lifecycle Wildfire Intelligence - AerialFire",
-      "description": "Press release / announcement from ICEYE",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHltN1lWc1dhR3FMQ2Y1dzZVN2dVMk9jdllKVVpmTHdCNHVNYjJIcG5VVk85dkpCb3FHVmxwdDJmMzJBRHU5ZmxxNThyMEx4azZQMDBNYjl6cXZ0VE83ajlpb1NKLW1nUGtBLUJXd0xmNTR0RHhfcGMyWXA0Ql9oT0k0bms4VW1GRmE1N042LUNoUC16VGJlaGRZbnFjU3pKNXRURVNEWWhRWmZlYTVGSDNvYkhxQQ?oc=5",
-      "publishedAt": "2026-10-23T23:52:21+00:00",
-      "fetchedAt": "2026-10-24T13:48:28.250837+00:00"
-    },
-    {
-      "id": "l3harris-pr-l3harris-receives-contract-to-develop-long-range-d",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Receives Contract to Develop Long-Range Drone Interceptor - L3Harris\u00ae Fast. Forward.",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnVqcFRWWUdIajJIbFl1UWszbF9vS0sySkthQ3dCYjdZRnVqcXlKRjdMTjVPbzBiNkkzbUFDRDgwbEZaSEtOTVRNRjFfLVh0MWFoZ1NONkRMSmt3a0JsdjQ5NHBiaVM2czRQSUNZeWNWaWF1R0ljUUMxU1F6LVN1YmlKSVA1SVJrelFjdEk0MVVuWTd1bXl2VTI0bUdHdjlXanJQNjM2SklsSnEyZ0g4VGJHY0d4QWZLNXpR?oc=5",
-      "publishedAt": "2026-10-23T18:04:44+00:00",
-      "fetchedAt": "2026-10-24T13:48:36.178009+00:00"
-    },
-    {
-      "id": "recorded-future-germany-s-private-spy-bazaar",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Activistpost.com",
-      "title": "Germany\u2019s Private Spy Bazaar",
-      "description": "On New Year\u2019s Eve 2023, Christina Block\u2019s two youngest children, aged ten and thirteen, stood with their father near the harbour in Gr\u00e5sten, a Danish town close to the German border. Masked men attacked their father, forced the children into a vehicle and too\u2026",
-      "url": "https://activistpost.com/germanys-private-spy-bazaar/",
-      "publishedAt": "2026-10-23T13:00:00Z",
-      "fetchedAt": "2026-10-24T13:46:46.383212+00:00"
-    },
-    {
-      "id": "booz-allen-pr-booz-allen-hamilton-announces-second-quarter-fisca",
-      "companyId": "booz-allen",
-      "companyName": "Booz Allen Hamilton",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Booz Allen Hamilton Announces Second Quarter Fiscal Year 2027 Results - Business Wire",
-      "description": "Press release / announcement from Booz Allen Hamilton",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1ZyWmtpb0M0LTlrRW5nR01fcFRyN0tTTi04LTB0dm5Wbk5QLXlnYmtPZGNzeE8xdUJ3SXMtSTh5SkxheC0yM1V6dVZCaUhDVGNoSGRDSlFwQWpSMDcwVWt2cHhoNkZzM2g2bFRwTjhHcjdFV3hIalExdVpabkFpS3k4Y3pmc3pkM3ByeXJmTmp2QlFuWE1VWnB5UFZiYXFSOE9HNnpJX0tEX2dQUUdkdWRBV0JsNGltTlZiWjRIYXEzQ2Z2?oc=5",
-      "publishedAt": "2026-10-23T10:45:00+00:00",
-      "fetchedAt": "2026-10-24T13:47:42.025485+00:00"
-    }
-  ],
-  "generatedAt": "2026-10-24T13:49:00.729857+00:00",
+  "articles": [],
+  "generatedAt": "2026-10-25T14:04:52.068127+00:00",
   "periodHours": 28,
-  "count": 4
+  "count": 0
 }
