@@ -1,6 +1,46 @@
 {
-  "articles": [],
-  "generatedAt": "2026-10-27T15:42:30.970227+00:00",
+  "articles": [
+    {
+      "id": "orbital-insight-rss-space-data-analytics-market-trends-and-forecast-an",
+      "companyId": "orbital-insight",
+      "companyName": "Orbital Insight",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Space Data Analytics Market Trends And Forecast Analysis Reveal Strong Long-Term Potential - EIN News",
+      "description": "Space Data Analytics Market Trends And Forecast Analysis Reveal Strong Long-Term Potential&nbsp;&nbsp;EIN News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkVRZFpCdDJoU2NzV09mR1dQQ1NSME8wNDVsc3pxU19qSFBmXzVfYlRZY0ZOSGFFbVNOV29rWDBsdmZ4UXVoUk5tOTZLVW1ZZWpRUDRRckJEOVFqUDZOMGlHZXdFNThuSVFzeUsyZ21wc2tNeUpPNXNieUdhRE5lLTdWOG1NaVFaTW94T19CR19jUm9sb29kRjgxSXJjU2ZzaWtsNG1OcnBzMzN4SWQwVm8wWVp0ZzQ3Z29KNEI1WVdXRzJVY09HNWx2Z3k?oc=5",
+      "publishedAt": "2026-10-28T16:15:00+00:00",
+      "fetchedAt": "2026-10-28T16:25:44.810470+00:00"
+    },
+    {
+      "id": "palantir-pr-what-you-need-to-know-ahead-of-dell-technologies",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "What You Need to Know Ahead of Dell Technologies\u2019 Earnings Release - Barchart.com",
+      "description": "Press release / announcement from Palantir Technologies",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjBWbGtTT2UyeTl0QXNDS18tbk1NWUYwbno2YVNxeVFtOVJVZ25Lb3FWVWZ1bEZHUkFqU1BINmZ4X2NMMmtUYmtQNk16amNVSWc4bkxSc3BBN3BEYTc2dmZoOXdYMnp3alI5c05JdTNsQUZjOWsyd1RtTDl0WVJSQlZ0bE1tY3dSVEg5bjVaOUlJZUhWZ3k5LUdXSXpjdmVQb3VkSjNBNFBlTS1COGc?oc=5",
+      "publishedAt": "2026-10-28T12:38:39+00:00",
+      "fetchedAt": "2026-10-28T16:23:10.231628+00:00"
+    },
+    {
+      "id": "bigbear-ai-pr-bigbear-ai-announces-third-quarter-2026-results-an",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "BigBear.ai Announces Third Quarter 2026 Results and Raises FY 2026 Revenue Guidance - Business Wire",
+      "description": "Press release / announcement from BigBear.ai",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1pvQWRRTlRocHN6YUtjNXBRSUxzNkNBREZVbWJNR2RnMXNlMVFZYjlCQnVoWlBaWTlIUUJyZjQ4SFRLekE2dEhnZkdhS3VfZHNHMm9ob0laaE9oT0x2b0xmREFxUkxLLUlkWjUyOU1zSExDUUN1b2lWZk1VXzVsdTBQbkJyVXNCWmVCQlQyOHB0dXEtdDI0Zzg0eWlJZVFQUkJOMS10QXlkR3FuUHNLQUNJaTZjeVVMc1JqcWp0RmhmNEE2STB2Z2tLWkFaUnVwZEtud2tzYw?oc=5",
+      "publishedAt": "2026-10-27T20:15:00+00:00",
+      "fetchedAt": "2026-10-28T16:24:00.967886+00:00"
+    }
+  ],
+  "generatedAt": "2026-10-28T16:26:29.559300+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 3
 }
