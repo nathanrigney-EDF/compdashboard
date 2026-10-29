@@ -1,6 +1,97 @@
 {
   "articles": [
     {
+      "id": "cognyte-rss-following-protest--nypd-backs-out-of-deal-with-isr",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Following protest: NYPD backs out of deal with Israeli company - The Jerusalem Post",
+      "description": "Following protest: NYPD backs out of deal with Israeli company&nbsp;&nbsp;The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWpDMXNEUkRsemlQSVh6eUxEajh4Wng5bU5aenNiRUxzME9lTXZILUU4cGNuWGl1UnYtTmRjRHZZVHNKTDlBTUs2X0hGUnZUS0N0dEQ3LXJMX050NS1XWGlIc2h4SzZXMlVMeEpzdW5PcW5qSXc2SWJyM1pWSlJqenZvV2Exdw?oc=5",
+      "publishedAt": "2026-10-29T15:40:00+00:00",
+      "fetchedAt": "2026-10-29T16:32:55.543807+00:00"
+    },
+    {
+      "id": "cognyte-rss-cognyte-awarded-new-federal-and-state-law-enforcem",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Cognyte Awarded New Federal and State Law Enforcement Contracts, Expanding US Presence - Business Wire",
+      "description": "Cognyte Awarded New Federal and State Law Enforcement Contracts, Expanding US Presence&nbsp;&nbsp;Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWG9qUjRQdVh2TDRXMUg2V0phLW96cUZjQlhiTmJXNlQ1Znh5ZWFJd2Z6bWtBUWdueTlkelJvalVRVzNVS3VLWlpKYVczSWI2WUZ1eE9lWHRRYy1rWDlROF9waGt4amc3YXNxcDNDOHJHbW5vWGF0OVZpZGRHT2JtYjF6SHlEakdsZWFid1BCYWxiUktkdjBXRHo2M2s4bjJFM0lJcEVuckRQeXZZT1dpMlgtOXBLQXcwS1EzQVMwUjVtdTM5b2IxUFhFQVFlemNBOWhqX0dKMzdMdw?oc=5",
+      "publishedAt": "2026-10-29T13:15:00+00:00",
+      "fetchedAt": "2026-10-29T16:32:55.543921+00:00"
+    },
+    {
+      "id": "satellogic-rss-satellogic-signs-three-year-deal-with-heo-for-spac",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Satellogic signs three-year deal with HEO for space imaging By Investing.com - Investing.com Nigeria",
+      "description": "Satellogic signs three-year deal with HEO for space imaging By Investing.com&nbsp;&nbsp;Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFlBVW4zRzZQSklKZmtQTnJkU0k5Sy1YYk9NSTM4M0NINW9iM2xlcTVkaFpiakpudm9xTWdzaWw4dEx3WmtVZC1jakNTTGJyZW9VOWtFT2s2X0NvSmxGSW5aLU9CMnVrZDZoeEtYWGUyejFJem1PaWFvbVM4elo1X1p5UllnMmVFZkdnZlU0dEZ6Um91c0UxaEpCTXVoTEVjdEdMbDlxN2tTMlo4MmtKR1NPbUNmbFZETWNV?oc=5",
+      "publishedAt": "2026-10-29T13:12:27+00:00",
+      "fetchedAt": "2026-10-29T16:34:37.752406+00:00"
+    },
+    {
+      "id": "caci-pr-caci-international-wins-five-year-u-s--army-task-o",
+      "companyId": "caci",
+      "companyName": "CACI International",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "CACI International wins five-year U.S. Army task order worth $185M - TradingView",
+      "description": "Press release / announcement from CACI International",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUJtYmVCMDBMRDFCVUtRZVJzeTU5MVF3bjVIVVE3LVRBNlJyenlRSHo5Zl9ZZmpYeXZ5eEphRkpPb3BISTZEUmlZaWFXT2tma1RmWTVfSDg0WG8wLTJ2WTR5X29nS2xzWkd3OVNmeHkxNDNjLW5Yd0RTc0k3UlZfT0l1VkdWdTg2TWd3MnEzME8tcmh1ZUw5bVpqR3lMT0tNS3FyZzNQeXFLb21HaHp0dmJ6TnRXd1NhVC0wZ3djdHZOZVpBNEE?oc=5",
+      "publishedAt": "2026-10-29T12:26:49+00:00",
+      "fetchedAt": "2026-10-29T16:32:59.537378+00:00"
+    },
+    {
+      "id": "satellogic-rss-satellogic-and-heo-sign-three-year-non-earth-imagi",
+      "companyId": "satellogic",
+      "companyName": "Satellogic",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Satellogic and HEO Sign Three-Year Non-Earth Imaging Agreement, Extending a Six-Year Working Relationship - GlobeNewswire",
+      "description": "Satellogic and HEO Sign Three-Year Non-Earth Imaging Agreement, Extending a Six-Year Working Relationship&nbsp;&nbsp;GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdTlfM250ZnRKdlJkSVVWYjBxQ0pXbTVPZlZkUERtcndadzVjbmF0M1RrT1Y1UnEyQm1nSXVMVUNiMk5RWFgyMWktNXduU2RJYkhaQ2U1UlNENTRVTzFiUE5Wc2RCdzNDNWlaZ2M2T2M5QUxkWVZKNm8xQ0tBR0lmY3lhcVdqbHpUYmlabVQ0ZFFzX2x3Ql9MdVJ2UHNra2Ixbjl5N3kyb3dBXzZJWGhob2pDWDE5U2dwaFlNMVhENWFXMzN5T0dabS1zdWFPaG90OV83a2RGV3FCblZteFZXQWhnRklvZDUtYVBwT25oQW5ZLWNMM0VrQ3QzUURsMlE3QnIyWDJxcw?oc=5",
+      "publishedAt": "2026-10-29T12:00:00+00:00",
+      "fetchedAt": "2026-10-29T16:34:37.752432+00:00"
+    },
+    {
+      "id": "l3harris-pr-l3harris-technologies---third-quarter-2026-news-re",
+      "companyId": "l3harris",
+      "companyName": "L3Harris Technologies",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "L3Harris Technologies : Third Quarter 2026 News Release - www.marketscreener.com",
+      "description": "Press release / announcement from L3Harris Technologies",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWVUWkdjZF9oanN2M2tEcFZkMndram1adFV1dE9UWHJfRGFUeTl5b3hfNHhIMDQtVVVUVmJHU0sxU2lIb2l2OHNVSEtnUUl4WlhBQTVLWU5GcGd0bjdwVG1CN3BFSVJpTzZEZFE1M3NMSnlQb0paWGtaaFRyQ3VabUcwNER0QzBhSUYzVlFpVnZIQUoyQldEdUxhcUJaMHhCUFZvNld3R1VVQQ?oc=5",
+      "publishedAt": "2026-10-29T10:17:19+00:00",
+      "fetchedAt": "2026-10-29T16:34:59.650156+00:00"
+    },
+    {
+      "id": "leidos-pr-leidos-awarded--99m-cyber-planning-platform-protot",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Leidos awarded $99M cyber planning platform prototype agreement - Defensehere",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOVNOSXphSURvXzN0c1BlZ2E0UGNUby1HYmo0S2l3N1dyYnl3X2EyOGFodnk0TVlQZEVUN205QzVxWkw0Ry1UczhBWmRtb2FSUjJJenY1Q2s4UGk0a25heHNfNmhsOV9ldVN6dnFYWGpway1uUzVsWHU0S2FLRlloT3FiMklRQQ?oc=5",
+      "publishedAt": "2026-10-28T19:12:05+00:00",
+      "fetchedAt": "2026-10-29T16:33:17.342460+00:00"
+    },
+    {
       "id": "orbital-insight-rss-space-data-analytics-market-trends-and-forecast-an",
       "companyId": "orbital-insight",
       "companyName": "Orbital Insight",
@@ -11,7 +102,33 @@
       "description": "Space Data Analytics Market Trends And Forecast Analysis Reveal Strong Long-Term Potential&nbsp;&nbsp;EIN News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkVRZFpCdDJoU2NzV09mR1dQQ1NSME8wNDVsc3pxU19qSFBmXzVfYlRZY0ZOSGFFbVNOV29rWDBsdmZ4UXVoUk5tOTZLVW1ZZWpRUDRRckJEOVFqUDZOMGlHZXdFNThuSVFzeUsyZ21wc2tNeUpPNXNieUdhRE5lLTdWOG1NaVFaTW94T19CR19jUm9sb29kRjgxSXJjU2ZzaWtsNG1OcnBzMzN4SWQwVm8wWVp0ZzQ3Z29KNEI1WVdXRzJVY09HNWx2Z3k?oc=5",
       "publishedAt": "2026-10-28T16:15:00+00:00",
-      "fetchedAt": "2026-10-28T16:25:44.810470+00:00"
+      "fetchedAt": "2026-10-29T16:35:09.058994+00:00"
+    },
+    {
+      "id": "recorded-future-meta-censored-the-no-kings-instagram-account-durin",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Substack.com",
+      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+      "description": "Meta censored a political organisation during a national voting campaign, blamed its own automation, then claimed its automated systems had detected another automated tool.",
+      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+      "publishedAt": "2026-10-28T16:01:53Z",
+      "fetchedAt": "2026-10-29T16:32:25.096185+00:00"
+    },
+    {
+      "id": "leidos-pr-leidos-holdings--inc---ldos--wins--99m-u-s--cyber",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Leidos Holdings, Inc. (LDOS) Wins $99M U.S. Cyber Command Prototype Deal - TradingView",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGNwYWVCWGMyZGxBVHFLNXUxRzZweHVBYU1qem02Tjk3MVhzSTJtaFhfM1hGY1FfWEY3cDNlZUptQXBYUFZIUDdXZ3BoTDVFLXJWOHZzV2hmVjVMWWkySUlmZFdzSHB0eG90RjZRVFdaRzdReE02aGN4aEdZYThOdnNRVzdWVDFpUzVqSWpWRzlvZG9QeEtTbEhqZlI2bXRpdWtGTGN3NE05SkRZSHh3Z1oyVFgtS0QzRWZ3Wk1WYzdybE02U3dR?oc=5",
+      "publishedAt": "2026-10-28T13:00:00+00:00",
+      "fetchedAt": "2026-10-29T16:33:17.342435+00:00"
     },
     {
       "id": "palantir-pr-what-you-need-to-know-ahead-of-dell-technologies",
@@ -24,23 +141,10 @@
       "description": "Press release / announcement from Palantir Technologies",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjBWbGtTT2UyeTl0QXNDS18tbk1NWUYwbno2YVNxeVFtOVJVZ25Lb3FWVWZ1bEZHUkFqU1BINmZ4X2NMMmtUYmtQNk16amNVSWc4bkxSc3BBN3BEYTc2dmZoOXdYMnp3alI5c05JdTNsQUZjOWsyd1RtTDl0WVJSQlZ0bE1tY3dSVEg5bjVaOUlJZUhWZ3k5LUdXSXpjdmVQb3VkSjNBNFBlTS1COGc?oc=5",
       "publishedAt": "2026-10-28T12:38:39+00:00",
-      "fetchedAt": "2026-10-28T16:23:10.231628+00:00"
-    },
-    {
-      "id": "bigbear-ai-pr-bigbear-ai-announces-third-quarter-2026-results-an",
-      "companyId": "bigbear-ai",
-      "companyName": "BigBear.ai",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "BigBear.ai Announces Third Quarter 2026 Results and Raises FY 2026 Revenue Guidance - Business Wire",
-      "description": "Press release / announcement from BigBear.ai",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1pvQWRRTlRocHN6YUtjNXBRSUxzNkNBREZVbWJNR2RnMXNlMVFZYjlCQnVoWlBaWTlIUUJyZjQ4SFRLekE2dEhnZkdhS3VfZHNHMm9ob0laaE9oT0x2b0xmREFxUkxLLUlkWjUyOU1zSExDUUN1b2lWZk1VXzVsdTBQbkJyVXNCWmVCQlQyOHB0dXEtdDI0Zzg0eWlJZVFQUkJOMS10QXlkR3FuUHNLQUNJaTZjeVVMc1JqcWp0RmhmNEE2STB2Z2tLWkFaUnVwZEtud2tzYw?oc=5",
-      "publishedAt": "2026-10-27T20:15:00+00:00",
-      "fetchedAt": "2026-10-28T16:24:00.967886+00:00"
+      "fetchedAt": "2026-10-29T16:32:20.071363+00:00"
     }
   ],
-  "generatedAt": "2026-10-28T16:26:29.559300+00:00",
+  "generatedAt": "2026-10-29T16:35:39.805807+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 11
 }
