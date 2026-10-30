@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": "umbra-pr-umbra-companies--inc--announces-planned-relocation",
+      "companyId": "umbra",
+      "companyName": "Umbra",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Umbra Companies, Inc. Announces Planned Relocation of Corporate Offices to New York City - The Manila Times",
+      "description": "Press release / announcement from Umbra",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSVdaZjJNU3Mxb29TLWI4T0REWmhvaFRvVHQ1VlE0R0JvSVRLWllfQ1hSdVljc0ZrZExGbUo5em5kMFF2QmNkZVhMNFVKQno3VDdnRXhQWmVQT2RQR2NtWHZvNFR1eDlBTEFWUFZ2VFJ0WDRCSFVISHF4ZUtKVUpWaVJ1MmRHRU0xdEdMTHJNTkpHbFVZVkNUNklEWFN4N1VkaDFJM0xZb29pdzZXRnlkbVpiRGNORGUxZENPd0t3OFBzQ0JYMVVqekZreVFCbkxtMEdGZDZxTUV2aWJOaWcwNkYtdk56M3JjSGx1STZHck1DZ9IB9wFBVV95cUxPbzJheDVKWGNTTTlzVGQ4MHRMSHE5M0VVdkNLckdYd29DZUhjRURJSzk4azBXbUdvU2lfSnJvYmN6eHBYRDAtdUhVZFJYdGhxaS1pbG1iNzgzcVotX3gxYmpKSWExMHBCQ1pGZXBuRWZBQk02SmdkRFoxLVFtRXZOOG01RFRoNnpxNUxnbVc3NEJBNWtFYldVTi1HM3hQNkRZbW1CMDc4WnNNOGdxX1FYb1ExVm94V0NMbUxpamJiTGJHdDFycmt1c0hfRkVWMDlfMlF1elZYaHJaMlRSNUxuZGQ0aXREeGVrQVVHY2cwNDI4bDlaNVJr?oc=5",
+      "publishedAt": "2026-10-30T12:01:33+00:00",
+      "fetchedAt": "2026-10-30T16:28:35.240646+00:00"
+    },
+    {
+      "id": "leidos-pr-leidos-holdings-to-release-q3-earnings--here-s-wha",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Leidos Holdings to Release Q3 Earnings: Here's What to Expect - TradingView",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3UzMlFnd29ZNFN6SllqMmI4d0M2dnFvZnBocGRhNzlIMWdMQ3BiMTVYeG5kUzlrejMyUTNieFN1UzBHaXZYay1INjdLc1h3eUU5LXEzcUJEcEtCcFMyMThKNDNEVTg5a1pyNGVwWEZpZGtRVWZWc1o3OHF4bXpLZnhZdVlWb2dkRTFfM1Z6SEx5Uk5aLW9BNmdhMTFoR2tVR0kyMm5BXzhkam5WMExkbHo1LWtMMGM?oc=5",
+      "publishedAt": "2026-10-30T11:11:00+00:00",
+      "fetchedAt": "2026-10-30T16:27:17.483364+00:00"
+    },
+    {
       "id": "cognyte-rss-following-protest--nypd-backs-out-of-deal-with-isr",
       "companyId": "cognyte",
       "companyName": "Cognyte",
@@ -11,7 +37,33 @@
       "description": "Following protest: NYPD backs out of deal with Israeli company&nbsp;&nbsp;The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWpDMXNEUkRsemlQSVh6eUxEajh4Wng5bU5aenNiRUxzME9lTXZILUU4cGNuWGl1UnYtTmRjRHZZVHNKTDlBTUs2X0hGUnZUS0N0dEQ3LXJMX050NS1XWGlIc2h4SzZXMlVMeEpzdW5PcW5qSXc2SWJyM1pWSlJqenZvV2Exdw?oc=5",
       "publishedAt": "2026-10-29T15:40:00+00:00",
-      "fetchedAt": "2026-10-29T16:32:55.543807+00:00"
+      "fetchedAt": "2026-10-30T16:26:55.283285+00:00"
+    },
+    {
+      "id": "bigbear-ai-rss-bigbear-ai-vs--booz-allen--which-government-ai-sto",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BigBear.ai vs. Booz Allen: Which Government AI Stock is Better Now? - TradingView",
+      "description": "BigBear.ai vs. Booz Allen: Which Government AI Stock is Better Now?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLWZiUnMyUHdQNnQtWWI4aVEtanpXYWxUbVYyQzQzUjJsdnB4WUp0aExUdy1kZnRIYzEwaTRReTVYVjVhVVJUajhoX0tPMDZnRmNIbXJGajdTV1dHZ24tQm5mSEc2NTBUQk1KRHJ1aGl5WXdsLWRyS19EdzRJc1FKRU80clZpRklqV3QwVmN6YmdJeDRBZG5WRnlmVjFWRkZBRWJNcWhkSENCNWRxeFJyOElOT2lEWVJ4WHgwZA?oc=5",
+      "publishedAt": "2026-10-29T15:10:00+00:00",
+      "fetchedAt": "2026-10-30T16:26:52.491180+00:00"
+    },
+    {
+      "id": "palantir-ai-is-class-warfare--workers-are-fighting-back",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Truthout",
+      "title": "AI Is Class Warfare. Workers Are Fighting Back.",
+      "description": "\u201cAI is leveraged as a cudgel against the working class,\u201d says writer and sociologist Alex Hanna.",
+      "url": "https://truthout.org/audio/ai-is-class-warfare-workers-are-fighting-back/",
+      "publishedAt": "2026-10-29T13:39:50Z",
+      "fetchedAt": "2026-10-30T16:26:17.470753+00:00"
     },
     {
       "id": "cognyte-rss-cognyte-awarded-new-federal-and-state-law-enforcem",
@@ -24,7 +76,20 @@
       "description": "Cognyte Awarded New Federal and State Law Enforcement Contracts, Expanding US Presence&nbsp;&nbsp;Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWG9qUjRQdVh2TDRXMUg2V0phLW96cUZjQlhiTmJXNlQ1Znh5ZWFJd2Z6bWtBUWdueTlkelJvalVRVzNVS3VLWlpKYVczSWI2WUZ1eE9lWHRRYy1rWDlROF9waGt4amc3YXNxcDNDOHJHbW5vWGF0OVZpZGRHT2JtYjF6SHlEakdsZWFid1BCYWxiUktkdjBXRHo2M2s4bjJFM0lJcEVuckRQeXZZT1dpMlgtOXBLQXcwS1EzQVMwUjVtdTM5b2IxUFhFQVFlemNBOWhqX0dKMzdMdw?oc=5",
       "publishedAt": "2026-10-29T13:15:00+00:00",
-      "fetchedAt": "2026-10-29T16:32:55.543921+00:00"
+      "fetchedAt": "2026-10-30T16:26:55.283384+00:00"
+    },
+    {
+      "id": "cognyte-pr-cognyte-awarded-new-federal-and-state-law-enforcem",
+      "companyId": "cognyte",
+      "companyName": "Cognyte",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Cognyte Awarded New Federal and State Law Enforcement Contracts, Expanding US Presence - Yahoo Finance UK",
+      "description": "Press release / announcement from Cognyte",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaGZQd2xxNHpJbzZ2VTVmM2E2MFB2OEc2aDlQQXFHbDNsVzdNWGQ3NHduelF1cE05emdhT0JLeXR0YXl0dWl4ZDNpQW9zdnAzSi1GMjNUM25oc1BTVjA2LWlVelJNMTR0emlEVTBGakI0bU1oMXZ4X21NQllvQmdPcTNMNVBRV2daZVE?oc=5",
+      "publishedAt": "2026-10-29T13:15:00+00:00",
+      "fetchedAt": "2026-10-30T16:26:56.752999+00:00"
     },
     {
       "id": "satellogic-rss-satellogic-signs-three-year-deal-with-heo-for-spac",
@@ -37,114 +102,10 @@
       "description": "Satellogic signs three-year deal with HEO for space imaging By Investing.com&nbsp;&nbsp;Investing.com Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFlBVW4zRzZQSklKZmtQTnJkU0k5Sy1YYk9NSTM4M0NINW9iM2xlcTVkaFpiakpudm9xTWdzaWw4dEx3WmtVZC1jakNTTGJyZW9VOWtFT2s2X0NvSmxGSW5aLU9CMnVrZDZoeEtYWGUyejFJem1PaWFvbVM4elo1X1p5UllnMmVFZkdnZlU0dEZ6Um91c0UxaEpCTXVoTEVjdEdMbDlxN2tTMlo4MmtKR1NPbUNmbFZETWNV?oc=5",
       "publishedAt": "2026-10-29T13:12:27+00:00",
-      "fetchedAt": "2026-10-29T16:34:37.752406+00:00"
-    },
-    {
-      "id": "caci-pr-caci-international-wins-five-year-u-s--army-task-o",
-      "companyId": "caci",
-      "companyName": "CACI International",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "CACI International wins five-year U.S. Army task order worth $185M - TradingView",
-      "description": "Press release / announcement from CACI International",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUJtYmVCMDBMRDFCVUtRZVJzeTU5MVF3bjVIVVE3LVRBNlJyenlRSHo5Zl9ZZmpYeXZ5eEphRkpPb3BISTZEUmlZaWFXT2tma1RmWTVfSDg0WG8wLTJ2WTR5X29nS2xzWkd3OVNmeHkxNDNjLW5Yd0RTc0k3UlZfT0l1VkdWdTg2TWd3MnEzME8tcmh1ZUw5bVpqR3lMT0tNS3FyZzNQeXFLb21HaHp0dmJ6TnRXd1NhVC0wZ3djdHZOZVpBNEE?oc=5",
-      "publishedAt": "2026-10-29T12:26:49+00:00",
-      "fetchedAt": "2026-10-29T16:32:59.537378+00:00"
-    },
-    {
-      "id": "satellogic-rss-satellogic-and-heo-sign-three-year-non-earth-imagi",
-      "companyId": "satellogic",
-      "companyName": "Satellogic",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Satellogic and HEO Sign Three-Year Non-Earth Imaging Agreement, Extending a Six-Year Working Relationship - GlobeNewswire",
-      "description": "Satellogic and HEO Sign Three-Year Non-Earth Imaging Agreement, Extending a Six-Year Working Relationship&nbsp;&nbsp;GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdTlfM250ZnRKdlJkSVVWYjBxQ0pXbTVPZlZkUERtcndadzVjbmF0M1RrT1Y1UnEyQm1nSXVMVUNiMk5RWFgyMWktNXduU2RJYkhaQ2U1UlNENTRVTzFiUE5Wc2RCdzNDNWlaZ2M2T2M5QUxkWVZKNm8xQ0tBR0lmY3lhcVdqbHpUYmlabVQ0ZFFzX2x3Ql9MdVJ2UHNra2Ixbjl5N3kyb3dBXzZJWGhob2pDWDE5U2dwaFlNMVhENWFXMzN5T0dabS1zdWFPaG90OV83a2RGV3FCblZteFZXQWhnRklvZDUtYVBwT25oQW5ZLWNMM0VrQ3QzUURsMlE3QnIyWDJxcw?oc=5",
-      "publishedAt": "2026-10-29T12:00:00+00:00",
-      "fetchedAt": "2026-10-29T16:34:37.752432+00:00"
-    },
-    {
-      "id": "l3harris-pr-l3harris-technologies---third-quarter-2026-news-re",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Technologies : Third Quarter 2026 News Release - www.marketscreener.com",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWVUWkdjZF9oanN2M2tEcFZkMndram1adFV1dE9UWHJfRGFUeTl5b3hfNHhIMDQtVVVUVmJHU0sxU2lIb2l2OHNVSEtnUUl4WlhBQTVLWU5GcGd0bjdwVG1CN3BFSVJpTzZEZFE1M3NMSnlQb0paWGtaaFRyQ3VabUcwNER0QzBhSUYzVlFpVnZIQUoyQldEdUxhcUJaMHhCUFZvNld3R1VVQQ?oc=5",
-      "publishedAt": "2026-10-29T10:17:19+00:00",
-      "fetchedAt": "2026-10-29T16:34:59.650156+00:00"
-    },
-    {
-      "id": "leidos-pr-leidos-awarded--99m-cyber-planning-platform-protot",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Leidos awarded $99M cyber planning platform prototype agreement - Defensehere",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOVNOSXphSURvXzN0c1BlZ2E0UGNUby1HYmo0S2l3N1dyYnl3X2EyOGFodnk0TVlQZEVUN205QzVxWkw0Ry1UczhBWmRtb2FSUjJJenY1Q2s4UGk0a25heHNfNmhsOV9ldVN6dnFYWGpway1uUzVsWHU0S2FLRlloT3FiMklRQQ?oc=5",
-      "publishedAt": "2026-10-28T19:12:05+00:00",
-      "fetchedAt": "2026-10-29T16:33:17.342460+00:00"
-    },
-    {
-      "id": "orbital-insight-rss-space-data-analytics-market-trends-and-forecast-an",
-      "companyId": "orbital-insight",
-      "companyName": "Orbital Insight",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Space Data Analytics Market Trends And Forecast Analysis Reveal Strong Long-Term Potential - EIN News",
-      "description": "Space Data Analytics Market Trends And Forecast Analysis Reveal Strong Long-Term Potential&nbsp;&nbsp;EIN News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkVRZFpCdDJoU2NzV09mR1dQQ1NSME8wNDVsc3pxU19qSFBmXzVfYlRZY0ZOSGFFbVNOV29rWDBsdmZ4UXVoUk5tOTZLVW1ZZWpRUDRRckJEOVFqUDZOMGlHZXdFNThuSVFzeUsyZ21wc2tNeUpPNXNieUdhRE5lLTdWOG1NaVFaTW94T19CR19jUm9sb29kRjgxSXJjU2ZzaWtsNG1OcnBzMzN4SWQwVm8wWVp0ZzQ3Z29KNEI1WVdXRzJVY09HNWx2Z3k?oc=5",
-      "publishedAt": "2026-10-28T16:15:00+00:00",
-      "fetchedAt": "2026-10-29T16:35:09.058994+00:00"
-    },
-    {
-      "id": "recorded-future-meta-censored-the-no-kings-instagram-account-durin",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Substack.com",
-      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
-      "description": "Meta censored a political organisation during a national voting campaign, blamed its own automation, then claimed its automated systems had detected another automated tool.",
-      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
-      "publishedAt": "2026-10-28T16:01:53Z",
-      "fetchedAt": "2026-10-29T16:32:25.096185+00:00"
-    },
-    {
-      "id": "leidos-pr-leidos-holdings--inc---ldos--wins--99m-u-s--cyber",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Leidos Holdings, Inc. (LDOS) Wins $99M U.S. Cyber Command Prototype Deal - TradingView",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGNwYWVCWGMyZGxBVHFLNXUxRzZweHVBYU1qem02Tjk3MVhzSTJtaFhfM1hGY1FfWEY3cDNlZUptQXBYUFZIUDdXZ3BoTDVFLXJWOHZzV2hmVjVMWWkySUlmZFdzSHB0eG90RjZRVFdaRzdReE02aGN4aEdZYThOdnNRVzdWVDFpUzVqSWpWRzlvZG9QeEtTbEhqZlI2bXRpdWtGTGN3NE05SkRZSHh3Z1oyVFgtS0QzRWZ3Wk1WYzdybE02U3dR?oc=5",
-      "publishedAt": "2026-10-28T13:00:00+00:00",
-      "fetchedAt": "2026-10-29T16:33:17.342435+00:00"
-    },
-    {
-      "id": "palantir-pr-what-you-need-to-know-ahead-of-dell-technologies",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "What You Need to Know Ahead of Dell Technologies\u2019 Earnings Release - Barchart.com",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjBWbGtTT2UyeTl0QXNDS18tbk1NWUYwbno2YVNxeVFtOVJVZ25Lb3FWVWZ1bEZHUkFqU1BINmZ4X2NMMmtUYmtQNk16amNVSWc4bkxSc3BBN3BEYTc2dmZoOXdYMnp3alI5c05JdTNsQUZjOWsyd1RtTDl0WVJSQlZ0bE1tY3dSVEg5bjVaOUlJZUhWZ3k5LUdXSXpjdmVQb3VkSjNBNFBlTS1COGc?oc=5",
-      "publishedAt": "2026-10-28T12:38:39+00:00",
-      "fetchedAt": "2026-10-29T16:32:20.071363+00:00"
+      "fetchedAt": "2026-10-30T16:28:39.375376+00:00"
     }
   ],
-  "generatedAt": "2026-10-29T16:35:39.805807+00:00",
+  "generatedAt": "2026-10-30T16:29:58.108270+00:00",
   "periodHours": 28,
-  "count": 11
+  "count": 8
 }
