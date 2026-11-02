@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-11-01T16:34:19.344015+00:00",
+  "articles": [
+    {
+      "id": "seerist-rss-seerist-reports-record-third-quarter-2026--revenue",
+      "companyId": "seerist",
+      "companyName": "Seerist",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Seerist Reports Record Third Quarter 2026: Revenue Up 26%, Federal ARR Up 37%, EBITDA Expands - The Manila Times",
+      "description": "Seerist Reports Record Third Quarter 2026: Revenue Up 26%, Federal ARR Up 37%, EBITDA Expands&nbsp;&nbsp;The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcU9uWS1iLVJwa3NnUzlBeWMxdl9CWTJMSFVPc2I2WHhSRFd3MnhVY1dWMkpoWFZoaDQtck5UVmNtUWY2TWpKbW0wWTl5aE9peVRGSjRaNF8zbkIwcGc1VDV4S2FUTDNMdzctbWlMUGx1ajNhMzZRLXhrVVRtNmlwb3p2RmZnaDc2VjFYUTJJanlMWkVheUxteFZJR19WX0ZMNXkyNTM2azlzMDN4dnp5TUxIUHNpRDg2SmtCUXVXRkJLZlV1T3VqZWIxY1l6aU11UUJTMUJOcnZWQUdCMnFES1RJWUl4Tm8zZkFaS0pYUTdzTFhz0gH6AUFVX3lxTE0wenpmMGQ3eW1XZ0RXTjFPd3VvRFJQX0xYeFU3R0hLT0ludkdSTjdjSUJYRzhPbVVXZWgwU083OXI1N3lWMEowODJYeE5tdEJGZkRTSEVUWkJ3WkNTOWpPUjdMRkpWdGExTGFkYnd4RHVqdmNxWFlQcE0xU2F0UTEyU21Mbm9yOHhSU2VUZDdwVVVVWGh2ZlotNXhyVlF6NmZBYVF5V0hvWmtEUWxHTFB3SVozcmZlTjBMNG9aWU9SaHZUdXBrY3RHSlp1c1Etb1BVS2JOQ0JZbk02cFBqd0pvUU5pWHJyU2l2anBrSklSbG90X2NxYTkzMGc?oc=5",
+      "publishedAt": "2026-11-02T13:09:53+00:00",
+      "fetchedAt": "2026-11-02T19:56:46.252015+00:00"
+    }
+  ],
+  "generatedAt": "2026-11-02T19:58:48.351812+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
