@@ -1,46 +1,20 @@
 {
   "articles": [
     {
-      "id": "leidos-pr-leidos---q3-2026-results-press-release---www-marke",
-      "companyId": "leidos",
-      "companyName": "Leidos",
+      "id": "recorded-future-the-precious-metals-crisis-that-could-trigger-a-gl",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Leidos : Q3 2026 Results Press Release - www.marketscreener.com",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXc0eXhGQlQwVGJOTWhoaHV5TkUwNFgxSWVtRDdTVFcxZEdwZFFBcFBJZ1hDaF9ZeWphVUtKMEJCQ0o0Sng4QjVqbVFSN2lBNVRMV0F5S3d0a0dXZVpZUWZBaTdwU1BRSng4WUFSSmVSUkRiY2VqdmVyTmVpVkFvazBYMEVyMXlVZWh2aWx2RTZLZFk?oc=5",
-      "publishedAt": "2026-11-03T11:14:12+00:00",
-      "fetchedAt": "2026-11-03T17:28:45.919033+00:00"
-    },
-    {
-      "id": "l3harris-pr-l3harris-technologies-mast-raising-equipment-contr",
-      "companyId": "l3harris",
-      "companyName": "L3Harris Technologies",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "L3Harris Technologies Mast-Raising Equipment Contracts - Joint Forces News",
-      "description": "Press release / announcement from L3Harris Technologies",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFZjRDhrZ2xBYVFUQTM4elF1dW1FYmUzLTdrRmc3TVpEX2JFNEhRUUVjeUhRXzlHdW9RMW9lZUhDUnpuTUdMTjB3aWVWSG50QmFXb21XamJMLUVjQk9MV3pRd0paYm9peVlva0NDaVZCUFRPTWtWa29qcnVyS2NRRkdudDk0RzNQTnVUVUdua09wN21UbEdTMFM4TnY0UHJUcGNHaVFoRHdtd2tLUU9vaVJR?oc=5",
-      "publishedAt": "2026-11-03T08:10:13+00:00",
-      "fetchedAt": "2026-11-03T17:30:15.904363+00:00"
-    },
-    {
-      "id": "palantir-pr-palantir-technologies---q3-2026-earnings-earnings",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Palantir Technologies : Q3 2026 Earnings Earnings Release - www.marketscreener.com",
-      "description": "Press release / announcement from Palantir Technologies",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNi0xMkI3ZzEybGFxZmZCUjhBSzJ4NjBaQUticzlNU1R5N3BsZEg1TkczR19jZ0hVZlFvVVU0dllkdFlqMGhYLUtaRFozZDgwMTE5X0lJMnJzYkctejZ3eTlrV3Nwc2VOX0dPT2stRW4zVWFaaHF3ZmhEN2ZrTzdtNDNaUzBHOFFEWFBZQkJuamVRS3hINmRUR3g2cVVvUHFDWkdjN2t4cVJ0Q3Y1?oc=5",
-      "publishedAt": "2026-11-02T21:59:41+00:00",
-      "fetchedAt": "2026-11-03T17:27:48.039703+00:00"
+      "source": "news",
+      "sourceName": "Activistpost.com",
+      "title": "The Precious Metals Crisis That Could Trigger a Global Financial\u00a0Reckoning",
+      "description": "It ended, apparently, in the spring. Gold ran to a record in the last days of January 2026 \u2014 $5,608 an ounce on one spot reading, roughly $5,405 on the LBMA benchmark, and $5,318.40 on COMEX futures, three figures describing the same metal and differing by ne\u2026",
+      "url": "https://activistpost.com/the-precious-metals-crisis-that-could-trigger-a-global-financial-reckoning/",
+      "publishedAt": "2026-11-03T14:00:00Z",
+      "fetchedAt": "2026-11-04T17:40:51.283686+00:00"
     }
   ],
-  "generatedAt": "2026-11-03T17:31:27.211662+00:00",
+  "generatedAt": "2026-11-04T17:44:20.846133+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 1
 }
