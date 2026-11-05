@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "id": "recorded-future-the-precious-metals-crisis-that-could-trigger-a-gl",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "flashpoint-pr-flashpoint-capital-announces-us-141-5-million-in-n",
+      "companyId": "flashpoint",
+      "companyName": "Flashpoint",
       "category": "osint",
-      "source": "news",
-      "sourceName": "Activistpost.com",
-      "title": "The Precious Metals Crisis That Could Trigger a Global Financial\u00a0Reckoning",
-      "description": "It ended, apparently, in the spring. Gold ran to a record in the last days of January 2026 \u2014 $5,608 an ounce on one spot reading, roughly $5,405 on the LBMA benchmark, and $5,318.40 on COMEX futures, three figures describing the same metal and differing by ne\u2026",
-      "url": "https://activistpost.com/the-precious-metals-crisis-that-could-trigger-a-global-financial-reckoning/",
-      "publishedAt": "2026-11-03T14:00:00Z",
-      "fetchedAt": "2026-11-04T17:40:51.283686+00:00"
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Flashpoint Capital Announces US$141.5 million in New Fund Closures - PR Newswire UK",
+      "description": "Press release / announcement from Flashpoint",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXNjY01Kd2d4WDBKd0dGOGV0RFUwRDM3QTZhRHRtdU5wbGg3Z1hLNFJLZlh4M2NNQW0zTTdFSmdnMlhUSF8yc0ZNeWVBamJTQzdESE1ienVBV3BCQ1NSaXJ6RTJwVV9zVkZVY1NWSzRicnA3MzltQU9sbHAxSm02eThYWXFDdkRWbTFZWnpfQl9YX3Q3WHFDMlhoYkRnNk4yakg2M0hqRVpybE1PdXUtYWUtTjN0WU1zTzhGT3NsNXM?oc=5",
+      "publishedAt": "2026-11-05T13:00:00+00:00",
+      "fetchedAt": "2026-11-05T17:47:57.877879+00:00"
     }
   ],
-  "generatedAt": "2026-11-04T17:44:20.846133+00:00",
+  "generatedAt": "2026-11-05T17:50:12.389093+00:00",
   "periodHours": 28,
   "count": 1
 }
