@@ -1,20 +1,33 @@
 {
   "articles": [
     {
-      "id": "flashpoint-pr-flashpoint-capital-announces-us-141-5-million-in-n",
-      "companyId": "flashpoint",
-      "companyName": "Flashpoint",
+      "id": "caci-rss-top-7-providers-of-osint-services-for-the-defence",
+      "companyId": "caci",
+      "companyName": "CACI International",
       "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Flashpoint Capital Announces US$141.5 million in New Fund Closures - PR Newswire UK",
-      "description": "Press release / announcement from Flashpoint",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXNjY01Kd2d4WDBKd0dGOGV0RFUwRDM3QTZhRHRtdU5wbGg3Z1hLNFJLZlh4M2NNQW0zTTdFSmdnMlhUSF8yc0ZNeWVBamJTQzdESE1ienVBV3BCQ1NSaXJ6RTJwVV9zVkZVY1NWSzRicnA3MzltQU9sbHAxSm02eThYWXFDdkRWbTFZWnpfQl9YX3Q3WHFDMlhoYkRnNk4yakg2M0hqRVpybE1PdXUtYWUtTjN0WU1zTzhGT3NsNXM?oc=5",
-      "publishedAt": "2026-11-05T13:00:00+00:00",
-      "fetchedAt": "2026-11-05T17:47:57.877879+00:00"
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Top 7 providers of OSINT services for the defence sector - UkrMedia News",
+      "description": "Top 7 providers of OSINT services for the defence sector&nbsp;&nbsp;UkrMedia News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzFEdGJDWm5YTUdyMXVtckpRNnhWcV85Mld4d2M0NWlDUXNkUW5IUXpUYVhMSWxob2Y0MnNUaXZSQW1veWtNRXR5SUNPX3FCcTlWVHNHbEhIaWtwZ0Vsb0JSa0QtYUtWd1B6Wm9kWmdyR1Fmdk9GdDRtNmZDY0VuRXF4Rjc4eU1uem00NjJRbXE?oc=5",
+      "publishedAt": "2026-11-06T09:04:02+00:00",
+      "fetchedAt": "2026-11-06T17:05:36.512264+00:00"
+    },
+    {
+      "id": "leidos-rss-top-7-providers-of-osint-services-for-the-defence",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Top 7 providers of OSINT services for the defence sector - UkrMedia News",
+      "description": "Top 7 providers of OSINT services for the defence sector&nbsp;&nbsp;UkrMedia News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzFEdGJDWm5YTUdyMXVtckpRNnhWcV85Mld4d2M0NWlDUXNkUW5IUXpUYVhMSWxob2Y0MnNUaXZSQW1veWtNRXR5SUNPX3FCcTlWVHNHbEhIaWtwZ0Vsb0JSa0QtYUtWd1B6Wm9kWmdyR1Fmdk9GdDRtNmZDY0VuRXF4Rjc4eU1uem00NjJRbXE?oc=5",
+      "publishedAt": "2026-11-06T09:04:02+00:00",
+      "fetchedAt": "2026-11-06T17:05:54.195154+00:00"
     }
   ],
-  "generatedAt": "2026-11-05T17:50:12.389093+00:00",
+  "generatedAt": "2026-11-06T17:08:16.942686+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 2
 }
