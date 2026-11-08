@@ -1,33 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "umbra-pr-path-of-exile--covens-of-umbra-launches-november-1",
-      "companyId": "umbra",
-      "companyName": "Umbra",
-      "category": "satellite",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Path of Exile: Covens of Umbra launches November 13 after ExileCon - Inven Global",
-      "description": "Press release / announcement from Umbra",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUtvSVNwb2RhblpSdl9EcGJIRTJlNmsyOW52MDlJb1ZLMFBqV3ktQXJKb3hmaVBRODNncGw3MlE5NzBfVlJsU25KZWMzNDJIZkxZcmV0amVKSGZyM0IzcWxrdUJnYkFYWWNUbzkxeHdoMlRsOWFCaUdEY0VjWC10Y1ZHUlZoQVJMR1BMb1dLX2xEcGF3aGFzeExmcWpPUHZ6QWw4Q3JTQjZRV2JZ?oc=5",
-      "publishedAt": "2026-11-07T00:23:42+00:00",
-      "fetchedAt": "2026-11-07T16:02:20.882271+00:00"
-    },
-    {
-      "id": "flashpoint-rss-dark-web-intelligence---threat-monitoring-market-s",
-      "companyId": "flashpoint",
-      "companyName": "Flashpoint",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Dark Web Intelligence & Threat Monitoring Market Size, 2034 - Fortune Business Insights",
-      "description": "Dark Web Intelligence & Threat Monitoring Market Size, 2034&nbsp;&nbsp;Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcE1FbC13RTV5ZWExU3lTejJkWnFoaFE4ZVlMZUZ0OWtvbVJOd2R4eUMwN2ktVFVHNXUwX05BZkt3bEFscUs4SWtHTTB0emVqb0tOdFZOMURtTy00eTVDUVN4TTVVcms1TUxCdlZWcFQ3bW1HQTBqNmlVTnRkeTFTeTZjRFoxZmdtN1VTWDBUNVZ5YU1wQ0pBS2dzd0Vodw?oc=5",
-      "publishedAt": "2026-11-06T14:51:12+00:00",
-      "fetchedAt": "2026-11-07T16:01:03.901206+00:00"
-    }
-  ],
-  "generatedAt": "2026-11-07T16:03:07.708898+00:00",
+  "articles": [],
+  "generatedAt": "2026-11-08T16:30:56.396118+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 0
 }
