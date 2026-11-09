@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-11-08T16:30:56.396118+00:00",
+  "articles": [
+    {
+      "id": "planet-labs-pr-planet-and-stoke-space-sign-multi-launch-agreement",
+      "companyId": "planet-labs",
+      "companyName": "Planet Labs",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Planet and Stoke Space Sign Multi-Launch Agreement for Nova Launch Capabilities - StreetInsider",
+      "description": "Press release / announcement from Planet Labs",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHp0cFFBdzRRSDZTczZCTGsyam41a1doYm5kQXBrY28wV3ctR3VpenNhaDR4N3RJekFHT1J0enpUOEZrZTVmOHBZVTJsOVVZQ2JIYTRwTURCZW9ETDNqYkgwQ2dpZWNzNWZvT0FyR25TRlhSWFRTTnNfN055bk9lVUMxR2V6RkFGUUY1OURqUmJoY0VRZWg2WUc4OUp4bjdTaEpsbEZJYjZGZTQtWF9vTnBoR0JPc1BuR0ttZHNkb3JZYjRVejBjNllGVmVJZWJPX01V?oc=5",
+      "publishedAt": "2026-11-09T14:04:36+00:00",
+      "fetchedAt": "2026-11-09T20:21:35.555803+00:00"
+    }
+  ],
+  "generatedAt": "2026-11-09T20:23:00.246810+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
