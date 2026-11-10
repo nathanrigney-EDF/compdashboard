@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": "palantir-rss-palantir-stock-faces-budget-risk-as-commercial-gro",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Palantir stock faces budget risk as commercial growth accelerates - ad-hoc-news.de",
+      "description": "Palantir stock faces budget risk as commercial growth accelerates&nbsp;&nbsp;ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQME5RdEp5ZkxGRm5aZjUtVUV6bnpobHVaYVNySnB4OWRzQmhWMG01U2dCMFFBcGtfemRVMHY0dF90RExJNEV1RnRLY3Q2QjhtRmlEd1F3RnpXM0JWMzB3UzVlemJCRHplZFkzSFdfR0JVb25WRjYtRHp6ZDREVXhMYVZVQ2hoTW1mOUxTZVRLakdrVFdaSXlka2d6OU1ZZk01cEE0SFpENHZNNUk0WTZ2V3Q0N0I5R1hHZXhTaHA3V0FnbmlzZGs4?oc=5",
+      "publishedAt": "2026-11-10T15:40:02+00:00",
+      "fetchedAt": "2026-11-10T17:25:03.283309+00:00"
+    },
+    {
+      "id": "leidos-pr-leidos-launches-agentic-ai-platform-to-speed-respo",
+      "companyId": "leidos",
+      "companyName": "Leidos",
+      "category": "osint",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Leidos Launches Agentic AI Platform To Speed Response to Cyber Threats - ACCESS Newswire",
+      "description": "Press release / announcement from Leidos",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUNEcHg3ZDFSX2lfN3FMLXRlRVg5MlIyUlN3ZUN1ZndJb2stVUY5SldiajNKNGd4WHotT05TOWl4Y004VzFWeGVLNk1KazF2MHhqVVlldmxfTTNOWjllRVhOTk9OZERDUlVfMkpzaFh5TmRBV1lzTHllM0R1Q09SZUVBendDWHRZLVN1aGhyTERTQTBWMnpwOGZMZ0d3NWswRVo5ajVubXpVbFV2V1JyNWF5TGlsczFBNURnc1U4WGZNZUwzN1ZwQjRvdXhrbFdqRndKU29CNzh4cTRzMmVhejFPejQ?oc=5",
+      "publishedAt": "2026-11-10T15:35:00+00:00",
+      "fetchedAt": "2026-11-10T17:25:45.535634+00:00"
+    },
+    {
       "id": "planet-labs-pr-planet-and-stoke-space-sign-multi-launch-agreement",
       "companyId": "planet-labs",
       "companyName": "Planet Labs",
@@ -11,10 +37,10 @@
       "description": "Press release / announcement from Planet Labs",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHp0cFFBdzRRSDZTczZCTGsyam41a1doYm5kQXBrY28wV3ctR3VpenNhaDR4N3RJekFHT1J0enpUOEZrZTVmOHBZVTJsOVVZQ2JIYTRwTURCZW9ETDNqYkgwQ2dpZWNzNWZvT0FyR25TRlhSWFRTTnNfN055bk9lVUMxR2V6RkFGUUY1OURqUmJoY0VRZWg2WUc4OUp4bjdTaEpsbEZJYjZGZTQtWF9vTnBoR0JPc1BuR0ttZHNkb3JZYjRVejBjNllGVmVJZWJPX01V?oc=5",
       "publishedAt": "2026-11-09T14:04:36+00:00",
-      "fetchedAt": "2026-11-09T20:21:35.555803+00:00"
+      "fetchedAt": "2026-11-10T17:26:22.747255+00:00"
     }
   ],
-  "generatedAt": "2026-11-09T20:23:00.246810+00:00",
+  "generatedAt": "2026-11-10T17:28:03.793837+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 3
 }
