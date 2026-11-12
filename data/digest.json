@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "palantir-rss-palantir-stock-faces-budget-risk-as-commercial-gro",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "Palantir stock faces budget risk as commercial growth accelerates - ad-hoc-news.de",
-      "description": "Palantir stock faces budget risk as commercial growth accelerates&nbsp;&nbsp;ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQME5RdEp5ZkxGRm5aZjUtVUV6bnpobHVaYVNySnB4OWRzQmhWMG01U2dCMFFBcGtfemRVMHY0dF90RExJNEV1RnRLY3Q2QjhtRmlEd1F3RnpXM0JWMzB3UzVlemJCRHplZFkzSFdfR0JVb25WRjYtRHp6ZDREVXhMYVZVQ2hoTW1mOUxTZVRLakdrVFdaSXlka2d6OU1ZZk01cEE0SFpENHZNNUk0WTZ2V3Q0N0I5R1hHZXhTaHA3V0FnbmlzZGs4?oc=5",
-      "publishedAt": "2026-11-10T15:40:02+00:00",
-      "fetchedAt": "2026-11-11T17:37:45.744991+00:00"
-    },
-    {
-      "id": "leidos-pr-leidos-launches-agentic-ai-platform-to-speed-respo",
-      "companyId": "leidos",
-      "companyName": "Leidos",
+      "id": "babel-street-pr-babel-street-launches-new-capabilities-to-detect-e",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
       "category": "osint",
       "source": "press_release",
       "sourceName": "Press Release",
-      "title": "Leidos Launches Agentic AI Platform To Speed Response to Cyber Threats - ACCESS Newswire",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUNEcHg3ZDFSX2lfN3FMLXRlRVg5MlIyUlN3ZUN1ZndJb2stVUY5SldiajNKNGd4WHotT05TOWl4Y004VzFWeGVLNk1KazF2MHhqVVlldmxfTTNOWjllRVhOTk9OZERDUlVfMkpzaFh5TmRBV1lzTHllM0R1Q09SZUVBendDWHRZLVN1aGhyTERTQTBWMnpwOGZMZ0d3NWswRVo5ajVubXpVbFV2V1JyNWF5TGlsczFBNURnc1U4WGZNZUwzN1ZwQjRvdXhrbFdqRndKU29CNzh4cTRzMmVhejFPejQ?oc=5",
-      "publishedAt": "2026-11-10T15:35:00+00:00",
-      "fetchedAt": "2026-11-11T17:38:28.295920+00:00"
+      "title": "Babel Street Launches New Capabilities to Detect Emerging Risks and Build a More Complete Picture from Fragmented Leads - Yahoo Finance",
+      "description": "Press release / announcement from Babel Street",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeE5yWVhyT1dkMmVRY05TZW5QbER0YjR4eFEwdmZwODQ1S05mTlo3UDA4cVRQSWJRTTJ2RFY3S2Yycm42eHFNXzdCU0NtUzFncXFUUk0zczZyYTJ4a1VHWE5wZFFydmE4bkU1cmZTRXJwTHBXbVdyMEFWdkRhWHI4Qk8zV08zREk3YnNaZzFKWF8zUnhKc0JrLWtydzA1VFRYbmE2bmppUUs?oc=5",
+      "publishedAt": "2026-11-12T14:44:00+00:00",
+      "fetchedAt": "2026-11-12T17:50:14.077070+00:00"
     }
   ],
-  "generatedAt": "2026-11-11T17:40:48.268059+00:00",
+  "generatedAt": "2026-11-12T17:52:34.376744+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
