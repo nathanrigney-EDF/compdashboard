@@ -1,33 +1,20 @@
 {
   "articles": [
     {
-      "id": "palantir-palantir-ceo-suddenly-embraces-his--lifelong-democ",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
+      "id": "recorded-future-the-unfolding-jensen-huang-scandal--a-timeline---t",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
       "category": "osint",
       "source": "news",
-      "sourceName": "Thegatewaypundit.com",
-      "title": "Palantir CEO Suddenly Embraces His \u201cLifelong Democrat\u201d Roots After Cashing In on Trump Administration Contracts Following Democrat Midterm Victories",
-      "description": "Well, that didn't take long.\nThe post Palantir CEO Suddenly Embraces His \u201cLifelong Democrat\u201d Roots After Cashing In on Trump Administration Contracts Following Democrat Midterm Victories appeared first on The Gateway Pundit.",
-      "url": "https://www.thegatewaypundit.com/2026/11/palantir-ceo-suddenly-embraces-his-lifelong-democrat-roots/",
-      "publishedAt": "2026-11-12T16:30:10Z",
-      "fetchedAt": "2026-11-13T17:27:06.198120+00:00"
-    },
-    {
-      "id": "babel-street-pr-babel-street-launches-new-capabilities-to-detect-e",
-      "companyId": "babel-street",
-      "companyName": "Babel Street",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Babel Street Launches New Capabilities to Detect Emerging Risks and Build a More Complete Picture from Fragmented Leads - Yahoo Finance",
-      "description": "Press release / announcement from Babel Street",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeE5yWVhyT1dkMmVRY05TZW5QbER0YjR4eFEwdmZwODQ1S05mTlo3UDA4cVRQSWJRTTJ2RFY3S2Yycm42eHFNXzdCU0NtUzFncXFUUk0zczZyYTJ4a1VHWE5wZFFydmE4bkU1cmZTRXJwTHBXbVdyMEFWdkRhWHI4Qk8zV08zREk3YnNaZzFKWF8zUnhKc0JrLWtydzA1VFRYbmE2bmppUUs?oc=5",
-      "publishedAt": "2026-11-12T14:44:00+00:00",
-      "fetchedAt": "2026-11-13T17:27:09.540938+00:00"
+      "sourceName": "TechCrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline | TechCrunch",
+      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-13T15:58:00Z",
+      "fetchedAt": "2026-11-14T16:18:01.348386+00:00"
     }
   ],
-  "generatedAt": "2026-11-13T17:29:52.749264+00:00",
+  "generatedAt": "2026-11-14T16:20:10.679516+00:00",
   "periodHours": 28,
-  "count": 2
+  "count": 1
 }
