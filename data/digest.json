@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "id": "recorded-future-the-unfolding-jensen-huang-scandal--a-timeline---t",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "babel-street-tesla-and-amazon-are-building-the-workforce-a-1921",
+      "companyId": "babel-street",
+      "companyName": "Babel Street",
       "category": "osint",
       "source": "news",
-      "sourceName": "TechCrunch",
-      "title": "The unfolding Jensen Huang scandal: a timeline | TechCrunch",
-      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-13T15:58:00Z",
-      "fetchedAt": "2026-11-14T16:18:01.348386+00:00"
+      "sourceName": "Fortune",
+      "title": "Tesla and Amazon are building the workforce a 1921 play imagined: One that never asks for a wage",
+      "description": "Tesla\u2019s Optimus is in early production and Agility is public. A 1921 play shows why automation\u2019s risk hides in the aggregate.",
+      "url": "https://fortune.com/2026/11/14/capek-rur-humanoid-robots-tesla-optimus-amazon-agility/",
+      "publishedAt": "2026-11-14T13:26:00Z",
+      "fetchedAt": "2026-11-15T16:44:23.586319+00:00"
     }
   ],
-  "generatedAt": "2026-11-14T16:20:10.679516+00:00",
+  "generatedAt": "2026-11-15T16:47:22.148908+00:00",
   "periodHours": 28,
   "count": 1
 }
