@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "leidos-pr-leidos--ldos--selected-for-nasa-program-with--1-4b",
-      "companyId": "leidos",
-      "companyName": "Leidos",
-      "category": "osint",
-      "source": "press_release",
-      "sourceName": "Press Release",
-      "title": "Leidos (LDOS) Selected for NASA Program With $1.4B Estimated Value Across Awardees - TradingView",
-      "description": "Press release / announcement from Leidos",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQek9DcTlNWlJIYy1DN1plN2NNZmliS3d4cjRwMElKbWpnY1VhZEFndnZmMVk3QWRJNzNjT3dNWHJKYTBSdGtyc1haZU1mcVhqUnpiVkt2UFRpMmxDYVh1V1o5UkluWGxmd29fNGxxU1JlMzlDemhsZjNva0FLQzFDa0lxek9tcENTRkk1dks5c1BYeW9vYTU3VWxwWElJeGhpOUV3Uzk2SWJzQ2hUdGFISWhrd25kaklFRURhMzE3b05DLUZYSUM1elhsQ2NuV19NUDY1Y2tmX0U?oc=5",
-      "publishedAt": "2026-11-17T16:00:00+00:00",
-      "fetchedAt": "2026-11-18T18:35:03.138857+00:00"
-    }
-  ],
-  "generatedAt": "2026-11-18T18:37:07.488416+00:00",
+  "articles": [],
+  "generatedAt": "2026-11-19T18:49:17.107354+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
