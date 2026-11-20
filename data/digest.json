@@ -1,6 +1,20 @@
 {
-  "articles": [],
-  "generatedAt": "2026-11-19T18:49:17.107354+00:00",
+  "articles": [
+    {
+      "id": "bigbear-ai-rss-bigbear-ai-stock-down-19-4--in-a-month--is-buying",
+      "companyId": "bigbear-ai",
+      "companyName": "BigBear.ai",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BigBear.ai Stock Down 19.4% in a Month: Is Buying the Dip Too Risky? - TradingView",
+      "description": "BigBear.ai Stock Down 19.4% in a Month: Is Buying the Dip Too Risky?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnFnU19jWVZmek1uWUdISm5JOXZra080MnVRU0pIejM4UGx4a25wejRQMFR6STc4azVjOXJnT0djUmFrUlNQMW92Y25UTkxuOFl5SnNjY3cta1FZeV9BMEgzSVNxZ203UmFxSmRQNlBCQkJUX0poZEh4aGphbkFlU2dKNXRIN3VmOXlBb0JCZy1Rc2MtaW1tOWYyUFdoOE5lUGNCUjZsV1JCOXg0MFF0ckJ1Z2ZoT1UxT2JWS0xB?oc=5",
+      "publishedAt": "2026-11-19T16:35:00+00:00",
+      "fetchedAt": "2026-11-20T18:12:34.232236+00:00"
+    }
+  ],
+  "generatedAt": "2026-11-20T18:15:28.079607+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 1
 }
