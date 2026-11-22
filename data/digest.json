@@ -1,20 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "palantir-rss-what-is-palantir-technologies--pltr--signaling-wit",
-      "companyId": "palantir",
-      "companyName": "Palantir Technologies",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "What Is Palantir Technologies (PLTR) Signaling With Its Defense And Federal Push? - Simply Wall St",
-      "description": "What Is Palantir Technologies (PLTR) Signaling With Its Defense And Federal Push?&nbsp;&nbsp;Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOemVCX0dzMlVaVk1fTVZ6YkNrUWhhQk9USktyWGJXMzFFLWV3ak5zOFhGVHQyMFNVdTA1NDdCVEVnWW45bnhwTTVoNDhiRDJtZm50M3gteTBvS01NekxHdnFmNmd0RU91Tl9XQ01Sczd0UlQ0NVFMZHZEMDhXcW5pSjZKeU5DZnBOdnVrTG1YUWVITFFxRVRJTmxfSGR5UlNZMVFhbGZ0N2kwMnJmelY4WG5MZjllYy0yOVZLVTZ2RGVvSzZNQ2J5WVR4dVUteGZGZVZrQTVoUQ?oc=5",
-      "publishedAt": "2026-11-20T19:10:01+00:00",
-      "fetchedAt": "2026-11-21T17:02:31.308326+00:00"
-    }
-  ],
-  "generatedAt": "2026-11-21T17:05:02.458774+00:00",
+  "articles": [],
+  "generatedAt": "2026-11-22T17:35:26.095938+00:00",
   "periodHours": 28,
-  "count": 1
+  "count": 0
 }
