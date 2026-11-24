@@ -1,6 +1,46 @@
 {
-  "articles": [],
-  "generatedAt": "2026-11-23T21:54:50.678914+00:00",
+  "articles": [
+    {
+      "id": "planet-labs-pr-planet-awarded-contract-expansion-with-european-de",
+      "companyId": "planet-labs",
+      "companyName": "Planet Labs",
+      "category": "satellite",
+      "source": "press_release",
+      "sourceName": "Press Release",
+      "title": "Planet Awarded Contract Expansion with European Defense and Intelligence Customer - Quantisnow",
+      "description": "Press release / announcement from Planet Labs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FJdW5yRl9mVEUtbFhkUWozUGs2TDEyU2ZUSk50bUowbklmNThmVndOaHF5cDl1Smc0RmZidnMzTjhXa0hmdEttN0NDQ0k3YzhiS0FodWtwWEx4cHptMWJtNG5IOHI1RjhOWXVFMTJ1dGY0NWU4QVZwUmF3MFp1cVlmSDhHQmI2THB3UFFYcGJTMmt5QjIwQ2tnX3lmVzJVTFdveEplZll6T0tCX00xbUVIbE1hOFcxOWxMbEd3WWUxZw?oc=5",
+      "publishedAt": "2026-11-24T14:05:48+00:00",
+      "fetchedAt": "2026-11-24T20:28:27.104985+00:00"
+    },
+    {
+      "id": "umbra-rss-umbra--iceye-tout-higher-resolution-radar-imaging",
+      "companyId": "umbra",
+      "companyName": "Umbra",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Umbra, ICEYE tout higher-resolution radar imaging with new satellites - Breaking Defense",
+      "description": "Umbra, ICEYE tout higher-resolution radar imaging with new satellites&nbsp;&nbsp;Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjBzSWVLei1Pa19KZy1Qb2ZoUVhiVnNsTXZXQzFUaDBxWV84aFFJS1VlbUQ0SnpwcjBha2lUWkZ6QWhLZlZHQnJaSVJJMTc2QkFkSjRYUzh4bnJOVnZnOVFqVkNYTU5CRHdOY0xTWWJMdEtuLXNWLWlRX0IwanBxY1l1T3l1bDdGMEE2c1Nfem5XZ01MZHZKdVdnOGVnZlluSnlJeWtKcTQ?oc=5",
+      "publishedAt": "2026-11-23T17:22:57+00:00",
+      "fetchedAt": "2026-11-24T20:28:48.107077+00:00"
+    },
+    {
+      "id": "recorded-future-fg-unveils-five-year-drug-control-plan--seeks-emer",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "The Punch",
+      "title": "FG unveils five-year drug control plan, seeks emergency action",
+      "description": "Shettima says drug abuse should be a national emergency as FG launches the National Drug Control Master Plan 2026\u20132030 in Abuja, with NDLEA data on arrests\n\nRead More: https://punchng.com/fg-unveils-five-year-drug-control-plan-seeks-emergency-action/",
+      "url": "https://punchng.com/fg-unveils-five-year-drug-control-plan-seeks-emergency-action/",
+      "publishedAt": "2026-11-23T16:54:00Z",
+      "fetchedAt": "2026-11-24T20:27:15.496116+00:00"
+    }
+  ],
+  "generatedAt": "2026-11-24T20:29:52.208332+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 3
 }
