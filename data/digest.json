@@ -1,46 +1,6 @@
 {
-  "articles": [
-    {
-      "id": "blacksky-rss-blacksky-acquires-epochgeo-to-expand-ai-powered-de",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BlackSky Acquires EpochGeo to Expand AI-Powered Defense Intelligence Capabilities - Defense Mirror",
-      "description": "BlackSky Acquires EpochGeo to Expand AI-Powered Defense Intelligence Capabilities&nbsp;&nbsp;Defense Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmZQYU5kajQ5OS0yaWQ0M2djMVVGM1hiT3Y0dTNDZ2ZGU2lnekhFNERDR2thMUVfN3RvaVFlZWw2MkNvZkdxSlEwZFJPQmNMcENNb09vQXBvM0JFU0Vhb21QeVB5dmZwTm1veEJPLUxtT1NHQms4V1dkOUhuM29sajJYMzlCMlZvVG01WE1RM0pGTlZOTi1OM2xDa0g3dmxCbVNKSUZkRWtWMHBTemFPM0t6UW8ta3VZOEE?oc=5",
-      "publishedAt": "2026-11-25T04:59:54+00:00",
-      "fetchedAt": "2026-11-25T19:43:02.770836+00:00"
-    },
-    {
-      "id": "blacksky-rss-blacksky-acquires-data-fusion-company-epochgeo-to",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BlackSky Acquires Data Fusion Company EpochGeo To Enhance Solutions - Via Satellite",
-      "description": "BlackSky Acquires Data Fusion Company EpochGeo To Enhance Solutions&nbsp;&nbsp;Via Satellite",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTU1sWDRNM05ZbkpxSDZuZmw1UjVOOGpVR3U4S2VoSGltNGFSTGVRZWtnVHUwbEN6aXVRVkVkZlpCMzBNWmZwRWdtMmFIWjNKclVWTUxUdlphbFdPTVNScnNsNFZmTkNxXzdqM1Nub1JodFMxWnV5QjMyTkVPOENtdGxGT1ZISGxEZDFoZjRySFZJRklzMU9SUnc2UFdhUDZ1RmNVaHdJbFZjZDFoS2dWcUR2c0hNajUwZEtsZEFOT0NyU3laNkVYcXJ3?oc=5",
-      "publishedAt": "2026-11-24T22:02:34+00:00",
-      "fetchedAt": "2026-11-25T19:43:02.770816+00:00"
-    },
-    {
-      "id": "recorded-future-hackers-compromise-check-point-servers-in-22-organ",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
-      "category": "osint",
-      "source": "news",
-      "sourceName": "BleepingComputer",
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "description": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "publishedAt": "2026-11-24T16:15:23Z",
-      "fetchedAt": "2026-11-25T19:42:01.257256+00:00"
-    }
-  ],
-  "generatedAt": "2026-11-25T19:44:58.999629+00:00",
+  "articles": [],
+  "generatedAt": "2026-11-26T19:24:17.399181+00:00",
   "periodHours": 28,
-  "count": 3
+  "count": 0
 }
