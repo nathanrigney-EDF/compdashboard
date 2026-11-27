@@ -1,6 +1,46 @@
 {
-  "articles": [],
-  "generatedAt": "2026-11-26T19:24:17.399181+00:00",
+  "articles": [
+    {
+      "id": "blacksky-rss-blacksky-acquires-epochgeo-to-expand-ai-powered-de",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BlackSky Acquires EpochGeo to Expand AI-Powered Defense Intelligence Capabilities - Defense Mirror",
+      "description": "BlackSky Acquires EpochGeo to Expand AI-Powered Defense Intelligence Capabilities&nbsp;&nbsp;Defense Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1b254UHVoVElxa1kxQmxYZUhhcWZ3c19CSjdEUURZZ3gtS1ZoWFBhZWdZMGJrUmx0WGpkMW5SRXd4alNtYmFnVHFoZDA?oc=5",
+      "publishedAt": "2026-11-26T23:29:21+00:00",
+      "fetchedAt": "2026-11-27T19:18:59.895988+00:00"
+    },
+    {
+      "id": "blacksky-rss-blacksky-acquires-epochgeo-to-add-ai-analysis-of-s",
+      "companyId": "blacksky",
+      "companyName": "BlackSky Technology",
+      "category": "satellite",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "BlackSky acquires EpochGeo to add AI analysis of signals data to its satellite imaging services - Defence Industry Europe",
+      "description": "BlackSky acquires EpochGeo to add AI analysis of signals data to its satellite imaging services&nbsp;&nbsp;Defence Industry Europe",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajJ5T0p4eHBUZjlCRC1mUFVVMEhyMjB4ZERhS3I3d1ZQY2tHYzJ4NzVyNENpYXE2MWxHdkF1Rm1UM1RFUzZpb3p3TUx5cEtxUWZUU0FqdWh6ZU53Rm9jODdmV25OUzN2cDBRODA5Ym10SGVGZUdyTkxxS1paeGFOX0d5TXB2R0h2MzZQZGh2X3JsQmNMTGUyZDU4Y0tkQkhJUVA3UHNHWG53NnkzZnRZM2drWVVfSG1VV2hpZUpxUWJvdw?oc=5",
+      "publishedAt": "2026-11-26T22:34:47+00:00",
+      "fetchedAt": "2026-11-27T19:18:59.895965+00:00"
+    },
+    {
+      "id": "recorded-future-rss-wie-strategische-threat-intelligence-zu-besseren-s",
+      "companyId": "recorded-future",
+      "companyName": "Recorded Future",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Wie strategische Threat Intelligence zu besseren Sicherheitsentscheidungen f\u00fchren\u200b\u200b \u200b - Recorded Future",
+      "description": "Wie strategische Threat Intelligence zu besseren Sicherheitsentscheidungen f\u00fchren\u200b\u200b \u200b&nbsp;&nbsp;Recorded Future",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDZpMjBzUDVWSE9uVFRoOTNuQlNPdVNfWnZQeldRV2FqLTlGRlZmbkRCVUdibUxXelJwdFo1VVBKRmxqa3lYXzQybHVEMElvWnBrZ1BwendLNmJZUWk4V2Nvc0pHd3BQM0Z6YTgxR0FaaHpjQnREYmxaT0tYQVB2Vkg4ZWo?oc=5",
+      "publishedAt": "2026-11-26T22:33:55+00:00",
+      "fetchedAt": "2026-11-27T19:17:28.880668+00:00"
+    }
+  ],
+  "generatedAt": "2026-11-27T19:20:10.728525+00:00",
   "periodHours": 28,
-  "count": 0
+  "count": 3
 }
