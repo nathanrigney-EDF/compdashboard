@@ -1,46 +1,46 @@
 {
   "articles": [
     {
-      "id": "blacksky-rss-blacksky-acquires-epochgeo-to-expand-ai-powered-de",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BlackSky Acquires EpochGeo to Expand AI-Powered Defense Intelligence Capabilities - Defense Mirror",
-      "description": "BlackSky Acquires EpochGeo to Expand AI-Powered Defense Intelligence Capabilities&nbsp;&nbsp;Defense Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1b254UHVoVElxa1kxQmxYZUhhcWZ3c19CSjdEUURZZ3gtS1ZoWFBhZWdZMGJrUmx0WGpkMW5SRXd4alNtYmFnVHFoZDA?oc=5",
-      "publishedAt": "2026-11-26T23:29:21+00:00",
-      "fetchedAt": "2026-11-27T19:18:59.895988+00:00"
-    },
-    {
-      "id": "blacksky-rss-blacksky-acquires-epochgeo-to-add-ai-analysis-of-s",
-      "companyId": "blacksky",
-      "companyName": "BlackSky Technology",
-      "category": "satellite",
-      "source": "news",
-      "sourceName": "Google News",
-      "title": "BlackSky acquires EpochGeo to add AI analysis of signals data to its satellite imaging services - Defence Industry Europe",
-      "description": "BlackSky acquires EpochGeo to add AI analysis of signals data to its satellite imaging services&nbsp;&nbsp;Defence Industry Europe",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajJ5T0p4eHBUZjlCRC1mUFVVMEhyMjB4ZERhS3I3d1ZQY2tHYzJ4NzVyNENpYXE2MWxHdkF1Rm1UM1RFUzZpb3p3TUx5cEtxUWZUU0FqdWh6ZU53Rm9jODdmV25OUzN2cDBRODA5Ym10SGVGZUdyTkxxS1paeGFOX0d5TXB2R0h2MzZQZGh2X3JsQmNMTGUyZDU4Y0tkQkhJUVA3UHNHWG53NnkzZnRZM2drWVVfSG1VV2hpZUpxUWJvdw?oc=5",
-      "publishedAt": "2026-11-26T22:34:47+00:00",
-      "fetchedAt": "2026-11-27T19:18:59.895965+00:00"
-    },
-    {
-      "id": "recorded-future-rss-wie-strategische-threat-intelligence-zu-besseren-s",
-      "companyId": "recorded-future",
-      "companyName": "Recorded Future",
+      "id": "palantir-rss-palantir-technologies--pltr--signed-a-poland-defen",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
       "category": "osint",
       "source": "news",
       "sourceName": "Google News",
-      "title": "Wie strategische Threat Intelligence zu besseren Sicherheitsentscheidungen f\u00fchren\u200b\u200b \u200b - Recorded Future",
-      "description": "Wie strategische Threat Intelligence zu besseren Sicherheitsentscheidungen f\u00fchren\u200b\u200b \u200b&nbsp;&nbsp;Recorded Future",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDZpMjBzUDVWSE9uVFRoOTNuQlNPdVNfWnZQeldRV2FqLTlGRlZmbkRCVUdibUxXelJwdFo1VVBKRmxqa3lYXzQybHVEMElvWnBrZ1BwendLNmJZUWk4V2Nvc0pHd3BQM0Z6YTgxR0FaaHpjQnREYmxaT0tYQVB2Vkg4ZWo?oc=5",
-      "publishedAt": "2026-11-26T22:33:55+00:00",
-      "fetchedAt": "2026-11-27T19:17:28.880668+00:00"
+      "title": "Palantir Technologies (PLTR) Signed A Poland Defense Software Agreement - Yahoo Finance",
+      "description": "Palantir Technologies (PLTR) Signed A Poland Defense Software Agreement&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTBVdWFqRFFUWS1RNWFsTHgwS25MWWtuVmRDN2M3UGxKT0VDSHYyQ3dBOVc3anNMdjM4Z0NSZ3B0UGZGc3B3LTNPMXBpTlJoVWVUVEpvcl9sZmxOenpSR1E4YWNScHZ0a3cxT25rUEVwN1FNcXdKaVNKSUs3Y1ppcVRkNTllcFNkWERTWnpSM0k5N09wUHdxVVp2b3ViSlVSNE5Pc1U1bw?oc=5",
+      "publishedAt": "2026-11-28T02:09:00+00:00",
+      "fetchedAt": "2026-11-28T17:54:01.204894+00:00"
+    },
+    {
+      "id": "dataminr-rss-dataminr-launches-first-alert-advanced-and-secures",
+      "companyId": "dataminr",
+      "companyName": "Dataminr",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Dataminr Launches First Alert Advanced and Secures Landmark $318 Million Contract with the U.S. Department of War - The National Law Review",
+      "description": "Dataminr Launches First Alert Advanced and Secures Landmark $318 Million Contract with the U.S. Department of War&nbsp;&nbsp;The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbW93SldJMEJjelFxMUJ4X3FlaVhNWk1nX2UwX19zcHBlTlBoaVBvVS1BWVlzYV96djFKWkVFNS1YcVJvU05QdUdzdHREMG8xSng5ZUpVVU13SWo5bHoyU2VCS1k1OW5FcXZBS0pGNF92cjlvVHNncndCbFhwelYxempqZG1jY0kwM0paLVdWMFFHU3Bpd3lYVlNsNnA5c3lXWV9ZQkRXa2EzS2N2NW5BZQ?oc=5",
+      "publishedAt": "2026-11-28T00:20:56+00:00",
+      "fetchedAt": "2026-11-28T17:54:10.645939+00:00"
+    },
+    {
+      "id": "palantir-rss-poland-signs-ai-defense-software-agreement-with-pa",
+      "companyId": "palantir",
+      "companyName": "Palantir Technologies",
+      "category": "osint",
+      "source": "news",
+      "sourceName": "Google News",
+      "title": "Poland Signs AI Defense Software Agreement With Palantir (NASDAQ: PLTR) As Financial Terms Remain Undisclosed - Foreign Policy Journal",
+      "description": "Poland Signs AI Defense Software Agreement With Palantir (NASDAQ: PLTR) As Financial Terms Remain Undisclosed&nbsp;&nbsp;Foreign Policy Journal",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUUlPQ1B0Q19sMGZTNmdUb0hNT3k4cVdLX29XVXRyLVQtVDRURzhSeGJyV09BRF9XY21YVWg5NEhlamVrVG5GMDhpRzdaRl9Wcm1ya2tCdlBjUmpoRUJSNzRYQlF2em9nS3IxRmtqRjF5dFBfT1F3S1hXTjNjYWd1SmY5dHNtbThROHNRUXZKeTM5UG1FVFBZRTd3dk9keF9LbnVRMGRUWnlNUjdRYTlLLXplNmdUZ3dCN0xOYmROS0plVFBaYXdaWHhJSVo4QzZqN1JfeGk4MjlmOUdEWEpzSldGa3lyNUpDbEdv?oc=5",
+      "publishedAt": "2026-11-27T19:55:00+00:00",
+      "fetchedAt": "2026-11-28T17:54:01.204918+00:00"
     }
   ],
-  "generatedAt": "2026-11-27T19:20:10.728525+00:00",
+  "generatedAt": "2026-11-28T17:55:24.104582+00:00",
   "periodHours": 28,
   "count": 3
 }
